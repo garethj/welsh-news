@@ -1,0 +1,9 @@
+{
+  "name": "welsh-news",
+  "private": true,
+  "type": "module",
+  "description": "Daily Welsh/English headline pairs for language learning, hosted on GitHub Pages",
+  "scripts": {
+    "fetch": "node scripts/fetch-and-translate.js"
+  }
+}
