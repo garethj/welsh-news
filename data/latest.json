@@ -2,6 +2,16 @@
   "date": "2026-08-24",
   "headlines": [
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy4vyelnxo#0",
+      "welsh": "Arestio dyn wedi i gar gael ei yrru ar ochr anghywir yr A55 ar Ynys Môn",
+      "english": "Arrest of a man after a car was driven on the wrong side of the A55 on Anglesey",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy4vyelnxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 21:00:12 GMT",
+      "feedPosition": 0,
+      "fetchedAt": "2026-08-24T21:41:41.057Z",
+      "category": null
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ceq85r9yrj8o#0",
       "welsh": "Oedi gwaith adnewyddu Hen Goleg Aberystwyth wrth i gostau 'gynyddu'n sylweddol'",
       "english": "Delay of refurbishment of Old Aberystwyth College as costs' increase significantly '",
@@ -9,6 +19,16 @@
       "pubDate": "Mon, 24 Aug 2026 17:29:50 GMT",
       "feedPosition": 0,
       "fetchedAt": "2026-08-24T18:37:51.271Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c36lne4jx6yo#0",
+      "welsh": "Galw am 'ymyrraeth frys' mewn uned iechyd meddwl yn y gogledd",
+      "english": "It calls for 'urgent intervention' in a mental health unit in north Wales",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c36lne4jx6yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 20:31:22 GMT",
+      "feedPosition": 2,
+      "fetchedAt": "2026-08-24T21:41:41.057Z",
       "category": null
     },
     {
@@ -52,23 +72,23 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1kx3edpw8do#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1kx3edpw8do#1",
       "welsh": "Rex Hayes: 'Ni angen Ted Lasso yn y byd heddiw'",
       "english": "Rex Hayes: 'We need Ted Lasso in the world today'",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1kx3edpw8do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 12:52:52 GMT",
-      "feedPosition": 5,
-      "fetchedAt": "2026-08-24T18:37:51.271Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-08-24T21:41:41.057Z",
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cewr991wz52o#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cewr991wz52o#1",
       "welsh": "Galw am sicrwydd ariannu i brosiect digartrefedd sy'n newid bywydau",
       "english": "It calls for funding certainty for a life-changing homelessness project",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cewr991wz52o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 05:01:41 GMT",
-      "feedPosition": 6,
-      "fetchedAt": "2026-08-24T18:37:51.271Z",
+      "feedPosition": 8,
+      "fetchedAt": "2026-08-24T21:41:41.057Z",
       "category": null
     },
     {
@@ -98,26 +118,6 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8dnvrrvpd8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 23 Aug 2026 06:10:11 GMT",
       "feedPosition": 9,
-      "fetchedAt": "2026-08-24T18:37:51.271Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ceqeqv1rpgno#1",
-      "welsh": "Dyn, 40, wedi marw yn dilyn gwrthdrawiad rhwng dau feic modur",
-      "english": "Man, 40, dies following collision between two motorcycles",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ceqeqv1rpgno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 23 Aug 2026 09:56:06 GMT",
-      "feedPosition": 10,
-      "fetchedAt": "2026-08-24T18:37:51.271Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cj63l2y053yo#1",
-      "welsh": "Dyn tân o Nefyn ar y rheng flaen yn Sbaen",
-      "english": "A Nefyn fireman on the front line in Spain",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cj63l2y053yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 23 Aug 2026 06:00:40 GMT",
-      "feedPosition": 11,
       "fetchedAt": "2026-08-24T18:37:51.271Z",
       "category": null
     },
@@ -332,5 +332,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-08-24T19:23:43.787Z"
+  "generatedAt": "2026-08-24T21:41:41.057Z"
 }
