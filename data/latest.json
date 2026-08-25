@@ -48,37 +48,6 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cq89j92y9jlo#0",
-      "welsh": "Asesu'r 100 niwrnod cyntaf o lywodraeth Plaid Cymru",
-      "english": "Assessing the first 100 days of Plaid Cymru government",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cq89j92y9jlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 05:09:25 GMT",
-      "feedPosition": 1,
-      "fetchedAt": "2026-08-25T07:06:02.408Z",
-      "category": null,
-      "welshGlosses": [
-        "Assessing the",
-        "100%",
-        "day",
-        "first",
-        "of",
-        "Government",
-        "Party",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "Asesu",
-        "'r",
-        "cyntaf",
-        "100%",
-        "diwrnod",
-        "o",
-        "Plaid Cymru",
-        "Cymru ",
-        "Cymru"
-      ]
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cpd0l1vw0wlo#0",
       "welsh": "Gweilch y Pysgod wedi magu cywion am y tro cyntaf ar Ynys Môn",
       "english": "Ospreys raised chicks for the first time on Anglesey",
@@ -112,41 +81,6 @@
         "amser",
         "ar",
         "Mon"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlw3x5qgv2o#0",
-      "welsh": "Seren rygbi'r gynghrair, Syr Billy Boston, wedi marw yn 92 oed",
-      "english": "Rugby league star, Sir Billy Boston, has died aged 92",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlw3x5qgv2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 09:46:17 GMT",
-      "feedPosition": 3,
-      "fetchedAt": "2026-08-25T09:49:12.695Z",
-      "category": null,
-      "welshGlosses": [
-        "Star",
-        "rugby",
-        "league",
-        "Sir",
-        "Billy",
-        "Boston",
-        "after",
-        "dead",
-        "in",
-        "92%",
-        "age"
-      ],
-      "englishGlosses": [
-        "Rygbi",
-        "gynghrair",
-        "seren",
-        "Syr",
-        "Gafr",
-        "Boston",
-        "Oes",
-        "bu farw",
-        "oed",
-        "92%"
       ]
     },
     {
@@ -189,13 +123,161 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c36lne4jx6yo#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgq5kpjk0kyo#0",
+      "welsh": "Oedd Elizabeth I yn gallu siarad Cymraeg?",
+      "english": "Was Elizabeth I able to speak Welsh?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgq5kpjk0kyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 11:56:24 GMT",
+      "feedPosition": 3,
+      "fetchedAt": "2026-08-25T13:09:04.526Z",
+      "category": null,
+      "welshGlosses": [
+        "was",
+        "Belize City",
+        "to",
+        "in",
+        "Ability",
+        "Speak",
+        ""
+      ],
+      "englishGlosses": [
+        "Oedd",
+        "Elizabethtown",
+        "Rwy'n",
+        "Cyfred",
+        "i",
+        "Siarad",
+        "Cymraeg"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1j4l476d18o#0",
+      "welsh": "Cyhuddo cyn-heddwas o dreisio a thagu dynes tra ar ddyletswydd",
+      "english": "Accusing a formerpolice officer of raping and strangling a woman while on duty",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1j4l476d18o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 12:42:29 GMT",
+      "feedPosition": 4,
+      "fetchedAt": "2026-08-25T13:09:04.526Z",
+      "category": null,
+      "welshGlosses": [
+        "accuse",
+        "ex-policeman",
+        "of",
+        "rape",
+        "and",
+        "taekwon",
+        "Women",
+        "while",
+        "on",
+        "duty"
+      ],
+      "englishGlosses": [
+        "Cyhuddo",
+        "a.",
+        "cyn - heddwas",
+        "swyddog",
+        "o",
+        "treisio",
+        "a",
+        "tagu",
+        "a.",
+        "Dynes",
+        "tra fuodd",
+        "ar",
+        "Dyletswydd"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cq89j92y9jlo#0",
+      "welsh": "Asesu'r 100 niwrnod cyntaf o lywodraeth Plaid Cymru",
+      "english": "Assessing the first 100 days of Plaid Cymru government",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cq89j92y9jlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 05:09:25 GMT",
+      "feedPosition": 1,
+      "fetchedAt": "2026-08-25T07:06:02.408Z",
+      "category": null,
+      "welshGlosses": [
+        "Assessing the",
+        "100%",
+        "day",
+        "first",
+        "of",
+        "Government",
+        "Party",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Asesu",
+        "'r",
+        "cyntaf",
+        "100%",
+        "diwrnod",
+        "o",
+        "Plaid Cymru",
+        "Cymru ",
+        "Cymru"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce87dzv16mno#0",
+      "welsh": "Y bar yn Fringe Caeredin er cof am Gymro 'oedd wastad fyny am laff'",
+      "english": "The bar at Edinburgh Fringe in memory of a Welshman 'was always up for laff'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce87dzv16mno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 05:26:15 GMT",
+      "feedPosition": 6,
+      "fetchedAt": "2026-08-25T07:06:02.408Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlw3x5qgv2o#1",
+      "welsh": "'Eicon' ac 'athrylith' rygbi'r gynghrair, Syr Billy Boston, wedi marw yn 92 oed",
+      "english": "Rugby league 'icon' and 'genius', Sir Billy Boston, has died at the age of 92",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlw3x5qgv2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 11:41:42 GMT",
+      "feedPosition": 7,
+      "fetchedAt": "2026-08-25T13:09:04.526Z",
+      "category": null,
+      "welshGlosses": [
+        "Icon",
+        "and",
+        "genius",
+        "rugby",
+        "league",
+        "Sir",
+        "Billy",
+        "Boston",
+        "after",
+        "dead",
+        "in",
+        "92%",
+        "age"
+      ],
+      "englishGlosses": [
+        "Rygbi",
+        "gynghrair",
+        "eicon",
+        "a",
+        "athrylith",
+        "Syr",
+        "Gafr",
+        "Boston",
+        "Oes",
+        "bu farw",
+        "am",
+        "'r",
+        "oedran",
+        "o",
+        "92%"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c36lne4jx6yo#1",
       "welsh": "Galw am 'ymyrraeth frys' mewn uned iechyd meddwl yn y gogledd",
       "english": "It calls for 'urgent intervention' in a mental health unit in north Wales",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c36lne4jx6yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 20:31:22 GMT",
-      "feedPosition": 4,
-      "fetchedAt": "2026-08-25T07:06:02.408Z",
+      "feedPosition": 8,
+      "fetchedAt": "2026-08-25T13:09:04.526Z",
       "category": null,
       "welshGlosses": [
         "Call",
@@ -225,16 +307,6 @@
         "gogledd",
         "Cymru"
       ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce87dzv16mno#0",
-      "welsh": "Y bar yn Fringe Caeredin er cof am Gymro 'oedd wastad fyny am laff'",
-      "english": "The bar at Edinburgh Fringe in memory of a Welshman 'was always up for laff'",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce87dzv16mno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 05:26:15 GMT",
-      "feedPosition": 6,
-      "fetchedAt": "2026-08-25T07:06:02.408Z",
-      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjxnj4yrqxo#1",
@@ -272,16 +344,6 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ceq85r9yrj8o#1",
-      "welsh": "Oedi gwaith adnewyddu Hen Goleg Aberystwyth wrth i gostau 'gynyddu'n sylweddol'",
-      "english": "Delay of refurbishment of Old Aberystwyth College as costs' increase significantly '",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ceq85r9yrj8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 17:29:50 GMT",
-      "feedPosition": 7,
-      "fetchedAt": "2026-08-25T07:06:02.408Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c3eqjv2xn89o#1",
       "welsh": "Cneifio 3,282 o ŵyn i godi arian er cof am anwyliaid",
       "english": "Shearing 3,282 lambs to raise money in memory of loved ones",
@@ -292,32 +354,22 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5yl39vp0v3o#1",
-      "welsh": "Network Rail yn erlyn dau gwmni am £5m wedi damwain trên",
-      "english": "Network Rail sues two companies for £5m after train crash",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5yl39vp0v3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 17:07:07 GMT",
-      "feedPosition": 9,
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ceq85r9yrj8o#1",
+      "welsh": "Oedi gwaith adnewyddu Hen Goleg Aberystwyth wrth i gostau 'gynyddu'n sylweddol'",
+      "english": "Delay of refurbishment of Old Aberystwyth College as costs' increase significantly '",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ceq85r9yrj8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 17:29:50 GMT",
+      "feedPosition": 7,
       "fetchedAt": "2026-08-25T07:06:02.408Z",
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5yd13devm1o#1",
-      "welsh": "'Parchwch ymwelwyr eraill trwy ymuno â'r ciw i gopa'r Wyddfa'",
-      "english": "'Respect other visitors by joining the queue to the summit of Snowdon'",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5yd13devm1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 15:48:12 GMT",
-      "feedPosition": 10,
-      "fetchedAt": "2026-08-25T07:06:02.408Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1kx3edpw8do#2",
-      "welsh": "Rex Hayes: 'Ni angen Ted Lasso yn y byd heddiw'",
-      "english": "Rex Hayes: 'We need Ted Lasso in the world today'",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1kx3edpw8do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 12:52:52 GMT",
-      "feedPosition": 12,
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
+      "welsh": "Cwis Dyddiol Cymru Fyw",
+      "english": "Live Wales Daily Quiz",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Mar 2026 07:38:56 GMT",
+      "feedPosition": 14,
       "fetchedAt": "2026-08-25T07:06:02.408Z",
       "category": null
     },
@@ -346,12 +398,12 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
-      "welsh": "Cwis Dyddiol Cymru Fyw",
-      "english": "Live Wales Daily Quiz",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Mar 2026 07:38:56 GMT",
-      "feedPosition": 14,
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1kx3edpw8do#2",
+      "welsh": "Rex Hayes: 'Ni angen Ted Lasso yn y byd heddiw'",
+      "english": "Rex Hayes: 'We need Ted Lasso in the world today'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1kx3edpw8do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 12:52:52 GMT",
+      "feedPosition": 12,
       "fetchedAt": "2026-08-25T07:06:02.408Z",
       "category": null
     },
@@ -476,6 +528,16 @@
       "category": null
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlw3x5qgv2o#6",
+      "welsh": "'Eicon' ac 'athrylith' rygbi'r gynghrair, Syr Billy Boston, wedi marw yn 92 oed",
+      "english": "Rugby league 'icon' and 'genius', Sir Billy Boston, has died at the age of 92",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlw3x5qgv2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 11:41:42 GMT",
+      "feedPosition": 27,
+      "fetchedAt": "2026-08-25T13:09:04.526Z",
+      "category": null
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cewrwjzjgrgo#6",
       "welsh": "Josh Tarling yn drydydd ar gymal cyntaf y Vuelta a España",
       "english": "Josh Tarling is third on the first stage of the Vuelta a España",
@@ -516,16 +578,6 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cm2g42gdjyzo#6",
-      "welsh": "Goreuon y byd seiclo yng Nghymru ar gyfer y Tour of Britain",
-      "english": "The best of Welsh cycling for the Tour of Britain",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cm2g42gdjyzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 11:27:17 GMT",
-      "feedPosition": 30,
-      "fetchedAt": "2026-08-25T07:06:02.408Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cyx66935y29o#8",
       "welsh": "Ymunwch â sianel BBC Cymru Fyw ar WhatsApp",
       "english": "Join the BBC Wales Live channel on WhatsApp",
@@ -536,5 +588,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-08-25T11:26:19.213Z"
+  "generatedAt": "2026-08-25T13:09:04.526Z"
 }
