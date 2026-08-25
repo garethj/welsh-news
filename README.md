@@ -8,7 +8,7 @@ Headlines come from [BBC Cymru Fyw](https://www.bbc.co.uk/cymrufyw)'s RSS feed. 
 
 **Which headlines are shown:** always today's top 5 (by feed position) merged with anything fetched more recently, deduplicated. This is stateless — no per-visit tracking — so it looks the same whether you open it on your phone or your laptop.
 
-**Word-level translation:** tap any single word, in either language, to see its translation. Those glosses are precomputed offline in both directions for the headlines currently on display, so a tap is instant. Drag-select a phrase instead for a live translation of that phrase — this happens on demand rather than being precomputed, since covering every possible word combination up front isn't worth the added daily translation volume for a feature used only occasionally.
+**Word-level translation:** tap any single word, in either language, to see its translation. Those glosses are precomputed offline in both directions for the headlines currently on display, so a tap is instant — no live API call from the browser. The tapped word stays highlighted while its popup is open, which is what makes the selection visible on a touchscreen, where there's no hover state.
 
 ## Known limitations
 

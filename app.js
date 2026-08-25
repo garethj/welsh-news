@@ -5,6 +5,7 @@ const TIMEZONE = 'Europe/London';
 
 let headlinesByGuid = new Map();
 let popupEl = null;
+let activeWordEl = null;
 
 async function loadHeadlines() {
   const res = await fetch('data/latest.json', { cache: 'no-store' });
@@ -112,6 +113,10 @@ function showPopup(rect, text) {
 
 function closePopup() {
   if (popupEl) popupEl.hidden = true;
+  if (activeWordEl) {
+    activeWordEl.classList.remove('active');
+    activeWordEl = null;
+  }
 }
 
 function handleWordClick(wordEl) {
@@ -121,56 +126,15 @@ function handleWordClick(wordEl) {
   const idx = Number(wordEl.dataset.widx);
   const glosses = lang === 'cy' ? h.welshGlosses : h.englishGlosses;
   const gloss = glosses ? glosses[idx] : undefined;
+
+  if (activeWordEl) activeWordEl.classList.remove('active');
+  activeWordEl = wordEl;
+  activeWordEl.classList.add('active');
+
   showPopup(wordEl.getBoundingClientRect(), gloss || 'No translation available');
 }
 
-async function liveTranslate(text, langpair) {
-  const key = `mt:${langpair}:${text.toLowerCase()}`;
-  const cached = sessionStorage.getItem(key);
-  if (cached) return cached;
-
-  const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=${langpair}`;
-  const res = await fetch(url);
-  if (!res.ok) throw new Error('Translation request failed');
-  const json = await res.json();
-  const translated = json?.responseData?.translatedText;
-  if (!translated) throw new Error('No translation returned');
-
-  sessionStorage.setItem(key, translated);
-  return translated;
-}
-
-async function handleSelection(selection) {
-  const range = selection.getRangeAt(0);
-  const text = selection.toString().trim();
-  if (!text) return;
-
-  const anchorNode = range.commonAncestorContainer;
-  const anchorEl = anchorNode.nodeType === 1 ? anchorNode : anchorNode.parentElement;
-  const block = anchorEl ? anchorEl.closest('.welsh-text, .english') : null;
-  if (!block) return;
-
-  const lang = block.classList.contains('welsh-text') ? 'cy' : 'en';
-  const langpair = lang === 'cy' ? 'cy|en' : 'en|cy';
-  const rect = range.getBoundingClientRect();
-
-  showPopup(rect, 'Translating…');
-  try {
-    const translation = await liveTranslate(text, langpair);
-    showPopup(rect, translation);
-  } catch {
-    showPopup(rect, 'Translation unavailable');
-  }
-  selection.removeAllRanges();
-}
-
 document.addEventListener('click', (e) => {
-  const selection = window.getSelection();
-  if (selection && !selection.isCollapsed && selection.toString().trim().length > 1) {
-    handleSelection(selection);
-    return;
-  }
-
   const wordEl = e.target.closest('.w-word');
   if (wordEl) {
     handleWordClick(wordEl);

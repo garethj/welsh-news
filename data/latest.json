@@ -13,7 +13,7 @@
       "welshGlosses": [
         "It was",
         "to die",
-        "mom",
+        "mum",
         "in",
         "his/her",
         "40s",
@@ -260,13 +260,13 @@
       ],
       "englishGlosses": [
         "Millie",
-        "'r",
+        "",
         "gofalu",
         "Shih",
         "Tzu",
         "yw",
         "cynnes",
-        "croeso",
+        "",
         "gan",
         "Claf"
       ]
@@ -335,7 +335,7 @@
         "the",
         "Call",
         "Gemstone",
-        "Gray"
+        "Grey"
       ],
       "englishGlosses": [
         "Ateb",
@@ -536,5 +536,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-08-25T11:16:17.169Z"
+  "generatedAt": "2026-08-25T11:26:19.213Z"
 }

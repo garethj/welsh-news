@@ -106,6 +106,12 @@ h1 {
   }
 }
 
+/* Same highlight as :hover, but held while a word's popup is open — this is
+   what makes the selected word visible on touch, where there's no hover. */
+.w-word.active {
+  background: color-mix(in srgb, var(--accent) 15%, transparent);
+}
+
 .popup {
   position: fixed;
   z-index: 10;

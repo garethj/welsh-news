@@ -6,9 +6,6 @@
 // Headlines that make today's display set (see pick-headlines.js) also get
 // per-word glosses precomputed in both directions, so the front end can
 // show a translation for any single word you tap without a live API call.
-// Multi-word selections are translated live instead — precomputing every
-// possible word combination would multiply daily translation volume for a
-// feature used only occasionally.
 
 import fs from 'node:fs/promises';
 import { words } from '../tokenize.js';
@@ -79,6 +76,55 @@ const CY_FUNCTION_WORDS = new Map(
     ai: 'is it...?',
   })
 );
+
+// MyMemory's langpair variant tag (en-GB vs en) doesn't actually change
+// which candidates it offers — verified: "mam" offers both "Mother" and
+// "mom" regardless. Rather than relying on MyMemory for dialect, swap the
+// common American spellings/words for British ones after the fact. Only
+// covers words with no sense-dependent split (e.g. "tire"/"practice" are
+// deliberately excluded — British spelling depends on which meaning is in
+// play, so a blind swap could introduce a wrong word instead of a dialect one).
+const AMERICAN_TO_BRITISH = {
+  mom: 'mum', mommy: 'mummy', moms: 'mums',
+  color: 'colour', colors: 'colours', colored: 'coloured', coloring: 'colouring',
+  favorite: 'favourite', favorites: 'favourites', favor: 'favour', favors: 'favours', favored: 'favoured',
+  center: 'centre', centers: 'centres', centered: 'centred',
+  theater: 'theatre', theaters: 'theatres',
+  defense: 'defence', defenses: 'defences',
+  offense: 'offence', offenses: 'offences',
+  organize: 'organise', organizes: 'organises', organized: 'organised', organizing: 'organising',
+  organization: 'organisation', organizations: 'organisations',
+  realize: 'realise', realizes: 'realises', realized: 'realised', realizing: 'realising',
+  analyze: 'analyse', analyzes: 'analyses', analyzed: 'analysed', analyzing: 'analysing',
+  apologize: 'apologise', apologizes: 'apologises', apologized: 'apologised', apologizing: 'apologising',
+  recognize: 'recognise', recognizes: 'recognises', recognized: 'recognised', recognizing: 'recognising',
+  honor: 'honour', honors: 'honours', honored: 'honoured', honoring: 'honouring',
+  labor: 'labour', labors: 'labours', labored: 'laboured',
+  neighbor: 'neighbour', neighbors: 'neighbours', neighborhood: 'neighbourhood', neighborhoods: 'neighbourhoods',
+  traveled: 'travelled', traveling: 'travelling', traveler: 'traveller', travelers: 'travellers',
+  canceled: 'cancelled', canceling: 'cancelling',
+  jewelry: 'jewellery',
+  gray: 'grey',
+  aluminum: 'aluminium',
+  mustache: 'moustache', mustaches: 'moustaches',
+  pajamas: 'pyjamas',
+  math: 'maths',
+  sulfur: 'sulphur',
+  plow: 'plough', plows: 'ploughs', plowed: 'ploughed',
+  liter: 'litre', liters: 'litres',
+  fiber: 'fibre', fibers: 'fibres',
+};
+const AMERICAN_RE = new RegExp(`\\b(${Object.keys(AMERICAN_TO_BRITISH).join('|')})\\b`, 'gi');
+
+function toBritish(text) {
+  if (!text) return text;
+  return text.replace(AMERICAN_RE, (match) => {
+    const british = AMERICAN_TO_BRITISH[match.toLowerCase()];
+    if (match === match.toUpperCase()) return british.toUpperCase();
+    if (match[0] === match[0].toUpperCase()) return british[0].toUpperCase() + british.slice(1);
+    return british;
+  });
+}
 
 function todayString() {
   return new Intl.DateTimeFormat('en-CA', { timeZone: TIMEZONE }).format(new Date());
@@ -156,11 +202,11 @@ async function glossWords(text, langpair, overrides) {
   for (const word of words(text)) {
     const override = overrides?.get(word.toLowerCase());
     if (override) {
-      glosses.push(override);
+      glosses.push(toBritish(override));
       continue;
     }
     try {
-      glosses.push(await translateWord(word, langpair));
+      glosses.push(toBritish(await translateWord(word, langpair)));
     } catch (err) {
       console.error(`Word translation failed for "${word}":`, err.message);
       glosses.push('');
@@ -203,7 +249,7 @@ async function main() {
 
     let english;
     try {
-      english = await translate(item.title, 'cy|en');
+      english = toBritish(await translate(item.title, 'cy|en'));
     } catch (err) {
       console.error(`Translation failed for "${item.title}":`, err.message);
       continue;
