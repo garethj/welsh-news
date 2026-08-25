@@ -2,6 +2,81 @@
   "date": "2026-08-25",
   "headlines": [
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy4vyelnxo#0",
+      "welsh": "Arestio dyn wedi i gar gael ei yrru ar ochr anghywir yr A55",
+      "english": "Arrest of man after car was driven on wrong side of A55",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy4vyelnxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 21:00:12 GMT",
+      "feedPosition": 3,
+      "fetchedAt": "2026-08-25T07:06:02.408Z",
+      "category": null,
+      "welshGlosses": [
+        "Arrest",
+        "Men",
+        "after",
+        "to",
+        "the cord of the car",
+        "get",
+        "his/her",
+        "to drive",
+        "on",
+        "side",
+        "Wrong",
+        "the",
+        "A55"
+      ],
+      "englishGlosses": [
+        "Arestio",
+        "o",
+        "gŵr",
+        "Wedi",
+        "siop dega",
+        "oedd",
+        "Penderfynol",
+        "ar",
+        "cam",
+        "tu",
+        "o",
+        "A55"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cdx0l1vn529o#0",
+      "welsh": "Carcharu dyn am 21 mlynedd am dreisio merch ddegau o weithiau",
+      "english": "Man jailed for 21 years for raping girl tens of times",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cdx0l1vn529o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 16:14:56 GMT",
+      "feedPosition": 1,
+      "fetchedAt": "2026-08-25T18:55:01.631Z",
+      "category": null,
+      "welshGlosses": [
+        "imprisonment",
+        "Men",
+        "for",
+        "21",
+        "years",
+        "for",
+        "rape",
+        "Girl",
+        "thirties",
+        "of",
+        "Sometimes"
+      ],
+      "englishGlosses": [
+        "gwr",
+        "carchar",
+        "am",
+        "21 ",
+        "blynedd",
+        "am",
+        "treisio",
+        "Merch",
+        "degau",
+        "o",
+        "amseroedd"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cj4jxnnl4p9o#0",
       "welsh": "Bu farw mam yn ei 40au o ganser yn ymwneud ag asbestos - ai ei hysgol oedd ar fai?",
       "english": "A mother in her 40s died of asbestos-related cancer - was it her school's fault?",
@@ -48,42 +123,31 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy4vyelnxo#0",
-      "welsh": "Arestio dyn wedi i gar gael ei yrru ar ochr anghywir yr A55",
-      "english": "Arrest of man after car was driven on wrong side of A55",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy4vyelnxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 21:00:12 GMT",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgq5kpjk0kyo#0",
+      "welsh": "Oedd Elizabeth I yn gallu siarad Cymraeg?",
+      "english": "Was Elizabeth I able to speak Welsh?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgq5kpjk0kyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 11:56:24 GMT",
       "feedPosition": 3,
-      "fetchedAt": "2026-08-25T07:06:02.408Z",
+      "fetchedAt": "2026-08-25T13:09:04.526Z",
       "category": null,
       "welshGlosses": [
-        "Arrest",
-        "Men",
-        "after",
+        "was",
+        "Belize City",
         "to",
-        "the cord of the car",
-        "get",
-        "his/her",
-        "to drive",
-        "on",
-        "side",
-        "Wrong",
-        "the",
-        "A55"
+        "in",
+        "Ability",
+        "Speak",
+        ""
       ],
       "englishGlosses": [
-        "Arestio",
-        "o",
-        "gŵr",
-        "Wedi",
-        "siop dega",
-        "oedd",
-        "Penderfynol",
-        "ar",
-        "cam",
-        "tu",
-        "o",
-        "A55"
+        "Oedd",
+        "Elizabethtown",
+        "Rwy'n",
+        "Cyfred",
+        "i",
+        "Siarad",
+        "Cymraeg"
       ]
     },
     {
@@ -120,34 +184,6 @@
         "amser",
         "ar",
         "Mon"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgq5kpjk0kyo#0",
-      "welsh": "Oedd Elizabeth I yn gallu siarad Cymraeg?",
-      "english": "Was Elizabeth I able to speak Welsh?",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgq5kpjk0kyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 11:56:24 GMT",
-      "feedPosition": 3,
-      "fetchedAt": "2026-08-25T13:09:04.526Z",
-      "category": null,
-      "welshGlosses": [
-        "was",
-        "Belize City",
-        "to",
-        "in",
-        "Ability",
-        "Speak",
-        ""
-      ],
-      "englishGlosses": [
-        "Oedd",
-        "Elizabethtown",
-        "Rwy'n",
-        "Cyfred",
-        "i",
-        "Siarad",
-        "Cymraeg"
       ]
     },
     {
@@ -188,13 +224,45 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cq89j92y9jlo#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gmvglypdgo#0",
+      "welsh": "Pêl-droediwr 15 oed yw'r ieuengaf erioed i gynrychioli Caerdydd",
+      "english": "The 15-year-old is the youngest ever to represent Cardiff",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gmvglypdgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 18:00:12 GMT",
+      "feedPosition": 6,
+      "fetchedAt": "2026-08-25T18:55:01.631Z",
+      "category": null,
+      "welshGlosses": [
+        "Footballer",
+        "15.",
+        "age",
+        "is the",
+        "youngest",
+        "ever",
+        "to",
+        "to represent",
+        "Cardiff"
+      ],
+      "englishGlosses": [
+        "Y",
+        "15 mlwydd oed",
+        "yw",
+        "'r",
+        "ieuengaf",
+        "safle",
+        "i",
+        "cynrychioli",
+        ""
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cq89j92y9jlo#1",
       "welsh": "Asesu'r 100 niwrnod cyntaf o lywodraeth Plaid Cymru",
       "english": "Assessing the first 100 days of Plaid Cymru government",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cq89j92y9jlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 05:09:25 GMT",
-      "feedPosition": 1,
-      "fetchedAt": "2026-08-25T07:06:02.408Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-08-25T18:55:01.631Z",
       "category": null,
       "welshGlosses": [
         "Assessing the",
@@ -219,14 +287,47 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce87dzv16mno#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce87dzv16mno#1",
       "welsh": "Y bar yn Fringe Caeredin er cof am Gymro 'oedd wastad fyny am laff'",
       "english": "The bar at Edinburgh Fringe in memory of a Welshman 'was always up for laff'",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce87dzv16mno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 05:26:15 GMT",
-      "feedPosition": 6,
-      "fetchedAt": "2026-08-25T07:06:02.408Z",
-      "category": null
+      "feedPosition": 8,
+      "fetchedAt": "2026-08-25T18:55:01.631Z",
+      "category": null,
+      "welshGlosses": [
+        "the",
+        "bar",
+        "in",
+        "Fringe",
+        "Edinburgh",
+        "although",
+        "mind",
+        "for",
+        "Welshman",
+        "was",
+        "always",
+        "up",
+        "for",
+        "laff"
+      ],
+      "englishGlosses": [
+        "Y",
+        "Gwerth isaf:",
+        "am",
+        "Caeredin",
+        "Ymylol",
+        "yn",
+        "Cof",
+        "o",
+        "a.",
+        "Cymro",
+        "oedd",
+        "yn wastad",
+        "LAN",
+        "am",
+        "laff"
+      ]
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlw3x5qgv2o#1",
@@ -342,26 +443,6 @@
         "gan",
         "Claf"
       ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c3eqjv2xn89o#1",
-      "welsh": "Cneifio 3,282 o ŵyn i godi arian er cof am anwyliaid",
-      "english": "Shearing 3,282 lambs to raise money in memory of loved ones",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c3eqjv2xn89o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 15:24:07 GMT",
-      "feedPosition": 8,
-      "fetchedAt": "2026-08-25T07:06:02.408Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ceq85r9yrj8o#1",
-      "welsh": "Oedi gwaith adnewyddu Hen Goleg Aberystwyth wrth i gostau 'gynyddu'n sylweddol'",
-      "english": "Delay of refurbishment of Old Aberystwyth College as costs' increase significantly '",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ceq85r9yrj8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 17:29:50 GMT",
-      "feedPosition": 7,
-      "fetchedAt": "2026-08-25T07:06:02.408Z",
-      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
@@ -599,6 +680,16 @@
       "category": null
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gmvglypdgo#6",
+      "welsh": "Pêl-droediwr 15 oed yw'r ieuengaf erioed i gynrychioli Caerdydd",
+      "english": "The 15-year-old is the youngest ever to represent Cardiff",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gmvglypdgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 18:00:12 GMT",
+      "feedPosition": 27,
+      "fetchedAt": "2026-08-25T18:55:01.631Z",
+      "category": null
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlw3x5qgv2o#6",
       "welsh": "'Eicon' ac 'athrylith' rygbi'r gynghrair, Syr Billy Boston, wedi marw yn 92 oed",
       "english": "Rugby league 'icon' and 'genius', Sir Billy Boston, has died at the age of 92",
@@ -639,16 +730,6 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp3rv2dn96do#6",
-      "welsh": "Alun Wyn Jones yn dychwelyd i'r Gweilch ond nid fel chwaraewr",
-      "english": "Alun Wyn Jones returns to the Ospreys but not as a player",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp3rv2dn96do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 16:15:03 GMT",
-      "feedPosition": 29,
-      "fetchedAt": "2026-08-25T07:06:02.408Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cyx66935y29o#8",
       "welsh": "Ymunwch â sianel BBC Cymru Fyw ar WhatsApp",
       "english": "Join the BBC Wales Live channel on WhatsApp",
@@ -659,5 +740,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-08-25T15:57:16.045Z"
+  "generatedAt": "2026-08-25T18:55:01.631Z"
 }
