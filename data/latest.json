@@ -2,6 +2,46 @@
   "date": "2026-08-25",
   "headlines": [
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cjw5d3y04plo#0",
+      "welsh": "AS wedi teimlo'r angen i dynnu ei mab awtistig o addysg cyfrwng Cymraeg",
+      "english": "MP has felt the need to remove her autistic son from Welsh-medium education",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cjw5d3y04plo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 19:37:58 GMT",
+      "feedPosition": 0,
+      "fetchedAt": "2026-08-25T21:40:44.105Z",
+      "category": null,
+      "welshGlosses": [
+        "AS",
+        "after",
+        "feel the",
+        "must",
+        "to",
+        "to draw",
+        "his/her",
+        "Son",
+        "autistic",
+        "of",
+        "Action",
+        "media",
+        ""
+      ],
+      "englishGlosses": [
+        "(MP)",
+        "Oes",
+        "Ffelt",
+        "'r",
+        "angen",
+        "i",
+        "Hidl:",
+        "ei",
+        "awtistig",
+        "Mab",
+        "o",
+        "Cyfrwng Cymraeg",
+        "addysg"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy4vyelnxo#0",
       "welsh": "Arestio dyn wedi i gar gael ei yrru ar ochr anghywir yr A55",
       "english": "Arrest of man after car was driven on wrong side of A55",
@@ -224,13 +264,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gmvglypdgo#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gmvglypdgo#1",
       "welsh": "Pêl-droediwr 15 oed yw'r ieuengaf erioed i gynrychioli Caerdydd",
       "english": "The 15-year-old is the youngest ever to represent Cardiff",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gmvglypdgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 18:00:12 GMT",
-      "feedPosition": 6,
-      "fetchedAt": "2026-08-25T18:55:01.631Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-08-25T21:40:44.105Z",
       "category": null,
       "welshGlosses": [
         "Footballer",
@@ -372,76 +412,36 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c36lne4jx6yo#1",
-      "welsh": "Galw am 'ymyrraeth frys' mewn uned iechyd meddwl yn y gogledd",
-      "english": "It calls for 'urgent intervention' in a mental health unit in north Wales",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c36lne4jx6yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 20:31:22 GMT",
-      "feedPosition": 8,
-      "fetchedAt": "2026-08-25T13:09:04.526Z",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c62m4mzy9y0o#1",
+      "welsh": "Pêl-droed ganol wythnos: Sut wnaeth Caerdydd yng Nghwpan yr EFL?",
+      "english": "Midweekfootball: How did Cardiff do in the EFL Cup?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c62m4mzy9y0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 20:05:16 GMT",
+      "feedPosition": 11,
+      "fetchedAt": "2026-08-25T21:40:44.105Z",
       "category": null,
       "welshGlosses": [
-        "Call",
-        "for",
-        "Inferno",
-        "urgent",
+        "Soccer",
+        "middle",
+        "week",
+        "How?",
+        "did",
+        "Cardiff",
         "in",
-        "Unit",
-        "Healt",
-        "Thinking",
-        "in",
+        "Cup",
         "the",
-        "north"
+        "EFL"
       ],
       "englishGlosses": [
-        "hynnu",
-        "Galwadau",
-        "am",
-        "Brys",
-        "ymyrraeth",
+        "Midweekfootball",
+        "Sut?",
+        "wnaeth",
+        "",
+        "gwneud",
         "yn",
-        "a.",
-        "meddyliol",
-        "iechyd",
-        "Uned",
-        "yn",
-        "gogledd",
-        "Cymru"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjxnj4yrqxo#1",
-      "welsh": "Millie y Shih Tzu gofalgar yn cael croeso mawr gan gleifion ",
-      "english": "Millie the caring Shih Tzu is warmly welcomed by patients",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjxnj4yrqxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 05:52:47 GMT",
-      "feedPosition": 7,
-      "fetchedAt": "2026-08-25T09:49:12.695Z",
-      "category": null,
-      "welshGlosses": [
-        "Millie",
-        "the",
-        "Shih",
-        "Tzu",
-        "caring",
-        "in",
-        "have",
-        "",
-        "ty mawr",
-        "by",
-        "patients"
-      ],
-      "englishGlosses": [
-        "Millie",
-        "",
-        "gofalu",
-        "Shih",
-        "Tzu",
-        "yw",
-        "cynnes",
-        "",
-        "gan",
-        "Claf"
+        "'r",
+        "EFL",
+        "Cwpan"
       ]
     },
     {
@@ -740,5 +740,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-08-25T18:55:01.631Z"
+  "generatedAt": "2026-08-25T21:40:44.105Z"
 }
