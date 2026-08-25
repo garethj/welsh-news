@@ -32,6 +32,16 @@
       "category": null
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlw3x5qgv2o#0",
+      "welsh": "Seren rygbi'r gynghrair, Syr Billy Boston, wedi marw yn 92 oed",
+      "english": "Rugby league star, Sir Billy Boston, has died aged 92",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlw3x5qgv2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 09:46:17 GMT",
+      "feedPosition": 3,
+      "fetchedAt": "2026-08-25T09:49:12.695Z",
+      "category": null
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy4vyelnxo#0",
       "welsh": "Arestio dyn wedi i gar gael ei yrru ar ochr anghywir yr A55",
       "english": "Arrest of man after car was driven on wrong side of A55",
@@ -52,16 +62,6 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjxnj4yrqxo#0",
-      "welsh": "Millie y Shih Tzu gofalgar yn cael croeso mawr gan gleifion ",
-      "english": "Millie the caring Shih Tzu is warmly welcomed by patients",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjxnj4yrqxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 05:52:47 GMT",
-      "feedPosition": 5,
-      "fetchedAt": "2026-08-25T07:06:02.408Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce87dzv16mno#0",
       "welsh": "Y bar yn Fringe Caeredin er cof am Gymro 'oedd wastad fyny am laff'",
       "english": "The bar at Edinburgh Fringe in memory of a Welshman 'was always up for laff'",
@@ -69,6 +69,16 @@
       "pubDate": "Tue, 25 Aug 2026 05:26:15 GMT",
       "feedPosition": 6,
       "fetchedAt": "2026-08-25T07:06:02.408Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjxnj4yrqxo#1",
+      "welsh": "Millie y Shih Tzu gofalgar yn cael croeso mawr gan gleifion ",
+      "english": "Millie the caring Shih Tzu is warmly welcomed by patients",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjxnj4yrqxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 05:52:47 GMT",
+      "feedPosition": 7,
+      "fetchedAt": "2026-08-25T09:49:12.695Z",
       "category": null
     },
     {
@@ -112,16 +122,6 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cewr97vjq7do#1",
-      "welsh": "Ateb y Galw: Glain Llwyd",
-      "english": "Answer the Call: Blain Llwyd",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cewr97vjq7do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 06:08:54 GMT",
-      "feedPosition": 11,
-      "fetchedAt": "2026-08-25T07:06:02.408Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1kx3edpw8do#2",
       "welsh": "Rex Hayes: 'Ni angen Ted Lasso yn y byd heddiw'",
       "english": "Rex Hayes: 'We need Ted Lasso in the world today'",
@@ -132,13 +132,13 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz64y3y1zzjo#2",
-      "welsh": "Lluniau: Parc Cenedlaethol Eryri ",
-      "english": "Photos: Snowdonia National Park",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz64y3y1zzjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 23 Aug 2026 06:01:52 GMT",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cewr97vjq7do#2",
+      "welsh": "Ateb y Galw: Glain Llwyd",
+      "english": "Answer the Call: Blain Llwyd",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cewr97vjq7do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 06:08:54 GMT",
       "feedPosition": 13,
-      "fetchedAt": "2026-08-25T07:06:02.408Z",
+      "fetchedAt": "2026-08-25T09:49:12.695Z",
       "category": null
     },
     {
@@ -148,6 +148,16 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 04 Mar 2026 07:38:56 GMT",
       "feedPosition": 14,
+      "fetchedAt": "2026-08-25T07:06:02.408Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz64y3y1zzjo#2",
+      "welsh": "Lluniau: Parc Cenedlaethol Eryri ",
+      "english": "Photos: Snowdonia National Park",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz64y3y1zzjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 23 Aug 2026 06:01:52 GMT",
+      "feedPosition": 13,
       "fetchedAt": "2026-08-25T07:06:02.408Z",
       "category": null
     },
@@ -322,5 +332,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-08-25T07:06:02.408Z"
+  "generatedAt": "2026-08-25T09:49:12.695Z"
 }
