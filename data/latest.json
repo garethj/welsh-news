@@ -77,40 +77,40 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgj2rrl66ro#0",
-      "welsh": "Gweithio i gwmni cemegol yn 'ofnadwy', medd cyn-weithiwr wedi rhaglen Sheen",
-      "english": "Working for a chemical company is' terrible', says former Sheen programme worker",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgj2rrl66ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 05:07:28 GMT",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cd08z2deg7eo#0",
+      "welsh": "'Ro'dd Dolly Parton yn rhyfeddol' - atgofion y gantores Doreen Lewis ac eraill",
+      "english": "'Dolly Parton was amazing' - reminiscences of singer Doreen Lewis and others",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cd08z2deg7eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 09:37:28 GMT",
       "feedPosition": 2,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "fetchedAt": "2026-08-26T09:54:38.813Z",
       "category": null,
       "welshGlosses": [
-        "work",
-        "to",
-        "company",
-        "Chemical",
+        "R 'dd",
+        "Dolly",
+        "Parton",
         "in",
-        "awful",
-        "Mead",
-        "ex-employee",
-        "after",
-        "Caption",
-        "Sheen"
+        "amazing",
+        "Memories",
+        "the",
+        "Singer",
+        "Doreen",
+        "Fort Lewis",
+        "and",
+        "Other"
       ],
       "englishGlosses": [
-        "Gwaith",
-        "am",
-        "a.",
-        "Cemegol",
-        "cwmni",
-        "yw",
-        "ymlaciol",
-        "dywed",
-        "blaenorol",
-        "Sheen",
-        "rhaglen",
-        "Gweithiwr"
+        "Dolly",
+        "Parton",
+        "oedd",
+        "",
+        "hel atgofion",
+        "o",
+        "Canwr",
+        "Doreen",
+        "Leòdhas",
+        "a",
+        "Eraill"
       ]
     },
     {
@@ -147,6 +147,51 @@
         "iechyd",
         "yn",
         "Cymraeg"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ced702q0qv0o#0",
+      "welsh": "Cap ar bris ynni i godi i'w lefel uchaf ers tair blynedd fis Hydref",
+      "english": "Cap on the price of energy to rise to its highest level for three years in October",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ced702q0qv0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 08:51:20 GMT",
+      "feedPosition": 4,
+      "fetchedAt": "2026-08-26T09:54:38.813Z",
+      "category": null,
+      "welshGlosses": [
+        "Caps:",
+        "on",
+        "price",
+        "Energy",
+        "to",
+        "to raise",
+        "I",
+        "level",
+        "max",
+        "Since",
+        "Three",
+        "years",
+        "month",
+        "October"
+      ],
+      "englishGlosses": [
+        "capan",
+        "ar",
+        "'r",
+        "prîs",
+        "o",
+        "YNNI",
+        "i",
+        "textattr",
+        "i",
+        "ei",
+        "Uchaf",
+        "lefel",
+        "am",
+        "tri",
+        "blynedd",
+        "yn",
+        "Hydref"
       ]
     },
     {
@@ -188,13 +233,50 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy4vyelnxo#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgj2rrl66ro#0",
+      "welsh": "Gweithio i gwmni cemegol yn 'ofnadwy', medd cyn-weithiwr wedi rhaglen Sheen",
+      "english": "Working for a chemical company is' terrible', says former Sheen programme worker",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgj2rrl66ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 05:07:28 GMT",
+      "feedPosition": 2,
+      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "category": null,
+      "welshGlosses": [
+        "work",
+        "to",
+        "company",
+        "Chemical",
+        "in",
+        "awful",
+        "Mead",
+        "ex-employee",
+        "after",
+        "Caption",
+        "Sheen"
+      ],
+      "englishGlosses": [
+        "Gwaith",
+        "am",
+        "a.",
+        "Cemegol",
+        "cwmni",
+        "yw",
+        "ymlaciol",
+        "dywed",
+        "blaenorol",
+        "Sheen",
+        "rhaglen",
+        "Gweithiwr"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy4vyelnxo#1",
       "welsh": "Arestio dyn ar ôl i dacsi gael ei yrru ar ochr anghywir yr A55",
       "english": "Arrest a man after a taxi was driven on the wrong side of the A55",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy4vyelnxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 15:53:46 GMT",
-      "feedPosition": 5,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-08-26T09:54:38.813Z",
       "category": null,
       "welshGlosses": [
         "Arrest",
@@ -231,13 +313,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cdx0l1vn529o#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cdx0l1vn529o#1",
       "welsh": "Carcharu dyn am 21 mlynedd am dreisio merch ddegau o weithiau",
       "english": "Man jailed for 21 years for raping girl tens of times",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cdx0l1vn529o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 16:14:56 GMT",
-      "feedPosition": 6,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "feedPosition": 8,
+      "fetchedAt": "2026-08-26T09:54:38.813Z",
       "category": null,
       "welshGlosses": [
         "imprisonment",
@@ -323,16 +405,6 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1j4l476d18o#1",
-      "welsh": "Cyhuddo cyn-heddwas o dreisio a thagu dynes tra ar ddyletswydd",
-      "english": "Accusing a formerpolice officer of raping and strangling a woman while on duty",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1j4l476d18o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 12:42:29 GMT",
-      "feedPosition": 9,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gmvglypdgo#1",
       "welsh": "Pêl-droediwr 15 oed yw'r ieuengaf erioed i gynrychioli Caerdydd",
       "english": "The 15-year-old is the youngest ever to represent Cardiff",
@@ -343,13 +415,23 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce87dzv16mno#1",
-      "welsh": "Y bar yn Fringe Caeredin er cof am Gymro 'oedd wastad fyny am laff'",
-      "english": "The bar at Edinburgh Fringe in memory of a Welshman 'was always up for laff'",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce87dzv16mno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 05:26:15 GMT",
-      "feedPosition": 11,
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
+      "welsh": "Cwis Dyddiol Cymru Fyw",
+      "english": "Live Wales Daily Quiz",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Mar 2026 07:38:56 GMT",
+      "feedPosition": 13,
       "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjxnj4yrqxo#2",
+      "welsh": "Millie y Shih Tzu gofalgar yn cael croeso mawr gan gleifion ",
+      "english": "Millie the caring Shih Tzu is warmly welcomed by patients",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjxnj4yrqxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 05:52:47 GMT",
+      "feedPosition": 13,
+      "fetchedAt": "2026-08-26T09:54:38.813Z",
       "category": null
     },
     {
@@ -359,16 +441,6 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgq5kpjk0kyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 11:56:24 GMT",
       "feedPosition": 12,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
-      "welsh": "Cwis Dyddiol Cymru Fyw",
-      "english": "Live Wales Daily Quiz",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Mar 2026 07:38:56 GMT",
-      "feedPosition": 13,
       "fetchedAt": "2026-08-26T07:06:16.833Z",
       "category": null
     },
@@ -403,36 +475,6 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy4k120mzvro#2",
-      "welsh": "Cwis: Blaenau Ffestiniog",
-      "english": "Quiz: Blaenau Ffestiniog",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy4k120mzvro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 22 Aug 2026 06:03:41 GMT",
-      "feedPosition": 17,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8rn87xlv1jo#2",
-      "welsh": "Pa gyfenw yw'r cryfaf yn rygbi Cymru?",
-      "english": "What is the strongest surname in Welsh rugby?",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8rn87xlv1jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 22 Aug 2026 06:03:28 GMT",
-      "feedPosition": 18,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gyyyxp42jo#2",
-      "welsh": "'Nes i berfformio yn angladd Darth Vader': Chwarae ar draciau sain Star Wars",
-      "english": "'I performed at Darth Vader's funeral': Playing on Star Wars soundtracks",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gyyyxp42jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 06:09:18 GMT",
-      "feedPosition": 19,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5ym4j306qzo#3",
       "welsh": "Lawrlwytho'r ap",
       "english": "Download the app",
@@ -440,6 +482,16 @@
       "pubDate": "Thu, 22 May 2025 13:11:01 GMT",
       "feedPosition": 20,
       "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p66x0w#4",
+      "welsh": "'Mae cymaint o bobl wedi mewnfudo i Gymru dros y canrifoedd'",
+      "english": "'So many people have immigrated to Wales over the centuries'",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p66x0w?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 14:30:39 GMT",
+      "feedPosition": 19,
+      "fetchedAt": "2026-08-26T09:54:38.813Z",
       "category": null
     },
     {
@@ -499,16 +551,6 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p4j20m?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 14 Aug 2026 10:44:55 GMT",
       "feedPosition": 26,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sounds/play/p0p4hf36#4",
-      "welsh": "Atgofion John Llaeth o Lanbed",
-      "english": "John Milk's memories of Lampeter",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p4hf36?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 14 Aug 2026 08:45:51 GMT",
-      "feedPosition": 27,
       "fetchedAt": "2026-08-26T07:06:16.833Z",
       "category": null
     },
@@ -573,5 +615,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-08-26T07:06:16.833Z"
+  "generatedAt": "2026-08-26T09:54:38.813Z"
 }
