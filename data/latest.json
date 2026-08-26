@@ -151,6 +151,47 @@
       ]
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5yl8dqq2yjo#0",
+      "welsh": "Rheolwr wedi dweud bod 'neb eisiau gweld person beichiog' yn y gwaith - tribiwnlys",
+      "english": "Manager has said that 'nobody wants to see a pregnant person' at work - tribunal",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5yl8dqq2yjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 19:08:39 GMT",
+      "feedPosition": 4,
+      "fetchedAt": "2026-08-26T19:58:30.958Z",
+      "category": null,
+      "welshGlosses": [
+        "HOME",
+        "after",
+        "to say",
+        "to be",
+        "nobody",
+        "need",
+        "& Total Column",
+        "Human",
+        "pregnant",
+        "in",
+        "the",
+        "work",
+        "tribunal"
+      ],
+      "englishGlosses": [
+        "Rheolwr",
+        "Oes",
+        "dywedodd",
+        "hynny",
+        "neb",
+        "dymuniadau",
+        "i",
+        "Gyrru",
+        "a.",
+        "Beichiog",
+        ".",
+        "am",
+        "Gwaith",
+        "tribiwnlys"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cd08z2deg7eo#0",
       "welsh": "'Ro'dd Dolly Parton yn rhyfeddol' - atgofion y gantores Doreen Lewis ac eraill",
       "english": "'Dolly Parton was amazing' - reminiscences of singer Doreen Lewis and others",
@@ -224,13 +265,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2zkl3yy9jo#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2zkl3yy9jo#1",
       "welsh": "Rhybudd melyn am law trwm a stormydd mellt a tharanau",
       "english": "Yellow warning for heavy rain and lightning storms and thunder",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2zkl3yy9jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 10:15:23 GMT",
-      "feedPosition": 6,
-      "fetchedAt": "2026-08-26T13:13:36.004Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-08-26T19:58:30.958Z",
       "category": null,
       "welshGlosses": [
         "Alert",
@@ -373,51 +414,6 @@
         "diwrnod",
         "yn",
         "pŵer"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ced702q0qv0o#1",
-      "welsh": "Cap ar bris ynni i godi i'w lefel uchaf ers tair blynedd fis Hydref",
-      "english": "Cap on the price of energy to rise to its highest level for three years in October",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ced702q0qv0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 08:51:20 GMT",
-      "feedPosition": 8,
-      "fetchedAt": "2026-08-26T13:13:36.004Z",
-      "category": null,
-      "welshGlosses": [
-        "Caps:",
-        "on",
-        "price",
-        "Energy",
-        "to",
-        "to raise",
-        "I",
-        "level",
-        "max",
-        "Since",
-        "Three",
-        "years",
-        "month",
-        "October"
-      ],
-      "englishGlosses": [
-        "capan",
-        "ar",
-        "'r",
-        "prîs",
-        "o",
-        "YNNI",
-        "i",
-        "textattr",
-        "i",
-        "ei",
-        "Uchaf",
-        "lefel",
-        "am",
-        "tri",
-        "blynedd",
-        "yn",
-        "Hydref"
       ]
     },
     {
@@ -644,5 +640,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-08-26T16:33:27.981Z"
+  "generatedAt": "2026-08-26T19:58:30.958Z"
 }
