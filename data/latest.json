@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "headlines": [
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cjw5d3y04plo#0",
@@ -7,8 +7,8 @@
       "english": "MP has felt the need to remove her autistic son from Welsh-medium education",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cjw5d3y04plo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 19:37:58 GMT",
-      "feedPosition": 1,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "feedPosition": 0,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null,
       "welshGlosses": [
         "AS",
@@ -48,7 +48,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyel571002o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 13:46:50 GMT",
       "feedPosition": 1,
-      "fetchedAt": "2026-08-26T16:33:27.981Z",
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null,
       "welshGlosses": [
         "Walked",
@@ -88,7 +88,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c6245lz23x0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 13:32:34 GMT",
       "feedPosition": 2,
-      "fetchedAt": "2026-08-26T16:33:27.981Z",
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null,
       "welshGlosses": [
         "Drivers",
@@ -119,12 +119,12 @@
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy4z3kvze85o#0",
-      "welsh": "Susie Dent: 'Rwy'n benderfynol o ddysgu Cymraeg rhyw ddydd'",
-      "english": "Susie Dent: 'I am determined to learn Welsh some day'",
+      "welsh": "Susie Dent: Rwy'n benderfynol o ddysgu Cymraeg rhyw ddydd",
+      "english": "Susie Dent: I am determined to learn Welsh some day",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy4z3kvze85o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 10:05:12 GMT",
-      "feedPosition": 2,
-      "fetchedAt": "2026-08-26T13:13:36.004Z",
+      "feedPosition": 3,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null,
       "welshGlosses": [
         "Susie",
@@ -157,7 +157,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5yl8dqq2yjo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 19:08:39 GMT",
       "feedPosition": 4,
-      "fetchedAt": "2026-08-26T19:58:30.958Z",
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null,
       "welshGlosses": [
         "HOME",
@@ -193,39 +193,40 @@
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cd08z2deg7eo#0",
-      "welsh": "'Ro'dd Dolly Parton yn rhyfeddol' - atgofion y gantores Doreen Lewis ac eraill",
-      "english": "'Dolly Parton was amazing' - reminiscences of singer Doreen Lewis and others",
+      "welsh": "Teyrngedau i Dolly Parton wrth i ymchwil newydd awgrymu cysylltiad â Machynlleth",
+      "english": "Tributes to Dolly Parton as new research suggests a link to Machynlleth",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cd08z2deg7eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 09:37:28 GMT",
-      "feedPosition": 2,
-      "fetchedAt": "2026-08-26T09:54:38.813Z",
+      "pubDate": "Wed, 26 Aug 2026 16:31:44 GMT",
+      "feedPosition": 5,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null,
       "welshGlosses": [
-        "R 'dd",
+        "Tributes",
+        "to",
         "Dolly",
         "Parton",
-        "in",
-        "amazing",
-        "Memories",
-        "the",
-        "Singer",
-        "Doreen",
-        "Fort Lewis",
-        "and",
-        "Other"
+        "by",
+        "to",
+        "Forums",
+        "new",
+        "suggest",
+        "Connection",
+        "To:",
+        "Machynlleth"
       ],
       "englishGlosses": [
+        "Teyrngedau",
+        "i",
         "Dolly",
         "Parton",
-        "oedd",
-        "",
-        "hel atgofion",
-        "o",
-        "Canwr",
-        "Doreen",
-        "Leòdhas",
-        "a",
-        "Eraill"
+        "Graddfeyddunit description in lists",
+        "newydd",
+        "Ymchwil",
+        "Awgrymu",
+        "a.",
+        "cyswllt",
+        "i",
+        "Machynlleth"
       ]
     },
     {
@@ -234,8 +235,8 @@
       "english": "The charity that gives space to discuss mental health in Welsh",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8enz4rdgklo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 06:09:40 GMT",
-      "feedPosition": 3,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null,
       "welshGlosses": [
         "the",
@@ -271,7 +272,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2zkl3yy9jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 10:15:23 GMT",
       "feedPosition": 7,
-      "fetchedAt": "2026-08-26T19:58:30.958Z",
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null,
       "welshGlosses": [
         "Alert",
@@ -304,36 +305,9 @@
       "english": "Working for a chemical company is' terrible', says former Sheen programme worker",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgj2rrl66ro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 05:07:28 GMT",
-      "feedPosition": 7,
-      "fetchedAt": "2026-08-26T16:33:27.981Z",
-      "category": null,
-      "welshGlosses": [
-        "work",
-        "to",
-        "company",
-        "Chemical",
-        "in",
-        "awful",
-        "Mead",
-        "ex-employee",
-        "after",
-        "Caption",
-        "Sheen"
-      ],
-      "englishGlosses": [
-        "Gwaith",
-        "am",
-        "a.",
-        "Cemegol",
-        "cwmni",
-        "yw",
-        "ymlaciol",
-        "dywed",
-        "blaenorol",
-        "Sheen",
-        "rhaglen",
-        "Gweithiwr"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cr504d8r9geo#1",
@@ -341,32 +315,9 @@
       "english": "Hundreds discuss controversial plan to move community hospital beds",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cr504d8r9geo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 06:55:38 GMT",
-      "feedPosition": 8,
-      "fetchedAt": "2026-08-26T16:33:27.981Z",
-      "category": null,
-      "welshGlosses": [
-        "Hundreds",
-        "in",
-        "transact",
-        "Plan",
-        "controversial",
-        "to",
-        "Moving",
-        "beds",
-        "Hospital",
-        "Development."
-      ],
-      "englishGlosses": [
-        "gannoedd",
-        "Drafod",
-        "dadleuol",
-        "Cynllun",
-        "i",
-        "symyd",
-        "cymuned",
-        "Ysbyty",
-        "gwelyau"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gmvglypdgo#1",
@@ -375,7 +326,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gmvglypdgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 18:00:12 GMT",
       "feedPosition": 10,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -384,37 +335,9 @@
       "english": "'Laying the foundations' says Plaid Cymru in marking 100 days in power",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgl72r7rxp1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 05:13:02 GMT",
-      "feedPosition": 7,
-      "fetchedAt": "2026-08-26T13:13:36.004Z",
-      "category": null,
-      "welshGlosses": [
-        "Setup",
-        "the",
-        "bases",
-        "Mead",
-        "Party",
-        "Wales",
-        "by",
-        "to note",
-        "100%",
-        "day",
-        "in",
-        "might"
-      ],
-      "englishGlosses": [
-        "Gosodiad",
-        "'r",
-        "sylfeini",
-        "dywed",
-        "Plaid Cymru",
-        "Cymru ",
-        "yn",
-        "marcio",
-        "100%",
-        "diwrnod",
-        "yn",
-        "pŵer"
-      ]
+      "feedPosition": 11,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
@@ -422,8 +345,8 @@
       "english": "Live Wales Daily Quiz",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 04 Mar 2026 07:38:56 GMT",
-      "feedPosition": 13,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "feedPosition": 12,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -432,8 +355,8 @@
       "english": "Was Elizabeth I able to speak Welsh?",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgq5kpjk0kyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 11:56:24 GMT",
-      "feedPosition": 12,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "feedPosition": 13,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -442,8 +365,8 @@
       "english": "Millie the caring Shih Tzu is warmly welcomed by patients",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjxnj4yrqxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 05:52:47 GMT",
-      "feedPosition": 13,
-      "fetchedAt": "2026-08-26T09:54:38.813Z",
+      "feedPosition": 14,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -452,8 +375,8 @@
       "english": "Answer the Call: Blain Llwyd",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cewr97vjq7do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 06:08:54 GMT",
-      "feedPosition": 14,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "feedPosition": 15,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -462,8 +385,8 @@
       "english": "Rex Hayes: 'We need Ted Lasso in the world today'",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1kx3edpw8do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 12:52:52 GMT",
-      "feedPosition": 15,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "feedPosition": 16,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -472,8 +395,8 @@
       "english": "Download the app",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5ym4j306qzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 22 May 2025 13:11:01 GMT",
-      "feedPosition": 20,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "feedPosition": 17,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -483,7 +406,7 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p6bpg4?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 10:54:41 GMT",
       "feedPosition": 18,
-      "fetchedAt": "2026-08-26T13:13:36.004Z",
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -493,7 +416,7 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p6bhz2?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 10:06:39 GMT",
       "feedPosition": 19,
-      "fetchedAt": "2026-08-26T13:13:36.004Z",
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -502,8 +425,8 @@
       "english": "'So many people have immigrated to Wales over the centuries'",
       "url": "https://www.bbc.co.uk/sounds/play/p0p66x0w?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 14:30:39 GMT",
-      "feedPosition": 19,
-      "fetchedAt": "2026-08-26T09:54:38.813Z",
+      "feedPosition": 20,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -513,7 +436,7 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p66fpw?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 13:03:54 GMT",
       "feedPosition": 21,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -523,7 +446,7 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p66t7k?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 14:10:46 GMT",
       "feedPosition": 22,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -533,7 +456,7 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p66nnp?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 14:23:37 GMT",
       "feedPosition": 23,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -543,7 +466,7 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p5nxqn?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 11:40:12 GMT",
       "feedPosition": 24,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -553,7 +476,7 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p5hqc4?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 14:20:19 GMT",
       "feedPosition": 25,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -562,8 +485,8 @@
       "english": "The 15-year-old is the youngest ever to represent Cardiff",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gmvglypdgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 18:00:12 GMT",
-      "feedPosition": 28,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "feedPosition": 26,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -573,31 +496,8 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c62m4mzy9y0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 20:05:16 GMT",
       "feedPosition": 27,
-      "fetchedAt": "2026-08-26T16:33:27.981Z",
-      "category": null,
-      "welshGlosses": [
-        "Soccer",
-        "middle",
-        "week",
-        "How?",
-        "did",
-        "Cardiff",
-        "in",
-        "Cup",
-        "the",
-        "EFL"
-      ],
-      "englishGlosses": [
-        "Midweekfootball",
-        "Sut?",
-        "wnaeth",
-        "",
-        "gwneud",
-        "yn",
-        "'r",
-        "EFL",
-        "Cwpan"
-      ]
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlw3x5qgv2o#6",
@@ -605,8 +505,8 @@
       "english": "Rugby league 'icon' and 'genius', Sir Billy Boston, has died at the age of 92",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlw3x5qgv2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 11:41:42 GMT",
-      "feedPosition": 29,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "feedPosition": 28,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -615,8 +515,8 @@
       "english": "Josh Tarling is third on the first stage of the Vuelta a España",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cewrwjzjgrgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 23 Aug 2026 06:35:43 GMT",
-      "feedPosition": 30,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "feedPosition": 29,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -625,8 +525,8 @@
       "english": "What is the strongest surname in Welsh rugby?",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8rn87xlv1jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 22 Aug 2026 06:03:28 GMT",
-      "feedPosition": 32,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "feedPosition": 30,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     },
     {
@@ -635,10 +535,10 @@
       "english": "Join the BBC Wales Live channel on WhatsApp",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cyx66935y29o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 22 May 2024 11:06:50 GMT",
-      "feedPosition": 33,
-      "fetchedAt": "2026-08-26T07:06:16.833Z",
+      "feedPosition": 31,
+      "fetchedAt": "2026-08-27T00:45:54.082Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-08-26T19:58:30.958Z"
+  "generatedAt": "2026-08-27T00:45:54.082Z"
 }
