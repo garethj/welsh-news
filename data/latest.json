@@ -44,6 +44,42 @@
       ]
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c7806w44pleo#0",
+      "welsh": "Oedi llawdriniaethau newid rhywedd GIG Cymru wrth i niferoedd gael eu hadolygu",
+      "english": "Delay NHS Wales gender change operations as numbers are reviewed",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c7806w44pleo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 13:51:52 GMT",
+      "feedPosition": 1,
+      "fetchedAt": "2026-08-29T18:25:54.670Z",
+      "category": null,
+      "welshGlosses": [
+        "Clay",
+        "operations",
+        "change",
+        "",
+        "NHS",
+        "Wales",
+        "by",
+        "to",
+        "numbers",
+        "get",
+        "their",
+        "review"
+      ],
+      "englishGlosses": [
+        "Oedi",
+        "GIG",
+        "Cymru",
+        "Rhyw",
+        "Newid",
+        "Gweithrediadau",
+        "Graddfeyddunit description in lists",
+        "Rhif",
+        "dach",
+        "adolygwyd"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckgxnye7ydro#0",
       "welsh": "Prifysgol Aberystwyth yn ein cadw'n ddiogel rhag tywydd y gofod",
       "english": "Aberystwyth University keeps us safe from space weather",
@@ -216,13 +252,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1l6g4rz86po#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1l6g4rz86po#1",
       "welsh": "Sioe gerdd newydd Calon yn 'deyrnged i holl waith Caryl Parry Jones'",
       "english": "Calon's new musical 'a tribute to all the work of Caryl Parry Jones'",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1l6g4rz86po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 28 Aug 2026 05:01:44 GMT",
-      "feedPosition": 1,
-      "fetchedAt": "2026-08-29T03:09:05.409Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-08-29T18:25:54.670Z",
       "category": null,
       "welshGlosses": [
         "A ‘show’",
@@ -314,16 +350,6 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9v9n19vr4jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 28 Aug 2026 12:48:06 GMT",
       "feedPosition": 10,
-      "fetchedAt": "2026-08-29T12:39:06.028Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/czrz7ejym3do#1",
-      "welsh": "12 o gŵn yn dathlu eu pen-blwydd cyntaf gyda'i gilydd mewn aduniad",
-      "english": "12 dogs celebrating their first birthday together in reunion",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/czrz7ejym3do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 17:56:14 GMT",
-      "feedPosition": 11,
       "fetchedAt": "2026-08-29T12:39:06.028Z",
       "category": null
     },
@@ -518,5 +544,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-08-29T12:39:06.028Z"
+  "generatedAt": "2026-08-29T18:25:54.670Z"
 }
