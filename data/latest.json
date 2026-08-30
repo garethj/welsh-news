@@ -2,6 +2,227 @@
   "date": "2026-08-30",
   "headlines": [
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9dwlvlx39po#0",
+      "welsh": "Cynllun cyfnewid gwisgoedd ysgol wedi cael effaith 'syfrdanol'",
+      "english": "School uniform exchange scheme has had a 'staggering' effect",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9dwlvlx39po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 06:03:59 GMT",
+      "feedPosition": 0,
+      "fetchedAt": "2026-08-30T11:51:14.343Z",
+      "category": null,
+      "welshGlosses": [
+        "Plan",
+        "swap",
+        "Costumes",
+        "school",
+        "after",
+        "have",
+        "Impact",
+        "staggering"
+      ],
+      "englishGlosses": [
+        "Term",
+        "Unffurf",
+        "gyfnewid",
+        "Gwaredu Cynllun",
+        "Oes",
+        "wedi",
+        "a.",
+        "syfrdanol",
+        "effaith"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cd68vwqjpdeo#0",
+      "welsh": "'Gofalwch gael yswiriant teithio digonol' - mam merch o Lanrug gafodd ei hanafu yn Nhwrci",
+      "english": "'Take care to have adequate travel insurance' - mother of an injured woman from Llanrug in Turkey",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cd68vwqjpdeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 06:21:02 GMT",
+      "feedPosition": 1,
+      "fetchedAt": "2026-08-30T11:51:14.343Z",
+      "category": null,
+      "welshGlosses": [
+        "Take care",
+        "get",
+        "Insurance",
+        "travel",
+        "adequate",
+        "mum",
+        "Girl",
+        "of",
+        "Llanrug",
+        "he had",
+        "his/her",
+        "injured",
+        "in",
+        "Turkey"
+      ],
+      "englishGlosses": [
+        "Cymryd",
+        "gofal",
+        "i",
+        "cael",
+        "digonol",
+        "bodoli",
+        "Yswiriant",
+        "Mam",
+        "o",
+        "\"an\",",
+        "ANAFWYD:",
+        "Dynes",
+        "o",
+        "Llanrug",
+        "yn",
+        "Twrci"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn74y21glx2o#0",
+      "welsh": "'Ella un tymor arall' i'r Queen of the Sea wedi 42 mlynedd ar y Fenai",
+      "english": "'Perhaps one more season' for the Queen of the Sea after 42 years on the Menai Strait",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn74y21glx2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 10:06:49 GMT",
+      "feedPosition": 2,
+      "fetchedAt": "2026-08-30T11:51:14.343Z",
+      "category": null,
+      "welshGlosses": [
+        "Ella",
+        "one",
+        "Tenure",
+        "ATM",
+        "I",
+        "De Queen",
+        "<PROTECTED> of <PROTECTED>",
+        "a_BAR_an_BAR_the",
+        "",
+        "after",
+        "0.42",
+        "years",
+        "on",
+        "the",
+        "Menai"
+      ],
+      "englishGlosses": [
+        "efallai",
+        "un",
+        "mwy",
+        "Tymor",
+        "am",
+        "'r",
+        "Frenhines",
+        "o",
+        "'r",
+        "Môr",
+        "Wedi",
+        "<ph type=\"21534\"/><bpt i=\"2\" type=\"10452\" x=\"1\"/>43<ept i=\"2\"/>",
+        "blynedd",
+        "ar",
+        "'r",
+        "Menai",
+        "Culfor"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz5zg7dd9o#0",
+      "welsh": "Dim bwriad gan Jeremy Miles i ddychwelyd i fyd gwleidyddiaeth",
+      "english": "Jeremy Miles has no intention of returning to politics",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz5zg7dd9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 11:06:16 GMT",
+      "feedPosition": 3,
+      "fetchedAt": "2026-08-30T11:51:14.343Z",
+      "category": null,
+      "welshGlosses": [
+        "None",
+        "Purpose",
+        "by",
+        "Jeremy",
+        "Miles",
+        "to",
+        "to return",
+        "to",
+        "also",
+        "politics"
+      ],
+      "englishGlosses": [
+        "Jeremy Bray",
+        "Milltir",
+        "Oes",
+        "nac ydw",
+        "bwriad",
+        "o",
+        "yn dychwelyd",
+        "i",
+        "Gwleidyddol"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gv5k15gwno#0",
+      "welsh": "Y ffenestri trawiadol sy'n dod â lliw i eglwysi Cymru ",
+      "english": "The impressive windows that bring colour to the churches of Wales",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gv5k15gwno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 06:12:26 GMT",
+      "feedPosition": 4,
+      "fetchedAt": "2026-08-30T11:51:14.343Z",
+      "category": null,
+      "welshGlosses": [
+        "the",
+        "Windows",
+        "impressive",
+        "which",
+        "sand",
+        "To:",
+        "colour",
+        "to",
+        "churches",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Y",
+        "Mae' trawiadol",
+        "Ffenestri",
+        "hynny",
+        "dyfod â",
+        "Lliw",
+        "i",
+        "'r",
+        "llannau",
+        "o",
+        "Cymru"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/czezn2d4rgyo#0",
+      "welsh": "Rhybudd melyn am stormydd mellt a tharanau yng Nghymru",
+      "english": "Yellow warning of lightning storms and thunderstorms in Wales",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/czezn2d4rgyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 09:30:58 GMT",
+      "feedPosition": 5,
+      "fetchedAt": "2026-08-30T11:51:14.343Z",
+      "category": null,
+      "welshGlosses": [
+        "Alert",
+        "Yelow",
+        "for",
+        "storms",
+        "Lighting",
+        "and",
+        "thunder",
+        "in",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Araf",
+        "Rhybudd",
+        "o",
+        "Mellt",
+        "stormydd",
+        "a",
+        "stormydd taranau",
+        "yn",
+        "Cymru"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp93541k2e5o#0",
       "welsh": "Mam o Gaerfyrddin yn sôn am y 'braw' o ddarganfod diabetes Math 1 ei merch",
       "english": "Carmarthen mum talks about the 'scare' of discovering her daughter's Type 1 diabetes",
@@ -44,13 +265,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c7806w44pleo#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c7806w44pleo#1",
       "welsh": "Oedi llawdriniaethau newid rhywedd GIG Cymru wrth i niferoedd gael eu hadolygu",
       "english": "Delay NHS Wales gender change operations as numbers are reviewed",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c7806w44pleo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 29 Aug 2026 13:51:52 GMT",
-      "feedPosition": 1,
-      "fetchedAt": "2026-08-29T23:15:51.067Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-08-30T11:51:14.343Z",
       "category": null,
       "welshGlosses": [
         "Clay",
@@ -80,215 +301,34 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckgxnye7ydro#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckgxnye7ydro#1",
       "welsh": "Prifysgol Aberystwyth yn ein cadw'n ddiogel rhag tywydd y gofod",
       "english": "Aberystwyth University keeps us safe from space weather",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckgxnye7ydro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 29 Aug 2026 06:00:02 GMT",
-      "feedPosition": 2,
-      "fetchedAt": "2026-08-29T23:15:51.067Z",
-      "category": null,
-      "welshGlosses": [
-        "Univ",
-        "Mouth of the river Ystwyth",
-        "in",
-        "our",
-        "to keep",
-        "‘safe’.",
-        "Dec",
-        "Weather",
-        "the",
-        "space"
-      ],
-      "englishGlosses": [
-        "Aberystwyth:",
-        "",
-        "cadw",
-        "Ein Cymru ni",
-        "diogel",
-        "o",
-        "bwlch",
-        "Tywydd"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-08-30T11:51:14.343Z",
+      "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgyklq3xego#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgyklq3xego#1",
       "welsh": "Y côr meibion 'traddodiadol' sydd wedi mynd yn feiral ar TikTok",
       "english": "The 'traditional' male voice choir that has gone viral on TikTok",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgyklq3xego?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 29 Aug 2026 06:00:26 GMT",
-      "feedPosition": 3,
-      "fetchedAt": "2026-08-29T23:15:51.067Z",
-      "category": null,
-      "welshGlosses": [
-        "the",
-        "Choir",
-        "pe",
-        "traditional",
-        "which is",
-        "after",
-        "",
-        "in",
-        "viral",
-        "on",
-        "TikTok:"
-      ],
-      "englishGlosses": [
-        "Y",
-        "traddodiadol",
-        "gwryw",
-        "Aros",
-        "Côr",
-        "hynny",
-        "Oes",
-        "wedi mynd",
-        "firaol",
-        "ar",
-        "TikTok:"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-08-30T11:51:14.343Z",
+      "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/czrzm5n8z6ro#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/czrzm5n8z6ro#1",
       "welsh": "Ar y Cae: Sioe gerdd am gariad cwiyr sydd 'ddim yn tragic!'",
       "english": "On the Field: A musical about waxing love that is' not tragic!'",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/czrzm5n8z6ro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 29 Aug 2026 06:01:10 GMT",
-      "feedPosition": 4,
-      "fetchedAt": "2026-08-29T23:15:51.067Z",
-      "category": null,
-      "welshGlosses": [
-        "on",
-        "the",
-        "Pitch",
-        "A ‘show’",
-        "poem",
-        "for",
-        "Nobel",
-        "wax",
-        "which is",
-        "not",
-        "in",
-        "trasig"
-      ],
-      "englishGlosses": [
-        "Oran",
-        "'r",
-        "Maes",
-        "A.",
-        "Sioe gerdd",
-        "Ynglŷn â",
-        "cwyro",
-        "cariad",
-        "hynny",
-        "yw",
-        "ddim",
-        "trasig"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c33kv6gng66o#0",
-      "welsh": "Cwis: Caneuon Caryl Parry Jones",
-      "english": "Quiz: Songs of Caryl Parry Jones",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c33kv6gng66o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 06:01:48 GMT",
-      "feedPosition": 5,
-      "fetchedAt": "2026-08-29T23:15:51.067Z",
-      "category": null,
-      "welshGlosses": [
-        "Quiz",
-        "Song",
-        "Caryl",
-        "Cape Parry",
-        "Jones"
-      ],
-      "englishGlosses": [
-        ".",
-        "Cân",
-        "o",
-        "Caryl",
-        "Parry",
-        "Sion Jones"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cj9xnreyp4lo#0",
-      "welsh": "Cyhuddo dyn o Wynedd o gael llawlyfr terfysgol yr IRA ar ei ffôn",
-      "english": "Accusing a man from Gwynedd of having an IRA terrorist manual on his phone",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cj9xnreyp4lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 11:35:07 GMT",
-      "feedPosition": 6,
-      "fetchedAt": "2026-08-29T23:15:51.067Z",
-      "category": null,
-      "welshGlosses": [
-        "accuse",
-        "Men",
-        "of",
-        "Gwynedd",
-        "of",
-        "get",
-        "manual",
-        "Terrorism",
-        "the",
-        "Ira",
-        "on",
-        "his/her",
-        "tel"
-      ],
-      "englishGlosses": [
-        "Cyhuddo",
-        "a.",
-        "gŵr",
-        "o",
-        "Gwynedd",
-        "o",
-        "cael",
-        "\"an\",",
-        "IRA",
-        "terfysgol",
-        "Âllaw",
-        "ar",
-        "ei",
-        "ffôn"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1l6g4rz86po#1",
-      "welsh": "Sioe gerdd newydd Calon yn 'deyrnged i holl waith Caryl Parry Jones'",
-      "english": "Calon's new musical 'a tribute to all the work of Caryl Parry Jones'",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1l6g4rz86po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 05:01:44 GMT",
-      "feedPosition": 7,
-      "fetchedAt": "2026-08-29T23:15:51.067Z",
-      "category": null,
-      "welshGlosses": [
-        "A ‘show’",
-        "poem",
-        "new",
-        "Heart",
-        "in",
-        "tribute",
-        "to",
-        "all",
-        "work",
-        "Caryl",
-        "Cape Parry",
-        "Jones"
-      ],
-      "englishGlosses": [
-        "Calon",
-        "newydd",
-        "Sioe gerdd",
-        "a.",
-        "teyrnged",
-        "i",
-        "bob un",
-        "'r",
-        "Gwaith",
-        "o",
-        "Caryl",
-        "Parry",
-        "Sion Jones"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-08-30T11:51:14.343Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckgwd3zz9vvo#1",
@@ -301,36 +341,6 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c7v457r4jzeo#1",
-      "welsh": "Delyth Lloyd, Emma Walford a'r 'Cricieth Bathing Woman'",
-      "english": "Delyth Lloyd, Emma Walford and the 'Criccieth Bathing Woman'",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c7v457r4jzeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 06:17:41 GMT",
-      "feedPosition": 9,
-      "fetchedAt": "2026-08-29T23:15:51.067Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c7809qj721jo#1",
-      "welsh": "Gobaith adfywio adeilad hanesyddol i fod yn 'gartref i'r Gymraeg'",
-      "english": "Hope to regenerate historic building to be 'home for the Welsh language'",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c7809qj721jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 16:51:44 GMT",
-      "feedPosition": 10,
-      "fetchedAt": "2026-08-29T23:15:51.067Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9v9n19vr4jo#1",
-      "welsh": "TwmpDaith yn codi twmpath ar strydoedd Colombia",
-      "english": "BumpA journey on the streets of Colombia",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9v9n19vr4jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 12:48:06 GMT",
-      "feedPosition": 11,
-      "fetchedAt": "2026-08-29T23:15:51.067Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
       "welsh": "Cwis Dyddiol Cymru Fyw",
       "english": "Live Wales Daily Quiz",
@@ -338,6 +348,36 @@
       "pubDate": "Wed, 04 Mar 2026 07:38:56 GMT",
       "feedPosition": 12,
       "fetchedAt": "2026-08-29T23:15:51.067Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c33kv6gng66o#2",
+      "welsh": "Cwis: Caneuon Caryl Parry Jones",
+      "english": "Quiz: Songs of Caryl Parry Jones",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c33kv6gng66o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 06:01:48 GMT",
+      "feedPosition": 13,
+      "fetchedAt": "2026-08-30T11:51:14.343Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c7v457r4jzeo#2",
+      "welsh": "Delyth Lloyd, Emma Walford a'r 'Cricieth Bathing Woman'",
+      "english": "Delyth Lloyd, Emma Walford and the 'Criccieth Bathing Woman'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c7v457r4jzeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 06:17:41 GMT",
+      "feedPosition": 14,
+      "fetchedAt": "2026-08-30T11:51:14.343Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9v9n19vr4jo#2",
+      "welsh": "TwmpDaith yn codi twmpath ar strydoedd Colombia",
+      "english": "BumpA journey on the streets of Colombia",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9v9n19vr4jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 12:48:06 GMT",
+      "feedPosition": 15,
+      "fetchedAt": "2026-08-30T11:51:14.343Z",
       "category": null
     },
     {
@@ -408,6 +448,16 @@
       "pubDate": "Fri, 28 Aug 2026 10:28:05 GMT",
       "feedPosition": 19,
       "fetchedAt": "2026-08-29T23:15:51.067Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p6t0rp#4",
+      "welsh": "Yr efeilliaid sydd yn feistri ar y trapîs",
+      "english": "The twins are the masters of the trapeze",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p6t0rp?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 11:34:18 GMT",
+      "feedPosition": 23,
+      "fetchedAt": "2026-08-30T11:51:14.343Z",
       "category": null
     },
     {
@@ -521,5 +571,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-08-29T23:15:51.067Z"
+  "generatedAt": "2026-08-30T11:51:14.343Z"
 }
