@@ -2,6 +2,47 @@
   "date": "2026-08-30",
   "headlines": [
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c86xwxvn59lo#0",
+      "welsh": "Pryder teulu o Geredigion wrth i aelod barhau i fod ar goll yn Nepal",
+      "english": "The concern of a Ceredigion family as a member remains missing in Nepal",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c86xwxvn59lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 17:06:05 GMT",
+      "feedPosition": 0,
+      "fetchedAt": "2026-08-30T21:01:08.610Z",
+      "category": null,
+      "welshGlosses": [
+        "Concern",
+        "family",
+        "of",
+        "Ceredigion",
+        "by",
+        "to",
+        "member",
+        "continue",
+        "to",
+        "to be",
+        "on",
+        "missing",
+        "in",
+        "Nepalese Rupee"
+      ],
+      "englishGlosses": [
+        "Y",
+        "pryder",
+        "o",
+        "a.",
+        "Ceredigion",
+        "",
+        "Graddfeyddunit description in lists",
+        "a.",
+        "aelod",
+        "olion",
+        "coll",
+        "yn",
+        "Nepalकाठमाडौं"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9dwlvlx39po#0",
       "welsh": "Cynllun cyfnewid gwisgoedd ysgol wedi cael effaith 'syfrdanol'",
       "english": "School uniform exchange scheme has had a 'staggering' effect",
@@ -223,13 +264,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp93541k2e5o#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp93541k2e5o#1",
       "welsh": "Mam o Gaerfyrddin yn sôn am y 'braw' o ddarganfod diabetes Math 1 ei merch",
       "english": "Carmarthen mum talks about the 'scare' of discovering her daughter's Type 1 diabetes",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp93541k2e5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 29 Aug 2026 05:59:34 GMT",
-      "feedPosition": 0,
-      "fetchedAt": "2026-08-29T23:15:51.067Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-08-30T21:01:08.610Z",
       "category": null,
       "welshGlosses": [
         "mum",
@@ -331,16 +372,6 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckgwd3zz9vvo#1",
-      "welsh": "Pêl-droed penwythnos Gŵyl y Banc: Sut wnaeth timau Cymru?",
-      "english": "Bank Holiday weekend football: How did the Welsh teams do?",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckgwd3zz9vvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 15:55:42 GMT",
-      "feedPosition": 8,
-      "fetchedAt": "2026-08-29T23:15:51.067Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
       "welsh": "Cwis Dyddiol Cymru Fyw",
       "english": "Live Wales Daily Quiz",
@@ -439,6 +470,46 @@
       "feedPosition": 18,
       "fetchedAt": "2026-08-29T23:15:51.067Z",
       "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p73zcv#4",
+      "welsh": "Teulu o Geredigion yn 'colli gobaith' wrth i aelod barhau i fod ar goll yn Nepal",
+      "english": "Ceredigion family 'losing hope' as member remains missing in Nepal",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p73zcv?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 16:42:51 GMT",
+      "feedPosition": 22,
+      "fetchedAt": "2026-08-30T21:01:08.610Z",
+      "category": null,
+      "welshGlosses": [
+        "Family",
+        "of",
+        "Ceredigion",
+        "in",
+        "lose",
+        "hope",
+        "by",
+        "to",
+        "member",
+        "continue",
+        "to",
+        "to be",
+        "on",
+        "missing",
+        "in",
+        "Nepalese Rupee"
+      ],
+      "englishGlosses": [
+        "Ceredigion",
+        "",
+        "yn colli",
+        "gobaith",
+        "Graddfeyddunit description in lists",
+        "aelod",
+        "olion",
+        "coll",
+        "yn",
+        "Nepalकाठमाडौं"
+      ]
     },
     {
       "guid": "https://www.bbc.co.uk/sounds/play/p0p6sczn#4",
@@ -571,5 +642,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-08-30T16:38:00.017Z"
+  "generatedAt": "2026-08-30T21:01:08.610Z"
 }
