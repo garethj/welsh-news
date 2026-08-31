@@ -305,6 +305,39 @@
       ]
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckgwd3zz9vvo#1",
+      "welsh": "Pêl-droed penwythnos Gŵyl y Banc: Sut wnaeth timau Cymru?",
+      "english": "Bank Holiday weekend football: How did the Welsh teams do?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckgwd3zz9vvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 18:06:43 GMT",
+      "feedPosition": 8,
+      "fetchedAt": "2026-08-31T20:48:29.809Z",
+      "category": null,
+      "welshGlosses": [
+        "Soccer",
+        "",
+        "Festival",
+        "the",
+        "bank",
+        "How?",
+        "did",
+        "Teams",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Banc",
+        "GŴYL",
+        "Penwythnos",
+        "",
+        "Sut?",
+        "wnaeth",
+        "'r",
+        "Cymraeg",
+        "Timau",
+        "gwneud"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9dwlvlx39po#1",
       "welsh": "Cynllun cyfnewid gwisgoedd ysgol wedi cael effaith 'syfrdanol'",
       "english": "School uniform exchange scheme has had a 'staggering' effect",
@@ -331,16 +364,6 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn74y21glx2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 30 Aug 2026 10:06:49 GMT",
       "feedPosition": 10,
-      "fetchedAt": "2026-08-31T13:39:45.444Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz5zg7dd9o#1",
-      "welsh": "Dim bwriad gan Jeremy Miles i ddychwelyd i fyd gwleidyddiaeth",
-      "english": "Jeremy Miles has no intention of returning to politics",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz5zg7dd9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 11:06:16 GMT",
-      "feedPosition": 11,
       "fetchedAt": "2026-08-31T13:39:45.444Z",
       "category": null
     },
@@ -475,6 +498,39 @@
       "category": null
     },
     {
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p64qnt#4",
+      "welsh": "Pam bod mwy yn dychwelyd i wrando ar recordiau feinyl?",
+      "english": "Why are more returning to listen to vinyl records?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p64qnt?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 06:36:41 GMT",
+      "feedPosition": 25,
+      "fetchedAt": "2026-08-31T20:48:29.809Z",
+      "category": null,
+      "welshGlosses": [
+        "",
+        "to be",
+        "more",
+        "in",
+        "Remove",
+        "to",
+        "to listen",
+        "on",
+        "records",
+        "phenyl"
+      ],
+      "englishGlosses": [
+        "Pam",
+        "dach",
+        "mwy",
+        "yn dychwelyd",
+        "i",
+        "gwrando",
+        "i",
+        "finyl",
+        "cofnodion"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/sounds/play/p0p6t0rp#4",
       "welsh": "Yr efeilliaid sydd yn feistri ar y trapîs",
       "english": "The twins are the masters of the trapeze",
@@ -535,6 +591,48 @@
       "category": null
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9w4jzlk8y0o#6",
+      "welsh": "'Dim digon o gefnogaeth' ar gael i olffwyr yng Nghymru",
+      "english": "'Not enough support' available to golfers in Wales",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9w4jzlk8y0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 06:01:28 GMT",
+      "feedPosition": 32,
+      "fetchedAt": "2026-08-31T20:48:29.809Z",
+      "category": null,
+      "welshGlosses": [
+        "None",
+        "enough",
+        "of",
+        "support",
+        "on",
+        "get",
+        "to",
+        "golfers",
+        "in",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "ddim",
+        "digon",
+        "cefnogaeth",
+        "ar gael",
+        "i",
+        "golffwyr",
+        "yn",
+        "Cymru"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckgwd3zz9vvo#6",
+      "welsh": "Pêl-droed penwythnos Gŵyl y Banc: Sut wnaeth timau Cymru?",
+      "english": "Bank Holiday weekend football: How did the Welsh teams do?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckgwd3zz9vvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 18:06:43 GMT",
+      "feedPosition": 33,
+      "fetchedAt": "2026-08-31T20:48:29.809Z",
+      "category": null
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c7704d57jxlo#6",
       "welsh": "Ymgyrch 'ddewr' Josh Tarling yn y Vuelta a España ar ben",
       "english": "Josh Tarling's 'courageous' campaign in the Vuelta a España ends",
@@ -555,32 +653,12 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c62m4mzy9y0o#6",
-      "welsh": "Pêl-droed ganol wythnos: Sut wnaeth Caerdydd yng Nghwpan yr EFL?",
-      "english": "Midweekfootball: How did Cardiff do in the EFL Cup?",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c62m4mzy9y0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 20:05:16 GMT",
-      "feedPosition": 32,
-      "fetchedAt": "2026-08-30T23:27:14.686Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlw3x5qgv2o#6",
       "welsh": "'Eicon' ac 'athrylith' rygbi'r gynghrair, Syr Billy Boston, wedi marw yn 92 oed",
       "english": "Rugby league 'icon' and 'genius', Sir Billy Boston, has died at the age of 92",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlw3x5qgv2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 11:41:42 GMT",
       "feedPosition": 33,
-      "fetchedAt": "2026-08-30T23:27:14.686Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8rn87xlv1jo#6",
-      "welsh": "Pa gyfenw yw'r cryfaf yn rygbi Cymru?",
-      "english": "What is the strongest surname in Welsh rugby?",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8rn87xlv1jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 22 Aug 2026 06:03:28 GMT",
-      "feedPosition": 34,
       "fetchedAt": "2026-08-30T23:27:14.686Z",
       "category": null
     },
@@ -595,5 +673,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-08-31T13:39:45.444Z"
+  "generatedAt": "2026-08-31T20:48:29.809Z"
 }
