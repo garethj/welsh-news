@@ -2,6 +2,40 @@
   "date": "2026-09-01",
   "headlines": [
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp3kj3120z4o#0",
+      "welsh": "Carcharu pedoffeil 'peryglus ac ysglyfaethus' am dros 20 mlynedd",
+      "english": "Imprisonment of a 'dangerous and predatory' paedophile for over 20 years",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp3kj3120z4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 13:36:13 GMT",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-01T16:35:37.344Z",
+      "category": null,
+      "welshGlosses": [
+        "imprisonment",
+        "paedophile",
+        "risky",
+        "and",
+        "predatory",
+        "for",
+        "over",
+        "20.",
+        "years"
+      ],
+      "englishGlosses": [
+        "carcharu",
+        "o",
+        "a.",
+        "Peryglus",
+        "a",
+        "ysglyfaethus",
+        "pedoffeil",
+        "am",
+        "dros",
+        "20.",
+        "blynedd"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/clylnlrw76ro#0",
       "welsh": "Chwilio am fachgen coll oddi ar arfordir Sir Benfro yn dod i ben",
       "english": "Searching for a missing boy off the coast of Pembrokeshire comes to an end",
@@ -73,39 +107,6 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz1zz27epo#0",
-      "welsh": "Cwmni marchnata Orchard yn mynd i'r wal ar ôl 16 mlynedd",
-      "english": "Orchard marketing company goes bust after 16 years",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz1zz27epo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 09:46:01 GMT",
-      "feedPosition": 2,
-      "fetchedAt": "2026-09-01T11:34:52.986Z",
-      "category": null,
-      "welshGlosses": [
-        "Company",
-        "Marketing",
-        "Orchard",
-        "in",
-        "",
-        "I",
-        "Wall",
-        "on",
-        "Trace",
-        "22",
-        "years"
-      ],
-      "englishGlosses": [
-        "Perllan",
-        "MARCHNATA",
-        "cwmni",
-        "mynd",
-        "Penddelw",
-        "Wedi",
-        "16.",
-        "blynedd"
-      ]
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce8kllxdnr7o#0",
       "welsh": "Yr actor o Hollywood a orffennodd ei yrfa fel extra ar Pobol y Cwm",
       "english": "The Hollywood actor finished his career as an extra on Pobol y Cwm",
@@ -147,122 +148,171 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c33ke8drn8ro#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyk54gzekeo#0",
+      "welsh": "Arestio dau ar ôl canfod tyfiant canabis ym Mhlas Glynllifon",
+      "english": "Two arrested after cannabis growth was detected at Plas Glynllifon",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyk54gzekeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 11:47:43 GMT",
+      "feedPosition": 4,
+      "fetchedAt": "2026-09-01T16:35:37.344Z",
+      "category": null,
+      "welshGlosses": [
+        "Arrest",
+        "two",
+        "on",
+        "Trace",
+        "find",
+        "growth",
+        "Cannabis",
+        "re",
+        "Taste",
+        "Glynllifon"
+      ],
+      "englishGlosses": [
+        "Dwy",
+        "arestiwyd",
+        "Wedi",
+        "Cannabis (cyffur)",
+        "twf",
+        "oedd",
+        "wedi ei ganfod",
+        "am",
+        "plas y felin",
+        "Glynllifon"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz1zz27epo#0",
+      "welsh": "Cwmni marchnata Orchard yn mynd i'r wal ar ôl 16 mlynedd",
+      "english": "Orchard marketing company goes bust after 16 years",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz1zz27epo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 09:46:01 GMT",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-01T11:34:52.986Z",
+      "category": null,
+      "welshGlosses": [
+        "Company",
+        "Marketing",
+        "Orchard",
+        "in",
+        "",
+        "I",
+        "Wall",
+        "on",
+        "Trace",
+        "22",
+        "years"
+      ],
+      "englishGlosses": [
+        "Perllan",
+        "MARCHNATA",
+        "cwmni",
+        "mynd",
+        "Penddelw",
+        "Wedi",
+        "16.",
+        "blynedd"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c70lq2ql94po#0",
+      "welsh": "Ai Pier Bangor yw pier gorau Cymru?",
+      "english": "Is Bangor Pier the best pier in Wales?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c70lq2ql94po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 14:08:05 GMT",
+      "feedPosition": 6,
+      "fetchedAt": "2026-09-01T16:35:37.344Z",
+      "category": null,
+      "welshGlosses": [
+        "is it...?",
+        "Pier",
+        "Bangor:",
+        "is",
+        "Pier",
+        "Top",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Yw",
+        "Bangor:",
+        "Pier",
+        "'r",
+        "Y Gorau",
+        "Pier",
+        "yn",
+        "Cymru"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce30l37dx5no#1",
+      "welsh": "Reform UK yn 'hapus i edrych ar y datrysiad cywir' i blismona yng Nghymru",
+      "english": "Reform UK 'happy to look at the right solution' to policing in Wales",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce30l37dx5no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 16:00:39 GMT",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-01T16:35:37.344Z",
+      "category": null,
+      "welshGlosses": [
+        "Reform",
+        "<PROTECTED> UK",
+        "in",
+        "happy",
+        "to",
+        "Look",
+        "on",
+        "the",
+        "solution",
+        "",
+        "to",
+        "policing",
+        "in",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Diwygio",
+        "Y DU",
+        "hapus",
+        "i",
+        "Edrych",
+        "am",
+        "'r",
+        "de",
+        "datrysiad",
+        "i",
+        "Heddlu",
+        "yn",
+        "Cymru"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c33ke8drn8ro#1",
       "welsh": "'Ni yma am reswm': Goroeswyr Aberfan yn gadael gwaddol i'r gymuned",
       "english": "'We are here for a reason': Aberfan survivors leave a legacy to the community",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c33ke8drn8ro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 01 Sep 2026 04:59:35 GMT",
-      "feedPosition": 4,
-      "fetchedAt": "2026-09-01T11:34:52.986Z",
-      "category": null,
-      "welshGlosses": [
-        "we/us",
-        "here",
-        "for",
-        "reason",
-        "Survivors",
-        "Aberfan",
-        "in",
-        "Leave",
-        "funds",
-        "I",
-        "community"
-      ],
-      "englishGlosses": [
-        "i ni.",
-        "dach",
-        "yma",
-        "am",
-        "a.",
-        "Rheswm",
-        "Aberfan",
-        "goroeswyr",
-        "Gadael",
-        "a.",
-        "Hen URLau",
-        "i",
-        "'r",
-        "cymuned"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-09-01T16:35:37.344Z",
+      "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gw11llelno#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gw11llelno#1",
       "welsh": "Dafydd Owain a'i berthynas â'i nain - yr awdur Mair Wynn Hughes",
       "english": "Dafydd Owain and his relationship with his grandmother - the author Mair Wynn Hughes",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gw11llelno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 31 Aug 2026 10:41:02 GMT",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-01T00:36:01.916Z",
-      "category": null,
-      "welshGlosses": [
-        "John",
-        "Owain",
-        "and its",
-        "relative",
-        "with his",
-        "Naini",
-        "the",
-        "author",
-        "Mary",
-        "Wynn",
-        "Hughes,"
-      ],
-      "englishGlosses": [
-        "Dafydd",
-        "glyndwr",
-        "a",
-        "ei",
-        "Perthynas",
-        "gyda",
-        "ei",
-        "nain",
-        "'r",
-        "awdur",
-        "Mair",
-        "Wynn",
-        "Hughes,"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-09-01T16:35:37.344Z",
+      "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c86xwxvn59lo#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c86xwxvn59lo#1",
       "welsh": "Pryder teulu o Geredigion wrth i aelod barhau i fod ar goll yn Nepal",
       "english": "The concern of a Ceredigion family as a member remains missing in Nepal",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c86xwxvn59lo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 31 Aug 2026 11:35:49 GMT",
-      "feedPosition": 0,
-      "fetchedAt": "2026-09-01T00:36:01.916Z",
-      "category": null,
-      "welshGlosses": [
-        "Concern",
-        "family",
-        "of",
-        "Ceredigion",
-        "by",
-        "to",
-        "member",
-        "continue",
-        "to",
-        "to be",
-        "on",
-        "missing",
-        "in",
-        "Nepalese Rupee"
-      ],
-      "englishGlosses": [
-        "Y",
-        "pryder",
-        "o",
-        "a.",
-        "Ceredigion",
-        "",
-        "Graddfeyddunit description in lists",
-        "a.",
-        "aelod",
-        "olion",
-        "coll",
-        "yn",
-        "Nepalकाठमाडौं"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-09-01T16:35:37.344Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz0z4nrdjy5o#1",
@@ -302,75 +352,6 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8xklvqrpz4o#1",
-      "welsh": "Y gymuned arddio yn 'ffynnu' wrth i bobl gael cysur 'a heddwch yno'",
-      "english": "The gardening community is' thriving 'as people find comfort' and peace there '",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8xklvqrpz4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 08:27:00 GMT",
-      "feedPosition": 8,
-      "fetchedAt": "2026-09-01T11:34:52.986Z",
-      "category": null,
-      "welshGlosses": [
-        "the",
-        "community",
-        "gardening",
-        "in",
-        "Thrive",
-        "by",
-        "to",
-        "Phob",
-        "get",
-        "Comfort",
-        "and",
-        "Peace",
-        "there"
-      ],
-      "englishGlosses": [
-        "Y",
-        "Garddio",
-        "cymuned",
-        "yw",
-        "Yn ffynnu",
-        "Graddfeyddunit description in lists",
-        "Pobl",
-        "Wedyn",
-        "cysur",
-        "a",
-        "Heddwch",
-        "Yna"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz645de0wplo#1",
-      "welsh": "Ateb y Galw: Elis Derby",
-      "english": "Answer the Call: Elis Derby",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz645de0wplo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 06:36:02 GMT",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-01T11:34:52.986Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn07d1x0jxdo#1",
-      "welsh": "Galw ar y llywodraeth i gynnal astudiaeth o'r sin gerddorol Gymreig",
-      "english": "Call on the government to undertake a study of the Welsh music scene",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn07d1x0jxdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 05:57:25 GMT",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-01T11:34:52.986Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn74y1me24ro#1",
-      "welsh": "Therapydd harddwch wedi cael digon o gael ei thrin fel 'gweithiwr rhyw'",
-      "english": "A beauty therapist has had enough of being treated as a 'sex worker'",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn74y1me24ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 06:07:29 GMT",
-      "feedPosition": 11,
-      "fetchedAt": "2026-09-01T11:34:52.986Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
       "welsh": "Cwis Dyddiol Cymru Fyw",
       "english": "Live Wales Daily Quiz",
@@ -378,6 +359,16 @@
       "pubDate": "Wed, 04 Mar 2026 07:38:56 GMT",
       "feedPosition": 12,
       "fetchedAt": "2026-09-01T00:36:01.916Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz645de0wplo#2",
+      "welsh": "Ateb y Galw: Elis Derby",
+      "english": "Answer the Call: Elis Derby",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz645de0wplo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 06:36:02 GMT",
+      "feedPosition": 13,
+      "fetchedAt": "2026-09-01T16:35:37.344Z",
       "category": null
     },
     {
@@ -431,32 +422,42 @@
       "category": null
     },
     {
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p6vpjz#4",
+      "welsh": "Dylanwad Nain ar y cerddor Dafydd Owain",
+      "english": "Grandmother's influence on musician Dafydd Owain",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p6vpjz?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 15:49:47 GMT",
+      "feedPosition": 19,
+      "fetchedAt": "2026-09-01T16:35:37.344Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p6tm25#4",
+      "welsh": "'Mae nerfusrwydd yn naturiol' - Cyngor i'r rhai sy'n dechrau blwyddyn ysgol newydd",
+      "english": "'Nervousness is natural' - Advice for those starting a new school year",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p6tm25?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 13:16:54 GMT",
+      "feedPosition": 20,
+      "fetchedAt": "2026-09-01T16:35:37.344Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p79rj8#4",
+      "welsh": "'Mae diddordeb gan y genhedlaeth ifanc mewn recordiau feinyl' - Kev Tame",
+      "english": "'The younger generation is interested in vinyl records' - Kev Tame",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p79rj8?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 07:23:33 GMT",
+      "feedPosition": 21,
+      "fetchedAt": "2026-09-01T16:35:37.344Z",
+      "category": null
+    },
+    {
       "guid": "https://www.bbc.co.uk/sounds/play/p0p73zcv#4",
       "welsh": "Teulu o Geredigion yn 'colli gobaith' wrth i aelod barhau i fod ar goll yn Nepal",
       "english": "Ceredigion family 'losing hope' as member remains missing in Nepal",
       "url": "https://www.bbc.co.uk/sounds/play/p0p73zcv?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 30 Aug 2026 16:42:51 GMT",
       "feedPosition": 23,
-      "fetchedAt": "2026-09-01T00:36:01.916Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sounds/play/p0p6sczn#4",
-      "welsh": "Tokomololo 'byth yn dychmygu' chwarae'n gyson o fewn dwy flynedd o sefydlu'r prosiect",
-      "english": "Tokomololo 'never imagined' to play consistently within two years of establishing the project",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p6sczn?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 10:28:05 GMT",
-      "feedPosition": 24,
-      "fetchedAt": "2026-09-01T00:36:01.916Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sounds/play/p0p64qnt#4",
-      "welsh": "Pam bod mwy yn dychwelyd i wrando ar recordiau feinyl?",
-      "english": "Why are more returning to listen to vinyl records?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p64qnt?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 06:36:41 GMT",
-      "feedPosition": 25,
       "fetchedAt": "2026-09-01T00:36:01.916Z",
       "category": null
     },
@@ -487,16 +488,6 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p665z2?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 12:00:40 GMT",
       "feedPosition": 28,
-      "fetchedAt": "2026-09-01T00:36:01.916Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sounds/play/p0p6mg04#4",
-      "welsh": "Ymateb Cymro i lifogydd 'difrifol' yn Nepal",
-      "english": "Welsh response to 'severe' flooding in Nepal",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p6mg04?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 27 Aug 2026 16:17:45 GMT",
-      "feedPosition": 29,
       "fetchedAt": "2026-09-01T00:36:01.916Z",
       "category": null
     },
@@ -561,5 +552,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-09-01T11:34:52.986Z"
+  "generatedAt": "2026-09-01T16:35:37.344Z"
 }
