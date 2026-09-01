@@ -2,6 +2,37 @@
   "date": "2026-09-01",
   "headlines": [
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c7v4z65r221o#0",
+      "welsh": "'Newid rhywedd yn ofal iechyd, a gwasanaeth atal hunanladdiad'",
+      "english": "'Gender change in healthcare, and suicide prevention service'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c7v4z65r221o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 18:25:07 GMT",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-01T20:59:40.570Z",
+      "category": null,
+      "welshGlosses": [
+        "Change",
+        "",
+        "in",
+        "care",
+        "Healt",
+        "and",
+        "Service",
+        "stop",
+        "Suicide"
+      ],
+      "englishGlosses": [
+        "Rhyw",
+        "Newid",
+        "yn",
+        "Gofal Iechyd",
+        "a",
+        "Hunanladdiad",
+        "Atal",
+        "BWYD"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp3kj3120z4o#0",
       "welsh": "Carcharu pedoffeil 'peryglus ac ysglyfaethus' am dros 20 mlynedd",
       "english": "Imprisonment of a 'dangerous and predatory' paedophile for over 20 years",
@@ -36,74 +67,36 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/clylnlrw76ro#0",
-      "welsh": "Chwilio am fachgen coll oddi ar arfordir Sir Benfro yn dod i ben",
-      "english": "Searching for a missing boy off the coast of Pembrokeshire comes to an end",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/clylnlrw76ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 07:57:48 GMT",
-      "feedPosition": 0,
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz1zz27epo#0",
+      "welsh": "Cwmni marchnata Orchard yn mynd i'r wal ar ôl 16 mlynedd",
+      "english": "Orchard marketing company goes bust after 16 years",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz1zz27epo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 09:46:01 GMT",
+      "feedPosition": 2,
       "fetchedAt": "2026-09-01T11:34:52.986Z",
       "category": null,
       "welshGlosses": [
-        "Find",
-        "for",
-        "boy",
-        "missing",
-        "away",
-        "on",
-        "Coastal",
-        "County",
-        "Pembroke",
+        "Company",
+        "Marketing",
+        "Orchard",
         "in",
-        "sand",
-        "to",
-        "head"
+        "",
+        "I",
+        "Wall",
+        "on",
+        "Trace",
+        "22",
+        "years"
       ],
       "englishGlosses": [
-        "Chwilio",
-        "am",
-        "a.",
-        "coll",
-        "bachgen",
-        "Diffodd",
-        "'r",
-        "Arfordir",
-        "o",
-        "Sir Benfro",
-        "deuir",
-        "i",
-        "\"an\",",
-        "a"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c24jpm8zq6no#0",
-      "welsh": "'Cwestiwn tyngedfennol wedi newid fy mywyd' - effaith hunlosg",
-      "english": "'A crucial life-changing question' - the impact of self-collecting",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c24jpm8zq6no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 04:59:07 GMT",
-      "feedPosition": 1,
-      "fetchedAt": "2026-09-01T11:34:52.986Z",
-      "category": null,
-      "welshGlosses": [
-        "Question:",
-        "fateful",
-        "after",
-        "change",
-        "my",
-        "life",
-        "Impact",
-        "cremated"
-      ],
-      "englishGlosses": [
-        "A.",
-        "hanfodol",
-        "newid bywyd",
-        ".",
-        "'r",
-        "Effaith",
-        "o",
-        "hunan - gasglu"
+        "Perllan",
+        "MARCHNATA",
+        "cwmni",
+        "mynd",
+        "Penddelw",
+        "Wedi",
+        "16.",
+        "blynedd"
       ]
     },
     {
@@ -148,6 +141,71 @@
       ]
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn4kmekxdkno#0",
+      "welsh": "Pwy yw'r gŵr o Geredigion yn nhîm hwylio ieuenctid Prydain?",
+      "english": "Who is the Ceredigion man in the British youth sailing team?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn4kmekxdkno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 19:12:53 GMT",
+      "feedPosition": 4,
+      "fetchedAt": "2026-09-01T20:59:40.570Z",
+      "category": null,
+      "welshGlosses": [
+        "Who",
+        "is the",
+        "man",
+        "of",
+        "Ceredigion",
+        "in",
+        "team",
+        "Sailing",
+        "youth",
+        "GB"
+      ],
+      "englishGlosses": [
+        "Pwy",
+        "yw",
+        "'r",
+        "Ceredigion",
+        "gŵr",
+        "yn",
+        "'r",
+        "BASTAI",
+        "ieuenctid",
+        "Hwylio",
+        "ITV"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c24jpm8zq6no#0",
+      "welsh": "'Cwestiwn tyngedfennol wedi newid fy mywyd' - effaith hunlosg",
+      "english": "'A crucial life-changing question' - the impact of self-collecting",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c24jpm8zq6no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 04:59:07 GMT",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-01T11:34:52.986Z",
+      "category": null,
+      "welshGlosses": [
+        "Question:",
+        "fateful",
+        "after",
+        "change",
+        "my",
+        "life",
+        "Impact",
+        "cremated"
+      ],
+      "englishGlosses": [
+        "A.",
+        "hanfodol",
+        "newid bywyd",
+        ".",
+        "'r",
+        "Effaith",
+        "o",
+        "hunan - gasglu"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyk54gzekeo#0",
       "welsh": "Arestio dau ar ôl canfod tyfiant canabis ym Mhlas Glynllifon",
       "english": "Two arrested after cannabis growth was detected at Plas Glynllifon",
@@ -182,46 +240,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz1zz27epo#0",
-      "welsh": "Cwmni marchnata Orchard yn mynd i'r wal ar ôl 16 mlynedd",
-      "english": "Orchard marketing company goes bust after 16 years",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz1zz27epo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 09:46:01 GMT",
-      "feedPosition": 2,
-      "fetchedAt": "2026-09-01T11:34:52.986Z",
-      "category": null,
-      "welshGlosses": [
-        "Company",
-        "Marketing",
-        "Orchard",
-        "in",
-        "",
-        "I",
-        "Wall",
-        "on",
-        "Trace",
-        "22",
-        "years"
-      ],
-      "englishGlosses": [
-        "Perllan",
-        "MARCHNATA",
-        "cwmni",
-        "mynd",
-        "Penddelw",
-        "Wedi",
-        "16.",
-        "blynedd"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c70lq2ql94po#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c70lq2ql94po#1",
       "welsh": "Ai Pier Bangor yw pier gorau Cymru?",
       "english": "Is Bangor Pier the best pier in Wales?",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c70lq2ql94po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 01 Sep 2026 14:08:05 GMT",
-      "feedPosition": 6,
-      "fetchedAt": "2026-09-01T16:35:37.344Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-01T20:59:40.570Z",
       "category": null,
       "welshGlosses": [
         "is it...?",
@@ -241,6 +266,47 @@
         "Pier",
         "yn",
         "Cymru"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/clylnlrw76ro#1",
+      "welsh": "Chwilio am fachgen coll oddi ar arfordir Sir Benfro yn dod i ben",
+      "english": "Searching for a missing boy off the coast of Pembrokeshire comes to an end",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/clylnlrw76ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 13:26:24 GMT",
+      "feedPosition": 8,
+      "fetchedAt": "2026-09-01T20:59:40.570Z",
+      "category": null,
+      "welshGlosses": [
+        "Find",
+        "for",
+        "boy",
+        "missing",
+        "away",
+        "on",
+        "Coastal",
+        "County",
+        "Pembroke",
+        "in",
+        "sand",
+        "to",
+        "head"
+      ],
+      "englishGlosses": [
+        "Chwilio",
+        "am",
+        "a.",
+        "coll",
+        "bachgen",
+        "Diffodd",
+        "'r",
+        "Arfordir",
+        "o",
+        "Sir Benfro",
+        "deuir",
+        "i",
+        "\"an\",",
+        "a"
       ]
     },
     {
@@ -295,61 +361,14 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gw11llelno#1",
-      "welsh": "Dafydd Owain a'i berthynas â'i nain - yr awdur Mair Wynn Hughes",
-      "english": "Dafydd Owain and his relationship with his grandmother - the author Mair Wynn Hughes",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gw11llelno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 10:41:02 GMT",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-01T16:35:37.344Z",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gq9q06qm2o#1",
+      "welsh": "Pêl-droed ganol wythnos: Sut wnaeth timau Cymru?",
+      "english": "Mid-week football: How did the Welsh teams do?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gq9q06qm2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 20:39:54 GMT",
+      "feedPosition": 11,
+      "fetchedAt": "2026-09-01T20:59:40.570Z",
       "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c86xwxvn59lo#1",
-      "welsh": "Pryder teulu o Geredigion wrth i aelod barhau i fod ar goll yn Nepal",
-      "english": "The concern of a Ceredigion family as a member remains missing in Nepal",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c86xwxvn59lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 11:35:49 GMT",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-01T16:35:37.344Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz0z4nrdjy5o#1",
-      "welsh": "O Ferthyr i Istanbul: Jamie Bevan yn cwblhau taith gerdded 3,000 milltir",
-      "english": "From Merthyr to Istanbul: Jamie Bevan completes 3,000-mile walk",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz0z4nrdjy5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 10:55:25 GMT",
-      "feedPosition": 7,
-      "fetchedAt": "2026-09-01T11:34:52.986Z",
-      "category": null,
-      "welshGlosses": [
-        "of",
-        "Merthyr",
-        "to",
-        "Istanbul?",
-        "Jamie",
-        "Bevan",
-        "in",
-        "Complete",
-        "Trip",
-        "to walk",
-        "3.",
-        "0.000",
-        "miles"
-      ],
-      "englishGlosses": [
-        "",
-        "Merthyr Tudful",
-        "i",
-        "Istanbul",
-        "Jamie Horn",
-        "Bevan",
-        "yn cwblhau",
-        "3.",
-        "000 milltir",
-        "cerdded"
-      ]
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
@@ -359,6 +378,16 @@
       "pubDate": "Wed, 04 Mar 2026 07:38:56 GMT",
       "feedPosition": 12,
       "fetchedAt": "2026-09-01T00:36:01.916Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz0z4nrdjy5o#2",
+      "welsh": "O Ferthyr i Istanbul: Jamie Bevan yn cwblhau taith gerdded 3,000 milltir",
+      "english": "From Merthyr to Istanbul: Jamie Bevan completes 3,000-mile walk",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz0z4nrdjy5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 10:55:25 GMT",
+      "feedPosition": 13,
+      "fetchedAt": "2026-09-01T20:59:40.570Z",
       "category": null
     },
     {
@@ -552,5 +581,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-09-01T16:35:37.344Z"
+  "generatedAt": "2026-09-01T20:59:40.570Z"
 }
