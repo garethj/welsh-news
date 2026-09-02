@@ -199,6 +199,47 @@
       ]
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cd942gk31xqo#0",
+      "welsh": "Dyn wedi marw yn dilyn gwrthdrawiad rhwng car a lori ger Caersŵs",
+      "english": "A man has died following a collision between a car and a lorry near Caersws",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cd942gk31xqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 16:49:08 GMT",
+      "feedPosition": 5,
+      "fetchedAt": "2026-09-02T20:59:44.229Z",
+      "category": null,
+      "welshGlosses": [
+        "Men",
+        "after",
+        "dead",
+        "in",
+        "follow",
+        "collision",
+        "between",
+        "car",
+        "and",
+        "HGV",
+        "near",
+        "Caersws"
+      ],
+      "englishGlosses": [
+        "A.",
+        "gŵr",
+        "Oes",
+        "bu farw",
+        "dilynol",
+        "a.",
+        "gwrthdrawiad",
+        "rhwng",
+        "a.",
+        "siop dega",
+        "a",
+        "a.",
+        "Lori",
+        "agos",
+        "Caersws"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy5znp3gddvo#0",
       "welsh": "'GIG Cymru mewn argyfwng' - pennaeth Cymreig newydd y BMA",
       "english": "'NHS Wales in crisis' - the new Welsh head of the BMA",
@@ -233,13 +274,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy8z35j1m34o#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy8z35j1m34o#1",
       "welsh": "Y ffilm Madfabulous yn arwain enwebiadau BAFTA Cymru 2026",
       "english": "The film Madfabulous leads the nominations of BAFTA Cymru 2026",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy8z35j1m34o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 02 Sep 2026 10:05:13 GMT",
-      "feedPosition": 1,
-      "fetchedAt": "2026-09-02T11:12:43.150Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-02T20:59:44.229Z",
       "category": null,
       "welshGlosses": [
         "the",
@@ -315,24 +356,33 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/clye4e9v7deo#1",
-      "welsh": "Menywod sy'n prynu testosteron ar-lein yn wynebu sgil effeithiau hirdymor",
-      "english": "Women who buy testosterone online face long-term side effects",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/clye4e9v7deo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 06:08:17 GMT",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-02T16:31:28.616Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz1zz27epo#1",
-      "welsh": "'Cwestiynau mawr i'w gofyn' wrth i gwmni marchnata Orchard fynd i'r wal",
-      "english": "'Big questions to ask' as Orchard marketing company goes bust",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz1zz27epo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 18:59:28 GMT",
-      "feedPosition": 8,
-      "fetchedAt": "2026-09-02T11:12:43.150Z",
-      "category": null
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gq9q06qm2o#1",
+      "welsh": "Pêl-droed ganol wythnos: Sut wnaeth timau Cymru?",
+      "english": "Mid-week football: How did the Welsh teams do?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gq9q06qm2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 20:43:08 GMT",
+      "feedPosition": 11,
+      "fetchedAt": "2026-09-02T20:59:44.229Z",
+      "category": null,
+      "welshGlosses": [
+        "Soccer",
+        "middle",
+        "week",
+        "How?",
+        "did",
+        "Teams",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Canol wythnos",
+        "",
+        "Sut?",
+        "wnaeth",
+        "'r",
+        "Cymraeg",
+        "Timau",
+        "gwneud"
+      ]
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/czdezvemv9jo#2",
@@ -545,5 +595,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-09-02T16:31:28.616Z"
+  "generatedAt": "2026-09-02T20:59:44.229Z"
 }
