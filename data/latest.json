@@ -1,36 +1,43 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "headlines": [
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2zgxzxvnxo#0",
-      "welsh": "Carcharu bachgen 16 oed am drywanu athrawes yn ei phen",
-      "english": "16-year-old boy jailed for stabbing teacher in head",
+      "welsh": "Bachgen a drywanodd athrawes yn ei phen i dreulio cyfnod dan glo",
+      "english": "A boy stabbed a teacher in the head for a period of imprisonment",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2zgxzxvnxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 10:54:18 GMT",
+      "pubDate": "Thu, 03 Sep 2026 13:51:14 GMT",
       "feedPosition": 0,
-      "fetchedAt": "2026-09-03T11:08:41.753Z",
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null,
       "welshGlosses": [
-        "imprisonment",
-        "",
-        "22",
-        "age",
-        "for",
-        "to stab",
+        "Boy",
+        "and",
+        "stabbed",
         "helper",
         "in",
         "his/her",
-        "head"
+        "head",
+        "to",
+        "to spend",
+        "series",
+        "under",
+        "Coal"
       ],
       "englishGlosses": [
-        "16 mlwydd oed",
+        "A.",
         "bachgen",
-        "carchar",
-        "am",
-        "trywanu",
+        "wedi'i drywanu",
+        "a.",
         "Athro",
         "yn",
-        "pen"
+        "'r",
+        "pen",
+        "am",
+        "a.",
+        "Cyfnod",
+        "o",
+        "carcharu"
       ]
     },
     {
@@ -40,7 +47,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c624x326y11o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 17:30:00 GMT",
       "feedPosition": 1,
-      "fetchedAt": "2026-09-03T20:58:34.189Z",
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null,
       "welshGlosses": [
         "& Restore",
@@ -72,7 +79,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c74kn3np241o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 20:15:16 GMT",
       "feedPosition": 2,
-      "fetchedAt": "2026-09-03T20:58:34.189Z",
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null,
       "welshGlosses": [
         "Tributes",
@@ -105,7 +112,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5yd6wv1nd3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 19:00:13 GMT",
       "feedPosition": 3,
-      "fetchedAt": "2026-09-03T20:58:34.189Z",
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null,
       "welshGlosses": [
         "Call",
@@ -146,8 +153,8 @@
       "english": "Accused a young driver of causing the death of a cyclist in Carmarthenshire",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy5zryyvg31o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 09:47:55 GMT",
-      "feedPosition": 1,
-      "fetchedAt": "2026-09-03T11:08:41.753Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null,
       "welshGlosses": [
         "accuse",
@@ -183,8 +190,8 @@
       "english": "Nathan Gill to pay money back after being jailed for bribery",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c62kjd3n9lgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 10:35:21 GMT",
-      "feedPosition": 2,
-      "fetchedAt": "2026-09-03T11:08:41.753Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null,
       "welshGlosses": [
         "Nathan",
@@ -222,8 +229,8 @@
       "english": "No follow-up appointments after treatment to try to reduce waiting lists",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c62mz5y0z7zo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 08:46:45 GMT",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-03T11:08:41.753Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null,
       "welshGlosses": [
         "None",
@@ -259,7 +266,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cyvze57d9ydo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 05:05:44 GMT",
       "feedPosition": 7,
-      "fetchedAt": "2026-09-03T20:58:34.189Z",
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null,
       "welshGlosses": [
         "Human",
@@ -303,30 +310,8 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckgwnk5gg10o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 06:07:53 GMT",
       "feedPosition": 8,
-      "fetchedAt": "2026-09-03T20:58:34.189Z",
-      "category": null,
-      "welshGlosses": [
-        "the",
-        "Group",
-        "Development.",
-        "which",
-        "caring",
-        "for",
-        "squirrels",
-        "red",
-        "Anglesey"
-      ],
-      "englishGlosses": [
-        "Y",
-        "cymuned",
-        "grŵp",
-        "hynny",
-        "edrych",
-        "Wedi",
-        "Mon",
-        "coch",
-        "Gwiwerod"
-      ]
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjkd9yj44zo#1",
@@ -335,7 +320,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjkd9yj44zo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 05:09:18 GMT",
       "feedPosition": 9,
-      "fetchedAt": "2026-09-03T20:58:34.189Z",
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -344,8 +329,8 @@
       "english": "The loss of Islwyn Owen: 'Tears every day for a year but it is getting easier'",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c980ydqz1zjo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 02 Sep 2026 05:05:24 GMT",
-      "feedPosition": 8,
-      "fetchedAt": "2026-09-03T11:08:41.753Z",
+      "feedPosition": 10,
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -354,37 +339,9 @@
       "english": "'I pay back the people of Caernarfon for accepting an outsider like me'",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce304w442lwo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 02 Sep 2026 13:06:44 GMT",
-      "feedPosition": 7,
-      "fetchedAt": "2026-09-03T11:08:41.753Z",
-      "category": null,
-      "welshGlosses": [
-        "I",
-        "pay 'n",
-        "Trace",
-        "to",
-        "Phob",
-        "Caernarvon",
-        "for",
-        "receiving",
-        "outsider",
-        "Like",
-        "me"
-      ],
-      "englishGlosses": [
-        "Rwy'n",
-        "tâl",
-        "Nôl",
-        "'r",
-        "Pobl",
-        "o",
-        "Camerŵnfrance. kgm",
-        "am",
-        "derbyn",
-        "\"an\",",
-        "rhywun o'r tu allan",
-        "hoffi",
-        ""
-      ]
+      "feedPosition": 11,
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
@@ -392,8 +349,8 @@
       "english": "Live Wales Daily Quiz",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 04 Mar 2026 07:38:56 GMT",
-      "feedPosition": 13,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
+      "feedPosition": 12,
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -402,8 +359,8 @@
       "english": "The Welshman who inspired Watership Down",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/czdezvemv9jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 02 Sep 2026 06:06:00 GMT",
-      "feedPosition": 12,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
+      "feedPosition": 13,
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -413,7 +370,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce8kllxdnr7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 01 Sep 2026 08:41:38 GMT",
       "feedPosition": 14,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -423,7 +380,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c70lq2ql94po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 01 Sep 2026 14:08:05 GMT",
       "feedPosition": 15,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -433,7 +390,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz0z4nrdjy5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 31 Aug 2026 10:55:25 GMT",
       "feedPosition": 16,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -443,7 +400,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz645de0wplo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 31 Aug 2026 06:36:02 GMT",
       "feedPosition": 17,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -452,8 +409,8 @@
       "english": "Download the app",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5ym4j306qzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 22 May 2025 13:11:01 GMT",
-      "feedPosition": 19,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
+      "feedPosition": 18,
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -463,38 +420,8 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p7rnz3?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 13:27:47 GMT",
       "feedPosition": 19,
-      "fetchedAt": "2026-09-03T16:22:41.445Z",
-      "category": null,
-      "welshGlosses": [
-        "a_BAR_an_BAR_the",
-        "Rings",
-        "<PROTECTED> of <PROTECTED>",
-        "Power",
-        "after",
-        "change",
-        "life",
-        "the",
-        "Acto",
-        "of",
-        "Rhubarb",
-        "Owain",
-        "Arthur"
-      ],
-      "englishGlosses": [
-        "Y",
-        "cylchoedd",
-        "o",
-        "Pŵer",
-        "Oes",
-        "Newidiwyd",
-        "'r",
-        "bywyd",
-        "o",
-        "Rhylian",
-        "Acto",
-        "glyndwr",
-        "Arthur?"
-      ]
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/sounds/play/p0p6cjrt#4",
@@ -503,45 +430,8 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p6cjrt?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 28 Aug 2026 09:23:30 GMT",
       "feedPosition": 20,
-      "fetchedAt": "2026-09-03T16:22:41.445Z",
-      "category": null,
-      "welshGlosses": [
-        "is",
-        "gen",
-        "to",
-        "conclusion",
-        "of",
-        "more",
-        "nor",
-        "400%",
-        "poem",
-        "Melinda",
-        "Grey",
-        "and",
-        "poems",
-        "boys",
-        "Welsh",
-        "Amerika"
-      ],
-      "englishGlosses": [
-        "Rwy'n",
-        "cael",
-        "a.",
-        "casgliad",
-        "o",
-        "dros",
-        "400%",
-        "cerddi",
-        "Melinda",
-        "Llwyd",
-        "a",
-        "'r",
-        "cerddi",
-        "o",
-        "Cymraeg",
-        "امریکایی",
-        "Dynes"
-      ]
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/sounds/play/p0p7pt4l#4",
@@ -549,8 +439,8 @@
       "english": "'Realising a dream' running a marathon in Australia",
       "url": "https://www.bbc.co.uk/sounds/play/p0p7pt4l?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 10:05:33 GMT",
-      "feedPosition": 19,
-      "fetchedAt": "2026-09-03T11:08:41.753Z",
+      "feedPosition": 21,
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -559,8 +449,8 @@
       "english": "The loss of Islwyn Owen: 'Remember to hold on to hope even if you know something is wrong'",
       "url": "https://www.bbc.co.uk/sounds/play/p0p7cxxm?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 01 Sep 2026 15:27:37 GMT",
-      "feedPosition": 21,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
+      "feedPosition": 22,
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -569,8 +459,8 @@
       "english": "'I have been walking about 20 miles a day, six days a week for almost six months'",
       "url": "https://www.bbc.co.uk/sounds/play/p0p7jrv5?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 02 Sep 2026 13:59:14 GMT",
-      "feedPosition": 20,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
+      "feedPosition": 23,
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -579,8 +469,8 @@
       "english": "Wedding Party Arrives in America",
       "url": "https://www.bbc.co.uk/sounds/play/p0p7c0qr?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 01 Sep 2026 12:47:51 GMT",
-      "feedPosition": 22,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
+      "feedPosition": 24,
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -589,8 +479,8 @@
       "english": "Ceredigion family 'losing hope' as member remains missing in Nepal",
       "url": "https://www.bbc.co.uk/sounds/play/p0p73zcv?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 30 Aug 2026 16:42:51 GMT",
-      "feedPosition": 26,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
+      "feedPosition": 25,
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -600,7 +490,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjkd9yj44zo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 05:09:18 GMT",
       "feedPosition": 26,
-      "fetchedAt": "2026-09-03T11:08:41.753Z",
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -609,8 +499,8 @@
       "english": "Mid-week football: How did the Welsh teams do?",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gq9q06qm2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 02 Sep 2026 20:43:08 GMT",
-      "feedPosition": 28,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
+      "feedPosition": 27,
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -619,8 +509,8 @@
       "english": "Clubs Wales has been buying and selling players but done enough?",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5ym0py1eleo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 02 Sep 2026 11:07:28 GMT",
-      "feedPosition": 27,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
+      "feedPosition": 28,
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -630,7 +520,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn4kmekxdkno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 01 Sep 2026 19:12:53 GMT",
       "feedPosition": 29,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -640,7 +530,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9w4jzlk8y0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 31 Aug 2026 06:01:28 GMT",
       "feedPosition": 30,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     },
     {
@@ -649,10 +539,10 @@
       "english": "Join the BBC Wales Live channel on WhatsApp",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cyx66935y29o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 22 May 2024 11:06:50 GMT",
-      "feedPosition": 32,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
+      "feedPosition": 31,
+      "fetchedAt": "2026-09-03T23:15:08.508Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-09-03T20:58:34.189Z"
+  "generatedAt": "2026-09-03T23:15:08.508Z"
 }
