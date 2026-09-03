@@ -254,6 +254,16 @@
       ]
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c980ydqz1zjo#1",
+      "welsh": "Colli Islwyn Owen: 'Dagrau bob dydd am flwyddyn ond mae'n dod yn haws'",
+      "english": "The loss of Islwyn Owen: 'Tears every day for a year but it is getting easier'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c980ydqz1zjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 05:05:24 GMT",
+      "feedPosition": 8,
+      "fetchedAt": "2026-09-03T11:08:41.753Z",
+      "category": null
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce304w442lwo#1",
       "welsh": "'Fi'n talu'n ôl i bobl Caernarfon am dderbyn outsider fel fi'",
       "english": "'I pay back the people of Caernarfon for accepting an outsider like me'",
@@ -290,16 +300,6 @@
         "hoffi",
         ""
       ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c980ydqz1zjo#1",
-      "welsh": "Colli Islwyn Owen: 'Dagrau bob dydd am flwyddyn ond mae'n dod yn haws'",
-      "english": "The loss of Islwyn Owen: 'Tears every day for a year but it is getting easier'",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c980ydqz1zjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 05:05:24 GMT",
-      "feedPosition": 8,
-      "fetchedAt": "2026-09-03T11:08:41.753Z",
-      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cpwldnvv897o#1",
@@ -402,6 +402,93 @@
       "category": null
     },
     {
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p7rnz3#4",
+      "welsh": "The Rings of Power wedi 'newid bywyd' yr actor o Riwlas, Owain Arthur",
+      "english": "The Rings of Power has' changed the life 'of Rhylian actor Owain Arthur",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p7rnz3?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 13:27:47 GMT",
+      "feedPosition": 19,
+      "fetchedAt": "2026-09-03T16:22:41.445Z",
+      "category": null,
+      "welshGlosses": [
+        "a_BAR_an_BAR_the",
+        "Rings",
+        "<PROTECTED> of <PROTECTED>",
+        "Power",
+        "after",
+        "change",
+        "life",
+        "the",
+        "Acto",
+        "of",
+        "Rhubarb",
+        "Owain",
+        "Arthur"
+      ],
+      "englishGlosses": [
+        "Y",
+        "cylchoedd",
+        "o",
+        "Pŵer",
+        "Oes",
+        "Newidiwyd",
+        "'r",
+        "bywyd",
+        "o",
+        "Rhylian",
+        "Acto",
+        "glyndwr",
+        "Arthur?"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p6cjrt#4",
+      "welsh": "'Mae gen i gasgliad o mwy na 400 cerdd' - Melinda Gray a cherddi merched Cymreig America",
+      "english": "'I have a collection of over 400 poems' - Melinda Grey and the poems of Welsh American women",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p6cjrt?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 09:23:30 GMT",
+      "feedPosition": 20,
+      "fetchedAt": "2026-09-03T16:22:41.445Z",
+      "category": null,
+      "welshGlosses": [
+        "is",
+        "gen",
+        "to",
+        "conclusion",
+        "of",
+        "more",
+        "nor",
+        "400%",
+        "poem",
+        "Melinda",
+        "Grey",
+        "and",
+        "poems",
+        "boys",
+        "Welsh",
+        "Amerika"
+      ],
+      "englishGlosses": [
+        "Rwy'n",
+        "cael",
+        "a.",
+        "casgliad",
+        "o",
+        "dros",
+        "400%",
+        "cerddi",
+        "Melinda",
+        "Llwyd",
+        "a",
+        "'r",
+        "cerddi",
+        "o",
+        "Cymraeg",
+        "امریکایی",
+        "Dynes"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/sounds/play/p0p7pt4l#4",
       "welsh": "'Gwireddu breuddwyd' yn rhedeg marathon yn Awstralia",
       "english": "'Realising a dream' running a marathon in Australia",
@@ -438,26 +525,6 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p7c0qr?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 01 Sep 2026 12:47:51 GMT",
       "feedPosition": 22,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sounds/play/p0p6vpjz#4",
-      "welsh": "Dylanwad Nain ar y cerddor Dafydd Owain",
-      "english": "Grandmother's influence on musician Dafydd Owain",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p6vpjz?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 15:49:47 GMT",
-      "feedPosition": 23,
-      "fetchedAt": "2026-09-02T23:17:19.905Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sounds/play/p0p79rj8#4",
-      "welsh": "'Mae diddordeb gan y genhedlaeth ifanc mewn recordiau feinyl' - Kev Tame",
-      "english": "'The younger generation is interested in vinyl records' - Kev Tame",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p79rj8?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 07:23:33 GMT",
-      "feedPosition": 25,
       "fetchedAt": "2026-09-02T23:17:19.905Z",
       "category": null
     },
@@ -532,5 +599,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-09-03T11:08:41.753Z"
+  "generatedAt": "2026-09-03T16:22:41.445Z"
 }
