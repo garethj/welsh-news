@@ -34,6 +34,113 @@
       ]
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c624x326y11o#0",
+      "welsh": "Adfer gwasanaeth bws yn 'fuddugoliaeth' i bentrefwyr ym Môn",
+      "english": "Restoring bus service to 'triumph' for villagers in Anglesey",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c624x326y11o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 17:30:00 GMT",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-03T20:58:34.189Z",
+      "category": null,
+      "welshGlosses": [
+        "& Restore",
+        "Service",
+        "Bus",
+        "in",
+        "victory",
+        "to",
+        "villagers",
+        "re",
+        "Anglesey"
+      ],
+      "englishGlosses": [
+        "Adfer",
+        "Bws",
+        "BWYD",
+        "i",
+        "buddugoliaeth",
+        "am",
+        "pentrefwyr",
+        "yn",
+        "Mon"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c74kn3np241o#0",
+      "welsh": "Teyrngedau i'r cynhyrchydd, cyflwynydd a'r actores Sara Ogwen Williams",
+      "english": "Tributes to the producer, presenter and actress Sara Ogwen Williams",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c74kn3np241o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 20:15:16 GMT",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-03T20:58:34.189Z",
+      "category": null,
+      "welshGlosses": [
+        "Tributes",
+        "I",
+        "single",
+        "Presenter",
+        "and the",
+        "Actor",
+        "Sara",
+        "Ogwen",
+        "Williams Lake"
+      ],
+      "englishGlosses": [
+        "Teyrngedau",
+        "i",
+        "'r",
+        "cynhyrchydd",
+        "Cyflwynydd",
+        "a",
+        "Actor",
+        "Sara",
+        "Ogwen",
+        "Wyn Williams"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5yd6wv1nd3o#0",
+      "welsh": "Galw am ohirio cynllun dangos pasport wrth deithio ar fferis i Iwerddon",
+      "english": "Call for the deferral of the demonstration of a passport when travelling by ferry to Ireland",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5yd6wv1nd3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 19:00:13 GMT",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-03T20:58:34.189Z",
+      "category": null,
+      "welshGlosses": [
+        "Call",
+        "for",
+        "deferral",
+        "Plan",
+        "Show",
+        "passport",
+        "by",
+        "to travel",
+        "on",
+        "ferris",
+        "to",
+        "Irland"
+      ],
+      "englishGlosses": [
+        "Galw",
+        "am",
+        "'r",
+        "Gohirio",
+        "o",
+        "'r",
+        "arddangosiad",
+        "o",
+        "a.",
+        "Pasbort",
+        "Pan",
+        "TEITHIO",
+        "gan",
+        "fferi",
+        "i",
+        "Iwerddon"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy5zryyvg31o#0",
       "welsh": "Cyhuddo gyrrwr ifanc o achosi marwolaeth seiclwr yn Sir Gâr",
       "english": "Accused a young driver of causing the death of a cyclist in Carmarthenshire",
@@ -146,13 +253,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cyvze57d9ydo#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cyvze57d9ydo#1",
       "welsh": "Pobl Cymru ddylai benderfynu ar ddyfodol teitl Tywysog Cymru - Michael Sheen",
       "english": "The future of the title of Prince of Wales should be decided by the people of Wales - Michael Sheen",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cyvze57d9ydo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 05:05:44 GMT",
-      "feedPosition": 4,
-      "fetchedAt": "2026-09-03T11:08:41.753Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-03T20:58:34.189Z",
       "category": null,
       "welshGlosses": [
         "Human",
@@ -190,13 +297,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckgwnk5gg10o#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckgwnk5gg10o#1",
       "welsh": "Y grŵp cymunedol sy'n gofalu am wiwerod cochion Môn",
       "english": "The community group that looks after Anglesey red squirrels",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckgwnk5gg10o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 06:07:53 GMT",
-      "feedPosition": 5,
-      "fetchedAt": "2026-09-03T11:08:41.753Z",
+      "feedPosition": 8,
+      "fetchedAt": "2026-09-03T20:58:34.189Z",
       "category": null,
       "welshGlosses": [
         "the",
@@ -222,36 +329,14 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjkd9yj44zo#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjkd9yj44zo#1",
       "welsh": "URC yn 'weithle mwy diogel' wedi canfyddiadau o ddiwylliant gwenwynig",
       "english": "WRU 'safer workplace' after perceptions of toxic culture",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjkd9yj44zo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 05:09:18 GMT",
-      "feedPosition": 6,
-      "fetchedAt": "2026-09-03T11:08:41.753Z",
-      "category": null,
-      "welshGlosses": [
-        "WRU",
-        "in",
-        "workplace",
-        "more",
-        "safe",
-        "after",
-        "Findings",
-        "of",
-        "culture",
-        "poisend"
-      ],
-      "englishGlosses": [
-        "URC",
-        "mwy diogel",
-        "Gweithle",
-        "Wedi",
-        "canfyddiadau",
-        "o",
-        "Gwenwynig",
-        "diwylliant"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-09-03T20:58:34.189Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c980ydqz1zjo#1",
@@ -300,36 +385,6 @@
         "hoffi",
         ""
       ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cpwldnvv897o#1",
-      "welsh": "Arestio pedwar mewn cysylltiad â llofruddiaeth dynes ym Môn yn 1994",
-      "english": "Four arrested in connection with the 1994 murder of a woman in Anglesey",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cpwldnvv897o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 14:59:08 GMT",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-03T11:08:41.753Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cew9k4d0gr1o#1",
-      "welsh": "Dynes wedi marw o drawiad gwres tra'n cerdded ar Yr Wyddfa - cwest",
-      "english": "A woman has died from a heat stroke while walking on Snowdon - an inquest",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cew9k4d0gr1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 11:16:43 GMT",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-03T11:08:41.753Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cd942gk31xqo#1",
-      "welsh": "Dyn wedi marw yn dilyn gwrthdrawiad rhwng car a lori ger Caersŵs",
-      "english": "A man has died following a collision between a car and a lorry near Caersws",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cd942gk31xqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 16:49:08 GMT",
-      "feedPosition": 11,
-      "fetchedAt": "2026-09-03T11:08:41.753Z",
-      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
@@ -599,5 +654,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-09-03T16:22:41.445Z"
+  "generatedAt": "2026-09-03T20:58:34.189Z"
 }
