@@ -44,6 +44,163 @@
       ]
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp301p96yx7o#0",
+      "welsh": "Yr ysgolhaig a'r casglwr caneuon gwerin Roy Saer wedi marw yn 90 oed",
+      "english": "The scholar and collector of folk songs Roy Saer has died aged 90",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp301p96yx7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 04 Sep 2026 14:37:02 GMT",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-04T16:18:05.418Z",
+      "category": null,
+      "welshGlosses": [
+        "the",
+        "Scholar",
+        "and the",
+        "collector",
+        "Song",
+        "Folk",
+        "Roy",
+        "Carpentry",
+        "after",
+        "dead",
+        "in",
+        "90%",
+        "age"
+      ],
+      "englishGlosses": [
+        "Y",
+        "Ysgolor",
+        "a",
+        "casglwr",
+        "o",
+        "Gwerin",
+        "Cân",
+        "Roy",
+        "Saer",
+        "Oes",
+        "bu farw",
+        "oed",
+        "90%"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn5dx72n6d1o#0",
+      "welsh": "'Reform wedi profi eu hunain fel llais cryf i gymunedau Cymru'",
+      "english": "'Reform has proven itself as a strong voice for the communities of Wales'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn5dx72n6d1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 04 Sep 2026 04:55:33 GMT",
+      "feedPosition": 6,
+      "fetchedAt": "2026-09-04T11:12:49.768Z",
+      "category": null,
+      "welshGlosses": [
+        "Reform",
+        "after",
+        "test",
+        "their",
+        "self",
+        "Like",
+        "vote",
+        "strong",
+        "to",
+        "communities",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Diwygio",
+        "Oes",
+        "profwyd",
+        "ei hunan",
+        "Graddfeyddunit description in lists",
+        "a.",
+        "Cryf",
+        "Aros",
+        "am",
+        "'r",
+        "Cymuned",
+        "o",
+        "Cymru"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5yd6kwzkyxo#0",
+      "welsh": "Sut 'wythnos gyntaf yn ôl yn yr ysgol' a gafodd teulu o Ddyffryn Nantlle?",
+      "english": "How did 'first week back at school' have a family from the Nantlle Valley?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5yd6kwzkyxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 04 Sep 2026 13:54:02 GMT",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-04T16:18:05.418Z",
+      "category": null,
+      "welshGlosses": [
+        "How?",
+        "week",
+        "first",
+        "in",
+        "Trace",
+        "in",
+        "the",
+        "school",
+        "and",
+        "he had",
+        "family",
+        "of",
+        "valley",
+        "Nantlle"
+      ],
+      "englishGlosses": [
+        "Sut?",
+        "wnaeth",
+        "cyntaf",
+        "wythnos",
+        "Nôl",
+        "am",
+        "Term",
+        "cael",
+        "a.",
+        "",
+        "o",
+        "'r",
+        "Nantlle",
+        "Dyffryn"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cde02x7lwdxo#0",
+      "welsh": "Syr Roger Jones - 'un o fawrion byd busnes Cymru' - wedi marw",
+      "english": "Sir Roger Jones - 'one of the greats of Welsh business' - has died",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cde02x7lwdxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 04 Sep 2026 15:10:37 GMT",
+      "feedPosition": 4,
+      "fetchedAt": "2026-09-04T16:18:05.418Z",
+      "category": null,
+      "welshGlosses": [
+        "Sir",
+        "Roger",
+        "Jones",
+        "one",
+        "of",
+        "greats",
+        "Earth",
+        "Business",
+        "Wales",
+        "after",
+        "dead"
+      ],
+      "englishGlosses": [
+        "Syr",
+        "Roger",
+        "Sion Jones",
+        "un",
+        "o",
+        "'r",
+        "mawrion",
+        "o",
+        "Cymraeg",
+        "Busnes",
+        "Oes",
+        "bu farw"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c74knw4g91qo#0",
       "welsh": "Sbwriel ar safle o harddwch ym Mannau Brycheiniog 'ymysg y gwaethaf erioed'",
       "english": "Litter on a site of beauty in the Brecon Beacons' among the worst ever '",
@@ -117,13 +274,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlwyrrp7gqo#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlwyrrp7gqo#1",
       "welsh": "Cyngor a chorff amgylcheddol yn ceisio atal 'tipio gwastraff' ger pentrefi",
       "english": "An environmental council and body trying to stop 'fly-tipping' near villages",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlwyrrp7gqo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 04 Sep 2026 10:06:51 GMT",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-04T11:12:49.768Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-04T16:18:05.418Z",
       "category": null,
       "welshGlosses": [
         "Advice",
@@ -153,13 +310,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyqwg5971vo#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyqwg5971vo#1",
       "welsh": "Codi'r gwaharddiad ar ddefnydd pibellau dŵr yn y gorllewin",
       "english": "Lifting the ban on the use of water pipes in the west",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyqwg5971vo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 04 Sep 2026 10:40:58 GMT",
-      "feedPosition": 4,
-      "fetchedAt": "2026-09-04T11:12:49.768Z",
+      "feedPosition": 8,
+      "fetchedAt": "2026-09-04T16:18:05.418Z",
       "category": null,
       "welshGlosses": [
         "Raise the",
@@ -188,73 +345,14 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/czjzn7x0vd0o#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/czjzn7x0vd0o#1",
       "welsh": "Ail-fyw buddugoliaeth enwog pêl-droedwyr o Gymru ar lwyfan",
       "english": "Re-live the famous victory of Welsh footballers on stage",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/czjzn7x0vd0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 04 Sep 2026 04:56:29 GMT",
-      "feedPosition": 5,
-      "fetchedAt": "2026-09-04T11:12:49.768Z",
-      "category": null,
-      "welshGlosses": [
-        "Relive",
-        "victory",
-        "Popstar",
-        "footballers",
-        "of",
-        "Wales",
-        "on",
-        "stage"
-      ],
-      "englishGlosses": [
-        "Ail - fyw",
-        "'r",
-        "enwog",
-        "buddugoliaeth",
-        "o",
-        "Cymraeg",
-        "pêl - droedwyr",
-        "ar",
-        "Cam"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn5dx72n6d1o#0",
-      "welsh": "'Reform wedi profi eu hunain fel llais cryf i gymunedau Cymru'",
-      "english": "'Reform has proven itself as a strong voice for the communities of Wales'",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn5dx72n6d1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 04:55:33 GMT",
-      "feedPosition": 6,
-      "fetchedAt": "2026-09-04T11:12:49.768Z",
-      "category": null,
-      "welshGlosses": [
-        "Reform",
-        "after",
-        "test",
-        "their",
-        "self",
-        "Like",
-        "vote",
-        "strong",
-        "to",
-        "communities",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "Diwygio",
-        "Oes",
-        "profwyd",
-        "ei hunan",
-        "Graddfeyddunit description in lists",
-        "a.",
-        "Cryf",
-        "Aros",
-        "am",
-        "'r",
-        "Cymuned",
-        "o",
-        "Cymru"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-09-04T16:18:05.418Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c624x326y11o#1",
@@ -295,36 +393,6 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5yd6wv1nd3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 19:00:13 GMT",
       "feedPosition": 8,
-      "fetchedAt": "2026-09-04T11:12:49.768Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy5zryyvg31o#1",
-      "welsh": "Cyhuddo gyrrwr ifanc o achosi marwolaeth seiclwr yn Sir Gâr",
-      "english": "Accused a young driver of causing the death of a cyclist in Carmarthenshire",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy5zryyvg31o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 09:47:55 GMT",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-04T11:12:49.768Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2zgxzxvnxo#1",
-      "welsh": "Bachgen a drywanodd athrawes yn ei phen i dreulio cyfnod dan glo",
-      "english": "A boy stabbed a teacher in the head for a period of imprisonment",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2zgxzxvnxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 13:51:14 GMT",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-04T11:12:49.768Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c62kjd3n9lgo#1",
-      "welsh": "Nathan Gill i dalu arian yn ôl ar ôl cael ei garcharu am lwgrwobrwyo",
-      "english": "Nathan Gill to pay money back after being jailed for bribery",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c62kjd3n9lgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 10:35:21 GMT",
-      "feedPosition": 11,
       "fetchedAt": "2026-09-04T11:12:49.768Z",
       "category": null
     },
@@ -469,16 +537,6 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/sounds/play/p0p7jrv5#4",
-      "welsh": "'Fi wedi bod yn cerdded tua 20 milltir y dydd, chwe diwrnod yr wythnos am bron i chwe mis'",
-      "english": "'I have been walking about 20 miles a day, six days a week for almost six months'",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p7jrv5?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 13:59:14 GMT",
-      "feedPosition": 23,
-      "fetchedAt": "2026-09-03T23:15:08.508Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/czjzn7x0vd0o#6",
       "welsh": "Ail-fyw buddugoliaeth enwog pêl-droedwyr o Gymru ar lwyfan",
       "english": "Re-live the famous victory of Welsh footballers on stage",
@@ -539,5 +597,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-09-04T11:12:49.768Z"
+  "generatedAt": "2026-09-04T16:18:05.418Z"
 }
