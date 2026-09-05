@@ -302,16 +302,6 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn5dx72n6d1o#1",
-      "welsh": "'Reform wedi profi eu hunain fel llais cryf i gymunedau Cymru'",
-      "english": "'Reform has proven itself as a strong voice for the communities of Wales'",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn5dx72n6d1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 13:18:44 GMT",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-05T10:30:21.438Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cde02x7lwdxo#1",
       "welsh": "Syr Roger Jones - 'un o fawrion byd busnes Cymru' - wedi marw",
       "english": "Sir Roger Jones - 'one of the greats of Welsh business' - has died",
@@ -320,6 +310,46 @@
       "feedPosition": 11,
       "fetchedAt": "2026-09-05T10:30:21.438Z",
       "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c74knw4g91qo#1",
+      "welsh": "Sbwriel ar safle o harddwch ym Mannau Brycheiniog 'ymysg y gwaethaf erioed'",
+      "english": "Litter on a site of beauty in the Brecon Beacons' among the worst ever '",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c74knw4g91qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 04 Sep 2026 16:40:19 GMT",
+      "feedPosition": 11,
+      "fetchedAt": "2026-09-05T15:09:01.990Z",
+      "category": null,
+      "welshGlosses": [
+        "Trash",
+        "on",
+        "ever",
+        "of",
+        "Beauty",
+        "re",
+        "Places",
+        "Brycheiniog",
+        "among",
+        "the",
+        "worst",
+        "ever"
+      ],
+      "englishGlosses": [
+        "torrau",
+        "ar",
+        "a.",
+        "Safle",
+        "o",
+        "Harddwch",
+        "yn",
+        "'r",
+        "Aberhonddu",
+        "Bannau",
+        "ymysg",
+        "'r",
+        "Gwaethaf:",
+        "safle"
+      ]
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
@@ -542,5 +572,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-09-05T10:30:21.438Z"
+  "generatedAt": "2026-09-05T15:09:01.990Z"
 }
