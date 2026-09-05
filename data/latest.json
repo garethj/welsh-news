@@ -2,6 +2,204 @@
   "date": "2026-09-05",
   "headlines": [
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c207k03nd64o#0",
+      "welsh": "Cwblhau 100 marathon ultra mewn 100 diwrnod yn 'hollol boncyrs'",
+      "english": "Complete 100 ultra marathons in 100 days in 'absolutely bonkers'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c207k03nd64o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 05:57:40 GMT",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-05T10:30:21.438Z",
+      "category": null,
+      "welshGlosses": [
+        "Complete",
+        "100%",
+        "Maranhão",
+        "ultra",
+        "in",
+        "100%",
+        "Day",
+        "in",
+        "complete",
+        "boncyrs"
+      ],
+      "englishGlosses": [
+        "Cwblhau",
+        "100%",
+        "ultra",
+        "Marathon",
+        "yn",
+        "100%",
+        "diwrnod",
+        "yn",
+        "gwbl",
+        "boncyrs"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgyqr0yn86o#0",
+      "welsh": "'Byddwn yn cofio nhw i gyd' - Diffoddwyr tân yn teithio i'r UDA 25 mlynedd ers 9/11",
+      "english": "'We will remember them all' - Firefighters travel to the USA 25 years since 9/11",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgyqr0yn86o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 05:58:09 GMT",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-05T10:30:21.438Z",
+      "category": null,
+      "welshGlosses": [
+        "This",
+        "in",
+        "Piece",
+        "they",
+        "to",
+        "together",
+        "Fighters",
+        "Fire",
+        "in",
+        "travel",
+        "I",
+        "USA",
+        "25%",
+        "years",
+        "Since",
+        "9.",
+        "16"
+      ],
+      "englishGlosses": [
+        "i ni.",
+        "Will.",
+        "cofio",
+        "nhw",
+        "bob un",
+        "Ymladdwyr Tân",
+        "bodoli",
+        "i",
+        "'r",
+        "UDA",
+        "25%",
+        "blynedd",
+        "Ers",
+        "9.",
+        "11."
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cjw5v4n8nz6o#0",
+      "welsh": "Cwis: Canu Gwlad",
+      "english": "Quiz: Country Music",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cjw5v4n8nz6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 06:08:41 GMT",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-05T10:30:21.438Z",
+      "category": null,
+      "welshGlosses": [
+        "Quiz",
+        "sing",
+        "Country"
+      ],
+      "englishGlosses": [
+        ".",
+        "Gwlad",
+        "Cerddoriaeth"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8jdexe07pmo#0",
+      "welsh": "Dathlu 80 mlynedd o gefnogi Wrecsam",
+      "english": "Celebrating 80 years of supporting Wrexham",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8jdexe07pmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 08:10:08 GMT",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-05T10:30:21.438Z",
+      "category": null,
+      "welshGlosses": [
+        "Celebrate",
+        "80%",
+        "years",
+        "of",
+        "to support",
+        "Wrexham"
+      ],
+      "englishGlosses": [
+        "Dathlu",
+        "80+",
+        "blynedd",
+        "o",
+        "cefnogi",
+        "Wrecsam"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgmr1xr0dxyo#0",
+      "welsh": "Dathlu Hen Dŷ Cwrdd Trecynon a'r 'gwir arwr' Undodol, Tomos Glyn Cothi",
+      "english": "Celebrating Trecynon's Old Meeting House and the Undefeated 'real hero', Tomos Glyn Cothi",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgmr1xr0dxyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 05:59:49 GMT",
+      "feedPosition": 4,
+      "fetchedAt": "2026-09-05T10:30:21.438Z",
+      "category": null,
+      "welshGlosses": [
+        "Celebrate",
+        "Old",
+        "House",
+        "Meet",
+        "Trecynon",
+        "and the",
+        "true",
+        "Hero",
+        "Indispensable",
+        "Thomas",
+        "I was already",
+        ""
+      ],
+      "englishGlosses": [
+        "Dathlu",
+        "Trecynon",
+        "Hen",
+        "Cyfarfod",
+        "Tŷ",
+        "a",
+        "'r",
+        "Anniffiniedig",
+        "rêl",
+        "arwr",
+        "Tomos",
+        "ebbw",
+        "Cothi"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cdj4l7rk9rno#0",
+      "welsh": "Bachgen o Benarth ar frig y byd pêl-droed 'freestyle'",
+      "english": "Penarth boy at the top of the freestyle football world",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cdj4l7rk9rno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 08:08:07 GMT",
+      "feedPosition": 5,
+      "fetchedAt": "2026-09-05T10:30:21.438Z",
+      "category": null,
+      "welshGlosses": [
+        "Boy",
+        "of",
+        "Penarth",
+        "on",
+        "top",
+        "the",
+        "Earth",
+        "Soccer",
+        "freestyle"
+      ],
+      "englishGlosses": [
+        "Penarth Fawr",
+        "bachgen",
+        "am",
+        "'r",
+        "brig",
+        "o",
+        "'r",
+        "dull rhydd",
+        "",
+        "lawn"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy7zdjenjx8o#0",
       "welsh": "Ras teulu i godi £250,000 ar gyfer triniaeth canser i'w mab yn America",
       "english": "Family race to raise £250,000 for cancer treatment for her son in America",
@@ -44,13 +242,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp301p96yx7o#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp301p96yx7o#1",
       "welsh": "Yr ysgolhaig a'r casglwr caneuon gwerin Roy Saer wedi marw yn 90 oed",
       "english": "The scholar and collector of folk songs Roy Saer has died aged 90",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp301p96yx7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 04 Sep 2026 17:02:33 GMT",
-      "feedPosition": 1,
-      "fetchedAt": "2026-09-04T23:01:38.780Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-05T10:30:21.438Z",
       "category": null,
       "welshGlosses": [
         "the",
@@ -84,266 +282,43 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy9zvrrn0jxo#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy9zvrrn0jxo#1",
       "welsh": "Oedi llawdriniaethau newid rhywedd er mwyn cynnal 'adolygiad brys'",
       "english": "Delayed gender-change operations in order to undertake an 'urgent review'",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy9zvrrn0jxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 04 Sep 2026 17:17:31 GMT",
-      "feedPosition": 2,
-      "fetchedAt": "2026-09-04T23:01:38.780Z",
-      "category": null,
-      "welshGlosses": [
-        "Clay",
-        "operations",
-        "change",
-        "",
-        "although",
-        "Ore",
-        "Undertaking",
-        "review",
-        "Urgent"
-      ],
-      "englishGlosses": [
-        "Oediad",
-        "newid rhywedd",
-        "Gweithrediadau",
-        "yn",
-        "archeb",
-        "i",
-        "ymgymryd â",
-        "\"an\",",
-        "Brys",
-        "adolygu"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-09-05T10:30:21.438Z",
+      "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5yd6kwzkyxo#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5yd6kwzkyxo#1",
       "welsh": "Sut 'wythnos gyntaf yn ôl yn yr ysgol' a gafodd teulu o Ddyffryn Nantlle?",
       "english": "How did 'first week back at school' have a family from the Nantlle Valley?",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5yd6kwzkyxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 04 Sep 2026 13:54:02 GMT",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-04T23:01:38.780Z",
-      "category": null,
-      "welshGlosses": [
-        "How?",
-        "week",
-        "first",
-        "in",
-        "Trace",
-        "in",
-        "the",
-        "school",
-        "and",
-        "he had",
-        "family",
-        "of",
-        "valley",
-        "Nantlle"
-      ],
-      "englishGlosses": [
-        "Sut?",
-        "wnaeth",
-        "cyntaf",
-        "wythnos",
-        "Nôl",
-        "am",
-        "Term",
-        "cael",
-        "a.",
-        "",
-        "o",
-        "'r",
-        "Nantlle",
-        "Dyffryn"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-09-05T10:30:21.438Z",
+      "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn5dx72n6d1o#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn5dx72n6d1o#1",
       "welsh": "'Reform wedi profi eu hunain fel llais cryf i gymunedau Cymru'",
       "english": "'Reform has proven itself as a strong voice for the communities of Wales'",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cn5dx72n6d1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 04 Sep 2026 13:18:44 GMT",
-      "feedPosition": 4,
-      "fetchedAt": "2026-09-04T23:01:38.780Z",
-      "category": null,
-      "welshGlosses": [
-        "Reform",
-        "after",
-        "test",
-        "their",
-        "self",
-        "Like",
-        "vote",
-        "strong",
-        "to",
-        "communities",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "Diwygio",
-        "Oes",
-        "profwyd",
-        "ei hunan",
-        "Graddfeyddunit description in lists",
-        "a.",
-        "Cryf",
-        "Aros",
-        "am",
-        "'r",
-        "Cymuned",
-        "o",
-        "Cymru"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-09-05T10:30:21.438Z",
+      "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cde02x7lwdxo#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cde02x7lwdxo#1",
       "welsh": "Syr Roger Jones - 'un o fawrion byd busnes Cymru' - wedi marw",
       "english": "Sir Roger Jones - 'one of the greats of Welsh business' - has died",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cde02x7lwdxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 04 Sep 2026 17:04:47 GMT",
-      "feedPosition": 5,
-      "fetchedAt": "2026-09-04T23:01:38.780Z",
-      "category": null,
-      "welshGlosses": [
-        "Sir",
-        "Roger",
-        "Jones",
-        "one",
-        "of",
-        "greats",
-        "Earth",
-        "Business",
-        "Wales",
-        "after",
-        "dead"
-      ],
-      "englishGlosses": [
-        "Syr",
-        "Roger",
-        "Sion Jones",
-        "un",
-        "o",
-        "'r",
-        "mawrion",
-        "o",
-        "Cymraeg",
-        "Busnes",
-        "Oes",
-        "bu farw"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gj7vprgqgo#0",
-      "welsh": "Oedi triniaethau IVF newydd yn Ysbyty Castell-nedd Port Talbot ",
-      "english": "Delay of new IVF treatments at Neath Port Talbot Hospital",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gj7vprgqgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 16:55:19 GMT",
-      "feedPosition": 6,
-      "fetchedAt": "2026-09-04T23:01:38.780Z",
-      "category": null,
-      "welshGlosses": [
-        "Clay",
-        "treatments",
-        "IVF",
-        "new",
-        "in",
-        "Hospital",
-        "Neath",
-        "The means in welsh",
-        "Talbot"
-      ],
-      "englishGlosses": [
-        "Oedi",
-        "o",
-        "newydd",
-        "IVF",
-        "triniaethau",
-        "am",
-        "Castell-nedd",
-        "Porth",
-        "ort Talbot",
-        "Ysbty"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c74knw4g91qo#1",
-      "welsh": "Sbwriel ar safle o harddwch ym Mannau Brycheiniog 'ymysg y gwaethaf erioed'",
-      "english": "Litter on a site of beauty in the Brecon Beacons' among the worst ever '",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c74knw4g91qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 16:40:19 GMT",
-      "feedPosition": 7,
-      "fetchedAt": "2026-09-04T23:01:38.780Z",
-      "category": null,
-      "welshGlosses": [
-        "Trash",
-        "on",
-        "ever",
-        "of",
-        "Beauty",
-        "re",
-        "Places",
-        "Brycheiniog",
-        "among",
-        "the",
-        "worst",
-        "ever"
-      ],
-      "englishGlosses": [
-        "torrau",
-        "ar",
-        "a.",
-        "Safle",
-        "o",
-        "Harddwch",
-        "yn",
-        "'r",
-        "Aberhonddu",
-        "Bannau",
-        "ymysg",
-        "'r",
-        "Gwaethaf:",
-        "safle"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c74kn3np241o#1",
-      "welsh": "Teyrngedau i'r cynhyrchydd, cyflwynydd ac actores Sara Ogwen Williams",
-      "english": "Tributes to producer, presenter and actress Sara Ogwen Williams",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c74kn3np241o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 20:15:16 GMT",
-      "feedPosition": 8,
-      "fetchedAt": "2026-09-04T23:01:38.780Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlwyrrp7gqo#1",
-      "welsh": "Cyngor a chorff amgylcheddol yn ceisio atal 'tipio gwastraff' ger pentrefi",
-      "english": "An environmental council and body trying to stop 'fly-tipping' near villages",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqlwyrrp7gqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 10:06:51 GMT",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-04T23:01:38.780Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyqwg5971vo#1",
-      "welsh": "Codi'r gwaharddiad ar ddefnydd pibellau dŵr yn y gorllewin",
-      "english": "Lifting the ban on the use of water pipes in the west",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyqwg5971vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 10:40:58 GMT",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-04T23:01:38.780Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/czjzn7x0vd0o#1",
-      "welsh": "Ail-fyw buddugoliaeth enwog pêl-droedwyr o Gymru ar lwyfan",
-      "english": "Re-live the famous victory of Welsh footballers on stage",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/czjzn7x0vd0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 04:56:29 GMT",
       "feedPosition": 11,
-      "fetchedAt": "2026-09-04T23:01:38.780Z",
+      "fetchedAt": "2026-09-05T10:30:21.438Z",
       "category": null
     },
     {
@@ -354,6 +329,36 @@
       "pubDate": "Wed, 04 Mar 2026 07:38:56 GMT",
       "feedPosition": 12,
       "fetchedAt": "2026-09-04T23:01:38.780Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cjw5v4n8nz6o#2",
+      "welsh": "Cwis: Canu Gwlad",
+      "english": "Quiz: Country Music",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cjw5v4n8nz6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 06:08:41 GMT",
+      "feedPosition": 13,
+      "fetchedAt": "2026-09-05T10:30:21.438Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8jdexe07pmo#2",
+      "welsh": "Dathlu 80 mlynedd o gefnogi Wrecsam",
+      "english": "Celebrating 80 years of supporting Wrexham",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8jdexe07pmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 08:10:08 GMT",
+      "feedPosition": 14,
+      "fetchedAt": "2026-09-05T10:30:21.438Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cdj4l7rk9rno#2",
+      "welsh": "Bachgen o Benarth ar frig y byd pêl-droed 'freestyle'",
+      "english": "Penarth boy at the top of the freestyle football world",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cdj4l7rk9rno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 08:08:07 GMT",
+      "feedPosition": 15,
+      "fetchedAt": "2026-09-05T10:30:21.438Z",
       "category": null
     },
     {
@@ -393,16 +398,6 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz0z4nrdjy5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 31 Aug 2026 10:55:25 GMT",
       "feedPosition": 16,
-      "fetchedAt": "2026-09-04T23:01:38.780Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz645de0wplo#2",
-      "welsh": "Ateb y Galw: Elis Derby",
-      "english": "Answer the Call: Elis Derby",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz645de0wplo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 06:36:02 GMT",
-      "feedPosition": 17,
       "fetchedAt": "2026-09-04T23:01:38.780Z",
       "category": null
     },
@@ -547,5 +542,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-09-04T23:01:38.780Z"
+  "generatedAt": "2026-09-05T10:30:21.438Z"
 }
