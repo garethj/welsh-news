@@ -2,6 +2,81 @@
   "date": "2026-09-05",
   "headlines": [
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy99jzykdo#0",
+      "welsh": "Honiadau bod tunelli o rwbel 'trychinebus' yn cael ei ddympio mewn pentref",
+      "english": "Allegations that tonnes of 'catastrophic' rubble are being dumped in a village",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy99jzykdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 16:43:44 GMT",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-05T17:18:19.501Z",
+      "category": null,
+      "welshGlosses": [
+        "Allegations",
+        "to be",
+        "tons",
+        "of",
+        "rubble",
+        "disastrous",
+        "in",
+        "have",
+        "his/her",
+        "to dump",
+        "in",
+        "Village"
+      ],
+      "englishGlosses": [
+        "Honiadau",
+        "hynny",
+        "Tunnell",
+        "o",
+        "trychinebus",
+        "rwbel",
+        "dach",
+        "bod",
+        "dympio",
+        "yn",
+        "a.",
+        "Pentref"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cnvl1m43q95o#0",
+      "welsh": "Trigolion pentref a gafodd ei daro gan lifogydd yn lansio grŵp cymunedol",
+      "english": "Residents of a village hit by flooding launch a community group",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cnvl1m43q95o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 17:14:06 GMT",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-05T17:18:19.501Z",
+      "category": null,
+      "welshGlosses": [
+        "Population",
+        "Village",
+        "and",
+        "he had",
+        "his/her",
+        "hit",
+        "by",
+        "flooding",
+        "in",
+        "Launch",
+        "Group",
+        "Development."
+      ],
+      "englishGlosses": [
+        "Preswylwyr",
+        "o",
+        "a.",
+        "Pentref",
+        "Taro",
+        "gan",
+        "Llifogydd",
+        "Lansio",
+        "a.",
+        "cymuned",
+        "grŵp"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c207k03nd64o#0",
       "welsh": "Cwblhau 100 marathon ultra mewn 100 diwrnod yn 'hollol boncyrs'",
       "english": "Complete 100 ultra marathons in 100 days in 'absolutely bonkers'",
@@ -33,6 +108,26 @@
         "yn",
         "gwbl",
         "boncyrs"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cjw5v4n8nz6o#0",
+      "welsh": "Cwis: Canu Gwlad",
+      "english": "Quiz: Country Music",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cjw5v4n8nz6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 06:08:41 GMT",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-05T10:30:21.438Z",
+      "category": null,
+      "welshGlosses": [
+        "Quiz",
+        "sing",
+        "Country"
+      ],
+      "englishGlosses": [
+        ".",
+        "Gwlad",
+        "Cerddoriaeth"
       ]
     },
     {
@@ -79,26 +174,6 @@
         "Ers",
         "9.",
         "11."
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cjw5v4n8nz6o#0",
-      "welsh": "Cwis: Canu Gwlad",
-      "english": "Quiz: Country Music",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cjw5v4n8nz6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 06:08:41 GMT",
-      "feedPosition": 2,
-      "fetchedAt": "2026-09-05T10:30:21.438Z",
-      "category": null,
-      "welshGlosses": [
-        "Quiz",
-        "sing",
-        "Country"
-      ],
-      "englishGlosses": [
-        ".",
-        "Gwlad",
-        "Cerddoriaeth"
       ]
     },
     {
@@ -167,13 +242,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cdj4l7rk9rno#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cdj4l7rk9rno#1",
       "welsh": "Bachgen o Benarth ar frig y byd pêl-droed 'freestyle'",
       "english": "Penarth boy at the top of the freestyle football world",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cdj4l7rk9rno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 05 Sep 2026 08:08:07 GMT",
-      "feedPosition": 5,
-      "fetchedAt": "2026-09-05T10:30:21.438Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-05T17:18:19.501Z",
       "category": null,
       "welshGlosses": [
         "Boy",
@@ -200,13 +275,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy7zdjenjx8o#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy7zdjenjx8o#1",
       "welsh": "Ras teulu i godi £250,000 ar gyfer triniaeth canser i'w mab yn America",
       "english": "Family race to raise £250,000 for cancer treatment for her son in America",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy7zdjenjx8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 04 Sep 2026 04:54:14 GMT",
-      "feedPosition": 0,
-      "fetchedAt": "2026-09-04T23:01:38.780Z",
+      "feedPosition": 8,
+      "fetchedAt": "2026-09-05T17:18:19.501Z",
       "category": null,
       "welshGlosses": [
         "Racing",
@@ -302,56 +377,6 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cde02x7lwdxo#1",
-      "welsh": "Syr Roger Jones - 'un o fawrion byd busnes Cymru' - wedi marw",
-      "english": "Sir Roger Jones - 'one of the greats of Welsh business' - has died",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cde02x7lwdxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 17:04:47 GMT",
-      "feedPosition": 11,
-      "fetchedAt": "2026-09-05T10:30:21.438Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c74knw4g91qo#1",
-      "welsh": "Sbwriel ar safle o harddwch ym Mannau Brycheiniog 'ymysg y gwaethaf erioed'",
-      "english": "Litter on a site of beauty in the Brecon Beacons' among the worst ever '",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c74knw4g91qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 16:40:19 GMT",
-      "feedPosition": 11,
-      "fetchedAt": "2026-09-05T15:09:01.990Z",
-      "category": null,
-      "welshGlosses": [
-        "Trash",
-        "on",
-        "ever",
-        "of",
-        "Beauty",
-        "re",
-        "Places",
-        "Brycheiniog",
-        "among",
-        "the",
-        "worst",
-        "ever"
-      ],
-      "englishGlosses": [
-        "torrau",
-        "ar",
-        "a.",
-        "Safle",
-        "o",
-        "Harddwch",
-        "yn",
-        "'r",
-        "Aberhonddu",
-        "Bannau",
-        "ymysg",
-        "'r",
-        "Gwaethaf:",
-        "safle"
-      ]
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
       "welsh": "Cwis Dyddiol Cymru Fyw",
       "english": "Live Wales Daily Quiz",
@@ -398,36 +423,6 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/czdezvemv9jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 02 Sep 2026 06:06:00 GMT",
       "feedPosition": 13,
-      "fetchedAt": "2026-09-04T23:01:38.780Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce8kllxdnr7o#2",
-      "welsh": "Yr actor o Hollywood a orffennodd ei yrfa fel extra ar Pobol y Cwm",
-      "english": "The Hollywood actor finished his career as an extra on Pobol y Cwm",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce8kllxdnr7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 08:41:38 GMT",
-      "feedPosition": 14,
-      "fetchedAt": "2026-09-04T23:01:38.780Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c70lq2ql94po#2",
-      "welsh": "Ai Pier Bangor yw pier gorau Cymru?",
-      "english": "Is Bangor Pier the best pier in Wales?",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c70lq2ql94po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 14:08:05 GMT",
-      "feedPosition": 15,
-      "fetchedAt": "2026-09-04T23:01:38.780Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz0z4nrdjy5o#2",
-      "welsh": "O Ferthyr i Istanbul: Jamie Bevan yn cwblhau taith gerdded 3,000 milltir",
-      "english": "From Merthyr to Istanbul: Jamie Bevan completes 3,000-mile walk",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz0z4nrdjy5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 10:55:25 GMT",
-      "feedPosition": 16,
       "fetchedAt": "2026-09-04T23:01:38.780Z",
       "category": null
     },
@@ -572,5 +567,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-09-05T15:09:01.990Z"
+  "generatedAt": "2026-09-05T17:18:19.501Z"
 }
