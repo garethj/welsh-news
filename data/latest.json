@@ -78,6 +78,43 @@
       ]
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgrv58x0gwro#0",
+      "welsh": "Ymchwiliad heddlu i ddigwyddiad rhwng chwaraewr Caerdydd a chefnogwr Portsmouth",
+      "english": "Police investigation into an incident between a Cardiff player and a Portsmouth supporter",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgrv58x0gwro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 13:49:47 GMT",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-06T15:24:52.072Z",
+      "category": null,
+      "welshGlosses": [
+        "under",
+        "police",
+        "to",
+        "event",
+        "between",
+        "Player:",
+        "Cardiff",
+        "and",
+        "supporter",
+        "Plattsmouth"
+      ],
+      "englishGlosses": [
+        "Heddlu",
+        "Ymchwiliad",
+        "i mewn",
+        "\"an\",",
+        "digwyddiad",
+        "rhwng",
+        "a.",
+        "",
+        "Chwaraewr",
+        "a",
+        "a.",
+        "Portsmouth",
+        "Cefnogwr"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyj1zjqw0xo#0",
       "welsh": "Pum munud gyda Bardd y Mis: Hammad Rind",
       "english": "Five minutes with Poet of the Month: Hammad Rind",
@@ -214,13 +251,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce8e1prn2yxo#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce8e1prn2yxo#1",
       "welsh": "Abertawe yn dal ar frig y tabl ar ôl gêm gyfartal yn erbyn Wrecsam",
       "english": "Swansea remain at the top of the table after a draw against Wrexham",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce8e1prn2yxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 06 Sep 2026 06:58:19 GMT",
-      "feedPosition": 6,
-      "fetchedAt": "2026-09-06T10:50:47.553Z",
+      "pubDate": "Sun, 06 Sep 2026 14:38:53 GMT",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-06T15:24:52.072Z",
       "category": null,
       "welshGlosses": [
         "Swansea",
@@ -293,6 +330,35 @@
       ]
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6enkzz78o#1",
+      "welsh": "Pêl-droed y penwythnos: Sut wnaeth timau Cymru?",
+      "english": "Weekend football: How did the Welsh teams do?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6enkzz78o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 12:20:58 GMT",
+      "feedPosition": 9,
+      "fetchedAt": "2026-09-06T15:24:52.072Z",
+      "category": null,
+      "welshGlosses": [
+        "Soccer",
+        "the",
+        "",
+        "How?",
+        "did",
+        "Teams",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Penwythnos",
+        "",
+        "Sut?",
+        "wnaeth",
+        "'r",
+        "Cymraeg",
+        "Timau",
+        "gwneud"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cnvl1m43q95o#1",
       "welsh": "Trigolion pentref a gafodd ei daro gan lifogydd yn lansio grŵp cymunedol",
       "english": "Residents of a village hit by flooding launch a community group",
@@ -309,26 +375,6 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c207k03nd64o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 05 Sep 2026 05:57:40 GMT",
       "feedPosition": 9,
-      "fetchedAt": "2026-09-06T10:50:47.553Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cjw5v4n8nz6o#1",
-      "welsh": "Cwis: Canu Gwlad",
-      "english": "Quiz: Country Music",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cjw5v4n8nz6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 06:08:41 GMT",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-06T10:50:47.553Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgyqr0yn86o#1",
-      "welsh": "'Byddwn yn cofio nhw i gyd' - Diffoddwyr tân yn teithio i'r UDA 25 mlynedd ers 9/11",
-      "english": "'We will remember them all' - Firefighters travel to the USA 25 years since 9/11",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgyqr0yn86o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 05:58:09 GMT",
-      "feedPosition": 11,
       "fetchedAt": "2026-09-06T10:50:47.553Z",
       "category": null
     },
@@ -463,6 +509,53 @@
       "category": null
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgrv58x0gwro#6",
+      "welsh": "Ymchwiliad heddlu i ddigwyddiad rhwng chwaraewr Caerdydd a chefnogwr Portsmouth",
+      "english": "Police investigation into an incident between a Cardiff player and a Portsmouth supporter",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgrv58x0gwro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 13:49:47 GMT",
+      "feedPosition": 25,
+      "fetchedAt": "2026-09-06T15:24:52.072Z",
+      "category": null,
+      "welshGlosses": [
+        "under",
+        "police",
+        "to",
+        "event",
+        "between",
+        "Player:",
+        "Cardiff",
+        "and",
+        "supporter",
+        "Plattsmouth"
+      ],
+      "englishGlosses": [
+        "Heddlu",
+        "Ymchwiliad",
+        "i mewn",
+        "\"an\",",
+        "digwyddiad",
+        "rhwng",
+        "a.",
+        "",
+        "Chwaraewr",
+        "a",
+        "a.",
+        "Portsmouth",
+        "Cefnogwr"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6enkzz78o#6",
+      "welsh": "Pêl-droed y penwythnos: Sut wnaeth timau Cymru?",
+      "english": "Weekend football: How did the Welsh teams do?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6enkzz78o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 12:20:58 GMT",
+      "feedPosition": 26,
+      "fetchedAt": "2026-09-06T15:24:52.072Z",
+      "category": null
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce8e1prn2yxo#6",
       "welsh": "Abertawe yn dal ar frig y tabl ar ôl gêm gyfartal yn erbyn Wrecsam",
       "english": "Swansea remain at the top of the table after a draw against Wrexham",
@@ -493,26 +586,6 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/czjzn7x0vd0o#6",
-      "welsh": "Ail-fyw buddugoliaeth enwog pêl-droedwyr o Gymru ar lwyfan",
-      "english": "Re-live the famous victory of Welsh footballers on stage",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/czjzn7x0vd0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 04:56:29 GMT",
-      "feedPosition": 28,
-      "fetchedAt": "2026-09-06T10:50:47.553Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjkd9yj44zo#6",
-      "welsh": "URC yn 'weithle mwy diogel' wedi canfyddiadau o ddiwylliant gwenwynig",
-      "english": "WRU 'safer workplace' after perceptions of toxic culture",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cqjkd9yj44zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 05:09:18 GMT",
-      "feedPosition": 29,
-      "fetchedAt": "2026-09-06T10:50:47.553Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cyx66935y29o#8",
       "welsh": "Ymunwch â sianel BBC Cymru Fyw ar WhatsApp",
       "english": "Join the BBC Wales Live channel on WhatsApp",
@@ -523,5 +596,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-09-06T10:50:47.553Z"
+  "generatedAt": "2026-09-06T15:24:52.072Z"
 }
