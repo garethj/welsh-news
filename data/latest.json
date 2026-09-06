@@ -78,40 +78,40 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgrv58x0gwro#0",
-      "welsh": "Ymchwiliad heddlu i ddigwyddiad rhwng chwaraewr Caerdydd a chefnogwr Portsmouth",
-      "english": "Police investigation into an incident between a Cardiff player and a Portsmouth supporter",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgrv58x0gwro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 06 Sep 2026 13:49:47 GMT",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgjq8e8nv9po#0",
+      "welsh": "Y clwb syrffio sydd â'r nod o 'wella lles meddyliol a chorfforol'",
+      "english": "The surf club is aimed at 'improving mental and physical wellbeing'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgjq8e8nv9po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 19:00:49 GMT",
       "feedPosition": 2,
-      "fetchedAt": "2026-09-06T15:24:52.072Z",
+      "fetchedAt": "2026-09-06T20:21:41.359Z",
       "category": null,
       "welshGlosses": [
-        "under",
-        "police",
-        "to",
-        "event",
-        "between",
-        "Player:",
-        "Cardiff",
+        "the",
+        "club",
+        "Surfing",
+        "which is",
+        "the",
+        "goal",
+        "of",
+        "to improve",
+        "Wellbeing",
+        "mental",
         "and",
-        "supporter",
-        "Plattsmouth"
+        "physical"
       ],
       "englishGlosses": [
-        "Heddlu",
-        "Ymchwiliad",
-        "i mewn",
-        "\"an\",",
-        "digwyddiad",
-        "rhwng",
-        "a.",
-        "",
-        "Chwaraewr",
+        "Y",
+        "syrffio",
+        "clwb",
+        "yw",
+        "wedi ei anelu",
+        "am",
+        "gwella",
+        "meddyliol",
         "a",
-        "a.",
-        "Portsmouth",
-        "Cefnogwr"
+        "corfforol",
+        "Llesiant"
       ]
     },
     {
@@ -146,34 +146,40 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cd94lzlyz4do#0",
-      "welsh": "Tymor newydd yr Adran Premier - pwy all stopio Wrecsam?",
-      "english": "Premier Section new term - who can stop Wrexham?",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cd94lzlyz4do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 06 Sep 2026 06:02:15 GMT",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-06T10:50:47.553Z",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgrv58x0gwro#0",
+      "welsh": "Ymchwiliad heddlu i ddigwyddiad rhwng chwaraewr Caerdydd a chefnogwr Portsmouth",
+      "english": "Police investigation into an incident between a Cardiff player and a Portsmouth supporter",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgrv58x0gwro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 13:49:47 GMT",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-06T15:24:52.072Z",
       "category": null,
       "welshGlosses": [
-        "Tenure",
-        "new",
-        "the",
-        "Section",
-        "Premier",
-        "Who",
-        "LA",
-        "Stop",
-        "Wrexham"
+        "under",
+        "police",
+        "to",
+        "event",
+        "between",
+        "Player:",
+        "Cardiff",
+        "and",
+        "supporter",
+        "Plattsmouth"
       ],
       "englishGlosses": [
-        "Premier",
-        "Adran",
-        "newydd",
-        "trfnll",
-        "Pwy",
-        "Wnewch",
-        "atal",
-        "Wrecsam"
+        "Heddlu",
+        "Ymchwiliad",
+        "i mewn",
+        "\"an\",",
+        "digwyddiad",
+        "rhwng",
+        "a.",
+        "",
+        "Chwaraewr",
+        "a",
+        "a.",
+        "Portsmouth",
+        "Cefnogwr"
       ]
     },
     {
@@ -215,13 +221,44 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy5zr3q6y4ro#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cd94lzlyz4do#0",
+      "welsh": "Tymor newydd yr Adran Premier - pwy all stopio Wrecsam?",
+      "english": "Premier Section new term - who can stop Wrexham?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cd94lzlyz4do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 06:02:15 GMT",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-06T10:50:47.553Z",
+      "category": null,
+      "welshGlosses": [
+        "Tenure",
+        "new",
+        "the",
+        "Section",
+        "Premier",
+        "Who",
+        "LA",
+        "Stop",
+        "Wrexham"
+      ],
+      "englishGlosses": [
+        "Premier",
+        "Adran",
+        "newydd",
+        "trfnll",
+        "Pwy",
+        "Wnewch",
+        "atal",
+        "Wrecsam"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy5zr3q6y4ro#1",
       "welsh": "Sut mae sicrhau bod mwy o gymunedau'n elwa o goedwigoedd lleol?",
       "english": "How do we ensure that more communities benefit from local forests?",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy5zr3q6y4ro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 06 Sep 2026 06:02:45 GMT",
-      "feedPosition": 5,
-      "fetchedAt": "2026-09-06T10:50:47.553Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-06T20:21:41.359Z",
       "category": null,
       "welshGlosses": [
         "How?",
@@ -327,35 +364,6 @@
         "yn",
         "a.",
         "Pentref"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6enkzz78o#1",
-      "welsh": "Pêl-droed y penwythnos: Sut wnaeth timau Cymru?",
-      "english": "Weekend football: How did the Welsh teams do?",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6enkzz78o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 06 Sep 2026 12:20:58 GMT",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-06T15:24:52.072Z",
-      "category": null,
-      "welshGlosses": [
-        "Soccer",
-        "the",
-        "",
-        "How?",
-        "did",
-        "Teams",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "Penwythnos",
-        "",
-        "Sut?",
-        "wnaeth",
-        "'r",
-        "Cymraeg",
-        "Timau",
-        "gwneud"
       ]
     },
     {
@@ -546,16 +554,6 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6enkzz78o#6",
-      "welsh": "Pêl-droed y penwythnos: Sut wnaeth timau Cymru?",
-      "english": "Weekend football: How did the Welsh teams do?",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6enkzz78o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 06 Sep 2026 12:20:58 GMT",
-      "feedPosition": 26,
-      "fetchedAt": "2026-09-06T15:24:52.072Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce8e1prn2yxo#6",
       "welsh": "Abertawe yn dal ar frig y tabl ar ôl gêm gyfartal yn erbyn Wrecsam",
       "english": "Swansea remain at the top of the table after a draw against Wrexham",
@@ -563,6 +561,16 @@
       "pubDate": "Sun, 06 Sep 2026 06:58:19 GMT",
       "feedPosition": 25,
       "fetchedAt": "2026-09-06T10:50:47.553Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6enkzz78o#6",
+      "welsh": "Pêl-droed y penwythnos: Sut wnaeth timau Cymru?",
+      "english": "Weekend football: How did the Welsh teams do?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6enkzz78o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 12:20:58 GMT",
+      "feedPosition": 26,
+      "fetchedAt": "2026-09-06T15:24:52.072Z",
       "category": null
     },
     {
@@ -596,5 +604,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-09-06T15:24:52.072Z"
+  "generatedAt": "2026-09-06T20:21:41.359Z"
 }
