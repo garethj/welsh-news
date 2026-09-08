@@ -2,6 +2,81 @@
   "date": "2026-09-08",
   "headlines": [
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cj0693np5ydo#0",
+      "welsh": "Saith awr heb weld babi ar ôl toriad cesaraidd wedi 'trawmateiddio' mam",
+      "english": "Seven hours without seeing a baby after a mother's 'traumatised' cesarean section",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cj0693np5ydo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 05:03:57 GMT",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "category": null,
+      "welshGlosses": [
+        "Seven",
+        "hour",
+        "without",
+        "see",
+        "Baby",
+        "on",
+        "Trace",
+        "break",
+        "cesarean",
+        "after",
+        "traumatisation",
+        "mum"
+      ],
+      "englishGlosses": [
+        "Saith",
+        "awr",
+        "heb",
+        "gweld",
+        "a.",
+        "Babi",
+        "Wedi",
+        "a.",
+        "mam",
+        "trawmatig",
+        "cesaraidd",
+        "adran"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5ylg0nz2emo#0",
+      "welsh": "Canlyniadau profion PISA Cymru yn waeth na gweddill Prydain eto",
+      "english": "The Pisa Wales test results are even worse than the rest of Britain",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5ylg0nz2emo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 09:43:18 GMT",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "category": null,
+      "welshGlosses": [
+        "Results",
+        "tests",
+        "Pisa",
+        "Wales",
+        "in",
+        "worse",
+        "nor",
+        "Remnant",
+        "GB",
+        "again"
+      ],
+      "englishGlosses": [
+        "Y",
+        "PisaCity name (optional, probably does not need a translation)",
+        "Cymru",
+        "prawf",
+        "canlyniadau",
+        "dach",
+        "er hynny",
+        "Wedi",
+        "na",
+        "'r",
+        "Gallwn",
+        "o",
+        "Prydain"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6p3dg256o#0",
       "welsh": "Polisi amddiffyn yn 'broblem fawr' i Lywodraeth Plaid Cymru – Dafydd Iwan",
       "english": "Defence policy a 'major problem' for the Plaid Cymru Government – Dafydd Iwan",
@@ -39,243 +114,219 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce3r716n1lko#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckg76l9ypz4o#0",
+      "welsh": "Pwy oedd y pedwar arall yng 'nghysgodion' Tri Penyberth?",
+      "english": "Who were the other four in the 'shadows' of Three Penyberth?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckg76l9ypz4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 06:18:12 GMT",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "category": null,
+      "welshGlosses": [
+        "Who",
+        "was",
+        "the",
+        "4",
+        "ATM",
+        "in",
+        "shadows",
+        "3",
+        "Penyberth"
+      ],
+      "englishGlosses": [
+        "Pwy",
+        "roedd",
+        "'r",
+        "arall",
+        "pedwar",
+        "yn",
+        "'r",
+        "Cysgodion",
+        "o",
+        "Tri",
+        "Penyberth"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyzq142948o#0",
+      "welsh": "Cyhuddo Reform o geisio dechrau ffrae am hil dros godi baner Pacistan",
+      "english": "Accusing Reform of trying to start a race row over raising the Pakistan flag",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyzq142948o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 05:17:49 GMT",
+      "feedPosition": 4,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "category": null,
+      "welshGlosses": [
+        "accuse",
+        "Reform",
+        "of",
+        "to try",
+        "start",
+        "quarrel",
+        "for",
+        "race",
+        "over",
+        "to raise",
+        "flag",
+        "Pakistan"
+      ],
+      "englishGlosses": [
+        "Cyhuddo",
+        "Diwygio",
+        "o",
+        "ceisio",
+        "i",
+        "Sgwrs",
+        "a.",
+        "hil",
+        "rhes",
+        "dros",
+        "codi",
+        "'r",
+        "Pacistan",
+        "baner"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgqd7n7nw17o#0",
+      "welsh": "Cynnydd yn nhymheredd y môr 'yn peryglu cynefinoedd a morwellt'",
+      "english": "Sea temperature rise 'endangers habitats and seagrass'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgqd7n7nw17o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 05:21:21 GMT",
+      "feedPosition": 5,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "category": null,
+      "welshGlosses": [
+        "Group",
+        "in",
+        "temperature",
+        "the",
+        "Sea",
+        "in",
+        "to endanger",
+        "Habitats",
+        "and",
+        "seagrass"
+      ],
+      "englishGlosses": [
+        "Môr",
+        "Tymheredd",
+        "textattr",
+        "peryglon",
+        "Ecosystem",
+        "a",
+        "morwellt"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c62jd36j5m8o#0",
+      "welsh": "Arestio bachgen, 14, ar amheuaeth o geisio creu dyfais ffrwydrol",
+      "english": "Arrest a boy, 14, on suspicion of trying to create an explosive device",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c62jd36j5m8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 16:21:11 GMT",
+      "feedPosition": 6,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "category": null,
+      "welshGlosses": [
+        "Arrest",
+        "",
+        "14.",
+        "on",
+        "scepticism",
+        "of",
+        "to try",
+        "Create",
+        "DEVICE",
+        "explosive"
+      ],
+      "englishGlosses": [
+        "Arestio",
+        "a.",
+        "bachgen",
+        "14.",
+        "ar",
+        "amheuaeth",
+        "o",
+        "ceisio",
+        "i",
+        "Creu",
+        "\"an\",",
+        "Ffrwydryn",
+        "DYFAIS"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gj8z25yvvo#1",
+      "welsh": "Ystyried hollti ysgol uwchradd Gymraeg dros bryderon ariannol",
+      "english": "To consider splitting a Welsh medium secondary school over financial concerns",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gj8z25yvvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 12:53:15 GMT",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "category": null,
+      "welshGlosses": [
+        "REFLECT",
+        "Split",
+        "school",
+        "secondary",
+        "Welsh",
+        "over",
+        "concerns",
+        "security"
+      ],
+      "englishGlosses": [
+        "I",
+        "pwyllo",
+        "hollti",
+        "a.",
+        "Cymraeg",
+        "canolig",
+        "Eilradd",
+        "Term",
+        "dros",
+        "Gwiriad",
+        "PRYDERON"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c80nk34xlgyo#1",
+      "welsh": "Gwireddu breuddwyd tad wrth ail agor becws olaf tre'r Cofis",
+      "english": "Father's dream come true when he reopens the last bakery through Cofis",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c80nk34xlgyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 13:36:24 GMT",
+      "feedPosition": 8,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c7v4ny8rymzo#1",
+      "welsh": "Cymeradwyo cynllun dadleuol am dai fforddiadwy yn Chwilog",
+      "english": "Approve a controversial scheme for affordable housing in Chwilog",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c7v4ny8rymzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 13:47:36 GMT",
+      "feedPosition": 9,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce3r716n1lko#1",
       "welsh": "Dyn 102 oed wedi marw ar ôl cael ei 'wthio' mewn tafarn - cwest",
       "english": "102-year-old man dead after being 'pushed' in pub inquest",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ce3r716n1lko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 15:25:07 GMT",
-      "feedPosition": 5,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
-      "category": null,
-      "welshGlosses": [
-        "Man",
-        "102",
-        "age",
-        "after",
-        "dead",
-        "on",
-        "back",
-        "",
-        "his/her",
-        "to push",
-        "",
-        "",
-        ""
-      ],
-      "englishGlosses": [
-        "102 yr old",
-        "",
-        "",
-        "wedi",
-        "bod",
-        "gwthio",
-        "yn",
-        "tafarn",
-        ""
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c70drrx40lwo#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c70drrx40lwo#1",
       "welsh": "Clwb Rygbi Caernarfon yn ennill gwobr Cegin Rygbi'r Flwyddyn",
       "english": "Caernarfon RFC wins Rugby Kitchen of the Year award",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c70drrx40lwo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 10:04:28 GMT",
-      "feedPosition": 6,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
-      "category": null,
-      "welshGlosses": [
-        "Club",
-        "",
-        "",
-        "in",
-        "",
-        "award",
-        "",
-        "",
-        "Year"
-      ],
-      "englishGlosses": [
-        "Caernarfon",
-        "Clwb Rygbi",
-        "",
-        "",
-        "Cegin",
-        "o",
-        "y",
-        "",
-        ""
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c0re58w0l55o#1",
-      "welsh": "'Dyw colli fy ngwallt drwy cemo ddim yn diffinio fi - mae'n dangos bo' fi'n gryf'",
-      "english": "'Losing my hair through chemo does not define me - it shows that I am strong'",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c0re58w0l55o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 05:02:56 GMT",
-      "feedPosition": 7,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
-      "category": null,
-      "welshGlosses": [
-        "Yes",
-        "",
-        "my",
-        "hairy",
-        "through",
-        "chemo",
-        "not",
-        "in",
-        "define",
-        "me",
-        "",
-        "to show",
-        "",
-        "i'm not",
-        "strong"
-      ],
-      "englishGlosses": [
-        "Colli",
-        "",
-        "",
-        "",
-        "chemo",
-        "",
-        "",
-        "diffinio",
-        "fi",
-        "mae'n",
-        "",
-        "",
-        "I",
-        "",
-        "cryf"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c2l80ljk0g1o#1",
-      "welsh": "Ateb y Galw: Maryam Khan",
-      "english": "Answer the Call: Maryam Khan",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c2l80ljk0g1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 08:01:24 GMT",
-      "feedPosition": 8,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
-      "category": null,
-      "welshGlosses": [
-        "",
-        "the",
-        "",
-        "",
-        ""
-      ],
-      "englishGlosses": [
-        "",
-        "",
-        "Galw",
-        "Maryam",
-        ""
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c790q7zxg80o#1",
-      "welsh": "Ashley Williams yn rhan o dîm hyfforddi newydd Cymru",
-      "english": "Ashley Williams as part of Wales' new training team",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c790q7zxg80o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 14:14:26 GMT",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
-      "category": null,
-      "welshGlosses": [
-        "Ashley",
-        "",
-        "in",
-        "",
-        "of",
-        "team",
-        "to train",
-        "",
-        ""
-      ],
-      "englishGlosses": [
-        "",
-        "",
-        "",
-        "",
-        "o",
-        "Cymru",
-        "newydd",
-        "",
-        ""
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckg0ewnpyr4o#1",
-      "welsh": "Brechu moch daear rhag TB: 'Bylchau sylweddol' o ran tystiolaeth",
-      "english": "Badger vaccination against TB: 'Significant gaps' in evidence",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckg0ewnpyr4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 05:17:18 GMT",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
-      "category": null,
-      "welshGlosses": [
-        "",
-        "pig",
-        "earth",
-        "from",
-        "TB",
-        "",
-        "",
-        "of",
-        "part",
-        ""
-      ],
-      "englishGlosses": [
-        "Moch daear",
-        "brechu",
-        "",
-        "TB",
-        "",
-        "",
-        "",
-        "tystiolaeth"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyk8v01685o#1",
-      "welsh": "Cystadleuaeth golff ym Môn sy'n codi arian i achosion lleol yn dathlu'r 40",
-      "english": "Anglesey golf competition which raises money for local causes celebrating the 40th",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyk8v01685o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 12:16:11 GMT",
       "feedPosition": 11,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
-      "category": null,
-      "welshGlosses": [
-        "Competition",
-        "golf",
-        "in",
-        "Anglesey",
-        "which",
-        "to raise",
-        "",
-        "to",
-        "",
-        "",
-        "in",
-        "",
-        ""
-      ],
-      "englishGlosses": [
-        "Ynys Môn",
-        "golff",
-        "",
-        "",
-        "",
-        "",
-        "am",
-        "lleol",
-        "achosion",
-        "dathlu",
-        "",
-        "40ain"
-      ]
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
@@ -285,6 +336,26 @@
       "pubDate": "Wed, 04 Mar 2026 07:38:56 GMT",
       "feedPosition": 12,
       "fetchedAt": "2026-09-07T23:28:19.373Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9d851zzl3jo#2",
+      "welsh": "Beth ydy 'Cymru' mewn Klingon? Dathlu Star Trek yn 60",
+      "english": "What is' Wales' in Klingon? Celebrating Star Trek at 60",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9d851zzl3jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 06:04:29 GMT",
+      "feedPosition": 13,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c2l80ljk0g1o#2",
+      "welsh": "Ateb y Galw: Maryam Khan",
+      "english": "Answer the Call: Maryam Khan",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c2l80ljk0g1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 08:01:24 GMT",
+      "feedPosition": 14,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
       "category": null
     },
     {
@@ -308,22 +379,22 @@
       "category": null
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cjw5v4n8nz6o#2",
+      "welsh": "Cwis: Canu Gwlad",
+      "english": "Quiz: Country Music",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cjw5v4n8nz6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 06:08:41 GMT",
+      "feedPosition": 17,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "category": null
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8jdexe07pmo#2",
       "welsh": "Dathlu 80 mlynedd o gefnogi Wrecsam",
       "english": "Celebrating 80 years of supporting Wrexham",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8jdexe07pmo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 05 Sep 2026 08:10:08 GMT",
       "feedPosition": 16,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cdj4l7rk9rno#2",
-      "welsh": "Bachgen o Benarth ar frig y byd pêl-droed 'freestyle'",
-      "english": "Penarth boy at the top of the freestyle football world",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cdj4l7rk9rno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 08:08:07 GMT",
-      "feedPosition": 17,
       "fetchedAt": "2026-09-07T23:28:19.373Z",
       "category": null
     },
@@ -335,6 +406,46 @@
       "pubDate": "Thu, 22 May 2025 13:11:01 GMT",
       "feedPosition": 18,
       "fetchedAt": "2026-09-07T23:28:19.373Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p8f602#4",
+      "welsh": "'Da chi'n meddwl fod 'na ddim byd yn digwydd mewn ardal mor fach a mor wledig, ond mae o hollol i'r gwrthwyneb' - Osian Candelas",
+      "english": "'You think that 'nothing happens in such a small and rural area, but it is quite the opposite' - Osian Candelas",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p8f602?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 15:29:53 GMT",
+      "feedPosition": 20,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p8j1lg#4",
+      "welsh": "GAFF yn gwneud cyfyrs fel 'brêc' o recordio",
+      "english": "I would like to make a conversation as a 'brake' of recording",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p8j1lg?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 08:54:36 GMT",
+      "feedPosition": 21,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p8jcz6#4",
+      "welsh": "'Mae 'na eitha drewdod' - Troed cyw Gwalch y Pysgod yn stiwdio Galwad Cynnar",
+      "english": "'There's quite a stitch' - Osprey Chicken Foot of the Fish in Early Calling studio",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p8jcz6?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 09:49:34 GMT",
+      "feedPosition": 22,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p8dlcs#4",
+      "welsh": "Diwrnod Cenedlaethol Brasil yn 'flas o garnifal, ond gydag ystyr mwy gwleidyddol'",
+      "english": "Brazil's National Day is a 'taste of carnival, but with a more political meaning'",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p8dlcs?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 13:09:36 GMT",
+      "feedPosition": 23,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
       "category": null
     },
     {
@@ -368,36 +479,6 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/sounds/play/p0p7z1wn#4",
-      "welsh": "O fod mewn 'lle tywyll ofnadwy' i gwblhau ultramarathon - Chris Rees ar adferiad alcoholiaeth",
-      "english": "From being in a 'terrible dark place' to completing an ultramarathon - Chris Rees on alcoholism recovery",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p7z1wn?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 10:28:45 GMT",
-      "feedPosition": 22,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sounds/play/p0p7z0rt#4",
-      "welsh": "'Gawn ni weld os fedrai gyrraedd y nodau 'na yn fyw!' - Calfari yn dychwelyd",
-      "english": "'Let's see if he can reach those goals ' live! '- Calvary returns",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p7z0rt?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 09:54:50 GMT",
-      "feedPosition": 23,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sounds/play/p0p7rk7h#4",
-      "welsh": "90 mlynedd ers 'Adagio for Strings' Samuel Barber",
-      "english": "90 years since Samuel Barber's 'Adagio for Strings'",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p7rk7h?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 13:12:22 GMT",
-      "feedPosition": 24,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c790q7zxg80o#6",
       "welsh": "Ashley Williams yn rhan o dîm hyfforddi newydd Cymru",
       "english": "Ashley Williams as part of Wales' new training team",
@@ -405,6 +486,16 @@
       "pubDate": "Mon, 07 Sep 2026 14:14:26 GMT",
       "feedPosition": 26,
       "fetchedAt": "2026-09-07T23:28:19.373Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgrv58x0gwro#6",
+      "welsh": "Ymchwiliad heddlu i ddigwyddiad rhwng chwaraewr Caerdydd a chefnogwr Portsmouth",
+      "english": "Police investigation into an incident between a Cardiff player and a Portsmouth supporter",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgrv58x0gwro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 13:49:47 GMT",
+      "feedPosition": 28,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
       "category": null
     },
     {
@@ -428,6 +519,16 @@
       "category": null
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6enkzz78o#6",
+      "welsh": "Pêl-droed y penwythnos: Sut wnaeth timau Cymru?",
+      "english": "Weekend football: How did the Welsh teams do?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6enkzz78o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 12:20:58 GMT",
+      "feedPosition": 31,
+      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "category": null
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cyx66935y29o#8",
       "welsh": "Ymunwch â sianel BBC Cymru Fyw ar WhatsApp",
       "english": "Join the BBC Wales Live channel on WhatsApp",
@@ -438,5 +539,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-09-07T23:28:19.373Z"
+  "generatedAt": "2026-09-08T11:12:08.291Z"
 }
