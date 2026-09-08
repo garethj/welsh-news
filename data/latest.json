@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "headlines": [
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cj0693np5ydo#0",
@@ -8,7 +8,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cj0693np5ydo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 05:03:57 GMT",
       "feedPosition": 0,
-      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null,
       "welshGlosses": [
         "Seven",
@@ -46,7 +46,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5ylg0nz2emo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 09:43:18 GMT",
       "feedPosition": 1,
-      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null,
       "welshGlosses": [
         "Results",
@@ -83,7 +83,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c87ve0rgx5wo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 17:07:13 GMT",
       "feedPosition": 2,
-      "fetchedAt": "2026-09-08T21:05:59.506Z",
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null,
       "welshGlosses": [
         "Series",
@@ -118,7 +118,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2z428j18ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 15:50:23 GMT",
       "feedPosition": 3,
-      "fetchedAt": "2026-09-08T16:34:59.699Z",
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null,
       "welshGlosses": [
         "",
@@ -146,39 +146,40 @@
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6p3dg256o#0",
-      "welsh": "Polisi amddiffyn yn 'broblem fawr' i Lywodraeth Plaid Cymru – Dafydd Iwan",
-      "english": "Defence policy a 'major problem' for the Plaid Cymru Government – Dafydd Iwan",
+      "welsh": "Dafydd Iwan: Polisi amddiffyn yn 'broblem fawr' i lywodraeth Plaid Cymru",
+      "english": "Dafydd Iwan: Defence policy is a 'major problem' for a Plaid Cymru government",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6p3dg256o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 18:29:28 GMT",
-      "feedPosition": 0,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null,
       "welshGlosses": [
-        "",
-        "to protect",
+        "John",
+        "Doe",
+        "ID",
+        "Defence",
         "in",
         "problem",
-        "large",
+        "",
         "to",
         "Government",
         "Party",
-        "Wales",
-        "",
-        ""
+        "Wales"
       ],
       "englishGlosses": [
-        "",
-        "",
-        "",
-        "mawr",
-        "",
-        "",
-        "y",
-        "",
-        "Cymru",
-        "Llywodraeth",
         "Dafydd",
-        ""
+        "Iwan",
+        "Amddiffyn",
+        "Polisi",
+        "yw",
+        "a.",
+        "mawr",
+        "Problem {0}",
+        "am",
+        "a.",
+        "Plaid Cymru",
+        "Cymru ",
+        "Cymru"
       ]
     },
     {
@@ -187,8 +188,8 @@
       "english": "Who were the other four in the 'shadows' of Three Penyberth?",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckg76l9ypz4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 06:18:12 GMT",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null,
       "welshGlosses": [
         "Who",
@@ -222,7 +223,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2zxlzrp3go?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 20:51:36 GMT",
       "feedPosition": 6,
-      "fetchedAt": "2026-09-08T21:05:59.506Z",
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null,
       "welshGlosses": [
         "Soccer",
@@ -251,7 +252,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2zp9vw9gzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 16:44:11 GMT",
       "feedPosition": 7,
-      "fetchedAt": "2026-09-08T21:05:59.506Z",
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null,
       "welshGlosses": [
         "Sir",
@@ -291,38 +292,8 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyzq142948o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 05:17:49 GMT",
       "feedPosition": 8,
-      "fetchedAt": "2026-09-08T21:05:59.506Z",
-      "category": null,
-      "welshGlosses": [
-        "accuse",
-        "Reform",
-        "of",
-        "to try",
-        "start",
-        "quarrel",
-        "for",
-        "race",
-        "over",
-        "to raise",
-        "flag",
-        "Pakistan"
-      ],
-      "englishGlosses": [
-        "Cyhuddo",
-        "Diwygio",
-        "o",
-        "ceisio",
-        "i",
-        "Sgwrs",
-        "a.",
-        "hil",
-        "rhes",
-        "dros",
-        "codi",
-        "'r",
-        "Pacistan",
-        "baner"
-      ]
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gj8z25yvvo#1",
@@ -330,32 +301,9 @@
       "english": "To consider splitting a Welsh medium secondary school over financial concerns",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gj8z25yvvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 12:53:15 GMT",
-      "feedPosition": 7,
-      "fetchedAt": "2026-09-08T11:12:08.291Z",
-      "category": null,
-      "welshGlosses": [
-        "REFLECT",
-        "Split",
-        "school",
-        "secondary",
-        "Welsh",
-        "over",
-        "concerns",
-        "security"
-      ],
-      "englishGlosses": [
-        "I",
-        "pwyllo",
-        "hollti",
-        "a.",
-        "Cymraeg",
-        "canolig",
-        "Eilradd",
-        "Term",
-        "dros",
-        "Gwiriad",
-        "PRYDERON"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgqd7n7nw17o#1",
@@ -363,30 +311,9 @@
       "english": "Sea temperature rise 'endangers habitats and seagrass'",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cgqd7n7nw17o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 05:21:21 GMT",
-      "feedPosition": 8,
-      "fetchedAt": "2026-09-08T16:34:59.699Z",
-      "category": null,
-      "welshGlosses": [
-        "Group",
-        "in",
-        "temperature",
-        "the",
-        "Sea",
-        "in",
-        "to endanger",
-        "Habitats",
-        "and",
-        "seagrass"
-      ],
-      "englishGlosses": [
-        "Môr",
-        "Tymheredd",
-        "textattr",
-        "peryglon",
-        "Ecosystem",
-        "a",
-        "morwellt"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c70drrx40lwo#1",
@@ -395,7 +322,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c70drrx40lwo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 10:04:28 GMT",
       "feedPosition": 11,
-      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -405,7 +332,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 04 Mar 2026 07:38:56 GMT",
       "feedPosition": 12,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -415,7 +342,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c80nk34xlgyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 13:36:24 GMT",
       "feedPosition": 13,
-      "fetchedAt": "2026-09-08T16:34:59.699Z",
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -424,8 +351,8 @@
       "english": "What is' Wales' in Klingon? Celebrating Star Trek at 60",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9d851zzl3jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 06:04:29 GMT",
-      "feedPosition": 13,
-      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "feedPosition": 14,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -434,8 +361,8 @@
       "english": "Answer the Call: Maryam Khan",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c2l80ljk0g1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 08:01:24 GMT",
-      "feedPosition": 14,
-      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "feedPosition": 15,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -444,8 +371,8 @@
       "english": "Five minutes with Poet of the Month: Hammad Rind",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyj1zjqw0xo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 06 Sep 2026 06:12:06 GMT",
-      "feedPosition": 13,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
+      "feedPosition": 16,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -454,8 +381,8 @@
       "english": "The campaign in Crymych to give old rugby shoes a second life",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp84vljd7nzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 06 Sep 2026 07:11:49 GMT",
-      "feedPosition": 14,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
+      "feedPosition": 17,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -465,17 +392,17 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5ym4j306qzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 22 May 2025 13:11:01 GMT",
       "feedPosition": 18,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/sounds/play/p0p8f602#4",
-      "welsh": "'Da chi'n meddwl fod 'na ddim byd yn digwydd mewn ardal mor fach a mor wledig, ond mae o hollol i'r gwrthwyneb' - Osian Candelas",
-      "english": "'You think that 'nothing happens in such a small and rural area, but it is quite the opposite' - Osian Candelas",
+      "welsh": "'Dim byd yn digwydd mewn ardal fach wledig? Yn hollol i'r gwrthwyneb' - Osian Candelas",
+      "english": "'Nothing happens in a small rural area? Quite the opposite' - Osian Candelas",
       "url": "https://www.bbc.co.uk/sounds/play/p0p8f602?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 15:29:53 GMT",
-      "feedPosition": 20,
-      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "feedPosition": 19,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -484,8 +411,8 @@
       "english": "I would like to make a conversation as a 'brake' of recording",
       "url": "https://www.bbc.co.uk/sounds/play/p0p8j1lg?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 08:54:36 GMT",
-      "feedPosition": 21,
-      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "feedPosition": 20,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -494,8 +421,8 @@
       "english": "'There's quite a stitch' - Osprey Chicken Foot of the Fish in Early Calling studio",
       "url": "https://www.bbc.co.uk/sounds/play/p0p8jcz6?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 09:49:34 GMT",
-      "feedPosition": 22,
-      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "feedPosition": 21,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -504,8 +431,8 @@
       "english": "Brazil's National Day is a 'taste of carnival, but with a more political meaning'",
       "url": "https://www.bbc.co.uk/sounds/play/p0p8dlcs?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 13:09:36 GMT",
-      "feedPosition": 23,
-      "fetchedAt": "2026-09-08T11:12:08.291Z",
+      "feedPosition": 22,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -514,8 +441,8 @@
       "english": "The success of Rhian Griffiths from Llanddewi Brefi in agriculture following a serious car accident",
       "url": "https://www.bbc.co.uk/sounds/play/p0p6j2fq?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 06 Sep 2026 17:00:00 GMT",
-      "feedPosition": 19,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
+      "feedPosition": 23,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -524,8 +451,8 @@
       "english": "Iestyn Tyne reveals the hidden history of one of Wales's most iconic paintings",
       "url": "https://www.bbc.co.uk/sounds/play/p0p8cqln?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 10:19:19 GMT",
-      "feedPosition": 20,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
+      "feedPosition": 24,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -534,8 +461,8 @@
       "english": "Emrys Jones considers' swallowing the anchor 'as Queen of the Sea turns 90",
       "url": "https://www.bbc.co.uk/sounds/play/p0p8cq3m?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 10:00:24 GMT",
-      "feedPosition": 21,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
+      "feedPosition": 25,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -545,7 +472,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2zxlzrp3go?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 20:51:36 GMT",
       "feedPosition": 26,
-      "fetchedAt": "2026-09-08T21:05:59.506Z",
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -554,8 +481,8 @@
       "english": "Why is there a skull on the new Cardiff rugby shirt?",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2z428j18ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 15:50:23 GMT",
-      "feedPosition": 26,
-      "fetchedAt": "2026-09-08T16:34:59.699Z",
+      "feedPosition": 27,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -564,8 +491,8 @@
       "english": "Ashley Williams as part of Wales' new training team",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c790q7zxg80o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 14:14:26 GMT",
-      "feedPosition": 26,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
+      "feedPosition": 28,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -574,8 +501,8 @@
       "english": "Caernarfon RFC wins Rugby Kitchen of the Year award",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c70drrx40lwo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 10:04:28 GMT",
-      "feedPosition": 28,
-      "fetchedAt": "2026-09-08T16:34:59.699Z",
+      "feedPosition": 29,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -584,8 +511,8 @@
       "english": "Anglesey golf competition which raises money for local causes celebrating the 40th",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyk8v01685o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 12:16:11 GMT",
-      "feedPosition": 29,
-      "fetchedAt": "2026-09-08T16:34:59.699Z",
+      "feedPosition": 30,
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     },
     {
@@ -595,9 +522,9 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cyx66935y29o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 22 May 2024 11:06:50 GMT",
       "feedPosition": 31,
-      "fetchedAt": "2026-09-07T23:28:19.373Z",
+      "fetchedAt": "2026-09-08T23:21:58.246Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-09-08T21:05:59.506Z"
+  "generatedAt": "2026-09-08T23:21:58.246Z"
 }
