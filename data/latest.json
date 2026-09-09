@@ -2,6 +2,83 @@
   "date": "2026-09-09",
   "headlines": [
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c39md2e9rrlo#0",
+      "welsh": "Dyfodol darlledu Cymraeg 'mewn perygl' ac 'mae'n rhaid newid ffi'r drwydded'",
+      "english": "The future of Welsh language broadcasting 'at risk' and 'the licence fee must be changed'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c39md2e9rrlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 18:45:54 GMT",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-09T20:54:01.668Z",
+      "category": null,
+      "welshGlosses": [
+        "grew",
+        "Broadcast",
+        "",
+        "in",
+        "risk",
+        "and",
+        "it",
+        "must",
+        "change",
+        "fee",
+        "license"
+      ],
+      "englishGlosses": [
+        "Y",
+        "Dyfodol",
+        "o",
+        "Cymraeg",
+        "",
+        "darlledu",
+        "am",
+        "risg",
+        "a",
+        "'r",
+        "AAP",
+        "Tâl",
+        "angen",
+        "bod",
+        "Newidiwyd"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz7z1dwgjv0o#0",
+      "welsh": "Angen i bobl Caerdydd 'deimlo'n rhan o'r Eisteddfod' yn 2028",
+      "english": "The people of Cardiff need to 'feel part of the Eisteddfod' in 2028",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz7z1dwgjv0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 20:27:21 GMT",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-09T20:54:01.668Z",
+      "category": null,
+      "welshGlosses": [
+        "must",
+        "to",
+        "Phob",
+        "Cardiff",
+        "to feel",
+        "Part",
+        "O",
+        "Eisteddfod",
+        "in",
+        "2028"
+      ],
+      "englishGlosses": [
+        "Y",
+        "Pobl",
+        "o",
+        "",
+        "angen",
+        "i",
+        "Teimlo",
+        "darn",
+        "o",
+        "'r",
+        "Eisteddfod",
+        "yn",
+        "2028"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp934jexdmpo#0",
       "welsh": "Ymchwiliad i farwolaeth dynes yn Aberteifi yn dod i ben heb gyhuddiadau",
       "english": "Inquiry into death of woman in Cardigan concludes without charges",
@@ -38,42 +115,43 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cnvl5290nzno#0",
-      "welsh": "Corff bachgen 15 oed wedi'i ganfod ar ôl mynd i drafferthion yn y môr",
-      "english": "Body of 15-year-old boy found after getting into trouble at sea",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cnvl5290nzno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 09 Sep 2026 09:08:15 GMT",
-      "feedPosition": 0,
-      "fetchedAt": "2026-09-09T11:16:44.280Z",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy3455lplo#0",
+      "welsh": "Y ferch o Landdewi Brefi sy'n gwneud ei marc ym myd amaeth",
+      "english": "It is the girl from Llanddewi Brefi who is making her mark in agriculture",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy3455lplo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 15:15:41 GMT",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-09T16:34:48.800Z",
       "category": null,
       "welshGlosses": [
-        "Body",
-        "",
-        "15.",
-        "age",
-        "has",
-        "find",
-        "on",
-        "Trace",
-        "",
-        "to",
-        "troublesome",
-        "in",
         "the",
-        "Sea"
+        "Sael",
+        "of",
+        "Llanddewi",
+        "Towns",
+        "which",
+        "do",
+        "his/her",
+        "Rating",
+        "re",
+        "world",
+        "Agriculture"
       ],
       "englishGlosses": [
-        "Corff",
+        "hynnu",
+        "yw",
+        "'r",
+        "Merch",
         "o",
-        "15 mlwydd oed",
-        "bachgen",
-        "Wedi ei Ganfod",
-        "Wedi",
-        "cael",
-        "i mewn",
-        "helynt",
-        "am",
-        "Môr"
+        "Llanddewi",
+        "Brefi",
+        "Pwy",
+        "yw",
+        "a",
+        "ei",
+        "Mark:",
+        "yn",
+        "Amaeth"
       ]
     },
     {
@@ -117,46 +195,6 @@
         "oedd",
         "\"an\",",
         "Angor"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy3455lplo#0",
-      "welsh": "Y ferch o Landdewi Brefi sy'n gwneud ei marc ym myd amaeth",
-      "english": "It is the girl from Llanddewi Brefi who is making her mark in agriculture",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy3455lplo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 09 Sep 2026 15:15:41 GMT",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-09T16:34:48.800Z",
-      "category": null,
-      "welshGlosses": [
-        "the",
-        "Sael",
-        "of",
-        "Llanddewi",
-        "Towns",
-        "which",
-        "do",
-        "his/her",
-        "Rating",
-        "re",
-        "world",
-        "Agriculture"
-      ],
-      "englishGlosses": [
-        "hynnu",
-        "yw",
-        "'r",
-        "Merch",
-        "o",
-        "Llanddewi",
-        "Brefi",
-        "Pwy",
-        "yw",
-        "a",
-        "ei",
-        "Mark:",
-        "yn",
-        "Amaeth"
       ]
     },
     {
@@ -233,13 +271,44 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6yx0l7d0o#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy4zd215p13o#1",
+      "welsh": "Arestio tri ar amheuaeth o losgi bwriadol ym Môn",
+      "english": "Three arrested on suspicion of arson in Anglesey",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy4zd215p13o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 17:14:12 GMT",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-09T20:54:01.668Z",
+      "category": null,
+      "welshGlosses": [
+        "Arrest",
+        "3",
+        "on",
+        "scepticism",
+        "of",
+        "to burn",
+        "deliberate",
+        "re",
+        "Anglesey"
+      ],
+      "englishGlosses": [
+        "Tri",
+        "arestiwyd",
+        "ar",
+        "amheuaeth",
+        "o",
+        "Llosgi Bwriadol",
+        "yn",
+        "Mon"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6yx0l7d0o#1",
       "welsh": "'Adeiladwr wedi dinistrio fy nghartref cyn diflannu gyda £14,000'",
       "english": "'Builder destroyed my home before disappearing with £14,000'",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c8r6yx0l7d0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 09 Sep 2026 05:04:23 GMT",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-09T11:16:44.280Z",
+      "feedPosition": 8,
+      "fetchedAt": "2026-09-09T20:54:01.668Z",
       "category": null,
       "welshGlosses": [
         "Builder",
@@ -264,6 +333,55 @@
         "14.",
         "£’000"
       ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cnvl5290nzno#1",
+      "welsh": "Corff bachgen 15 oed wedi'i ganfod ar ôl mynd i drafferthion yn y môr",
+      "english": "Body of 15-year-old boy found after getting into trouble at sea",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cnvl5290nzno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 09:08:15 GMT",
+      "feedPosition": 9,
+      "fetchedAt": "2026-09-09T20:54:01.668Z",
+      "category": null,
+      "welshGlosses": [
+        "Body",
+        "",
+        "15.",
+        "age",
+        "has",
+        "find",
+        "on",
+        "Trace",
+        "",
+        "to",
+        "troublesome",
+        "in",
+        "the",
+        "Sea"
+      ],
+      "englishGlosses": [
+        "Corff",
+        "o",
+        "15 mlwydd oed",
+        "bachgen",
+        "Wedi ei Ganfod",
+        "Wedi",
+        "cael",
+        "i mewn",
+        "helynt",
+        "am",
+        "Môr"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p8s4hg#1",
+      "welsh": "Podlediad Gwleidydda: Cai Parry-Jones",
+      "english": "Politico Podcast: Cai Parry-Jones",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p8s4hg?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 16:30:00 GMT",
+      "feedPosition": 10,
+      "fetchedAt": "2026-09-09T20:54:01.668Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c804dlzp8y5o#1",
@@ -299,131 +417,6 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckg76l9ypz4o#1",
-      "welsh": "Pwy oedd y pedwar arall yng 'nghysgodion' Tri Penyberth?",
-      "english": "Who were the other four in the 'shadows' of Three Penyberth?",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckg76l9ypz4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 06:18:12 GMT",
-      "feedPosition": 8,
-      "fetchedAt": "2026-09-09T16:34:48.800Z",
-      "category": null,
-      "welshGlosses": [
-        "Who",
-        "was",
-        "the",
-        "4",
-        "ATM",
-        "in",
-        "shadows",
-        "3",
-        "Penyberth"
-      ],
-      "englishGlosses": [
-        "Pwy",
-        "roedd",
-        "'r",
-        "arall",
-        "pedwar",
-        "yn",
-        "'r",
-        "Cysgodion",
-        "o",
-        "Tri",
-        "Penyberth"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c87ve0rgx5wo#1",
-      "welsh": "Cyfres newydd eisiau chwalu'r 'stigma a'r myth' am ddigartrefedd",
-      "english": "A new series to break down the stigma and myth about homelessness",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c87ve0rgx5wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 17:07:13 GMT",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-09T16:34:48.800Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2z428j18ko#1",
-      "welsh": "Pam bod penglog ar grys rygbi newydd Caerdydd?",
-      "english": "Why is there a skull on the new Cardiff rugby shirt?",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2z428j18ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 15:50:23 GMT",
-      "feedPosition": 7,
-      "fetchedAt": "2026-09-09T11:16:44.280Z",
-      "category": null,
-      "welshGlosses": [
-        "",
-        "to be",
-        "Skull",
-        "on",
-        "shirt",
-        "Rugby",
-        "new",
-        "Cardiff"
-      ],
-      "englishGlosses": [
-        "Pam",
-        "yw",
-        "Yna",
-        "a.",
-        "Penglog",
-        "ar",
-        "'r",
-        "newydd",
-        "",
-        "Rygbi",
-        "crys"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cj0693np5ydo#1",
-      "welsh": "Saith awr heb weld babi ar ôl toriad cesaraidd wedi 'trawmateiddio' mam",
-      "english": "Seven hours without seeing a baby after a mother's 'traumatised' cesarean section",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cj0693np5ydo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 05:03:57 GMT",
-      "feedPosition": 8,
-      "fetchedAt": "2026-09-09T11:16:44.280Z",
-      "category": null,
-      "welshGlosses": [
-        "Seven",
-        "hour",
-        "without",
-        "see",
-        "Baby",
-        "on",
-        "Trace",
-        "break",
-        "cesarean",
-        "after",
-        "traumatisation",
-        "mum"
-      ],
-      "englishGlosses": [
-        "Saith",
-        "awr",
-        "heb",
-        "gweld",
-        "a.",
-        "Babi",
-        "Wedi",
-        "a.",
-        "mam",
-        "trawmatig",
-        "cesaraidd",
-        "adran"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5ylg0nz2emo#1",
-      "welsh": "Canlyniadau profion PISA Cymru yn waeth na gweddill Prydain eto",
-      "english": "The Pisa Wales test results are even worse than the rest of Britain",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5ylg0nz2emo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 09:43:18 GMT",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-09T11:16:44.280Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
       "welsh": "Cwis Dyddiol Cymru Fyw",
       "english": "Live Wales Daily Quiz",
@@ -431,6 +424,26 @@
       "pubDate": "Wed, 04 Mar 2026 07:38:56 GMT",
       "feedPosition": 12,
       "fetchedAt": "2026-09-08T23:21:58.246Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckg76l9ypz4o#2",
+      "welsh": "Pwy oedd y pedwar arall yng 'nghysgodion' Tri Penyberth?",
+      "english": "Who were the other four in the 'shadows' of Three Penyberth?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckg76l9ypz4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 06:18:12 GMT",
+      "feedPosition": 13,
+      "fetchedAt": "2026-09-09T20:54:01.668Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2z428j18ko#2",
+      "welsh": "Pam bod penglog ar grys rygbi newydd Caerdydd?",
+      "english": "Why is there a skull on the new Cardiff rugby shirt?",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2z428j18ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 15:50:23 GMT",
+      "feedPosition": 14,
+      "fetchedAt": "2026-09-09T20:54:01.668Z",
       "category": null
     },
     {
@@ -624,5 +637,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-09-09T16:34:48.800Z"
+  "generatedAt": "2026-09-09T20:54:01.668Z"
 }
