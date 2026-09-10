@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "headlines": [
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyk631yrnpo#0",
@@ -8,7 +8,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyk631yrnpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 19:00:07 GMT",
       "feedPosition": 0,
-      "fetchedAt": "2026-09-10T20:48:39.261Z",
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null,
       "welshGlosses": [
         "Conservatives",
@@ -45,7 +45,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c3wjn775vpyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 13:05:42 GMT",
       "feedPosition": 1,
-      "fetchedAt": "2026-09-10T16:20:56.118Z",
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null,
       "welshGlosses": [
         "Bracelet",
@@ -82,7 +82,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/czezwyrkdd5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 19:39:49 GMT",
       "feedPosition": 2,
-      "fetchedAt": "2026-09-10T20:48:39.261Z",
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null,
       "welshGlosses": [
         "Building",
@@ -118,7 +118,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c790v1e5q25o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 14:04:24 GMT",
       "feedPosition": 3,
-      "fetchedAt": "2026-09-10T16:20:56.118Z",
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null,
       "welshGlosses": [
         "of",
@@ -154,8 +154,8 @@
       "english": "Two friends dead in Snowdonia mountaineering in 'extreme conditions' - inquest",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4g5kp0d6nxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 12:34:54 GMT",
-      "feedPosition": 0,
-      "fetchedAt": "2026-09-10T16:20:56.118Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null,
       "welshGlosses": [
         "Top",
@@ -190,8 +190,8 @@
       "english": "Sperm donor rules' shattered dreams' family",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyzpe2996ro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 04:58:54 GMT",
-      "feedPosition": 1,
-      "fetchedAt": "2026-09-10T11:13:05.549Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null,
       "welshGlosses": [
         "Rules",
@@ -217,8 +217,8 @@
       "english": "'Surely a pint?': Memories of growing up in the C 'mon Midfielder",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyzq5dyrp8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 06:08:51 GMT",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-10T11:13:05.549Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null,
       "welshGlosses": [
         "Sure",
@@ -254,7 +254,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz51prw13o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 04:59:25 GMT",
       "feedPosition": 7,
-      "fetchedAt": "2026-09-10T20:48:39.261Z",
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null,
       "welshGlosses": [
         "Remove",
@@ -294,31 +294,8 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c89jdglv9e0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 15:42:34 GMT",
       "feedPosition": 8,
-      "fetchedAt": "2026-09-10T20:48:39.261Z",
-      "category": null,
-      "welshGlosses": [
-        "Sheen",
-        "in",
-        "Call",
-        "for",
-        "action",
-        "Urgent",
-        "to",
-        "Avoidance",
-        "Poison",
-        "Communities"
-      ],
-      "englishGlosses": [
-        "Sheen",
-        "Galwadau",
-        "am",
-        "Brys",
-        "gweithred",
-        "i",
-        "osgoi",
-        "Gwenwyn",
-        "Cymuned"
-      ]
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz0xzlvx1o#1",
@@ -326,33 +303,9 @@
       "english": "The state of children's health in Wales is' alarming and worsening '",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz0xzlvx1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 08:35:09 GMT",
-      "feedPosition": 7,
-      "fetchedAt": "2026-09-10T16:20:56.118Z",
-      "category": null,
-      "welshGlosses": [
-        "State",
-        "Healt",
-        "Children",
-        "Wales",
-        "in",
-        "frightening",
-        "and",
-        "in",
-        "We went"
-      ],
-      "englishGlosses": [
-        "Y",
-        "Statws",
-        "o",
-        "plant",
-        "iechyd",
-        "yn",
-        "Cymru",
-        "yw",
-        "brawychus",
-        "a",
-        "gwaethygu"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz7z1dwgjv0o#1",
@@ -360,36 +313,9 @@
       "english": "The people of Cardiff need to 'feel part of the Eisteddfod' in 2028",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cz7z1dwgjv0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 09 Sep 2026 20:27:21 GMT",
-      "feedPosition": 8,
-      "fetchedAt": "2026-09-10T16:20:56.118Z",
-      "category": null,
-      "welshGlosses": [
-        "must",
-        "to",
-        "Phob",
-        "Cardiff",
-        "to feel",
-        "Part",
-        "O",
-        "Eisteddfod",
-        "in",
-        "2028"
-      ],
-      "englishGlosses": [
-        "Y",
-        "Pobl",
-        "o",
-        "",
-        "angen",
-        "i",
-        "Teimlo",
-        "darn",
-        "o",
-        "'r",
-        "Eisteddfod",
-        "yn",
-        "2028"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/czxzwd0ex0no#1",
@@ -397,8 +323,8 @@
       "english": "Carmarthenshire rally driver preparing for one of Europe's most challenging races",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/czxzwd0ex0no?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 12:00:28 GMT",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-10T16:20:56.118Z",
+      "feedPosition": 11,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -408,7 +334,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 04 Mar 2026 07:38:56 GMT",
       "feedPosition": 12,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -418,7 +344,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy3455lplo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 09 Sep 2026 15:15:41 GMT",
       "feedPosition": 13,
-      "fetchedAt": "2026-09-10T11:13:05.549Z",
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -428,30 +354,8 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1l6e4g5ejlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 09 Sep 2026 06:12:28 GMT",
       "feedPosition": 14,
-      "fetchedAt": "2026-09-10T20:48:39.261Z",
-      "category": null,
-      "welshGlosses": [
-        "Series",
-        "new",
-        "Teachers",
-        "the",
-        "Reality",
-        "of",
-        "to be",
-        "in",
-        "Teacher"
-      ],
-      "englishGlosses": [
-        "Athrawon",
-        "newydd",
-        "cyfres",
-        "Y",
-        "Realiti",
-        "o",
-        "bod",
-        "a.",
-        "Athro"
-      ]
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckg76l9ypz4o#2",
@@ -459,8 +363,8 @@
       "english": "Who were the other four in the 'shadows' of Three Penyberth?",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckg76l9ypz4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 06:18:12 GMT",
-      "feedPosition": 13,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "feedPosition": 15,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -469,8 +373,8 @@
       "english": "Why is there a skull on the new Cardiff rugby shirt?",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2z428j18ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 15:50:23 GMT",
-      "feedPosition": 14,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "feedPosition": 16,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -479,8 +383,8 @@
       "english": "Father's dream come true when he reopens the last bakery through Cofis",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c80nk34xlgyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 13:36:24 GMT",
-      "feedPosition": 15,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "feedPosition": 17,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -489,8 +393,8 @@
       "english": "Download the app",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5ym4j306qzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 22 May 2025 13:11:01 GMT",
-      "feedPosition": 20,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "feedPosition": 18,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -500,7 +404,7 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p8jvh6?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 11:34:23 GMT",
       "feedPosition": 19,
-      "fetchedAt": "2026-09-10T16:20:56.118Z",
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -509,8 +413,8 @@
       "english": "Swansea Environment Centre nominated for Make a Difference award",
       "url": "https://www.bbc.co.uk/sounds/play/p0p8whhv?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 08:56:11 GMT",
-      "feedPosition": 21,
-      "fetchedAt": "2026-09-10T11:13:05.549Z",
+      "feedPosition": 20,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -520,7 +424,7 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p8pgv8?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 09 Sep 2026 09:46:00 GMT",
       "feedPosition": 21,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -530,7 +434,7 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p8k61f?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 13:03:59 GMT",
       "feedPosition": 22,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -540,7 +444,7 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p8k1jh?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 12:25:20 GMT",
       "feedPosition": 23,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -549,8 +453,8 @@
       "english": "I would like to make a conversation as a 'brake' of recording",
       "url": "https://www.bbc.co.uk/sounds/play/p0p8j1lg?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 08:54:36 GMT",
-      "feedPosition": 25,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "feedPosition": 24,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -559,8 +463,8 @@
       "english": "'There's quite a stitch' - Osprey Chicken Foot of the Fish in Early Calling studio",
       "url": "https://www.bbc.co.uk/sounds/play/p0p8jcz6?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 09:49:34 GMT",
-      "feedPosition": 26,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "feedPosition": 25,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -570,7 +474,7 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/czxzwd0ex0no?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 12:00:28 GMT",
       "feedPosition": 26,
-      "fetchedAt": "2026-09-10T16:20:56.118Z",
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -579,8 +483,8 @@
       "english": "Mid-week football: How did the Welsh teams do?",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2zxlzrp3go?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 20:51:36 GMT",
-      "feedPosition": 28,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "feedPosition": 27,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -589,8 +493,8 @@
       "english": "Why is there a skull on the new Cardiff rugby shirt?",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2z428j18ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 15:50:23 GMT",
-      "feedPosition": 29,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "feedPosition": 28,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -599,8 +503,8 @@
       "english": "Ashley Williams as part of Wales' new training team",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c790q7zxg80o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 14:14:26 GMT",
-      "feedPosition": 30,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "feedPosition": 29,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -609,8 +513,8 @@
       "english": "Caernarfon RFC wins Rugby Kitchen of the Year award",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c70drrx40lwo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 10:04:28 GMT",
-      "feedPosition": 31,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "feedPosition": 30,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     },
     {
@@ -619,10 +523,10 @@
       "english": "Join the BBC Wales Live channel on WhatsApp",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cyx66935y29o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 22 May 2024 11:06:50 GMT",
-      "feedPosition": 33,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "feedPosition": 31,
+      "fetchedAt": "2026-09-10T23:07:48.090Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-09-10T20:48:39.261Z"
+  "generatedAt": "2026-09-10T23:07:48.090Z"
 }
