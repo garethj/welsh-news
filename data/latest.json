@@ -2,43 +2,140 @@
   "date": "2026-09-10",
   "headlines": [
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c39md2e9rrlo#0",
-      "welsh": "Dyfodol darlledu Cymraeg 'mewn perygl' ac 'mae'n rhaid newid ffi'r drwydded'",
-      "english": "The future of Welsh language broadcasting 'at risk' and 'the licence fee must be changed'",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c39md2e9rrlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 09 Sep 2026 18:45:54 GMT",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz0xzlvx1o#0",
+      "welsh": "Cyflwr iechyd plant Cymru yn 'frawychus ac yn gwaethygu'",
+      "english": "The state of children's health in Wales is' alarming and worsening '",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz0xzlvx1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 08:35:09 GMT",
       "feedPosition": 0,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "fetchedAt": "2026-09-10T11:13:05.549Z",
       "category": null,
       "welshGlosses": [
-        "grew",
-        "Broadcast",
-        "",
+        "State",
+        "Healt",
+        "Children",
+        "Wales",
         "in",
-        "risk",
+        "frightening",
         "and",
-        "it",
-        "must",
-        "change",
-        "fee",
-        "license"
+        "in",
+        "We went"
       ],
       "englishGlosses": [
         "Y",
-        "Dyfodol",
+        "Statws",
         "o",
-        "Cymraeg",
-        "",
-        "darlledu",
-        "am",
-        "risg",
+        "plant",
+        "iechyd",
+        "yn",
+        "Cymru",
+        "yw",
+        "brawychus",
         "a",
+        "gwaethygu"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyzpe2996ro#0",
+      "welsh": "Rheolau rhoddwyr sberm wedi 'chwalu breuddwydion' teulu",
+      "english": "Sperm donor rules' shattered dreams' family",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyzpe2996ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 04:58:54 GMT",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-10T11:13:05.549Z",
+      "category": null,
+      "welshGlosses": [
+        "Rules",
+        "Donors",
+        "cum",
+        "after",
+        "Bust",
+        "dreams",
+        "family"
+      ],
+      "englishGlosses": [
+        "Sberm",
+        "rhoddwr",
+        "Rheolau",
+        "chwalu",
+        "breuddwydion",
+        ""
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz51prw13o#0",
+      "welsh": "Dychwelyd llyfr i Lyfrgell Llanrwst ar ôl dros ganrif yn 'sioc hyfryd'",
+      "english": "Returning a book to Llanrwst Library after over a century is a 'lovely shock'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz51prw13o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 04:59:25 GMT",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-10T11:13:05.549Z",
+      "category": null,
+      "welshGlosses": [
+        "Remove",
+        "Book",
+        "to",
+        "Library",
+        "Llanrwst",
+        "on",
+        "Trace",
+        "over",
+        "century",
+        "in",
+        "shock",
+        "lovely"
+      ],
+      "englishGlosses": [
+        "Yn dychwelyd",
+        "a.",
+        "Llyfr",
+        "i",
+        "Llanrwst",
+        "Llyfrgell",
+        "Wedi",
+        "dros",
+        "a.",
+        "ganrif",
+        "yw",
+        "a.",
+        "hyfryd",
+        "sioc"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyzq5dyrp8o#0",
+      "welsh": "'Siawns am beint?': Atgofion o fagwraeth yn nhafarn C'mon Midffîld",
+      "english": "'Surely a pint?': Memories of growing up in the C 'mon Midfielder",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyzq5dyrp8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 06:08:51 GMT",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-10T11:13:05.549Z",
+      "category": null,
+      "welshGlosses": [
+        "Sure",
+        "for",
+        "pint",
+        "Memories",
+        "of",
+        "upbringing",
+        "in",
+        "pub",
+        "C 'mon",
+        "Midfielder"
+      ],
+      "englishGlosses": [
+        "Siawns nad",
+        "a.",
+        "Peint",
+        "Atgofion",
+        "o",
+        "TYFU",
+        "LAN",
+        "yn",
         "'r",
-        "AAP",
-        "Tâl",
-        "angen",
-        "bod",
-        "Newidiwyd"
+        "C.",
+        "Llun",
+        "Midfielder"
       ]
     },
     {
@@ -79,6 +176,46 @@
       ]
     },
     {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c39md2e9rrlo#0",
+      "welsh": "Dyfodol darlledu Cymraeg 'mewn perygl' ac 'mae'n rhaid newid ffi'r drwydded'",
+      "english": "The future of Welsh language broadcasting 'at risk' and 'the licence fee must be changed'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c39md2e9rrlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 18:45:54 GMT",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "category": null,
+      "welshGlosses": [
+        "grew",
+        "Broadcast",
+        "",
+        "in",
+        "risk",
+        "and",
+        "it",
+        "must",
+        "change",
+        "fee",
+        "license"
+      ],
+      "englishGlosses": [
+        "Y",
+        "Dyfodol",
+        "o",
+        "Cymraeg",
+        "",
+        "darlledu",
+        "am",
+        "risg",
+        "a",
+        "'r",
+        "AAP",
+        "Tâl",
+        "angen",
+        "bod",
+        "Newidiwyd"
+      ]
+    },
+    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp934jexdmpo#0",
       "welsh": "Ymchwiliad i farwolaeth dynes yn Aberteifi yn dod i ben heb gyhuddiadau",
       "english": "Inquiry into death of woman in Cardigan concludes without charges",
@@ -115,53 +252,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy3455lplo#0",
-      "welsh": "Y ferch o Landdewi Brefi sy'n gwneud ei marc ym myd amaeth",
-      "english": "It is the girl from Llanddewi Brefi who is making her mark in agriculture",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy3455lplo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 09 Sep 2026 15:15:41 GMT",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
-      "category": null,
-      "welshGlosses": [
-        "the",
-        "Sael",
-        "of",
-        "Llanddewi",
-        "Towns",
-        "which",
-        "do",
-        "his/her",
-        "Rating",
-        "re",
-        "world",
-        "Agriculture"
-      ],
-      "englishGlosses": [
-        "hynnu",
-        "yw",
-        "'r",
-        "Merch",
-        "o",
-        "Llanddewi",
-        "Brefi",
-        "Pwy",
-        "yw",
-        "a",
-        "ei",
-        "Mark:",
-        "yn",
-        "Amaeth"
-      ]
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2zv9zd478o#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2zv9zd478o#1",
       "welsh": "'Dylen i fod yn farw, yn y carchar, neu'n ddigartref, ond roedd athrawes yn angor'",
       "english": "'I should be dead, in prison, or homeless, but a teacher was an anchor'",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cx2zv9zd478o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 09 Sep 2026 05:03:58 GMT",
-      "feedPosition": 4,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-10T11:13:05.549Z",
       "category": null,
       "welshGlosses": [
         "Shoulder",
@@ -198,13 +295,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy4l4kz2ko#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy4l4kz2ko#1",
       "welsh": "Bachgen wyth oed o Lanberis yn dringo 15 copa uchaf Eryri mewn 16 awr",
       "english": "An eight-year-old boy from Llanberis climbs Snowdonia's top 15 summits in 16 hours",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy4l4kz2ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 09 Sep 2026 11:37:21 GMT",
-      "feedPosition": 5,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "feedPosition": 8,
+      "fetchedAt": "2026-09-10T11:13:05.549Z",
       "category": null,
       "welshGlosses": [
         "Boy",
@@ -239,36 +336,14 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1l6e4g5ejlo#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1l6e4g5ejlo#1",
       "welsh": "Cyfres newydd Athrawon: 'Y realiti o fod yn athro'",
       "english": "Teachers' new series: 'The reality of being a teacher'",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1l6e4g5ejlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 09 Sep 2026 06:12:28 GMT",
-      "feedPosition": 6,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
-      "category": null,
-      "welshGlosses": [
-        "Series",
-        "new",
-        "Teachers",
-        "the",
-        "Reality",
-        "of",
-        "to be",
-        "in",
-        "Teacher"
-      ],
-      "englishGlosses": [
-        "Athrawon",
-        "newydd",
-        "cyfres",
-        "Y",
-        "Realiti",
-        "o",
-        "bod",
-        "a.",
-        "Athro"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-09-10T11:13:05.549Z",
+      "category": null
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cy4zd215p13o#1",
@@ -312,36 +387,6 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cnvl5290nzno#1",
-      "welsh": "Corff bachgen 15 oed wedi'i ganfod ar ôl mynd i drafferthion yn y môr",
-      "english": "Body of 15-year-old boy found after getting into trouble at sea",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cnvl5290nzno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 09 Sep 2026 09:08:15 GMT",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sounds/play/p0p8s4hg#1",
-      "welsh": "Podlediad Gwleidydda: Cai Parry-Jones",
-      "english": "Politico Podcast: Cai Parry-Jones",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p8s4hg?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 09 Sep 2026 16:30:00 GMT",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c804dlzp8y5o#1",
-      "welsh": "Undeb athrawon mwyaf Cymru eisiau gwahardd ffonau mewn ysgolion",
-      "english": "Wales's largest teachers' union wants to ban phones in schools",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c804dlzp8y5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 09 Sep 2026 07:53:46 GMT",
-      "feedPosition": 11,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
       "welsh": "Cwis Dyddiol Cymru Fyw",
       "english": "Live Wales Daily Quiz",
@@ -349,6 +394,16 @@
       "pubDate": "Wed, 04 Mar 2026 07:38:56 GMT",
       "feedPosition": 12,
       "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy3455lplo#2",
+      "welsh": "Y ferch o Landdewi Brefi sy'n gwneud ei marc ym myd amaeth",
+      "english": "It is the girl from Llanddewi Brefi who is making her mark in agriculture",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cvgy3455lplo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 15:15:41 GMT",
+      "feedPosition": 13,
+      "fetchedAt": "2026-09-10T11:13:05.549Z",
       "category": null
     },
     {
@@ -412,16 +467,6 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp84vljd7nzo#2",
-      "welsh": "Yr ymgyrch yng Nghrymych i roi ail fywyd i hen esgidiau rygbi  ",
-      "english": "The campaign in Crymych to give old rugby shoes a second life",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cp84vljd7nzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 06 Sep 2026 07:11:49 GMT",
-      "feedPosition": 19,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c5ym4j306qzo#3",
       "welsh": "Lawrlwytho'r ap",
       "english": "Download the app",
@@ -429,6 +474,16 @@
       "pubDate": "Thu, 22 May 2025 13:11:01 GMT",
       "feedPosition": 20,
       "fetchedAt": "2026-09-09T23:12:10.673Z",
+      "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/sounds/play/p0p8whhv#4",
+      "welsh": "Canolfan yr Amgylchedd Abertawe wedi ei henwebu am wobr Gwneud Gwahaniaeth",
+      "english": "Swansea Environment Centre nominated for Make a Difference award",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p8whhv?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 08:56:11 GMT",
+      "feedPosition": 21,
+      "fetchedAt": "2026-09-10T11:13:05.549Z",
       "category": null
     },
     {
@@ -458,16 +513,6 @@
       "url": "https://www.bbc.co.uk/sounds/play/p0p8k1jh?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 12:25:20 GMT",
       "feedPosition": 23,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/sounds/play/p0p8f602#4",
-      "welsh": "'Dim byd yn digwydd mewn ardal fach wledig? Yn hollol i'r gwrthwyneb' - Osian Candelas",
-      "english": "'Nothing happens in a small rural area? Quite the opposite' - Osian Candelas",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p8f602?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 15:29:53 GMT",
-      "feedPosition": 24,
       "fetchedAt": "2026-09-09T23:12:10.673Z",
       "category": null
     },
@@ -562,5 +607,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-09-09T23:12:10.673Z"
+  "generatedAt": "2026-09-10T11:13:05.549Z"
 }
