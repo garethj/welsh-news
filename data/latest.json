@@ -2,39 +2,40 @@
   "date": "2026-09-10",
   "headlines": [
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4g5kp0d6nxo#0",
-      "welsh": "Dau ffrind wedi marw yn Eryri wrth fynydda mewn 'amodau eithafol' - cwest",
-      "english": "Two friends dead in Snowdonia mountaineering in 'extreme conditions' - inquest",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4g5kp0d6nxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 12:34:54 GMT",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyk631yrnpo#0",
+      "welsh": "Ceidwadwyr a Reform yn galw am ddiswyddo prif weithredwr Betsi Cadwaladr",
+      "english": "Conservatives and Reform call for the dismissal of Betsi Cadwaladr's chief executive",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/clyk631yrnpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 19:00:07 GMT",
       "feedPosition": 0,
-      "fetchedAt": "2026-09-10T16:20:56.118Z",
+      "fetchedAt": "2026-09-10T20:48:39.261Z",
       "category": null,
       "welshGlosses": [
-        "Top",
-        "friend",
-        "after",
-        "dead",
+        "Conservatives",
+        "and",
+        "Reform",
         "in",
-        "Snowdonia",
-        "by",
-        "mountaineering",
-        "in",
-        "Conditions",
-        "extremist",
-        "Inquest"
+        "Call",
+        "for",
+        "dismissal",
+        "main",
+        "operator",
+        "Betsi",
+        "Cadwaladr"
       ],
       "englishGlosses": [
-        "Dwy",
-        "ffrindiau",
-        "marw",
-        "yn",
-        "Eryri",
-        "Mynydda",
-        "yn",
-        "eithaf",
-        "Amodau",
-        "Cwest"
+        "Ceidwadwyr",
+        "a",
+        "Diwygio",
+        "Galw",
+        "am",
+        "'r",
+        "Diswyddo",
+        "o",
+        "Betsi",
+        "Cadwaladr",
+        "Pennaeth",
+        "Cynrychiolwyr Gweithredol"
       ]
     },
     {
@@ -75,30 +76,39 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyzpe2996ro#0",
-      "welsh": "Rheolau rhoddwyr sberm wedi 'chwalu breuddwydion' teulu",
-      "english": "Sperm donor rules' shattered dreams' family",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyzpe2996ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 04:58:54 GMT",
-      "feedPosition": 1,
-      "fetchedAt": "2026-09-10T11:13:05.549Z",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/czezwyrkdd5o#0",
+      "welsh": "Adeilad eiconig Tŷ Hyll yn Eryri i gael ei werthu mewn ocsiwn",
+      "english": "The iconic Tŷ Hyll building in Snowdonia to be auctioned",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/czezwyrkdd5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 19:39:49 GMT",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-10T20:48:39.261Z",
       "category": null,
       "welshGlosses": [
-        "Rules",
-        "Donors",
-        "cum",
-        "after",
-        "Bust",
-        "dreams",
-        "family"
+        "Building",
+        "iconic",
+        "House",
+        "make",
+        "in",
+        "Snowdonia",
+        "to",
+        "get",
+        "his/her",
+        "to sell",
+        "in",
+        "auction"
       ],
       "englishGlosses": [
-        "Sberm",
-        "rhoddwr",
-        "Rheolau",
-        "chwalu",
-        "breuddwydion",
-        ""
+        "Y",
+        "eiconig",
+        "Tŷ",
+        "Hyll",
+        "Adeilad",
+        "yn",
+        "Eryri",
+        "i",
+        "bod",
+        "arwerthiant"
       ]
     },
     {
@@ -139,36 +149,66 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c89jdglv9e0o#0",
-      "welsh": "Sheen yn galw am weithredu brys i osgoi 'gwenwyno cymunedau'",
-      "english": "Sheen calls for urgent action to avoid 'poisoning communities'",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c89jdglv9e0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 15:42:34 GMT",
-      "feedPosition": 4,
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4g5kp0d6nxo#0",
+      "welsh": "Dau ffrind wedi marw yn Eryri wrth fynydda mewn 'amodau eithafol' - cwest",
+      "english": "Two friends dead in Snowdonia mountaineering in 'extreme conditions' - inquest",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4g5kp0d6nxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 12:34:54 GMT",
+      "feedPosition": 0,
       "fetchedAt": "2026-09-10T16:20:56.118Z",
       "category": null,
       "welshGlosses": [
-        "Sheen",
+        "Top",
+        "friend",
+        "after",
+        "dead",
         "in",
-        "Call",
-        "for",
-        "action",
-        "Urgent",
-        "to",
-        "Avoidance",
-        "Poison",
-        "Communities"
+        "Snowdonia",
+        "by",
+        "mountaineering",
+        "in",
+        "Conditions",
+        "extremist",
+        "Inquest"
       ],
       "englishGlosses": [
-        "Sheen",
-        "Galwadau",
-        "am",
-        "Brys",
-        "gweithred",
-        "i",
-        "osgoi",
-        "Gwenwyn",
-        "Cymuned"
+        "Dwy",
+        "ffrindiau",
+        "marw",
+        "yn",
+        "Eryri",
+        "Mynydda",
+        "yn",
+        "eithaf",
+        "Amodau",
+        "Cwest"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyzpe2996ro#0",
+      "welsh": "Rheolau rhoddwyr sberm wedi 'chwalu breuddwydion' teulu",
+      "english": "Sperm donor rules' shattered dreams' family",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyzpe2996ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 04:58:54 GMT",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-10T11:13:05.549Z",
+      "category": null,
+      "welshGlosses": [
+        "Rules",
+        "Donors",
+        "cum",
+        "after",
+        "Bust",
+        "dreams",
+        "family"
+      ],
+      "englishGlosses": [
+        "Sberm",
+        "rhoddwr",
+        "Rheolau",
+        "chwalu",
+        "breuddwydion",
+        ""
       ]
     },
     {
@@ -208,13 +248,13 @@
       ]
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz51prw13o#0",
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz51prw13o#1",
       "welsh": "Dychwelyd llyfr i Lyfrgell Llanrwst ar ôl dros ganrif yn 'sioc hyfryd'",
       "english": "Returning a book to Llanrwst Library after over a century is a 'lovely shock'",
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/cwyz51prw13o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 04:59:25 GMT",
-      "feedPosition": 2,
-      "fetchedAt": "2026-09-10T11:13:05.549Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-10T20:48:39.261Z",
       "category": null,
       "welshGlosses": [
         "Remove",
@@ -245,6 +285,39 @@
         "a.",
         "hyfryd",
         "sioc"
+      ]
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c89jdglv9e0o#1",
+      "welsh": "Sheen yn galw am weithredu brys i osgoi 'gwenwyno cymunedau'",
+      "english": "Sheen calls for urgent action to avoid 'poisoning communities'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c89jdglv9e0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 15:42:34 GMT",
+      "feedPosition": 8,
+      "fetchedAt": "2026-09-10T20:48:39.261Z",
+      "category": null,
+      "welshGlosses": [
+        "Sheen",
+        "in",
+        "Call",
+        "for",
+        "action",
+        "Urgent",
+        "to",
+        "Avoidance",
+        "Poison",
+        "Communities"
+      ],
+      "englishGlosses": [
+        "Sheen",
+        "Galwadau",
+        "am",
+        "Brys",
+        "gweithred",
+        "i",
+        "osgoi",
+        "Gwenwyn",
+        "Cymuned"
       ]
     },
     {
@@ -329,26 +402,6 @@
       "category": null
     },
     {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c39md2e9rrlo#1",
-      "welsh": "Dyfodol darlledu Cymraeg 'mewn perygl' ac 'mae'n rhaid newid ffi'r drwydded'",
-      "english": "The future of Welsh language broadcasting 'at risk' and 'the licence fee must be changed'",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c39md2e9rrlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 09:44:24 GMT",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-10T16:20:56.118Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1l6e4g5ejlo#1",
-      "welsh": "Cyfres newydd Athrawon: 'Y realiti o fod yn athro'",
-      "english": "Teachers' new series: 'The reality of being a teacher'",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1l6e4g5ejlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 09 Sep 2026 06:12:28 GMT",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-10T11:13:05.549Z",
-      "category": null
-    },
-    {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c4gd9elke09o#2",
       "welsh": "Cwis Dyddiol Cymru Fyw",
       "english": "Live Wales Daily Quiz",
@@ -367,6 +420,38 @@
       "feedPosition": 13,
       "fetchedAt": "2026-09-10T11:13:05.549Z",
       "category": null
+    },
+    {
+      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1l6e4g5ejlo#2",
+      "welsh": "Cyfres newydd Athrawon: 'Y realiti o fod yn athro'",
+      "english": "Teachers' new series: 'The reality of being a teacher'",
+      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c1l6e4g5ejlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 06:12:28 GMT",
+      "feedPosition": 14,
+      "fetchedAt": "2026-09-10T20:48:39.261Z",
+      "category": null,
+      "welshGlosses": [
+        "Series",
+        "new",
+        "Teachers",
+        "the",
+        "Reality",
+        "of",
+        "to be",
+        "in",
+        "Teacher"
+      ],
+      "englishGlosses": [
+        "Athrawon",
+        "newydd",
+        "cyfres",
+        "Y",
+        "Realiti",
+        "o",
+        "bod",
+        "a.",
+        "Athro"
+      ]
     },
     {
       "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/ckg76l9ypz4o#2",
@@ -395,16 +480,6 @@
       "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c80nk34xlgyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 13:36:24 GMT",
       "feedPosition": 15,
-      "fetchedAt": "2026-09-09T23:12:10.673Z",
-      "category": null
-    },
-    {
-      "guid": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9d851zzl3jo#2",
-      "welsh": "Beth ydy 'Cymru' mewn Klingon? Dathlu Star Trek yn 60",
-      "english": "What is' Wales' in Klingon? Celebrating Star Trek at 60",
-      "url": "https://www.bbc.co.uk/cymrufyw/erthyglau/c9d851zzl3jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 06:04:29 GMT",
-      "feedPosition": 16,
       "fetchedAt": "2026-09-09T23:12:10.673Z",
       "category": null
     },
@@ -549,5 +624,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-09-10T16:20:56.118Z"
+  "generatedAt": "2026-09-10T20:48:39.261Z"
 }
