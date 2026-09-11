@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Fetches BBC Cymru Fyw headlines, translates any new ones via MyMemory
+// Fetches Golwg360 headlines, translates any new ones via MyMemory
 // (free, keyless), and writes data/latest.json. Safe to run repeatedly —
 // already-translated headlines are cached and never re-translated.
 //
@@ -11,7 +11,11 @@ import fs from 'node:fs/promises';
 import { words } from '../tokenize.js';
 import { pickDisplaySet } from '../pick-headlines.js';
 
-const FEED_URL = 'https://feeds.bbci.co.uk/cymrufyw/rss.xml';
+// Golwg360's News section (as opposed to their full-site /ffrwd, which also
+// carries sport/culture/lifestyle, or the narrower Rhyngwladol/Prydain/Cymru
+// category feeds). This one mixes Cymru, Prydain (UK) and Rhyngwladol
+// (international) news, human-written in Welsh by Golwg360's own journalists.
+const FEED_URL = 'https://golwg.360.cymru/newyddion/ffrwd';
 const DATA_PATH = new URL('../data/latest.json', import.meta.url);
 const TIMEZONE = 'Europe/London';
 
@@ -134,8 +138,14 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+// BBC's feed wraps text fields in CDATA; Golwg360's writes plain text with
+// numeric HTML entities instead (e.g. &#8220; for a curly quote, &#038; for
+// an ampersand in a link's query string) — both forms need handling since
+// either feed shape might be in use.
 function decodeEntities(str) {
   return str
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, hex) => String.fromCodePoint(parseInt(hex, 16)))
+    .replace(/&#(\d+);/g, (_, dec) => String.fromCodePoint(Number(dec)))
     .replace(/&amp;/g, '&')
     .replace(/&apos;/g, "'")
     .replace(/&quot;/g, '"')
@@ -143,14 +153,22 @@ function decodeEntities(str) {
     .replace(/&gt;/g, '>');
 }
 
+function extractField(block, tag) {
+  const match = block.match(
+    new RegExp(`<${tag}[^>]*>\\s*(?:<!\\[CDATA\\[([\\s\\S]*?)\\]\\]>|([\\s\\S]*?))\\s*<\\/${tag}>`)
+  );
+  if (!match) return '';
+  return decodeEntities((match[1] ?? match[2] ?? '').trim());
+}
+
 function parseRss(xml) {
   const items = [];
   const blocks = xml.split('<item>').slice(1);
   for (const block of blocks) {
-    const title = decodeEntities((block.match(/<title>\s*<!\[CDATA\[(.*?)\]\]>\s*<\/title>/s) || [])[1] || '');
-    const link = (block.match(/<link>(.*?)<\/link>/s) || [])[1] || '';
-    const guid = (block.match(/<guid[^>]*>(.*?)<\/guid>/s) || [])[1] || link;
-    const pubDate = (block.match(/<pubDate>(.*?)<\/pubDate>/s) || [])[1] || '';
+    const title = extractField(block, 'title');
+    const link = extractField(block, 'link');
+    const guid = extractField(block, 'guid') || link;
+    const pubDate = extractField(block, 'pubDate');
     if (title && link) items.push({ title, link, guid, pubDate });
   }
   return items;
@@ -159,6 +177,16 @@ function parseRss(xml) {
 function isExcluded(title) {
   const lower = title.toLowerCase();
   return EXCLUDED_KEYWORDS.some((kw) => lower.includes(kw.toLowerCase()));
+}
+
+// Golwg360 prefixes non-news content types with a marker emoji instead of a
+// distinguishing RSS category: 🗣 for opinion pieces ("Safbwynt") and 🔊 for
+// audio/podcast features. Neither is straight news, so both get filtered out
+// here rather than shown alongside real headlines.
+const NON_NEWS_PREFIXES = ['🗣', '🔊'];
+
+function isNonNewsPrefixed(title) {
+  return NON_NEWS_PREFIXES.some((prefix) => title.startsWith(prefix));
 }
 
 async function fetchMatches(text, langpair) {
@@ -231,7 +259,9 @@ async function main() {
   const res = await fetch(FEED_URL);
   if (!res.ok) throw new Error(`Feed HTTP ${res.status}`);
   const xml = await res.text();
-  const items = parseRss(xml).filter((item) => !isExcluded(item.title));
+  const items = parseRss(xml).filter(
+    (item) => !isExcluded(item.title) && !isNonNewsPrefixed(item.title)
+  );
 
   const data = await loadExisting();
   const existingByGuid = new Map(data.headlines.map((h) => [h.guid, h]));
