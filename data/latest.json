@@ -2,6 +2,48 @@
   "date": "2026-09-11",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2205709",
+      "welsh": "Rhieni “wrth eu boddau” gyda chynnig i rannu unig ysgol gyfun Gymraeg Caerffili’n ddwy",
+      "english": "Parents “absolutely delighted” with proposal to split Caerphilly's only Welsh-medium comprehensive school in two",
+      "url": "https://golwg.360.cymru/newyddion/2205709-rhieni-wrth-boddau-gyda-chynnig-rannu-unig-ysgol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsde2d5",
+      "pubDate": "Fri, 11 Sep 2026 16:58:54 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-11T20:55:04.414Z",
+      "category": null,
+      "welshGlosses": [
+        "Parents",
+        "by",
+        "their",
+        "goodbye",
+        "Job|with",
+        "offering",
+        "to",
+        "to share",
+        "lonely",
+        "school",
+        "combined",
+        "Welsh",
+        "Caerphilly",
+        "two"
+      ],
+      "englishGlosses": [
+        "Rhiant",
+        "gwbl",
+        "fodd",
+        "gyda",
+        "bryd",
+        "i",
+        "Hollti",
+        "Caerffili",
+        "Dim ond",
+        "Cyfrwng Cymraeg",
+        "cynhwysfawr",
+        "Term",
+        "yn",
+        "dau"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2205700",
       "welsh": "Bil cymorth i farw yn methu yn Nhŷ’r Cyffredin",
       "english": "Assistance to die bill fails in the House of Commons",
@@ -459,17 +501,7 @@
       "feedPosition": 10,
       "fetchedAt": "2026-09-11T07:22:14.644Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205442",
-      "welsh": "‘Methu parhau fel hyn’: 7 o bob 10 fferyllfa’n ystyried torri gwasanaethau neu staff",
-      "english": "‘Unable to proceed like this': 7 in 10 pharmacies considering cutting services or staff",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2205442-methu-parhau-fferyllfa-ystyried-torri-gwasanaethau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7L1G",
-      "pubDate": "Wed, 09 Sep 2026 08:23:35 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-09-11T07:22:14.644Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-11T16:25:01.410Z"
+  "generatedAt": "2026-09-11T20:55:04.414Z"
 }
