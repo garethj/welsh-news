@@ -2,6 +2,29 @@
   "date": "2026-09-11",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2205610",
+      "welsh": "Darn o gacen Seisnig",
+      "english": "A slice of English cake",
+      "url": "https://golwg.360.cymru/newyddion/prydain/2205610-darn-gacen-seisnig?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8D5oB",
+      "pubDate": "Fri, 11 Sep 2026 09:17:30 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-11T11:14:36.847Z",
+      "category": null,
+      "welshGlosses": [
+        "Part",
+        "of",
+        "cake",
+        "English"
+      ],
+      "englishGlosses": [
+        "A.",
+        "sleisen",
+        "o",
+        "U piod",
+        "cacen"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2205628",
       "welsh": "Llywodraeth yr Alban eisiau trafod annibyniaeth gydag Andy Burnham",
       "english": "The Scottish Government wants to discuss independence with Andy Burnham",
@@ -351,17 +374,7 @@
       "feedPosition": 14,
       "fetchedAt": "2026-09-11T07:22:14.644Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205420",
-      "welsh": "Lansio prosiect newydd i adfer cynefinoedd Nant Ffrancon",
-      "english": "Launch of a new Nant Ffrancon habitat restoration project",
-      "url": "https://golwg.360.cymru/newyddion/amgylchedd/2205420-lansio-prosiect-newydd-adfer-cynefinoedd-nant?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0NlM2",
-      "pubDate": "Tue, 08 Sep 2026 13:43:06 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-09-11T07:22:14.644Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-11T07:22:14.644Z"
+  "generatedAt": "2026-09-11T11:14:36.847Z"
 }
