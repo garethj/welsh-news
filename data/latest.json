@@ -2,6 +2,131 @@
   "date": "2026-09-11",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2205700",
+      "welsh": "Bil cymorth i farw yn methu yn Nhŷ’r Cyffredin",
+      "english": "Assistance to die bill fails in the House of Commons",
+      "url": "https://golwg.360.cymru/newyddion/2205700-cymorth-farw-methu-cyffredin?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0Wy0a",
+      "pubDate": "Fri, 11 Sep 2026 15:36:50 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-11T16:25:01.410Z",
+      "category": null,
+      "welshGlosses": [
+        "bill",
+        "help",
+        "to",
+        "to die",
+        "in",
+        "fail",
+        "in",
+        "Ty 'r",
+        "Common"
+      ],
+      "englishGlosses": [
+        "Cymorth",
+        "i",
+        "marw",
+        "bil",
+        "methu",
+        "yn",
+        "'r",
+        "Tŷ",
+        "o",
+        "Tir comin"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2205653",
+      "welsh": "Chwarter canrif ers 9/11: Iolo ap Dafydd yn cofio",
+      "english": "A quarter of a century since 9/11: Iolo ap Dafydd recalls",
+      "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2205653-chwarter-canrif-iolo-dafydd-cofio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2O4jN",
+      "pubDate": "Fri, 11 Sep 2026 14:49:20 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-11T16:25:01.410Z",
+      "category": null,
+      "welshGlosses": [
+        "Quarter",
+        "Century",
+        "Since",
+        "9.",
+        "16",
+        "Iolo",
+        "App",
+        "John",
+        "in",
+        "Piece"
+      ],
+      "englishGlosses": [
+        "A.",
+        "Chwarter",
+        "o",
+        "a.",
+        "ganrif",
+        "Ers",
+        "9.",
+        "11.",
+        "Iolo",
+        "<PROTECTED> ap <PROTECTED>/Meleri Williams",
+        "Dafydd",
+        "cofio"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2205674",
+      "welsh": "Ar y bws am bunt!",
+      "english": "On the bus for a pound!",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2205674-bunt?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpB7D",
+      "pubDate": "Fri, 11 Sep 2026 14:05:37 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-11T16:25:01.410Z",
+      "category": null,
+      "welshGlosses": [
+        "on",
+        "the",
+        "Bus",
+        "for",
+        "bun"
+      ],
+      "englishGlosses": [
+        "Oran",
+        "'r",
+        "Bws",
+        "am",
+        "a.",
+        "Punt"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2205661",
+      "welsh": "Arolwg barn: Mwyafrif o blaid annibyniaeth “o fewn cyrraedd”",
+      "english": "Opinion survey: Majority in favour of “reachable” independence",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2205661-arolwg-barn-mwyafrif-blaid-annibyniaeth-fewn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA1Lj",
+      "pubDate": "Fri, 11 Sep 2026 11:35:31 +0000",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-11T16:25:01.410Z",
+      "category": null,
+      "welshGlosses": [
+        "Survey",
+        "view point",
+        "Majority",
+        "of",
+        "party",
+        "independence",
+        "of",
+        "within",
+        "arrive"
+      ],
+      "englishGlosses": [
+        "Barn",
+        "Arolwg",
+        "Mwyafrif",
+        "yn",
+        "ffafr",
+        "o",
+        "cyraeddadwy",
+        "anibyniaeth"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2205610",
       "welsh": "Darn o gacen Seisnig",
       "english": "A slice of English cake",
@@ -344,37 +469,7 @@
       "feedPosition": 11,
       "fetchedAt": "2026-09-11T07:22:14.644Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205404",
-      "welsh": "AI i chwarae rhan mewn cartref dementia newydd gwerth £15m yn Wrecsam",
-      "english": "AI to play part in new £15m dementia home in Wrexham",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2205404-chwarae-rhan-mewn-cartref-dementia-newydd-gwerth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=oDs4WGLO",
-      "pubDate": "Wed, 09 Sep 2026 07:42:33 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-09-11T07:22:14.644Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205431",
-      "welsh": "Map etholiadol Cymru i newid eto cyn 2030",
-      "english": "Wales electoral map to change again before 2030",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2205431-etholiadol-cymru-newid-2030?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0W8ne",
-      "pubDate": "Wed, 09 Sep 2026 06:00:00 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-09-11T07:22:14.644Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205433",
-      "welsh": "Galw ar bob pennaeth yng Nghymru i gefnogi diwedd ar gyflog tymor yn unig",
-      "english": "Call on all headteachers in Wales to support the end of term pay only",
-      "url": "https://golwg.360.cymru/newyddion/addysg/2205433-galw-pennaeth-nghymru-gefnogi-diwedd-gyflog-tymor?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0PMA",
-      "pubDate": "Tue, 08 Sep 2026 14:59:47 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-09-11T07:22:14.644Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-11T11:14:36.847Z"
+  "generatedAt": "2026-09-11T16:25:01.410Z"
 }
