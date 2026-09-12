@@ -2,6 +2,31 @@
   "date": "2026-09-12",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2205680",
+      "welsh": "Clwb Ffermwyr Ifanc i’r brifddinas",
+      "english": "Young Farmers Club to the capital",
+      "url": "https://golwg.360.cymru/newyddion/2205680-clwb-ffermwyr-ifanc-brifddinas?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGDyjg",
+      "pubDate": "Sat, 12 Sep 2026 09:00:22 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-12T10:40:44.057Z",
+      "category": null,
+      "welshGlosses": [
+        "Club",
+        "Farmer",
+        "Young",
+        "I",
+        "capital city"
+      ],
+      "englishGlosses": [
+        "Ifanc",
+        "Ffermwr",
+        "Clwb",
+        "i",
+        "'r",
+        "Cyfalaf"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2205709",
       "welsh": "Rhieni “wrth eu boddau” gyda chynnig i rannu unig ysgol gyfun Gymraeg Caerffili’n ddwy",
       "english": "Parents “absolutely delighted” with proposal to split Caerphilly's only Welsh-medium comprehensive school in two",
@@ -326,27 +351,7 @@
       "feedPosition": 14,
       "fetchedAt": "2026-09-11T23:14:01.765Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205460",
-      "welsh": "Yr oriadurwr sy’n gwahardd cefnogwyr Reform yng Nghaergybi",
-      "english": "It is the senator who excludes Reform supporters in Holyhead",
-      "url": "https://golwg.360.cymru/newyddion/2205460-oriadurwr-gwahardd-cefnogwyr-reform-nghaergybi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysar3N8",
-      "pubDate": "Wed, 09 Sep 2026 11:34:35 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-09-11T23:14:01.765Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205457",
-      "welsh": "Cynllun newydd i geisio atal hunanladdiad a hunan-niweidio yng Ngwynedd",
-      "english": "A new scheme to try to prevent suicide and self-harm in Gwynedd",
-      "url": "https://golwg.360.cymru/newyddion/iechyd/2205457-cynllun-newydd-geisio-atal-hunanladdiad-hunan?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=pgseGgJP",
-      "pubDate": "Wed, 09 Sep 2026 10:51:32 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-09-11T23:14:01.765Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-11T23:14:01.765Z"
+  "generatedAt": "2026-09-12T10:40:44.057Z"
 }
