@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2205680",
@@ -8,7 +8,7 @@
       "url": "https://golwg.360.cymru/newyddion/2205680-clwb-ffermwyr-ifanc-brifddinas?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGDyjg",
       "pubDate": "Sat, 12 Sep 2026 09:00:22 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-09-12T10:40:44.057Z",
+      "fetchedAt": "2026-09-12T23:01:15.284Z",
       "category": null,
       "welshGlosses": [
         "Club",
@@ -32,8 +32,8 @@
       "english": "Parents “absolutely delighted” with proposal to split Caerphilly's only Welsh-medium comprehensive school in two",
       "url": "https://golwg.360.cymru/newyddion/2205709-rhieni-wrth-boddau-gyda-chynnig-rannu-unig-ysgol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsde2d5",
       "pubDate": "Fri, 11 Sep 2026 16:58:54 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-09-11T23:14:01.765Z",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-12T23:01:15.284Z",
       "category": null,
       "welshGlosses": [
         "Parents",
@@ -74,8 +74,8 @@
       "english": "Assistance to die bill fails in the House of Commons",
       "url": "https://golwg.360.cymru/newyddion/2205700-cymorth-farw-methu-cyffredin?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0Wy0a",
       "pubDate": "Fri, 11 Sep 2026 15:36:50 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-09-11T23:14:01.765Z",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-12T23:01:15.284Z",
       "category": null,
       "welshGlosses": [
         "bill",
@@ -107,8 +107,8 @@
       "english": "A quarter of a century since 9/11: Iolo ap Dafydd recalls",
       "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2205653-chwarter-canrif-iolo-dafydd-cofio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2O4jN",
       "pubDate": "Fri, 11 Sep 2026 14:49:20 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-09-11T23:14:01.765Z",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-12T23:01:15.284Z",
       "category": null,
       "welshGlosses": [
         "Quarter",
@@ -143,8 +143,8 @@
       "english": "On the bus for a pound!",
       "url": "https://golwg.360.cymru/newyddion/cymru/2205674-bunt?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpB7D",
       "pubDate": "Fri, 11 Sep 2026 14:05:37 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-11T23:14:01.765Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-09-12T23:01:15.284Z",
       "category": null,
       "welshGlosses": [
         "on",
@@ -168,8 +168,8 @@
       "english": "Opinion survey: Majority in favour of “reachable” independence",
       "url": "https://golwg.360.cymru/newyddion/cymru/2205661-arolwg-barn-mwyafrif-blaid-annibyniaeth-fewn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA1Lj",
       "pubDate": "Fri, 11 Sep 2026 11:35:31 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-09-11T23:14:01.765Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-09-12T23:01:15.284Z",
       "category": null,
       "welshGlosses": [
         "Survey",
@@ -199,8 +199,8 @@
       "english": "A slice of English cake",
       "url": "https://golwg.360.cymru/newyddion/prydain/2205610-darn-gacen-seisnig?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8D5oB",
       "pubDate": "Fri, 11 Sep 2026 09:17:30 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-09-11T23:14:01.765Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-09-12T23:01:15.284Z",
       "category": null,
       "welshGlosses": [
         "Part",
@@ -222,8 +222,8 @@
       "english": "The Scottish Government wants to discuss independence with Andy Burnham",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2205628-llywodraeth-alban-eisiau-trafod-annibyniaeth-gydag?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOAl08",
       "pubDate": "Thu, 10 Sep 2026 14:38:55 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-09-11T23:14:01.765Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-12T23:01:15.284Z",
       "category": null,
       "welshGlosses": [
         "Governing",
@@ -255,32 +255,9 @@
       "english": "Prohibition of goods by Israeli settlers: “Campaigning makes a difference”",
       "url": "https://golwg.360.cymru/newyddion/2205602-gwahardd-nwyddau-ymsefydlwyr-israelaidd-ymgyrchu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=nAs2yaRy",
       "pubDate": "Thu, 10 Sep 2026 12:09:09 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-09-11T23:14:01.765Z",
-      "category": null,
-      "welshGlosses": [
-        "",
-        "Goods",
-        "by",
-        "settlers",
-        "Israeli",
-        "Campaigning",
-        "in",
-        "do",
-        "difference"
-      ],
-      "englishGlosses": [
-        "Gwaharddiad",
-        "o",
-        "Nwyddau",
-        "gan",
-        "Israelaidd",
-        "ymsefydlwyr",
-        "Ymgyrchu",
-        "yn gwneud",
-        "a.",
-        ""
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-09-12T23:01:15.284Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2205599",
@@ -288,8 +265,8 @@
       "english": "Celebrate Catalonia's National Day",
       "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2205599-dathlu-diwrnod-cenedlaethol-catalwnia?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0W8EL",
       "pubDate": "Thu, 10 Sep 2026 11:38:41 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-09-11T23:14:01.765Z",
+      "feedPosition": 9,
+      "fetchedAt": "2026-09-12T23:01:15.284Z",
       "category": null
     },
     {
@@ -298,8 +275,8 @@
       "english": "Mid-Oman Festival at Theatr Felinfach “proving that there is already a substantial offer here”",
       "url": "https://golwg.360.cymru/newyddion/cefn-gwlad/2205583-gwyl-canol-unman-theatr-felinfach-profi-arlwy?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMa8L8",
       "pubDate": "Thu, 10 Sep 2026 10:53:27 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-11T23:14:01.765Z",
+      "feedPosition": 10,
+      "fetchedAt": "2026-09-12T23:01:15.284Z",
       "category": null
     },
     {
@@ -308,8 +285,8 @@
       "english": "“Absolutely furious” about the loss of beds in community hospitals",
       "url": "https://golwg.360.cymru/newyddion/iechyd/2205556-hollol-gandryll-golli-gwlau-mewn-ysbytai-cymunedol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=rns7GLEd",
       "pubDate": "Thu, 10 Sep 2026 09:48:02 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-11T23:14:01.765Z",
+      "feedPosition": 11,
+      "fetchedAt": "2026-09-12T23:01:15.284Z",
       "category": null
     },
     {
@@ -318,8 +295,8 @@
       "english": "‘She is there every day': Rhun ap Iorwerth recalls his mother",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2205503-dydd-rhun-iorwerth-cofio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=OysPlO7n",
       "pubDate": "Thu, 10 Sep 2026 06:01:23 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-09-11T23:14:01.765Z",
+      "feedPosition": 12,
+      "fetchedAt": "2026-09-12T23:01:15.284Z",
       "category": null
     },
     {
@@ -328,8 +305,8 @@
       "english": "Proposals to cut the number of Powys hospital beds from 146 to as few as 60",
       "url": "https://golwg.360.cymru/newyddion/iechyd/2205507-cynigion-dorri-nifer-gwelyau-ysbytai-powys-lleied?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsdeMoo",
       "pubDate": "Wed, 09 Sep 2026 17:38:37 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-09-11T23:14:01.765Z",
+      "feedPosition": 13,
+      "fetchedAt": "2026-09-12T23:01:15.284Z",
       "category": null
     },
     {
@@ -338,8 +315,8 @@
       "english": "The launch of the Government of Wales's consultation on mobile phones in school",
       "url": "https://golwg.360.cymru/newyddion/addysg/2205475-lansio-ymgynghoriad-llywodraeth-cymru-ffonau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8D5ye",
       "pubDate": "Wed, 09 Sep 2026 12:59:19 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-09-11T23:14:01.765Z",
+      "feedPosition": 14,
+      "fetchedAt": "2026-09-12T23:01:15.284Z",
       "category": null
     },
     {
@@ -348,10 +325,10 @@
       "english": "Plaid Cymru calls for cutting pub and restaurant VAT to boost coastal communities",
       "url": "https://golwg.360.cymru/newyddion/2205477-plaid-cymru-galw-dorri-tafarndai-bwytai-gymunedau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNR35",
       "pubDate": "Wed, 09 Sep 2026 12:28:49 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-09-11T23:14:01.765Z",
+      "feedPosition": 15,
+      "fetchedAt": "2026-09-12T23:01:15.284Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-09-12T20:30:34.911Z"
+  "generatedAt": "2026-09-12T23:01:15.284Z"
 }
