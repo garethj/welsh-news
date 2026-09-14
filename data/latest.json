@@ -2,6 +2,151 @@
   "date": "2026-09-14",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2205759",
+      "welsh": "Cyfres o gigs ym Mangor, ond ym mle?",
+      "english": "A series of gigs in Bangor, but where?",
+      "url": "https://golwg.360.cymru/newyddion/2205759-cyfres-gigs-mangor?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLg8D",
+      "pubDate": "Mon, 14 Sep 2026 12:26:23 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-14T12:38:37.603Z",
+      "category": null,
+      "welshGlosses": [
+        "Series",
+        "of",
+        "gigs",
+        "re",
+        "Mangor",
+        "but",
+        "re",
+        "mle"
+      ],
+      "englishGlosses": [
+        "A.",
+        "cyfres",
+        "o",
+        "gigs",
+        "yn",
+        "Bangor:",
+        "",
+        "Ble"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2205789",
+      "welsh": "28% o staff ysgolion Cymru’n gweithio mewn adeiladau ag asbestos",
+      "english": "28% of school staff in Wales work in buildings with asbestos",
+      "url": "https://golwg.360.cymru/newyddion/addysg/2205789-staff-ysgolion-cymru-gweithio-mewn-adeiladau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lDDM",
+      "pubDate": "Mon, 14 Sep 2026 10:54:51 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-14T12:38:37.603Z",
+      "category": null,
+      "welshGlosses": [
+        "0.28",
+        "of",
+        "staff",
+        "Schools",
+        "Cymru 'n",
+        "work",
+        "in",
+        "Premises",
+        "by",
+        "Asbestos"
+      ],
+      "englishGlosses": [
+        "48",
+        "o",
+        "Term",
+        "staff",
+        "yn",
+        "Cymru",
+        "Gwaith",
+        "yn",
+        "Adeiladau",
+        "gyda",
+        "Asbestos"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2205780",
+      "welsh": "Plaid Cymru, yr SNP, a Sinn Féin yn cyhoeddi Memorandwm Cyd-ddealltwriaeth",
+      "english": "Plaid Cymru, the SNP, and Sinn Féin publish a Memorandumof Understanding",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2205780-plaid-cymru-sinn-fein-cyhoeddi-memorandwm?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNJRO",
+      "pubDate": "Mon, 14 Sep 2026 10:00:09 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-14T12:38:37.603Z",
+      "category": null,
+      "welshGlosses": [
+        "Party",
+        "Wales",
+        "the",
+        "SNP",
+        "and",
+        "We",
+        "Own",
+        "in",
+        "publish",
+        "Memorandum",
+        "Mutualunderstanding"
+      ],
+      "englishGlosses": [
+        "Plaid Cymru",
+        "Cymru ",
+        "'r",
+        "SNP",
+        "a",
+        "Sinn",
+        "Féin",
+        "cyhoeddi",
+        "a.",
+        "Memorandwm",
+        "Dealltwriaeth"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2205752",
+      "welsh": "“Obsesiwn” a “thorri addewid”: Arweinwyr Cymru, yr Alban ac Iwerddon yn cyfarfod i drafod annibyniaeth",
+      "english": "“Obsession” and “breach of promise”: Leaders in Wales, Scotland and Ireland meeting to discuss independence",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2205752-obsesiwn-arweinwyr-cymru-alban-iwerddon-cyfarfod?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=gnspdr7O",
+      "pubDate": "Mon, 14 Sep 2026 08:10:58 +0000",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-14T12:38:37.603Z",
+      "category": null,
+      "welshGlosses": [
+        "Obsession",
+        "and",
+        "to cut",
+        "promise",
+        "Leaders",
+        "Wales",
+        "the",
+        "Scotland",
+        "and",
+        "Irland",
+        "in",
+        "meeting",
+        "to",
+        "discuss",
+        "independence"
+      ],
+      "englishGlosses": [
+        "Obsesiwn",
+        "a",
+        "torri",
+        "o",
+        "addewid",
+        "Arweinwyr",
+        "yn",
+        "Cymru",
+        "Yr Alban",
+        "a",
+        "Iwerddon",
+        "cyfarfod",
+        "i",
+        "Drafod",
+        "anibyniaeth"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2205680",
       "welsh": "Clwb Ffermwyr Ifanc i’r brifddinas",
       "english": "Young Farmers Club to the capital",
@@ -288,47 +433,7 @@
       "feedPosition": 11,
       "fetchedAt": "2026-09-13T23:06:53.498Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205503",
-      "welsh": "‘Mae hi yno bob dydd’: Rhun ap Iorwerth yn cofio ei fam",
-      "english": "‘She is there every day': Rhun ap Iorwerth recalls his mother",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2205503-dydd-rhun-iorwerth-cofio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=OysPlO7n",
-      "pubDate": "Thu, 10 Sep 2026 06:01:23 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-09-13T23:06:53.498Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205507",
-      "welsh": "Cynigion i dorri nifer gwelyau ysbytai Powys o 146 i gyn lleied â 60",
-      "english": "Proposals to cut the number of Powys hospital beds from 146 to as few as 60",
-      "url": "https://golwg.360.cymru/newyddion/iechyd/2205507-cynigion-dorri-nifer-gwelyau-ysbytai-powys-lleied?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsdeMoo",
-      "pubDate": "Wed, 09 Sep 2026 17:38:37 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-09-13T23:06:53.498Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205475",
-      "welsh": "Lansio ymgynghoriad Llywodraeth Cymru ar ffonau symudol yn yr ysgol",
-      "english": "The launch of the Government of Wales's consultation on mobile phones in school",
-      "url": "https://golwg.360.cymru/newyddion/addysg/2205475-lansio-ymgynghoriad-llywodraeth-cymru-ffonau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8D5ye",
-      "pubDate": "Wed, 09 Sep 2026 12:59:19 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-09-13T23:06:53.498Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205477",
-      "welsh": "Plaid Cymru yn galw am dorri TAW tafarndai a bwytai i roi hwb i gymunedau arfordirol",
-      "english": "Plaid Cymru calls for cutting pub and restaurant VAT to boost coastal communities",
-      "url": "https://golwg.360.cymru/newyddion/2205477-plaid-cymru-galw-dorri-tafarndai-bwytai-gymunedau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNR35",
-      "pubDate": "Wed, 09 Sep 2026 12:28:49 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-09-13T23:06:53.498Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-13T23:06:53.498Z"
+  "generatedAt": "2026-09-14T12:38:37.603Z"
 }
