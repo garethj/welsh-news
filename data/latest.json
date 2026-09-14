@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2205828",
@@ -8,7 +8,7 @@
       "url": "https://golwg.360.cymru/newyddion/addysg/2205828-ystyried-cynigion-ehangu-ysgol-gymraeg-canolbarth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=pgseG20d",
       "pubDate": "Mon, 14 Sep 2026 16:44:23 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-09-14T19:50:01.321Z",
+      "fetchedAt": "2026-09-14T23:51:04.241Z",
       "category": null,
       "welshGlosses": [
         "REFLECT",
@@ -42,7 +42,7 @@
       "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2205826-ystyried-cyflwyno-gyrsiau-catalaneg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=rns7GJjD",
       "pubDate": "Mon, 14 Sep 2026 16:36:59 +0000",
       "feedPosition": 1,
-      "fetchedAt": "2026-09-14T19:50:01.321Z",
+      "fetchedAt": "2026-09-14T23:51:04.241Z",
       "category": null,
       "welshGlosses": [
         "REFLECT",
@@ -67,7 +67,7 @@
       "url": "https://golwg.360.cymru/newyddion/2205805-erioed-blaen-wedi-pleidleisio-etholiadau-senedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGP22O",
       "pubDate": "Mon, 14 Sep 2026 14:22:26 +0000",
       "feedPosition": 2,
-      "fetchedAt": "2026-09-14T19:50:01.321Z",
+      "fetchedAt": "2026-09-14T23:51:04.241Z",
       "category": null,
       "welshGlosses": [
         "More",
@@ -101,7 +101,7 @@
       "url": "https://golwg.360.cymru/newyddion/cymru/2205804-cyhoeddi-rhaglen-ddigwyddiadau-nodi-mlynedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=nAs2yJJ8",
       "pubDate": "Mon, 14 Sep 2026 12:55:18 +0000",
       "feedPosition": 3,
-      "fetchedAt": "2026-09-14T19:50:01.321Z",
+      "fetchedAt": "2026-09-14T23:51:04.241Z",
       "category": null,
       "welshGlosses": [
         "Publish",
@@ -139,8 +139,8 @@
       "english": "A series of gigs in Bangor, but where?",
       "url": "https://golwg.360.cymru/newyddion/2205759-cyfres-gigs-mangor?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLg8D",
       "pubDate": "Mon, 14 Sep 2026 12:26:23 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-09-14T12:38:37.603Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-09-14T23:51:04.241Z",
       "category": null,
       "welshGlosses": [
         "Series",
@@ -169,8 +169,8 @@
       "english": "28% of school staff in Wales work in buildings with asbestos",
       "url": "https://golwg.360.cymru/newyddion/addysg/2205789-staff-ysgolion-cymru-gweithio-mewn-adeiladau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lDDM",
       "pubDate": "Mon, 14 Sep 2026 10:54:51 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-09-14T12:38:37.603Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-09-14T23:51:04.241Z",
       "category": null,
       "welshGlosses": [
         "0.28",
@@ -204,8 +204,8 @@
       "english": "Plaid Cymru, the SNP, and Sinn Féin publish a Memorandumof Understanding",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2205780-plaid-cymru-sinn-fein-cyhoeddi-memorandwm?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNJRO",
       "pubDate": "Mon, 14 Sep 2026 10:00:09 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-09-14T12:38:37.603Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-09-14T23:51:04.241Z",
       "category": null,
       "welshGlosses": [
         "Party",
@@ -240,8 +240,8 @@
       "english": "“Obsession” and “breach of promise”: Leaders in Wales, Scotland and Ireland meeting to discuss independence",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2205752-obsesiwn-arweinwyr-cymru-alban-iwerddon-cyfarfod?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=gnspdr7O",
       "pubDate": "Mon, 14 Sep 2026 08:10:58 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-14T12:38:37.603Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-14T23:51:04.241Z",
       "category": null,
       "welshGlosses": [
         "Obsession",
@@ -284,24 +284,9 @@
       "english": "Young Farmers Club to the capital",
       "url": "https://golwg.360.cymru/newyddion/2205680-clwb-ffermwyr-ifanc-brifddinas?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGDyjg",
       "pubDate": "Sat, 12 Sep 2026 09:00:22 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-09-13T23:06:53.498Z",
-      "category": null,
-      "welshGlosses": [
-        "Club",
-        "Farmer",
-        "Young",
-        "I",
-        "capital city"
-      ],
-      "englishGlosses": [
-        "Ifanc",
-        "Ffermwr",
-        "Clwb",
-        "i",
-        "'r",
-        "Cyfalaf"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-09-14T23:51:04.241Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2205709",
@@ -309,41 +294,9 @@
       "english": "Parents “absolutely delighted” with proposal to split Caerphilly's only Welsh-medium comprehensive school in two",
       "url": "https://golwg.360.cymru/newyddion/2205709-rhieni-wrth-boddau-gyda-chynnig-rannu-unig-ysgol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsde2d5",
       "pubDate": "Fri, 11 Sep 2026 16:58:54 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-09-13T23:06:53.498Z",
-      "category": null,
-      "welshGlosses": [
-        "Parents",
-        "by",
-        "their",
-        "goodbye",
-        "Job|with",
-        "offering",
-        "to",
-        "to share",
-        "lonely",
-        "school",
-        "combined",
-        "Welsh",
-        "Caerphilly",
-        "two"
-      ],
-      "englishGlosses": [
-        "Rhiant",
-        "gwbl",
-        "fodd",
-        "gyda",
-        "bryd",
-        "i",
-        "Hollti",
-        "Caerffili",
-        "Dim ond",
-        "Cyfrwng Cymraeg",
-        "cynhwysfawr",
-        "Term",
-        "yn",
-        "dau"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-09-14T23:51:04.241Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2205700",
@@ -351,32 +304,9 @@
       "english": "Assistance to die bill fails in the House of Commons",
       "url": "https://golwg.360.cymru/newyddion/2205700-cymorth-farw-methu-cyffredin?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0Wy0a",
       "pubDate": "Fri, 11 Sep 2026 15:36:50 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-09-13T23:06:53.498Z",
-      "category": null,
-      "welshGlosses": [
-        "bill",
-        "help",
-        "to",
-        "to die",
-        "in",
-        "fail",
-        "in",
-        "Ty 'r",
-        "Common"
-      ],
-      "englishGlosses": [
-        "Cymorth",
-        "i",
-        "marw",
-        "bil",
-        "methu",
-        "yn",
-        "'r",
-        "Tŷ",
-        "o",
-        "Tir comin"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-09-14T23:51:04.241Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2205653",
@@ -384,35 +314,9 @@
       "english": "A quarter of a century since 9/11: Iolo ap Dafydd recalls",
       "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2205653-chwarter-canrif-iolo-dafydd-cofio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2O4jN",
       "pubDate": "Fri, 11 Sep 2026 14:49:20 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-13T23:06:53.498Z",
-      "category": null,
-      "welshGlosses": [
-        "Quarter",
-        "Century",
-        "Since",
-        "9.",
-        "16",
-        "Iolo",
-        "App",
-        "John",
-        "in",
-        "Piece"
-      ],
-      "englishGlosses": [
-        "A.",
-        "Chwarter",
-        "o",
-        "a.",
-        "ganrif",
-        "Ers",
-        "9.",
-        "11.",
-        "Iolo",
-        "<PROTECTED> ap <PROTECTED>/Meleri Williams",
-        "Dafydd",
-        "cofio"
-      ]
+      "feedPosition": 11,
+      "fetchedAt": "2026-09-14T23:51:04.241Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2205674",
@@ -420,55 +324,19 @@
       "english": "On the bus for a pound!",
       "url": "https://golwg.360.cymru/newyddion/cymru/2205674-bunt?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpB7D",
       "pubDate": "Fri, 11 Sep 2026 14:05:37 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-09-13T23:06:53.498Z",
-      "category": null,
-      "welshGlosses": [
-        "on",
-        "the",
-        "Bus",
-        "for",
-        "bun"
-      ],
-      "englishGlosses": [
-        "Oran",
-        "'r",
-        "Bws",
-        "am",
-        "a.",
-        "Punt"
-      ]
+      "feedPosition": 12,
+      "fetchedAt": "2026-09-14T23:51:04.241Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2205661",
       "welsh": "Arolwg barn: Mwyafrif o blaid annibyniaeth “o fewn cyrraedd”",
       "english": "Opinion survey: Majority in favour of “reachable” independence",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2205661-arolwg-barn-mwyafrif-blaid-annibyniaeth-fewn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA1Lj",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2205661-arolwg-barn-mwyafrif-blaid-annibyniaeth-fewn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA1Lj",
       "pubDate": "Fri, 11 Sep 2026 11:35:31 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-09-13T23:06:53.498Z",
-      "category": null,
-      "welshGlosses": [
-        "Survey",
-        "view point",
-        "Majority",
-        "of",
-        "party",
-        "independence",
-        "of",
-        "within",
-        "arrive"
-      ],
-      "englishGlosses": [
-        "Barn",
-        "Arolwg",
-        "Mwyafrif",
-        "yn",
-        "ffafr",
-        "o",
-        "cyraeddadwy",
-        "anibyniaeth"
-      ]
+      "feedPosition": 13,
+      "fetchedAt": "2026-09-14T23:51:04.241Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2205610",
@@ -476,22 +344,9 @@
       "english": "A slice of English cake",
       "url": "https://golwg.360.cymru/newyddion/prydain/2205610-darn-gacen-seisnig?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8D5oB",
       "pubDate": "Fri, 11 Sep 2026 09:17:30 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-09-13T23:06:53.498Z",
-      "category": null,
-      "welshGlosses": [
-        "Part",
-        "of",
-        "cake",
-        "English"
-      ],
-      "englishGlosses": [
-        "A.",
-        "sleisen",
-        "o",
-        "U piod",
-        "cacen"
-      ]
+      "feedPosition": 14,
+      "fetchedAt": "2026-09-14T23:51:04.241Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2205628",
@@ -499,33 +354,10 @@
       "english": "The Scottish Government wants to discuss independence with Andy Burnham",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2205628-llywodraeth-alban-eisiau-trafod-annibyniaeth-gydag?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOAl08",
       "pubDate": "Thu, 10 Sep 2026 14:38:55 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-09-13T23:06:53.498Z",
-      "category": null,
-      "welshGlosses": [
-        "Governing",
-        "the",
-        "Scotland",
-        "need",
-        "transact",
-        "independence",
-        "with",
-        "Andy",
-        "Burnham"
-      ],
-      "englishGlosses": [
-        "Y",
-        "gymry",
-        "Cymru",
-        "dymuniadau",
-        "i",
-        "Drafod",
-        "anibyniaeth",
-        "gyda",
-        "Andy",
-        "Burnham"
-      ]
+      "feedPosition": 15,
+      "fetchedAt": "2026-09-14T23:51:04.241Z",
+      "category": null
     }
   ],
-  "generatedAt": "2026-09-14T19:50:01.321Z"
+  "generatedAt": "2026-09-14T23:51:04.241Z"
 }
