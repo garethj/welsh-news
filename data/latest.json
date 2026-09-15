@@ -2,6 +2,147 @@
   "date": "2026-09-15",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2205891",
+      "welsh": "Dim modd adennill £4.2m ychwanegol ar brosiect Atriwm £41m",
+      "english": "An additional £4.2m on the £41m Atrium project cannot be recovered",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2205891-modd-adennill-ychwanegol-brosiect-atriwm?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0Nyae",
+      "pubDate": "Tue, 15 Sep 2026 10:56:17 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-15T11:39:09.484Z",
+      "category": null,
+      "welshGlosses": [
+        "None",
+        "way",
+        "Reclaim",
+        "4.",
+        "2m",
+        "extra",
+        "on",
+        "project",
+        "Atrium",
+        "41m"
+      ],
+      "englishGlosses": [
+        "\"an\",",
+        "Ychwanegol",
+        "4.",
+        "2m",
+        "ar",
+        "'r",
+        "41m",
+        "Atriwm",
+        ".",
+        "methu",
+        "bod",
+        "adenillwyd"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2205835",
+      "welsh": "Reform a Heledd Fychan yn cloi cyrn dros ddarlledu",
+      "english": "Reform and Heledd Fychan lock horns over broadcasting",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2205835-reform-heledd-fychan-cloi-cyrn-dros-ddarlledu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0Wyo3",
+      "pubDate": "Tue, 15 Sep 2026 07:01:19 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-15T11:39:09.484Z",
+      "category": null,
+      "welshGlosses": [
+        "Reform",
+        "and",
+        "Hunger",
+        "Fychan",
+        "in",
+        "lock",
+        "horns",
+        "over",
+        "to broadcast"
+      ],
+      "englishGlosses": [
+        "Diwygio",
+        "a",
+        "Heledd",
+        "Fychan",
+        "clo",
+        "cyrn",
+        "dros",
+        "darlledu"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2205842",
+      "welsh": "‘Hyll ac ofnus’: Cynghorydd yn cael ei cham-drin ar-lein ar ôl rhannu fideo o fad achub",
+      "english": "‘Ugly and scary': Councillor being abusedonline after sharing video of lifeboat",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2205842-hyll-ofnus-cynghorydd-cael-cham-drin-lein-rhannu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpBRr",
+      "pubDate": "Tue, 15 Sep 2026 06:52:00 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-15T11:39:09.484Z",
+      "category": null,
+      "welshGlosses": [
+        "make",
+        "and",
+        "scared",
+        "Councillor",
+        "in",
+        "have",
+        "his/her",
+        "abuse",
+        "online",
+        "on",
+        "Trace",
+        "share",
+        "video",
+        "of",
+        "length",
+        "redeem"
+      ],
+      "englishGlosses": [
+        "Hagr",
+        "a",
+        "riding",
+        "Cynghorydd",
+        "bod",
+        "cam - drinonline",
+        "Wedi",
+        "Sbaen",
+        "fideo",
+        "o",
+        "bad achub"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2205823",
+      "welsh": "30% o ostyngiad mewn ardrethi i fusnesau hamdden a lletygarwch",
+      "english": "30% reduction in rates for leisure and hospitality businesses",
+      "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2205823-ostyngiad-mewn-ardrethi-fusnesau-hamdden?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lDMM",
+      "pubDate": "Tue, 15 Sep 2026 06:01:57 +0000",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-15T11:39:09.484Z",
+      "category": null,
+      "welshGlosses": [
+        "30%",
+        "of",
+        "discount",
+        "in",
+        "rates",
+        "to",
+        "businesses",
+        "Leisure",
+        "and",
+        "hospitality"
+      ],
+      "englishGlosses": [
+        "30%",
+        "lleihad",
+        "yn",
+        "cyfraddau",
+        "am",
+        "Hamdden",
+        "a",
+        "lletygarwch",
+        "busnesau"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2205828",
       "welsh": "Ystyried cynigion i ehangu ysgol Gymraeg yn y canolbarth",
       "english": "To consider proposals to expand a Welsh-medium school in mid Wales",
@@ -58,6 +199,41 @@
         "mwy",
         "Catalaneg",
         "cyrsiau"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2205815",
+      "welsh": "O’r FWA i Glan-y-Fferi: pam mae’r Eryr Wen yn ôl?",
+      "english": "From the FWA to Glan-y-Fferi: why is the White Eagle back?",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2205815-eryr-wen-eryri-yn-ol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGDyyJ",
+      "pubDate": "Mon, 14 Sep 2026 16:28:54 +0000",
+      "feedPosition": 6,
+      "fetchedAt": "2026-09-15T11:39:09.484Z",
+      "category": null,
+      "welshGlosses": [
+        "O",
+        "FWA",
+        "to",
+        "Glan-y-Fferi",
+        "",
+        "the",
+        "Eagle",
+        "Turf",
+        "in",
+        "Trace"
+      ],
+      "englishGlosses": [
+        "",
+        "'r",
+        "FWA",
+        "i",
+        "Glan - y - Fferi",
+        "pam",
+        "yw",
+        "'r",
+        "Gwyn",
+        "Eryr",
+        "Nôl"
       ]
     },
     {
@@ -307,57 +483,7 @@
       "feedPosition": 10,
       "fetchedAt": "2026-09-14T23:51:04.241Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205653",
-      "welsh": "Chwarter canrif ers 9/11: Iolo ap Dafydd yn cofio",
-      "english": "A quarter of a century since 9/11: Iolo ap Dafydd recalls",
-      "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2205653-chwarter-canrif-iolo-dafydd-cofio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2O4jN",
-      "pubDate": "Fri, 11 Sep 2026 14:49:20 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-09-14T23:51:04.241Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205674",
-      "welsh": "Ar y bws am bunt!",
-      "english": "On the bus for a pound!",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2205674-bunt?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpB7D",
-      "pubDate": "Fri, 11 Sep 2026 14:05:37 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-09-14T23:51:04.241Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205661",
-      "welsh": "Arolwg barn: Mwyafrif o blaid annibyniaeth “o fewn cyrraedd”",
-      "english": "Opinion survey: Majority in favour of “reachable” independence",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2205661-arolwg-barn-mwyafrif-blaid-annibyniaeth-fewn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA1Lj",
-      "pubDate": "Fri, 11 Sep 2026 11:35:31 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-09-14T23:51:04.241Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205610",
-      "welsh": "Darn o gacen Seisnig",
-      "english": "A slice of English cake",
-      "url": "https://golwg.360.cymru/newyddion/prydain/2205610-darn-gacen-seisnig?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8D5oB",
-      "pubDate": "Fri, 11 Sep 2026 09:17:30 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-09-14T23:51:04.241Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205628",
-      "welsh": "Llywodraeth yr Alban eisiau trafod annibyniaeth gydag Andy Burnham",
-      "english": "The Scottish Government wants to discuss independence with Andy Burnham",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2205628-llywodraeth-alban-eisiau-trafod-annibyniaeth-gydag?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOAl08",
-      "pubDate": "Thu, 10 Sep 2026 14:38:55 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-09-14T23:51:04.241Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-14T23:51:04.241Z"
+  "generatedAt": "2026-09-15T11:39:09.484Z"
 }
