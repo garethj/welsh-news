@@ -2,6 +2,180 @@
   "date": "2026-09-15",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2205938",
+      "welsh": "Cyn-AS Reform yn croesi’r llawr i Blaid Cymru",
+      "english": "Former Reform MP crosses the floor to Plaid Cymru",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2205938-reform-croesi-llawr-blaid-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0G7d",
+      "pubDate": "Tue, 15 Sep 2026 16:00:53 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-15T16:54:09.988Z",
+      "category": null,
+      "welshGlosses": [
+        "Pre-MP",
+        "Reform",
+        "in",
+        "to cross",
+        "floor",
+        "to",
+        "Party",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Cyn",
+        "Diwygio",
+        "(MP)",
+        "croesau",
+        "'r",
+        "llawr",
+        "i",
+        "Plaid Cymru",
+        "Cymru "
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2205936",
+      "welsh": "Dan Thomas yn camu i lawr fel arweinydd Reform yng Nghymru",
+      "english": "Dan Thomas steps down as leader of Reform in Wales",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2205936-thomas-camu-lawr-arweinydd-reform-nghymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0WyAG",
+      "pubDate": "Tue, 15 Sep 2026 15:45:18 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-15T16:54:09.988Z",
+      "category": null,
+      "welshGlosses": [
+        "under",
+        "Thomas",
+        "in",
+        "Step",
+        "to",
+        "DOWN",
+        "Like",
+        "Lead:",
+        "Reform",
+        "in",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "beneath",
+        "Tomos",
+        "Camau",
+        "LAWR",
+        "Graddfeyddunit description in lists",
+        "Arweinydd",
+        "o",
+        "Diwygio",
+        "yn",
+        "Cymru"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2205931",
+      "welsh": "Reform yn mynd ar ôl Rhun ap Iorwerth dros y Gymraeg ac annibyniaeth",
+      "english": "Reform goes after Rhun ap Iorwerth for the Welsh language and independence",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2205931-reform-mynd-rhun-iorwerth-dros-gymraeg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA1g3",
+      "pubDate": "Tue, 15 Sep 2026 15:33:05 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-15T16:54:09.988Z",
+      "category": null,
+      "welshGlosses": [
+        "Reform",
+        "in",
+        "",
+        "on",
+        "Trace",
+        "Rhun",
+        "App",
+        "Iorwerth",
+        "over",
+        "the",
+        "Welsh",
+        "and",
+        "independence"
+      ],
+      "englishGlosses": [
+        "Diwygio",
+        "mynd",
+        "Wedi",
+        "rhun",
+        "<PROTECTED> ap <PROTECTED>/Meleri Williams",
+        "Iorwerth",
+        "am",
+        "'r",
+        "Cymraeg",
+        "",
+        "a",
+        "anibyniaeth"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2205911",
+      "welsh": "Aberfan 60: Cofio, myfyrio, a meithrin dealltwriaeth ddyfnach o’r drychineb",
+      "english": "Aberfan 60: Remembering, reflecting, and building a deeper understanding of the disaster",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2205911-aberfan-cofio-myfyrio-meithrin-dealltwriaeth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsde2R1",
+      "pubDate": "Tue, 15 Sep 2026 14:19:35 +0000",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-15T16:54:09.988Z",
+      "category": null,
+      "welshGlosses": [
+        "Aberfan",
+        "60%",
+        "Remember",
+        "Reflect)",
+        "and",
+        "nursery",
+        "KNOWLEDGE",
+        "deeper",
+        "O",
+        "disaster"
+      ],
+      "englishGlosses": [
+        "Aberfan",
+        "60%",
+        "Cofio",
+        "adlewyrchu",
+        "a",
+        "Adeilad",
+        "a.",
+        "dyfnach",
+        "Dealltwriaeth",
+        "o",
+        "'r",
+        "trychineb"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2205900",
+      "welsh": "Metel o gyrff wedi’u hamlosgi i godi miloedd i elusennau",
+      "english": "Metal from cremated bodies to raise thousands for charities",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2205900-metel-gyrff-wedi-hamlosgi-godi-miloedd-elusennau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroApM",
+      "pubDate": "Tue, 15 Sep 2026 11:47:24 +0000",
+      "feedPosition": 4,
+      "fetchedAt": "2026-09-15T16:54:09.988Z",
+      "category": null,
+      "welshGlosses": [
+        "Metal",
+        "of",
+        "bodies",
+        "has been",
+        "cremated",
+        "to",
+        "to raise",
+        "thousands",
+        "to",
+        "charities"
+      ],
+      "englishGlosses": [
+        "Metel",
+        "o",
+        "amlosgi",
+        "cyrff",
+        "i",
+        "cwyd",
+        "filoedd",
+        "am",
+        "elusennau"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2205891",
       "welsh": "Dim modd adennill £4.2m ychwanegol ar brosiect Atriwm £41m",
       "english": "An additional £4.2m on the £41m Atrium project cannot be recovered",
@@ -453,37 +627,7 @@
         "Drafod",
         "anibyniaeth"
       ]
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205680",
-      "welsh": "Clwb Ffermwyr Ifanc i’r brifddinas",
-      "english": "Young Farmers Club to the capital",
-      "url": "https://golwg.360.cymru/newyddion/2205680-clwb-ffermwyr-ifanc-brifddinas?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGDyjg",
-      "pubDate": "Sat, 12 Sep 2026 09:00:22 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-09-14T23:51:04.241Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205709",
-      "welsh": "Rhieni “wrth eu boddau” gyda chynnig i rannu unig ysgol gyfun Gymraeg Caerffili’n ddwy",
-      "english": "Parents “absolutely delighted” with proposal to split Caerphilly's only Welsh-medium comprehensive school in two",
-      "url": "https://golwg.360.cymru/newyddion/2205709-rhieni-wrth-boddau-gyda-chynnig-rannu-unig-ysgol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsde2d5",
-      "pubDate": "Fri, 11 Sep 2026 16:58:54 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-14T23:51:04.241Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205700",
-      "welsh": "Bil cymorth i farw yn methu yn Nhŷ’r Cyffredin",
-      "english": "Assistance to die bill fails in the House of Commons",
-      "url": "https://golwg.360.cymru/newyddion/2205700-cymorth-farw-methu-cyffredin?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0Wy0a",
-      "pubDate": "Fri, 11 Sep 2026 15:36:50 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-14T23:51:04.241Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-15T11:39:09.484Z"
+  "generatedAt": "2026-09-15T16:54:09.988Z"
 }
