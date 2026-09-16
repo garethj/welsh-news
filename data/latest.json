@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2206036",
@@ -8,7 +8,7 @@
       "url": "https://golwg.360.cymru/newyddion/cymru/2206036-aelod-reform-roedd-ymerodraeth-brydeinig-daioni?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLEO47",
       "pubDate": "Wed, 16 Sep 2026 17:40:32 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-09-16T21:14:45.313Z",
+      "fetchedAt": "2026-09-16T23:39:05.430Z",
       "category": null,
       "welshGlosses": [
         "Member",
@@ -41,8 +41,8 @@
       "english": "Plaid Cymru: Sarah Cooper- Lesadd to cut ties with right-wing publication",
       "url": "https://golwg.360.cymru/newyddion/2206008-plaid-cymru-sarah-cooper-lesadd-dorri-cysylltiad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=OysPla0M",
       "pubDate": "Wed, 16 Sep 2026 14:55:14 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-09-16T16:49:03.154Z",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-16T23:39:05.430Z",
       "category": null,
       "welshGlosses": [
         "Party",
@@ -77,8 +77,8 @@
       "english": "Cross Party Group for the Welsh Language meets for the first time since 2021",
       "url": "https://golwg.360.cymru/newyddion/iaith/2206005-grwp-trawsbleidiol-dros-gymraeg-cyfarfod-cyntaf?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0Gan",
       "pubDate": "Wed, 16 Sep 2026 14:51:59 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-09-16T16:49:03.154Z",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-16T23:39:05.430Z",
       "category": null,
       "welshGlosses": [
         "Group",
@@ -118,8 +118,8 @@
       "english": "‘The problems of Reform in Wales being music to the ears of Restore’",
       "url": "https://golwg.360.cymru/newyddion/2205995-problemau-reform-nghymru-gerddoriaeth-glustiau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLgaB",
       "pubDate": "Wed, 16 Sep 2026 13:42:24 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-09-16T16:49:03.154Z",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-16T23:39:05.430Z",
       "category": null,
       "welshGlosses": [
         "Problems",
@@ -154,8 +154,8 @@
       "english": "Rhun ap Iorwerth to address YesCymru rally in Aberystwyth",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2205990-rhun-iorwerth-gyfarch-rali-yescymru-aberystwyth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2O4LR",
       "pubDate": "Wed, 16 Sep 2026 12:10:26 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-16T16:49:03.154Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-09-16T23:39:05.430Z",
       "category": null,
       "welshGlosses": [
         "Rhun",
@@ -186,8 +186,8 @@
       "english": "Welsh ‘Martha's rule’: a new route for families to raise concerns in hospitals",
       "url": "https://golwg.360.cymru/newyddion/iechyd/2205971-rheol-martha-gymreig-llwybr-newydd-deuluoedd-godi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0G4n",
       "pubDate": "Wed, 16 Sep 2026 09:55:51 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-09-16T11:26:15.787Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-09-16T23:39:05.430Z",
       "category": null,
       "welshGlosses": [
         "Rule",
@@ -224,8 +224,8 @@
       "english": "Progress for Labour and the Conservatives as Plaid Cymru and Reform lose ground",
       "url": "https://golwg.360.cymru/newyddion/2205958-cynnydd-lafur-ceidwadwyr-wrth-blaid-cymru-reform?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0Nygy",
       "pubDate": "Wed, 16 Sep 2026 09:38:27 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-09-16T11:26:15.787Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-09-16T23:39:05.430Z",
       "category": null,
       "welshGlosses": [
         "Group",
@@ -264,8 +264,8 @@
       "english": "Walking, chatting and learning: ‘On Foot’ tours returning",
       "url": "https://golwg.360.cymru/newyddion/cymru/2205925-teithiau-ar-droed-yn-dychwelyd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0Ny5e",
       "pubDate": "Wed, 16 Sep 2026 07:53:40 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-09-16T11:26:15.787Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-16T23:39:05.430Z",
       "category": null,
       "welshGlosses": [
         "Walked",
@@ -295,34 +295,9 @@
       "english": "Only 2% of literacy programmes are aimed at secondary pupils",
       "url": "https://golwg.360.cymru/newyddion/cymru/2205949-raglenni-llythrennedd-wedi-hanelu-ddisgyblion?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGDyR1",
       "pubDate": "Wed, 16 Sep 2026 05:36:25 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-16T11:26:15.787Z",
-      "category": null,
-      "welshGlosses": [
-        "None",
-        "but",
-        "2.",
-        "of",
-        "applications",
-        "letters",
-        "has been",
-        "to aim",
-        "towards",
-        "pupils",
-        "secondary"
-      ],
-      "englishGlosses": [
-        "Dim ond",
-        "2.",
-        "o",
-        "llythrennedd",
-        "rhaglenni",
-        "dach",
-        "wedi ei anelu",
-        "am",
-        "Eilradd",
-        "I Plannu"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-09-16T23:39:05.430Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2205947",
@@ -330,35 +305,9 @@
       "english": "‘Without clarity, coherence or direction': Education Minister criticises inherited system",
       "url": "https://golwg.360.cymru/newyddion/cymru/2205947-eglurder-cydlyniad-chyfeiriad-gweinidog-addysg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7NR1",
       "pubDate": "Tue, 15 Sep 2026 19:24:20 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-09-16T11:26:15.787Z",
-      "category": null,
-      "welshGlosses": [
-        "without",
-        "clarity",
-        "co-ordination",
-        "nor",
-        "address",
-        "",
-        "Action",
-        "in",
-        "criticise",
-        "File System",
-        "and",
-        "Inherited:"
-      ],
-      "englishGlosses": [
-        "Heb",
-        "eglurder",
-        "cydlyniad",
-        "neu",
-        "cyfeiriad",
-        "Addysg",
-        "baeth",
-        "beirniadu",
-        "Etifeddedig",
-        "sustem"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-09-16T23:39:05.430Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2205942",
@@ -366,43 +315,9 @@
       "english": "‘Don't hide behind climate change’ – Reform challenges Rhun ap Iorwerth over wildfires",
       "url": "https://golwg.360.cymru/newyddion/cymru/2205942-peidiwch-chuddio-newid-hinsawdd-reform-herio-rhun?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=oDs4WenW",
       "pubDate": "Tue, 15 Sep 2026 17:19:14 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-09-16T11:26:15.787Z",
-      "category": null,
-      "welshGlosses": [
-        "Do not...",
-        "To:",
-        "hide",
-        "the",
-        "side",
-        "Trace",
-        "to",
-        "change",
-        "Climate",
-        "Reform",
-        "in",
-        "herio tlws",
-        "Rhun",
-        "App",
-        "Iorwerth",
-        "over",
-        "fires",
-        "wild"
-      ],
-      "englishGlosses": [
-        "Peidio ag",
-        "cwato",
-        "tu ol",
-        "Hinsawdd",
-        "Newid",
-        "Diwygio",
-        "heriau",
-        "rhun",
-        "<PROTECTED> ap <PROTECTED>/Meleri Williams",
-        "Iorwerth",
-        "dros",
-        "tanau gwyllt"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-09-16T23:39:05.430Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2205938",
@@ -410,30 +325,9 @@
       "english": "Former Reform MP crosses the floor to Plaid Cymru",
       "url": "https://golwg.360.cymru/newyddion/cymru/2205938-reform-croesi-llawr-blaid-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0G7d",
       "pubDate": "Tue, 15 Sep 2026 16:00:53 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-09-16T11:26:15.787Z",
-      "category": null,
-      "welshGlosses": [
-        "Pre-MP",
-        "Reform",
-        "in",
-        "to cross",
-        "floor",
-        "to",
-        "Party",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "Cyn",
-        "Diwygio",
-        "(MP)",
-        "croesau",
-        "'r",
-        "llawr",
-        "i",
-        "Plaid Cymru",
-        "Cymru "
-      ]
+      "feedPosition": 11,
+      "fetchedAt": "2026-09-16T23:39:05.430Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2205936",
@@ -441,34 +335,9 @@
       "english": "Dan Thomas steps down as leader of Reform in Wales",
       "url": "https://golwg.360.cymru/newyddion/cymru/2205936-thomas-camu-lawr-arweinydd-reform-nghymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0WyAG",
       "pubDate": "Tue, 15 Sep 2026 15:45:18 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-09-16T11:26:15.787Z",
-      "category": null,
-      "welshGlosses": [
-        "under",
-        "Thomas",
-        "in",
-        "Step",
-        "to",
-        "DOWN",
-        "Like",
-        "Lead:",
-        "Reform",
-        "in",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "beneath",
-        "Tomos",
-        "Camau",
-        "LAWR",
-        "Graddfeyddunit description in lists",
-        "Arweinydd",
-        "o",
-        "Diwygio",
-        "yn",
-        "Cymru"
-      ]
+      "feedPosition": 12,
+      "fetchedAt": "2026-09-16T23:39:05.430Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2205931",
@@ -476,8 +345,8 @@
       "english": "Reform goes after Rhun ap Iorwerth for the Welsh language and independence",
       "url": "https://golwg.360.cymru/newyddion/cymru/2205931-reform-mynd-rhun-iorwerth-dros-gymraeg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA1g3",
       "pubDate": "Tue, 15 Sep 2026 15:33:05 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-09-16T11:26:15.787Z",
+      "feedPosition": 13,
+      "fetchedAt": "2026-09-16T23:39:05.430Z",
       "category": null
     },
     {
@@ -486,8 +355,8 @@
       "english": "Aberfan 60: Remembering, reflecting, and building a deeper understanding of the disaster",
       "url": "https://golwg.360.cymru/newyddion/cymru/2205911-aberfan-cofio-myfyrio-meithrin-dealltwriaeth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsde2R1",
       "pubDate": "Tue, 15 Sep 2026 14:19:35 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-16T11:26:15.787Z",
+      "feedPosition": 14,
+      "fetchedAt": "2026-09-16T23:39:05.430Z",
       "category": null
     },
     {
@@ -496,8 +365,8 @@
       "english": "Metal from cremated bodies to raise thousands for charities",
       "url": "https://golwg.360.cymru/newyddion/cymru/2205900-metel-gyrff-wedi-hamlosgi-godi-miloedd-elusennau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroApM",
       "pubDate": "Tue, 15 Sep 2026 11:47:24 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-16T11:26:15.787Z",
+      "feedPosition": 15,
+      "fetchedAt": "2026-09-16T23:39:05.430Z",
       "category": null
     },
     {
@@ -506,10 +375,10 @@
       "english": "An additional £4.2m on the £41m Atrium project cannot be recovered",
       "url": "https://golwg.360.cymru/newyddion/cymru/2205891-modd-adennill-ychwanegol-brosiect-atriwm?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0Nyae",
       "pubDate": "Tue, 15 Sep 2026 10:56:17 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-09-16T11:26:15.787Z",
+      "feedPosition": 16,
+      "fetchedAt": "2026-09-16T23:39:05.430Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-09-16T21:14:45.313Z"
+  "generatedAt": "2026-09-16T23:39:05.430Z"
 }
