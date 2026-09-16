@@ -2,6 +2,40 @@
   "date": "2026-09-16",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2206036",
+      "welsh": "Aelod Reform: Roedd yr Ymerodraeth Brydeinig yn ‘rym er daioni’",
+      "english": "Member Reform: The British Empire was a ‘force for good’",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2206036-aelod-reform-roedd-ymerodraeth-brydeinig-daioni?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLEO47",
+      "pubDate": "Wed, 16 Sep 2026 17:40:32 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-16T21:14:45.313Z",
+      "category": null,
+      "welshGlosses": [
+        "Member",
+        "Reform",
+        "The Auditor",
+        "the",
+        "Empire",
+        "British",
+        "in",
+        "force",
+        "although",
+        "goodness"
+      ],
+      "englishGlosses": [
+        "Aelod",
+        "Diwygio",
+        "Y",
+        "BASTAI",
+        "Ymerawdwr",
+        "oedd",
+        "a.",
+        "Grym",
+        "am",
+        "Da"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2206008",
       "welsh": "Plaid Cymru: Sarah Cooper-Lesadd i dorri cysylltiad â chyhoeddiad asgell dde",
       "english": "Plaid Cymru: Sarah Cooper- Lesadd to cut ties with right-wing publication",
@@ -475,17 +509,7 @@
       "feedPosition": 11,
       "fetchedAt": "2026-09-16T11:26:15.787Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205835",
-      "welsh": "Reform a Heledd Fychan yn cloi cyrn dros ddarlledu",
-      "english": "Reform and Heledd Fychan lock horns over broadcasting",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2205835-reform-heledd-fychan-cloi-cyrn-dros-ddarlledu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0Wyo3",
-      "pubDate": "Tue, 15 Sep 2026 07:01:19 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-09-16T11:26:15.787Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-16T16:49:03.154Z"
+  "generatedAt": "2026-09-16T21:14:45.313Z"
 }
