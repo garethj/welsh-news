@@ -2,6 +2,151 @@
   "date": "2026-09-16",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2206008",
+      "welsh": "Plaid Cymru: Sarah Cooper-Lesadd i dorri cysylltiad â chyhoeddiad asgell dde",
+      "english": "Plaid Cymru: Sarah Cooper- Lesadd to cut ties with right-wing publication",
+      "url": "https://golwg.360.cymru/newyddion/2206008-plaid-cymru-sarah-cooper-lesadd-dorri-cysylltiad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=OysPla0M",
+      "pubDate": "Wed, 16 Sep 2026 14:55:14 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-16T16:49:03.154Z",
+      "category": null,
+      "welshGlosses": [
+        "Party",
+        "Wales",
+        "Sarah",
+        "Cooper-Lesadd",
+        "to",
+        "to cut",
+        "Connection",
+        "To:",
+        "publication",
+        "wing",
+        "Right"
+      ],
+      "englishGlosses": [
+        "Plaid Cymru",
+        "Cymru ",
+        "Sarah May",
+        "Tank",
+        "Lesadd",
+        "i",
+        "Torri",
+        "clymu",
+        "gyda",
+        "asgell dde",
+        "cyhoeddiad"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206005",
+      "welsh": "Grŵp Trawsbleidiol dros y Gymraeg yn cyfarfod am y tro cyntaf ers 2021",
+      "english": "Cross Party Group for the Welsh Language meets for the first time since 2021",
+      "url": "https://golwg.360.cymru/newyddion/iaith/2206005-grwp-trawsbleidiol-dros-gymraeg-cyfarfod-cyntaf?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0Gan",
+      "pubDate": "Wed, 16 Sep 2026 14:51:59 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-16T16:49:03.154Z",
+      "category": null,
+      "welshGlosses": [
+        "Group",
+        "Cross-party",
+        "over",
+        "the",
+        "Welsh",
+        "in",
+        "meeting",
+        "for",
+        "the",
+        "Won:",
+        "first",
+        "Since",
+        "2021"
+      ],
+      "englishGlosses": [
+        "Croes",
+        "Parti",
+        "Grŵp",
+        "am",
+        "'r",
+        "Cymraeg",
+        "",
+        "cwrdd",
+        "am",
+        "'r",
+        "cyntaf",
+        "amser",
+        "Ers",
+        "2021"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2205995",
+      "welsh": "‘Problemau Reform yng Nghymru yn gerddoriaeth i glustiau Restore’",
+      "english": "‘The problems of Reform in Wales being music to the ears of Restore’",
+      "url": "https://golwg.360.cymru/newyddion/2205995-problemau-reform-nghymru-gerddoriaeth-glustiau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLgaB",
+      "pubDate": "Wed, 16 Sep 2026 13:42:24 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-16T16:49:03.154Z",
+      "category": null,
+      "welshGlosses": [
+        "Problems",
+        "Reform",
+        "in",
+        "Wales",
+        "in",
+        "music",
+        "to",
+        "ears",
+        "Restore"
+      ],
+      "englishGlosses": [
+        "Y",
+        "problemau",
+        "o",
+        "Diwygio",
+        "yn",
+        "Cymru",
+        "bod",
+        "evil",
+        "i",
+        "'r",
+        "Clust",
+        "o",
+        "Adfer"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2205990",
+      "welsh": "Rhun ap Iorwerth am gyfarch rali YesCymru yn Aberystwyth",
+      "english": "Rhun ap Iorwerth to address YesCymru rally in Aberystwyth",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2205990-rhun-iorwerth-gyfarch-rali-yescymru-aberystwyth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2O4LR",
+      "pubDate": "Wed, 16 Sep 2026 12:10:26 +0000",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-16T16:49:03.154Z",
+      "category": null,
+      "welshGlosses": [
+        "Rhun",
+        "App",
+        "Iorwerth",
+        "for",
+        "greetings",
+        "rally",
+        "YesCymru",
+        "in",
+        "Mouth of the river Ystwyth"
+      ],
+      "englishGlosses": [
+        "rhun",
+        "<PROTECTED> ap <PROTECTED>/Meleri Williams",
+        "Iorwerth",
+        "i",
+        "yr ysbyty",
+        "YesCymru",
+        "rali",
+        "yn",
+        "Aberystwyth:"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2205971",
       "welsh": "‘Rheol Martha’ Gymreig: llwybr newydd i deuluoedd godi pryderon mewn ysbytai",
       "english": "Welsh ‘Martha's rule’: a new route for families to raise concerns in hospitals",
@@ -340,47 +485,7 @@
       "feedPosition": 12,
       "fetchedAt": "2026-09-16T11:26:15.787Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205842",
-      "welsh": "‘Hyll ac ofnus’: Cynghorydd yn cael ei cham-drin ar-lein ar ôl rhannu fideo o fad achub",
-      "english": "‘Ugly and scary': Councillor being abusedonline after sharing video of lifeboat",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2205842-hyll-ofnus-cynghorydd-cael-cham-drin-lein-rhannu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpBRr",
-      "pubDate": "Tue, 15 Sep 2026 06:52:00 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-09-16T11:26:15.787Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205823",
-      "welsh": "30% o ostyngiad mewn ardrethi i fusnesau hamdden a lletygarwch",
-      "english": "30% reduction in rates for leisure and hospitality businesses",
-      "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2205823-ostyngiad-mewn-ardrethi-fusnesau-hamdden?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lDMM",
-      "pubDate": "Tue, 15 Sep 2026 06:01:57 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-09-16T11:26:15.787Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205828",
-      "welsh": "Ystyried cynigion i ehangu ysgol Gymraeg yn y canolbarth",
-      "english": "To consider proposals to expand a Welsh-medium school in mid Wales",
-      "url": "https://golwg.360.cymru/newyddion/addysg/2205828-ystyried-cynigion-ehangu-ysgol-gymraeg-canolbarth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=pgseG20d",
-      "pubDate": "Mon, 14 Sep 2026 16:44:23 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-09-16T11:26:15.787Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205826",
-      "welsh": "Ystyried cyflwyno mwy o gyrsiau Catalaneg",
-      "english": "Consider introducing more Catalan courses",
-      "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2205826-ystyried-cyflwyno-gyrsiau-catalaneg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=rns7GJjD",
-      "pubDate": "Mon, 14 Sep 2026 16:36:59 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-09-16T11:26:15.787Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-16T11:26:15.787Z"
+  "generatedAt": "2026-09-16T16:49:03.154Z"
 }
