@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2206135",
@@ -8,7 +8,7 @@
       "url": "https://golwg.360.cymru/newyddion/2206135-canolfan-ddata-menai-erchylltra-cywilyddus-hunllef?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOpYy",
       "pubDate": "Fri, 18 Sep 2026 16:24:15 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-09-18T20:51:29.648Z",
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
       "category": null,
       "welshGlosses": [
         "Centre",
@@ -35,8 +35,8 @@
       "english": "Bodelwyddan Park recognised in European Awards",
       "url": "https://golwg.360.cymru/newyddion/cymru/2206154-parc-bodelwyddan-cael-cydnabyddiaeth-ngwobrau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=wPs0ay2R",
       "pubDate": "Fri, 18 Sep 2026 15:08:12 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-09-18T16:20:57.254Z",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
       "category": null,
       "welshGlosses": [
         "Park",
@@ -63,8 +63,8 @@
       "english": "Identify the business experts who will help to establish the National Development Agency for Wales",
       "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2206147-enwi-arbenigwyr-busnes-fydd-helpu-sefydlu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRpN5",
       "pubDate": "Fri, 18 Sep 2026 14:37:45 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-09-18T16:20:57.254Z",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
       "category": null,
       "welshGlosses": [
         "Name the",
@@ -104,8 +104,8 @@
       "english": "“We had no choice in this”: a new volume on the importance of natural foods",
       "url": "https://golwg.360.cymru/newyddion/cymru/2206146-doedd-ganddon-ddim-dewis-cyfrol-newydd-bwysigrwydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsde2We",
       "pubDate": "Fri, 18 Sep 2026 14:26:33 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-09-18T16:20:57.254Z",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
       "category": null,
       "welshGlosses": [
         "Yes",
@@ -146,8 +146,8 @@
       "english": "Parliament's Commission defends the post-conflict regime in the Chamber for the use of the Welsh language",
       "url": "https://golwg.360.cymru/newyddion/2206128-comisiwn-senedd-amddiffyn-drefn-gwrthdaro-siambr?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=dJsN7lyl",
       "pubDate": "Fri, 18 Sep 2026 11:16:54 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-18T16:20:57.254Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
       "category": null,
       "welshGlosses": [
         "Commission",
@@ -193,8 +193,8 @@
       "english": "Welsh gaming companies showcase their work at a major event in Tokyo",
       "url": "https://golwg.360.cymru/newyddion/cymru/2206130-cwmniau-gemau-gymru-arddangos-gwaith-mewn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLgEj",
       "pubDate": "Fri, 18 Sep 2026 10:26:03 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-09-18T11:08:15.593Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
       "category": null,
       "welshGlosses": [
         "Companies",
@@ -232,8 +232,8 @@
       "english": "Bangor is the University of the Year in Wales, but Cardiff tops the table",
       "url": "https://golwg.360.cymru/newyddion/cymru/2205955-bangor-brifysgol-flwyddyn-nghymru-caerdydd-frig?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=eOsA5MRA",
       "pubDate": "Fri, 18 Sep 2026 07:01:14 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-09-18T11:08:15.593Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
       "category": null,
       "welshGlosses": [
         "Bangor:",
@@ -273,8 +273,8 @@
       "english": "£4.8 million for local authorities to tackle living costs",
       "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2206112-miliwn-awdurdodau-lleol-gael-mynd-afael-chostau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpBnp",
       "pubDate": "Fri, 18 Sep 2026 06:29:01 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-09-18T11:08:15.593Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
       "category": null,
       "welshGlosses": [
         "4.",
@@ -310,40 +310,9 @@
       "english": "Gwynedd Councillors call for “local factors” to be considered before approving new social housing",
       "url": "https://golwg.360.cymru/newyddion/2206106-cynghorwyr-gwynedd-galw-ystyried-ffactorau-lleol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0G8y",
       "pubDate": "Fri, 18 Sep 2026 06:01:30 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-18T11:08:15.593Z",
-      "category": null,
-      "welshGlosses": [
-        "Advisers",
-        "A497 Abererch to Llanystumdwy",
-        "in",
-        "Call",
-        "for",
-        "REFLECT",
-        "Factors",
-        "local",
-        "before",
-        "Approve",
-        "Thai",
-        "Social",
-        "new"
-      ],
-      "englishGlosses": [
-        "Gwynedd",
-        "Cynghorwyr",
-        "Galw",
-        "am",
-        "lleol",
-        "Ffactorau",
-        "i",
-        "bod",
-        "ystyried",
-        "cyn",
-        "cymeradwyo",
-        "newydd",
-        "CYMDEITHASOL",
-        "tai"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206095",
@@ -351,40 +320,9 @@
       "english": "Helen Jenner is likely to be the next leader of Reform UK in Wales",
       "url": "https://golwg.360.cymru/newyddion/2206095-helen-jenner-debygol-arweinydd-nesaf-reform?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=rns7GJpj",
       "pubDate": "Thu, 17 Sep 2026 14:45:25 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-09-18T11:08:15.593Z",
-      "category": null,
-      "welshGlosses": [
-        "Helen",
-        "Jenner",
-        "in",
-        "likely",
-        "of",
-        "to be",
-        "in",
-        "Lead:",
-        "next",
-        "Reform",
-        "<PROTECTED> UK",
-        "in",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "Helen",
-        "Jenner",
-        "yw",
-        "debygol",
-        "i",
-        "bod",
-        "'r",
-        "nesaf",
-        "Arweinydd",
-        "o",
-        "Diwygio",
-        "Y DU",
-        "yn",
-        "Cymru"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206088",
@@ -392,27 +330,9 @@
       "english": "Celebrating 50 years of the Catalan education network",
       "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2206088-dathlu-mlwyddiant-rhwydwaith-addysg-gatalaneg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMaeYL",
       "pubDate": "Thu, 17 Sep 2026 12:53:29 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-09-18T11:08:15.593Z",
-      "category": null,
-      "welshGlosses": [
-        "Celebrate",
-        "50%",
-        "anniversaries",
-        "Network",
-        "Action",
-        "Catalan"
-      ],
-      "englishGlosses": [
-        "Dathlu",
-        "50%",
-        "blynedd",
-        "o",
-        "'r",
-        "Catalaneg",
-        "addysg",
-        "rwydwaith"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206082",
@@ -420,40 +340,9 @@
       "english": "“It is climate change and chronic overuse, not individual pollution, that is killing our rivers”",
       "url": "https://golwg.360.cymru/newyddion/2206082-newid-hinsawdd-gorddefnydd-cronig-llygru-unigol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7NOy",
       "pubDate": "Thu, 17 Sep 2026 12:09:40 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-09-18T11:08:15.593Z",
-      "category": null,
-      "welshGlosses": [
-        "Change",
-        "Climate",
-        "and",
-        "overuse",
-        "chronic",
-        "This link is not live-previewable.",
-        "polluting",
-        "Singular",
-        "which",
-        "kill",
-        "our",
-        "rivers"
-      ],
-      "englishGlosses": [
-        "hynnu",
-        "yw",
-        "Hinsawdd",
-        "Newid",
-        "a",
-        "cronig",
-        "gorddefnydd",
-        "ddim",
-        "Unigol",
-        "golau.",
-        "hynny",
-        "yw",
-        "lladd",
-        "ein",
-        "afonydd"
-      ]
+      "feedPosition": 11,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206070",
@@ -461,37 +350,9 @@
       "english": "“Disappointed”: Mabon ap Gwynfor responds as waiting lists continue to rise",
       "url": "https://golwg.360.cymru/newyddion/2206070-siomedig-mabon-gwynfor-ymateb-wrth-restrau-aros?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0Wy4P",
       "pubDate": "Thu, 17 Sep 2026 10:45:03 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-09-18T11:08:15.593Z",
-      "category": null,
-      "welshGlosses": [
-        "Disappointed",
-        "Mabon",
-        "App",
-        "Gwynfor",
-        "in",
-        "Response",
-        "by",
-        "to",
-        "lists",
-        "Wait",
-        "continue",
-        "to",
-        "increase"
-      ],
-      "englishGlosses": [
-        "Siomedig",
-        "Mabon",
-        "<PROTECTED> ap <PROTECTED>/Meleri Williams",
-        "Gwynfor",
-        "ymateb",
-        "Graddfeyddunit description in lists",
-        "Aros",
-        "Rhestr",
-        "parhau",
-        "i",
-        "textattr"
-      ]
+      "feedPosition": 12,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206024",
@@ -499,8 +360,8 @@
       "english": "To propose an alternative solution to the Carmarthenshire pylons row “which will minimise the visual impact”",
       "url": "https://golwg.360.cymru/newyddion/2206024-cynnig-datrysiad-amgen-ffrae-peilonau-gaerfyrddin?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2O4WR",
       "pubDate": "Thu, 17 Sep 2026 08:01:16 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-09-18T11:08:15.593Z",
+      "feedPosition": 13,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
       "category": null
     },
     {
@@ -509,8 +370,8 @@
       "english": "Llŷn and Bardsey symbols to mark the new chapter of the Bishop of Bangor",
       "url": "https://golwg.360.cymru/newyddion/crefydd/2205957-symbolau-llyn-enlli-nodi-pennod-newydd-esgob?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lDLy",
       "pubDate": "Thu, 17 Sep 2026 07:01:29 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-18T11:08:15.593Z",
+      "feedPosition": 14,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
       "category": null
     },
     {
@@ -519,8 +380,8 @@
       "english": "No staff on a mental health ward have completed key safeguarding training",
       "url": "https://golwg.360.cymru/newyddion/iechyd/2205967-staff-ward-iechyd-meddwl-wedi-cwblhau-hyfforddiant?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroAE0",
       "pubDate": "Thu, 17 Sep 2026 06:29:40 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-18T11:08:15.593Z",
+      "feedPosition": 15,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
       "category": null
     },
     {
@@ -529,8 +390,8 @@
       "english": "The Government of Wales formally calls for a review of how Wales is funded",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206003-llywodraeth-cymru-galw-ffurfiol-adolygu-ffordd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0Wygr",
       "pubDate": "Thu, 17 Sep 2026 06:01:28 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-09-18T11:08:15.593Z",
+      "feedPosition": 16,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
       "category": null
     },
     {
@@ -539,8 +400,8 @@
       "english": "Member Reform: The British Empire was a ‘force for good’",
       "url": "https://golwg.360.cymru/newyddion/cymru/2206036-aelod-reform-roedd-ymerodraeth-brydeinig-daioni?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLEO47",
       "pubDate": "Wed, 16 Sep 2026 17:40:32 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-09-18T11:08:15.593Z",
+      "feedPosition": 17,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
       "category": null
     },
     {
@@ -549,8 +410,8 @@
       "english": "Plaid Cymru: Sarah Cooper- Lesadd to cut ties with right-wing publication",
       "url": "https://golwg.360.cymru/newyddion/2206008-plaid-cymru-sarah-cooper-lesadd-dorri-cysylltiad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=OysPla0M",
       "pubDate": "Wed, 16 Sep 2026 14:55:14 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-09-18T11:08:15.593Z",
+      "feedPosition": 18,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
       "category": null
     },
     {
@@ -559,10 +420,10 @@
       "english": "Cross Party Group for the Welsh Language meets for the first time since 2021",
       "url": "https://golwg.360.cymru/newyddion/iaith/2206005-grwp-trawsbleidiol-dros-gymraeg-cyfarfod-cyntaf?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0Gan",
       "pubDate": "Wed, 16 Sep 2026 14:51:59 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-09-18T11:08:15.593Z",
+      "feedPosition": 19,
+      "fetchedAt": "2026-09-18T23:15:48.924Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-09-18T20:51:29.648Z"
+  "generatedAt": "2026-09-18T23:15:48.924Z"
 }
