@@ -2,6 +2,34 @@
   "date": "2026-09-18",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2206135",
+      "welsh": "Canolfan Ddata Menai: “erchylltra”, “cywilyddus” a “hunllef”",
+      "english": "Menai Data Centre: “atrocity”, “disgraceful” and “nightmare”",
+      "url": "https://golwg.360.cymru/newyddion/2206135-canolfan-ddata-menai-erchylltra-cywilyddus-hunllef?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOpYy",
+      "pubDate": "Fri, 18 Sep 2026 16:24:15 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-18T20:51:29.648Z",
+      "category": null,
+      "welshGlosses": [
+        "Centre",
+        "Data",
+        "Menai",
+        "horror",
+        "disgraceful",
+        "and",
+        "Nightmare"
+      ],
+      "englishGlosses": [
+        "Menai",
+        "Data",
+        "Canolfan",
+        "erchyllter",
+        "gwarthus",
+        "a",
+        "hunllef"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2206154",
       "welsh": "Parc Bodelwyddan yn cael cydnabyddiaeth yng Ngwobrau Ewrop",
       "english": "Bodelwyddan Park recognised in European Awards",
@@ -534,17 +562,7 @@
       "feedPosition": 14,
       "fetchedAt": "2026-09-18T11:08:15.593Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205995",
-      "welsh": "‘Problemau Reform yng Nghymru yn gerddoriaeth i glustiau Restore’",
-      "english": "‘The problems of Reform in Wales being music to the ears of Restore’",
-      "url": "https://golwg.360.cymru/newyddion/2205995-problemau-reform-nghymru-gerddoriaeth-glustiau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLgaB",
-      "pubDate": "Wed, 16 Sep 2026 13:42:24 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-09-18T11:08:15.593Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-18T16:20:57.254Z"
+  "generatedAt": "2026-09-18T20:51:29.648Z"
 }
