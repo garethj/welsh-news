@@ -2,6 +2,134 @@
   "date": "2026-09-21",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2206282",
+      "welsh": "Cyn-Arlywydd alltud Catalwnia’n gobeithio dychwelyd adref",
+      "english": "Ex-PresidentofCatalan diaspora hoping to return home",
+      "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2206282-cyn-arlywydd-catalwnian-gobeithio-dychwelyd-o-alltudiaeth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRpPR",
+      "pubDate": "Mon, 21 Sep 2026 15:42:40 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-21T19:58:00.888Z",
+      "category": null,
+      "welshGlosses": [
+        "FormerPresident",
+        "exile",
+        "Catalonia",
+        "hope",
+        "Remove",
+        "home"
+      ],
+      "englishGlosses": [
+        "Cyn - lywydd Catalaneg",
+        "alltud",
+        "gobeithio",
+        "i",
+        "Dychwelydkeyboard label",
+        "RHEOLWR"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206283",
+      "welsh": "Croesawu 480 o swyddi ar safle Airbus",
+      "english": "Welcoming 480 jobs on the Airbus site",
+      "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2206283-croesawu-swyddi-safle-airbus?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8DwO4",
+      "pubDate": "Mon, 21 Sep 2026 14:49:51 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-21T19:58:00.888Z",
+      "category": null,
+      "welshGlosses": [
+        "Welcome",
+        "480",
+        "of",
+        "jobs",
+        "on",
+        "ever",
+        "Airbus"
+      ],
+      "englishGlosses": [
+        "Croeso",
+        "480",
+        "tasgau",
+        "ar",
+        "'r",
+        "A380",
+        "Safle"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206120",
+      "welsh": "‘Heledd’s Song’: O ‘Lyfr Coch Hergest’ i’ch siop lyfrau leol",
+      "english": "‘Heledd's Song': From ‘Red Book of Hergest’ to your local bookshop",
+      "url": "https://golwg.360.cymru/newyddion/2206120-heledd-song-lyfr-coch-hergest-siop-lyfrau-leol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Pes27BO4",
+      "pubDate": "Mon, 21 Sep 2026 13:19:53 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-21T19:58:00.888Z",
+      "category": null,
+      "welshGlosses": [
+        "Heledd's",
+        "Song",
+        "of",
+        "Book",
+        "Red",
+        "Hergest",
+        "I",
+        "store",
+        "books",
+        "local"
+      ],
+      "englishGlosses": [
+        "Heledd",
+        "Cân",
+        "",
+        "",
+        "Llyfr",
+        "o",
+        "Hergest",
+        "i",
+        "eich",
+        "lleol",
+        "siop lyfrau"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206239",
+      "welsh": "Rhybuddion argyfwng: Llywodraeth y Deyrnas Unedig wedi “dysgu gwersi” o’r negeseuon Cymraeg-yn-gyntaf",
+      "english": "Emergency warnings: The United Kingdom Government has “learnt lessons” from the Welsh-only messages",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206239-rhybuddion-argyfwng-llywodraeth-deyrnas-unedig?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0Wy3M",
+      "pubDate": "Mon, 21 Sep 2026 12:46:27 +0000",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-21T19:58:00.888Z",
+      "category": null,
+      "welshGlosses": [
+        "Alarms",
+        "Emergency",
+        "Governing",
+        "the",
+        "Kingdom",
+        "Evil",
+        "after",
+        "Learning",
+        "lessons",
+        "O",
+        "messages",
+        "Welsh First"
+      ],
+      "englishGlosses": [
+        "brys",
+        "Rhybuddion:",
+        "Y",
+        "sempyr",
+        "Unedig",
+        "Cymru",
+        "Oes",
+        "dysgwyd",
+        "gwersi",
+        "o",
+        "'r",
+        "Cymraeg yn unig",
+        ""
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2206259",
       "welsh": "Arweinydd Cyngor Sir yn ymddiswyddo ar ôl bod yn feddw a chwympo mewn digwyddiad gwleidyddol",
       "english": "The Leader of County Council resigns after being drunk and falling in a political event",
@@ -485,47 +613,7 @@
       "feedPosition": 9,
       "fetchedAt": "2026-09-20T23:12:43.179Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206088",
-      "welsh": "Dathlu 50 mlwyddiant rhwydwaith addysg Gatalaneg",
-      "english": "Celebrating 50 years of the Catalan education network",
-      "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2206088-dathlu-mlwyddiant-rhwydwaith-addysg-gatalaneg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMaeYL",
-      "pubDate": "Thu, 17 Sep 2026 12:53:29 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-20T23:12:43.179Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206082",
-      "welsh": "“Newid hinsawdd a gorddefnydd cronig, nid llygru unigol, sy’n lladd ein hafonydd”",
-      "english": "“It is climate change and chronic overuse, not individual pollution, that is killing our rivers”",
-      "url": "https://golwg.360.cymru/newyddion/2206082-newid-hinsawdd-gorddefnydd-cronig-llygru-unigol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7NOy",
-      "pubDate": "Thu, 17 Sep 2026 12:09:40 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-09-20T23:12:43.179Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206070",
-      "welsh": "“Siomedig”: Mabon ap Gwynfor yn ymateb wrth i restrau aros barhau i gynyddu",
-      "english": "“Disappointed”: Mabon ap Gwynfor responds as waiting lists continue to rise",
-      "url": "https://golwg.360.cymru/newyddion/2206070-siomedig-mabon-gwynfor-ymateb-wrth-restrau-aros?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0Wy4P",
-      "pubDate": "Thu, 17 Sep 2026 10:45:03 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-09-20T23:12:43.179Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206024",
-      "welsh": "Cynnig datrysiad amgen i ffrae peilonau Sir Gaerfyrddin “fydd yn lleihau’r effaith weledol”",
-      "english": "To propose an alternative solution to the Carmarthenshire pylons row “which will minimise the visual impact”",
-      "url": "https://golwg.360.cymru/newyddion/2206024-cynnig-datrysiad-amgen-ffrae-peilonau-gaerfyrddin?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2O4WR",
-      "pubDate": "Thu, 17 Sep 2026 08:01:16 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-09-20T23:12:43.179Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-21T12:41:51.321Z"
+  "generatedAt": "2026-09-21T19:58:00.888Z"
 }
