@@ -2,6 +2,168 @@
   "date": "2026-09-21",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2206259",
+      "welsh": "Arweinydd Cyngor Sir yn ymddiswyddo ar ôl bod yn feddw a chwympo mewn digwyddiad gwleidyddol",
+      "english": "The Leader of County Council resigns after being drunk and falling in a political event",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206259-arweinydd-cyngor-ymddiswyddo-feddw-chwympo-mewn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2O4BP",
+      "pubDate": "Mon, 21 Sep 2026 12:32:44 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-21T12:41:51.321Z",
+      "category": null,
+      "welshGlosses": [
+        "Lead:",
+        "Advice",
+        "County",
+        "in",
+        "Resign",
+        "on",
+        "Trace",
+        "to be",
+        "in",
+        "drunk",
+        "and",
+        "to fall",
+        "in",
+        "event",
+        "survive"
+      ],
+      "englishGlosses": [
+        "Y",
+        "Arweinydd",
+        "o",
+        "Sir",
+        "Y Cyngor",
+        "ymddiswyddo",
+        "Wedi",
+        "bod",
+        "Meddwi",
+        "a",
+        "Cwymp",
+        "yn",
+        "a.",
+        "gwleidyddol",
+        "Achlysur"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206246",
+      "welsh": "Helen Jenner yw arweinydd newydd Reform UK yng Nghymru",
+      "english": "Helen Jenner is the new leader of Reform UK in Wales",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206246-helen-jenner-arweinydd-newydd-reform-nghymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpBgY",
+      "pubDate": "Mon, 21 Sep 2026 11:21:18 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-21T12:41:51.321Z",
+      "category": null,
+      "welshGlosses": [
+        "Helen",
+        "Jenner",
+        "is",
+        "Lead:",
+        "new",
+        "Reform",
+        "<PROTECTED> UK",
+        "in",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Helen",
+        "Jenner",
+        "yw",
+        "'r",
+        "newydd",
+        "Arweinydd",
+        "o",
+        "Diwygio",
+        "Y DU",
+        "yn",
+        "Cymru"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206240",
+      "welsh": "Plaid Cymru’n nodi Diwrnod Heddwch Rhyngwladol",
+      "english": "Plaid Cymru marks International Day of Peace",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206240-plaid-cymru-nodi-diwrnod-heddwch-rhyngwladol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=BpsyYjBg",
+      "pubDate": "Mon, 21 Sep 2026 11:06:24 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-21T12:41:51.321Z",
+      "category": null,
+      "welshGlosses": [
+        "Party",
+        "Cymru 'n",
+        "to note",
+        "Day",
+        "Peace",
+        "International"
+      ],
+      "englishGlosses": [
+        "Plaid Cymru",
+        "Cymru ",
+        "marciau",
+        "Rhyngwladol",
+        "Dydd",
+        "o",
+        "Heddwch"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206213",
+      "welsh": "Disgwyl cyhoeddi arweinydd Reform UK yng Nghymru",
+      "english": "We await the announcement of the leader of Reform UK in Wales",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206213-disgwyl-cyhoeddi-arweinydd-reform-nghymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpB8N",
+      "pubDate": "Mon, 21 Sep 2026 09:00:35 +0000",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-21T12:41:51.321Z",
+      "category": null,
+      "welshGlosses": [
+        "Due",
+        "publish",
+        "Lead:",
+        "Reform",
+        "<PROTECTED> UK",
+        "in",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "i ni.",
+        "aros",
+        "'r",
+        "cyhoeddiad",
+        "o",
+        "'r",
+        "Arweinydd",
+        "o",
+        "Diwygio",
+        "Y DU",
+        "yn",
+        "Cymru"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206205",
+      "welsh": "Annog busnesau i ddefnyddio’r Wyddeleg",
+      "english": "Encouraging businesses to use Irish",
+      "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2206205-annog-busnesau-ddefnyddio-wyddeleg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0WyGM",
+      "pubDate": "Mon, 21 Sep 2026 08:25:04 +0000",
+      "feedPosition": 4,
+      "fetchedAt": "2026-09-21T12:41:51.321Z",
+      "category": null,
+      "welshGlosses": [
+        "prompt",
+        "businesses",
+        "to",
+        "use the",
+        "Irish language"
+      ],
+      "englishGlosses": [
+        "Annog",
+        "busnesau",
+        "i",
+        "Defnydd",
+        ""
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2206135",
       "welsh": "Canolfan Ddata Menai: “erchylltra”, “cywilyddus” a “hunllef”",
       "english": "Menai Data Centre: “atrocity”, “disgraceful” and “nightmare”",
@@ -363,67 +525,7 @@
       "feedPosition": 13,
       "fetchedAt": "2026-09-20T23:12:43.179Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205957",
-      "welsh": "Symbolau Llŷn ac Enlli i nodi pennod newydd Esgob Bangor",
-      "english": "Llŷn and Bardsey symbols to mark the new chapter of the Bishop of Bangor",
-      "url": "https://golwg.360.cymru/newyddion/crefydd/2205957-symbolau-llyn-enlli-nodi-pennod-newydd-esgob?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lDLy",
-      "pubDate": "Thu, 17 Sep 2026 07:01:29 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-09-20T23:12:43.179Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2205967",
-      "welsh": "Dim staff ar ward iechyd meddwl wedi cwblhau hyfforddiant diogelu allweddol",
-      "english": "No staff on a mental health ward have completed key safeguarding training",
-      "url": "https://golwg.360.cymru/newyddion/iechyd/2205967-staff-ward-iechyd-meddwl-wedi-cwblhau-hyfforddiant?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroAE0",
-      "pubDate": "Thu, 17 Sep 2026 06:29:40 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-09-20T23:12:43.179Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206003",
-      "welsh": "Llywodraeth Cymru’n galw’n ffurfiol am adolygu’r ffordd mae Cymru’n cael ei hariannu",
-      "english": "The Government of Wales formally calls for a review of how Wales is funded",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206003-llywodraeth-cymru-galw-ffurfiol-adolygu-ffordd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0Wygr",
-      "pubDate": "Thu, 17 Sep 2026 06:01:28 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-09-20T23:12:43.179Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206036",
-      "welsh": "Aelod Reform: Roedd yr Ymerodraeth Brydeinig yn ‘rym er daioni’",
-      "english": "Member Reform: The British Empire was a ‘force for good’",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2206036-aelod-reform-roedd-ymerodraeth-brydeinig-daioni?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLEO47",
-      "pubDate": "Wed, 16 Sep 2026 17:40:32 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-09-20T23:12:43.179Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206008",
-      "welsh": "Plaid Cymru: Sarah Cooper-Lesadd i dorri cysylltiad â chyhoeddiad asgell dde",
-      "english": "Plaid Cymru: Sarah Cooper- Lesadd to cut ties with right-wing publication",
-      "url": "https://golwg.360.cymru/newyddion/2206008-plaid-cymru-sarah-cooper-lesadd-dorri-cysylltiad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=OysPla0M",
-      "pubDate": "Wed, 16 Sep 2026 14:55:14 +0000",
-      "feedPosition": 18,
-      "fetchedAt": "2026-09-20T23:12:43.179Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206005",
-      "welsh": "Grŵp Trawsbleidiol dros y Gymraeg yn cyfarfod am y tro cyntaf ers 2021",
-      "english": "Cross Party Group for the Welsh Language meets for the first time since 2021",
-      "url": "https://golwg.360.cymru/newyddion/iaith/2206005-grwp-trawsbleidiol-dros-gymraeg-cyfarfod-cyntaf?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0Gan",
-      "pubDate": "Wed, 16 Sep 2026 14:51:59 +0000",
-      "feedPosition": 19,
-      "fetchedAt": "2026-09-20T23:12:43.179Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-20T23:12:43.179Z"
+  "generatedAt": "2026-09-21T12:41:51.321Z"
 }
