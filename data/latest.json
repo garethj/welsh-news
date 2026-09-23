@@ -2,6 +2,181 @@
   "date": "2026-09-23",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2206477",
+      "welsh": "Elfyn Llwyd yn gwrthod “baw” Reform UK dros ymadawiad Sarah Cooper-Lesadd",
+      "english": "Elfyn Llwyd rejects Reform UK's \"dirt\" over Sarah Cooper-Lesadd'sdeparture",
+      "url": "https://golwg.360.cymru/newyddion/2206477-elfyn-llwyd-gwrthod-reform-dros-ymadawiad-sarah?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=nAs2yJ4D",
+      "pubDate": "Wed, 23 Sep 2026 10:36:38 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-23T11:28:46.888Z",
+      "category": null,
+      "welshGlosses": [
+        "Elfyn",
+        "Grey",
+        "in",
+        "reject",
+        "dirt",
+        "Reform",
+        "<PROTECTED> UK",
+        "over",
+        "to leave",
+        "Sarah",
+        "Cooper-Lesadd"
+      ],
+      "englishGlosses": [
+        "Elfyn",
+        "Ty Llwyd",
+        "gwrthod",
+        "Diwygio",
+        "UK's",
+        "Mwd",
+        "dros",
+        "Sarah May",
+        "Cooper - Lesadd 'sdeparture"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206472",
+      "welsh": "Cynghorydd ieuengaf erioed Conwy i gamu o’r neilltu ar ôl degawd",
+      "english": "Conwy's youngest ever councillor to step down after a decade",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2206472-cynghorydd-ieuengaf-erioed-conwy-gamu-neilltu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroAJB",
+      "pubDate": "Wed, 23 Sep 2026 09:54:49 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-23T11:28:46.888Z",
+      "category": null,
+      "welshGlosses": [
+        "Councillor",
+        "youngest",
+        "ever",
+        "Conwy",
+        "to",
+        "stepping",
+        "O",
+        "Misc.",
+        "on",
+        "Trace",
+        "Decade"
+      ],
+      "englishGlosses": [
+        "Conwy",
+        "ieuengaf",
+        "safle",
+        "cynghorydd",
+        "i",
+        "Cam",
+        "LAWR",
+        "Wedi",
+        "a.",
+        "Degawd"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206470",
+      "welsh": "Croeso a rhybudd i Raglen Lywodraethu newydd Cymru",
+      "english": "Welcome and warning to the new Programme for Government for Wales",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2206470-croeso-rhybudd-raglen-lywodraethu-newydd-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysar41l",
+      "pubDate": "Wed, 23 Sep 2026 09:44:27 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-23T11:28:46.888Z",
+      "category": null,
+      "welshGlosses": [
+        "Welcome",
+        "and",
+        "alert",
+        "to",
+        "",
+        "Governance",
+        "new",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Croeso",
+        "a",
+        "Rhybudd",
+        "i",
+        "'r",
+        "newydd",
+        "Rhaglen",
+        "am",
+        "Cymru",
+        "am",
+        "Cymru"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206413",
+      "welsh": "Mwy o arian yn gynt a mwy o amser i daenu slyri i ffermwyr Cymru",
+      "english": "More money sooner and more time to spread slurry to Welsh farmers",
+      "url": "https://golwg.360.cymru/newyddion/cefn-gwlad/2206413-arian-gynt-amser-daenu-slyri-ffermwyr-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNjojr",
+      "pubDate": "Wed, 23 Sep 2026 06:29:03 +0000",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-23T11:28:46.888Z",
+      "category": null,
+      "welshGlosses": [
+        "More",
+        "of",
+        "monies",
+        "in",
+        "faster",
+        "and",
+        "more",
+        "of",
+        "time",
+        "to",
+        "spread",
+        "slurry",
+        "to",
+        "Farmer",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Mwy",
+        "arian",
+        "gynt",
+        "a",
+        "mwy",
+        "amser",
+        "i",
+        "taeniad",
+        "slyri",
+        "i",
+        "Cymraeg",
+        "Ffermwr"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206441",
+      "welsh": "Ysgol Gymraeg y Trallwng i ehangu wrth i’r galw gynyddu",
+      "english": "Welshpool Welsh-medium school to expand as demand increases",
+      "url": "https://golwg.360.cymru/newyddion/addysg/2206441-ysgol-gymraeg-trallwng-ehangu-wrth-galw-gynyddu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0Wy7O",
+      "pubDate": "Wed, 23 Sep 2026 05:29:10 +0000",
+      "feedPosition": 4,
+      "fetchedAt": "2026-09-23T11:28:46.888Z",
+      "category": null,
+      "welshGlosses": [
+        "School",
+        "Welsh",
+        "the",
+        "Welshpool",
+        "to",
+        "expand",
+        "by",
+        "I",
+        "Call",
+        "increase"
+      ],
+      "englishGlosses": [
+        "Trallwng",
+        "Cyfrwng Cymraeg",
+        "Term",
+        "i",
+        "ehangu",
+        "Graddfeyddunit description in lists",
+        "Galw",
+        "cynnydd"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2206432",
       "welsh": "Cyhuddo Plaid Cymru o fwydo’u ‘hobsesiwn ag annibyniaeth’ yn eu rhaglen lywodraethu",
       "english": "Accusing Plaid Cymru of feeding their ‘obsession with independence’ into their programme for government",
@@ -357,57 +532,7 @@
       "feedPosition": 14,
       "fetchedAt": "2026-09-22T23:36:09.519Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206259",
-      "welsh": "Arweinydd Cyngor Sir yn ymddiswyddo ar ôl bod yn feddw a chwympo mewn digwyddiad gwleidyddol",
-      "english": "The Leader of County Council resigns after being drunk and falling in a political event",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206259-arweinydd-cyngor-ymddiswyddo-feddw-chwympo-mewn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2O4BP",
-      "pubDate": "Mon, 21 Sep 2026 12:32:44 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-09-22T23:36:09.519Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206246",
-      "welsh": "Helen Jenner yw arweinydd newydd Reform UK yng Nghymru",
-      "english": "Helen Jenner is the new leader of Reform UK in Wales",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206246-helen-jenner-arweinydd-newydd-reform-nghymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpBgY",
-      "pubDate": "Mon, 21 Sep 2026 11:21:18 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-09-22T23:36:09.519Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206240",
-      "welsh": "Plaid Cymru’n nodi Diwrnod Heddwch Rhyngwladol",
-      "english": "Plaid Cymru marks International Day of Peace",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206240-plaid-cymru-nodi-diwrnod-heddwch-rhyngwladol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=BpsyYjBg",
-      "pubDate": "Mon, 21 Sep 2026 11:06:24 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-09-22T23:36:09.519Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206213",
-      "welsh": "Disgwyl cyhoeddi arweinydd Reform UK yng Nghymru",
-      "english": "We await the announcement of the leader of Reform UK in Wales",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206213-disgwyl-cyhoeddi-arweinydd-reform-nghymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpB8N",
-      "pubDate": "Mon, 21 Sep 2026 09:00:35 +0000",
-      "feedPosition": 18,
-      "fetchedAt": "2026-09-22T23:36:09.519Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206205",
-      "welsh": "Annog busnesau i ddefnyddio’r Wyddeleg",
-      "english": "Encouraging businesses to use Irish",
-      "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2206205-annog-busnesau-ddefnyddio-wyddeleg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0WyGM",
-      "pubDate": "Mon, 21 Sep 2026 08:25:04 +0000",
-      "feedPosition": 19,
-      "fetchedAt": "2026-09-22T23:36:09.519Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-22T23:36:09.519Z"
+  "generatedAt": "2026-09-23T11:28:46.888Z"
 }
