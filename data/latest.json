@@ -2,6 +2,126 @@
   "date": "2026-09-23",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2206516",
+      "welsh": "‘Pobl wedi mynd i’r carchar dros y Gymraeg’ wrth i gynghorwyr gefnogi newid iaith ysgol",
+      "english": "‘People have gone to prison for the Welsh language’ as councillors support school language change",
+      "url": "https://golwg.360.cymru/newyddion/addysg/2206516-pobl-wedi-mynd-carchar-dros-gymraeg-wrth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpBEL",
+      "pubDate": "Wed, 23 Sep 2026 15:47:49 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-23T16:52:15.077Z",
+      "category": null,
+      "welshGlosses": [
+        "Human",
+        "after",
+        "",
+        "I",
+        "Gaol",
+        "over",
+        "the",
+        "Welsh",
+        "by",
+        "to",
+        "councillors",
+        "to support",
+        "change",
+        "language",
+        "school"
+      ],
+      "englishGlosses": [
+        "Pobl",
+        "cael",
+        "wedi mynd",
+        "i",
+        "Carchar",
+        "am",
+        "'r",
+        "Cymraeg",
+        "",
+        "Graddfeyddunit description in lists",
+        "cynghorwyr",
+        "cefnogaeth",
+        "Term",
+        "",
+        "Newid"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206510",
+      "welsh": "Dau beilot yn dianc o jet RAF cyn iddo blymio i’r ddaear ym Môn",
+      "english": "Two pilots escape from an RAF jet before it crashes into the ground in Anglesey",
+      "url": "https://golwg.360.cymru/newyddion/2206510-beilot-dianc-iddo-blymio-ddaear?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0GNl",
+      "pubDate": "Wed, 23 Sep 2026 15:32:09 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-23T16:52:15.077Z",
+      "category": null,
+      "welshGlosses": [
+        "Top",
+        "pilot",
+        "in",
+        "to escape",
+        "of",
+        "jet",
+        "RAF",
+        "before",
+        "to him",
+        "plumbing",
+        "I",
+        "Earth",
+        "re",
+        "Anglesey"
+      ],
+      "englishGlosses": [
+        "Dwy",
+        "peilotiaid",
+        "dianc",
+        "o",
+        "\"an\",",
+        "Yr Awyrlu Brenhinol",
+        "jet",
+        "cyn",
+        "i’r gweddill",
+        "damweiniau",
+        "i mewn",
+        "'r",
+        "Armour",
+        "yn",
+        "Mon"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206495",
+      "welsh": "1,700 o fusnesau’n “Arwyr Cynhyrchiant” economi Cymru",
+      "english": "1,700 businesses in the “Productivity Heroes” of the Welsh economy",
+      "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2206495-1700-fusnesau-arwyr-cynhyrchiant-economi-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2O4np",
+      "pubDate": "Wed, 23 Sep 2026 14:22:02 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-23T16:52:15.077Z",
+      "category": null,
+      "welshGlosses": [
+        "1.",
+        "0.700",
+        "of",
+        "businesses in",
+        "heroes",
+        "Productivity",
+        "Economy",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "1.",
+        "700",
+        "busnesau",
+        "yn",
+        "'r",
+        "Cynhyrchedd",
+        "arwyr",
+        "o",
+        "'r",
+        "Cymraeg",
+        "Economi"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2206477",
       "welsh": "Elfyn Llwyd yn gwrthod “baw” Reform UK dros ymadawiad Sarah Cooper-Lesadd",
       "english": "Elfyn Llwyd rejects Reform UK's \"dirt\" over Sarah Cooper-Lesadd'sdeparture",
@@ -502,37 +622,7 @@
       "feedPosition": 11,
       "fetchedAt": "2026-09-22T23:36:09.519Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206283",
-      "welsh": "Croesawu 480 o swyddi ar safle Airbus",
-      "english": "Welcoming 480 jobs on the Airbus site",
-      "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2206283-croesawu-swyddi-safle-airbus?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8DwO4",
-      "pubDate": "Mon, 21 Sep 2026 14:49:51 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-09-22T23:36:09.519Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206120",
-      "welsh": "‘Heledd’s Song’: O ‘Lyfr Coch Hergest’ i’ch siop lyfrau leol",
-      "english": "‘Heledd's Song': From ‘Red Book of Hergest’ to your local bookshop",
-      "url": "https://golwg.360.cymru/newyddion/2206120-heledd-song-lyfr-coch-hergest-siop-lyfrau-leol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Pes27BO4",
-      "pubDate": "Mon, 21 Sep 2026 13:19:53 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-09-22T23:36:09.519Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206239",
-      "welsh": "Rhybuddion argyfwng: Llywodraeth y Deyrnas Unedig wedi “dysgu gwersi” o’r negeseuon Cymraeg-yn-gyntaf",
-      "english": "Emergency warnings: The United Kingdom Government has “learnt lessons” from the Welsh-only messages",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206239-rhybuddion-argyfwng-llywodraeth-deyrnas-unedig?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0Wy3M",
-      "pubDate": "Mon, 21 Sep 2026 12:46:27 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-09-22T23:36:09.519Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-23T11:28:46.888Z"
+  "generatedAt": "2026-09-23T16:52:15.077Z"
 }
