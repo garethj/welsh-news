@@ -2,6 +2,48 @@
   "date": "2026-09-23",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2206523",
+      "welsh": "Rhybudd y gall fframwaith ‘moesegol’ amddiffyn gostio swyddi a buddsoddiad i Gymru",
+      "english": "A warning that an ‘ethical‘ framework can protect the cost of jobs and investment for Wales",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2206523-rhybudd-gall-fframwaith-moesegol-amddiffyn-gostio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=MgsELwrr",
+      "pubDate": "Wed, 23 Sep 2026 17:20:10 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-23T21:27:28.175Z",
+      "category": null,
+      "welshGlosses": [
+        "Alert",
+        "the",
+        "can",
+        "Framework",
+        "ethical",
+        "Defence",
+        "cost",
+        "jobs",
+        "and",
+        "Investment",
+        "to",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "A.",
+        "Rhybudd",
+        "hynny",
+        "\"an\",",
+        "Moeseg",
+        "Fframwaith",
+        "Wnewch",
+        "warchod",
+        "'r",
+        "Cost.",
+        "o",
+        "tasgau",
+        "a",
+        "Buddsoddiad",
+        "am",
+        "Cymru"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2206516",
       "welsh": "‘Pobl wedi mynd i’r carchar dros y Gymraeg’ wrth i gynghorwyr gefnogi newid iaith ysgol",
       "english": "‘People have gone to prison for the Welsh language’ as councillors support school language change",
@@ -612,17 +654,7 @@
       "feedPosition": 10,
       "fetchedAt": "2026-09-22T23:36:09.519Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206282",
-      "welsh": "Cyn-Arlywydd alltud Catalwnia’n gobeithio dychwelyd adref",
-      "english": "Ex-PresidentofCatalan diaspora hoping to return home",
-      "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2206282-cyn-arlywydd-catalwnian-gobeithio-dychwelyd-o-alltudiaeth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRpPR",
-      "pubDate": "Mon, 21 Sep 2026 15:42:40 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-09-22T23:36:09.519Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-23T16:52:15.077Z"
+  "generatedAt": "2026-09-23T21:27:28.175Z"
 }
