@@ -2,6 +2,88 @@
   "date": "2026-09-24",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2206632",
+      "welsh": "Y Senedd yn pleidleisio o blaid hawl Cymru i bennu ei dyfodol gwleidyddol ei hun",
+      "english": "Parliament votes for Wales's right to determine its own political future",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206632-senedd-pleidleisio-blaid-hawl-cymru-bennu-dyfodol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0NyRw",
+      "pubDate": "Thu, 24 Sep 2026 14:54:44 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-24T17:06:09.659Z",
+      "category": null,
+      "welshGlosses": [
+        "the",
+        "Parliament",
+        "in",
+        "voting",
+        "of",
+        "party",
+        "right",
+        "Wales",
+        "to",
+        "specify",
+        "his/her",
+        "grew",
+        "survive",
+        "his/her",
+        "self"
+      ],
+      "englishGlosses": [
+        "Senedd",
+        "cês siwt",
+        "am",
+        "Cymru",
+        "de",
+        "i",
+        "pennu",
+        "ei",
+        "ei hun",
+        "gwleidyddol",
+        "Dyfodol"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206618",
+      "welsh": "Arolwg barn: ‘Plaid Cymru am ennill bron i hanner seddi Cymru yn San Steffan’",
+      "english": "Opinion poll: ‘Plaid Cymru wants to win almost half of Wales's seats in Westminster’",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206618-arolwg-barn-plaid-cymru-ennill-bron-hanner-seddi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsde2Ea",
+      "pubDate": "Thu, 24 Sep 2026 13:29:38 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-24T17:06:09.659Z",
+      "category": null,
+      "welshGlosses": [
+        "Survey",
+        "view point",
+        "Party",
+        "Wales",
+        "for",
+        "Win",
+        "Breast",
+        "to",
+        "Half",
+        "Seats",
+        "Wales",
+        "in",
+        "Bushmen",
+        "Bob"
+      ],
+      "englishGlosses": [
+        "Barn",
+        "Pôl",
+        "Plaid Cymru",
+        "Cymru ",
+        "dymuniadau",
+        "i",
+        "Ennill",
+        "Bron",
+        "Hanner",
+        "o",
+        "Cymru",
+        "Seddi",
+        "yn",
+        "West Point"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2206567",
       "welsh": "Dim rôl i James Evans yng nghabinet cysgodol newydd Reform UK",
       "english": "No role for James Evans in the new Reform UK shadow cabinet",
@@ -390,37 +472,7 @@
       "feedPosition": 15,
       "fetchedAt": "2026-09-24T11:39:25.917Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206423",
-      "welsh": "‘Fe wnaethoch chi siomi dioddefwyr’ – Helen Jenner yn herio Rhun ap Iorwerth",
-      "english": "‘You let down victims’ – Helen Jenner challenges Rhun ap Iorwerth",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2206423-wnaethoch-siomi-dioddefwyr-helen-jenner-herio-rhun?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Pes27B7R",
-      "pubDate": "Tue, 22 Sep 2026 15:36:54 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-09-24T11:39:25.917Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206414",
-      "welsh": "Targed rhestrau aros dwy flynedd yn llithro i fis Medi 2027",
-      "english": "Two-year waiting list target slips to September 2027",
-      "url": "https://golwg.360.cymru/newyddion/iechyd/2206414-targed-rhestrau-aros-flynedd-llithro-medi-2027?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=oDs4WeW2",
-      "pubDate": "Tue, 22 Sep 2026 15:21:41 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-09-24T11:39:25.917Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206295",
-      "welsh": "Camperi’n achosi ‘anghyfleustra sylweddol’: galw am reolaeth dynnach yng Ngwynedd",
-      "english": "Camper causes‘ considerable inconvenience ': calls for tighter control in Gwynedd",
-      "url": "https://golwg.360.cymru/newyddion/2206295-camperi-achosi-anghyfleustra-sylweddol-galw?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0NyE0",
-      "pubDate": "Tue, 22 Sep 2026 13:02:10 +0000",
-      "feedPosition": 18,
-      "fetchedAt": "2026-09-24T11:39:25.917Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-24T11:39:25.917Z"
+  "generatedAt": "2026-09-24T17:06:09.659Z"
 }
