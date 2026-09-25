@@ -2,6 +2,41 @@
   "date": "2026-09-25",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2206688",
+      "welsh": "Datrys dirgelwch 200 mlwydd oed ar un o draethau Bro Morgannwg",
+      "english": "Solve a 200-year-old mystery on a Vale of Glamorgan beach",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2206688-datrys-dirgelwch-mlwydd-draethau-morgannwg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7NWg",
+      "pubDate": "Fri, 25 Sep 2026 14:00:10 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-25T17:06:22.599Z",
+      "category": null,
+      "welshGlosses": [
+        "Resolve",
+        "secret",
+        "200%",
+        "at the age of 70 years",
+        "age",
+        "on",
+        "one",
+        "of",
+        "beaches",
+        "Realm:",
+        "Glamorgan"
+      ],
+      "englishGlosses": [
+        "datrys",
+        "a.",
+        "200 yr old",
+        "dirgelwch",
+        "ar",
+        "a.",
+        "Cwm <PROTECTED>",
+        "o",
+        "Morgannwg",
+        "Traeth"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2206509",
       "welsh": "Cefnogi’r cynnig i fynd i’r afael â champers sy’n achosi “anghyfleustra sylweddol”",
       "english": "Support the proposal to tackle campers who cause “significant inconvenience”",
@@ -377,27 +412,7 @@
       "feedPosition": 15,
       "fetchedAt": "2026-09-25T11:45:34.355Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206470",
-      "welsh": "Croeso a rhybudd i Raglen Lywodraethu newydd Cymru",
-      "english": "Welcome and warning to the new Programme for Government for Wales",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206470-croeso-rhybudd-raglen-lywodraethu-newydd-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysar41l",
-      "pubDate": "Wed, 23 Sep 2026 09:44:27 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-09-25T11:45:34.355Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206413",
-      "welsh": "Mwy o arian yn gynt a mwy o amser i daenu slyri i ffermwyr Cymru",
-      "english": "More money sooner and more time to spread slurry to Welsh farmers",
-      "url": "https://golwg.360.cymru/newyddion/cefn-gwlad/2206413-arian-gynt-amser-daenu-slyri-ffermwyr-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNjojr",
-      "pubDate": "Wed, 23 Sep 2026 06:29:03 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-09-25T11:45:34.355Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-25T11:45:34.355Z"
+  "generatedAt": "2026-09-25T17:06:22.599Z"
 }
