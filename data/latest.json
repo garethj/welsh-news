@@ -2,6 +2,26 @@
   "date": "2026-09-28",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2206812",
+      "welsh": "📸 Gorymdaith Annibyniaeth YesCymru",
+      "english": "📸 YesCymru Independence Parade",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206812-oriel-luniau-gorymdaith-annibyniaeth-yes-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=BpsyY8On",
+      "pubDate": "Mon, 28 Sep 2026 15:53:45 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-28T21:12:47.159Z",
+      "category": null,
+      "welshGlosses": [
+        "Procession",
+        "Independence",
+        "YesCymru"
+      ],
+      "englishGlosses": [
+        "YesCymru",
+        "Annibyniaeth",
+        "Parêd"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2206805",
       "welsh": "600 o bobol wedi llofnodi deiseb i achub meddygfa leol",
       "english": "600 people have signed a petition to save a local GP surgery",
@@ -328,17 +348,7 @@
       "feedPosition": 13,
       "fetchedAt": "2026-09-28T13:46:25.478Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206315",
-      "welsh": "Plac i arloeswraig ffyngau a dorrodd dir newydd mewn ‘byd dynion’",
-      "english": "Plaque for a fungal pioneer who broke new ground in a ‘men's world’",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2206315-plac-porffor-i-arloeswraig-byd-dynion?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsde2rN",
-      "pubDate": "Thu, 24 Sep 2026 06:01:10 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-09-28T13:46:25.478Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-28T13:46:25.478Z"
+  "generatedAt": "2026-09-28T21:12:47.159Z"
 }
