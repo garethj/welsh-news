@@ -2,6 +2,162 @@
   "date": "2026-09-29",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2206963",
+      "welsh": "Rhun ap Iorwerth yn taro’n ôl wedi ymosodiadau ar annibyniaeth gan Reform a’r Ceidwadwyr",
+      "english": "Rhun ap Iorwerth strikes back after attacks on independence by Reform and the Conservatives",
+      "url": "https://golwg.360.cymru/newyddion/2206963-rhun-iorwerth-taro-wedi-ymosodiadau-annibyniaeth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMaNeW",
+      "pubDate": "Tue, 29 Sep 2026 16:56:53 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-29T19:57:43.858Z",
+      "category": null,
+      "welshGlosses": [
+        "Rhun",
+        "App",
+        "Iorwerth",
+        "in",
+        "hit 'n hit",
+        "Trace",
+        "after",
+        "attacks",
+        "on",
+        "independence",
+        "by",
+        "Reform",
+        "and indemnities and the",
+        "Conservatives"
+      ],
+      "englishGlosses": [
+        "rhun",
+        "<PROTECTED> ap <PROTECTED>/Meleri Williams",
+        "Iorwerth",
+        "streiciau",
+        "Nôl",
+        "Wedi",
+        "ymosodiadau",
+        "ar",
+        "anibyniaeth",
+        "gan",
+        "Diwygio",
+        "a",
+        "'r",
+        "Ceidwadwyr"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206956",
+      "welsh": "‘Dim un bwrdd iechyd mewn sefyllfa ddelfrydol’ – Gweinidog Iechyd",
+      "english": "‘Not one health board is in an ideal position’ – Health Minister",
+      "url": "https://golwg.360.cymru/newyddion/iechyd/2206956-bwrdd-iechyd-mewn-sefyllfa-ddelfrydol-gweinidog?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8Dgwr",
+      "pubDate": "Tue, 29 Sep 2026 15:53:37 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-29T19:57:43.858Z",
+      "category": null,
+      "welshGlosses": [
+        "None",
+        "one",
+        "table",
+        "Healt",
+        "in",
+        "situation",
+        "ideal",
+        "",
+        "Healt"
+      ],
+      "englishGlosses": [
+        "ddim",
+        "un",
+        "iechyd",
+        "Bwrdd",
+        "yw",
+        "yn",
+        "\"an\",",
+        "delfrydol",
+        "Swydd:",
+        "Healt",
+        "baeth"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206948",
+      "welsh": "Andy Burnham yn addo newid system etholiadol San Steffan – ond Plaid yn galw am fwy o bwerau i Gymru",
+      "english": "Andy Burnham promises to change Westminster's electoral system – but Plaid calls for more powers for Wales",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2206948-andy-burnham-addo-newid-system-etholiadol-steffan?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0pG7",
+      "pubDate": "Tue, 29 Sep 2026 15:33:38 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-29T19:57:43.858Z",
+      "category": null,
+      "welshGlosses": [
+        "Andy",
+        "Burnham",
+        "in",
+        "promise",
+        "change",
+        "File System",
+        "electoral",
+        "Bushmen",
+        "Bob",
+        "but",
+        "Party",
+        "in",
+        "Call",
+        "for",
+        "bigger",
+        "of",
+        "powers",
+        "to",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Andy",
+        "Burnham",
+        "addewidion",
+        "i",
+        "Newid",
+        "San Steffan",
+        "Etholiad",
+        "sustem",
+        "",
+        "Plaid Cymru",
+        "Galwadau",
+        "am",
+        "mwy",
+        "pwerau",
+        "am",
+        "Cymru"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206787",
+      "welsh": "A all helynt Drumcree fygwth trefniant rhannu pŵer Stormont?",
+      "english": "Can the Drumcree dispute threaten Stormont's power-sharing arrangement?",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206787-helynt-drumcree-fygwth-trefniant-rhannu-pwer?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRpAL",
+      "pubDate": "Tue, 29 Sep 2026 14:59:17 +0000",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-29T19:57:43.858Z",
+      "category": null,
+      "welshGlosses": [
+        "and",
+        "LA",
+        "trouble",
+        "Drumcree",
+        "threat",
+        "arrangement",
+        "share",
+        "power",
+        "Stormont"
+      ],
+      "englishGlosses": [
+        "Wnewch",
+        "'r",
+        "Drumcree",
+        "anghydfod",
+        "bygwth",
+        "Stormont",
+        "rhannu pŵer",
+        "trefniant"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2206918",
       "welsh": "‘Mae’r fam angen help ar frys’ wedi i gorff babi gael ei ddarganfod ym Mangor",
       "english": "‘The mother urgently needs help’ after a baby's body was found in Bangor",
@@ -77,39 +233,6 @@
         "cyfnewid",
         "am",
         "Amaeth"
-      ]
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206855",
-      "welsh": "Bangor yn troi’n 1967 eto ar gyfer ffilmiau newydd y Beatles",
-      "english": "Bangor becomes 1967 again for new Beatles films",
-      "url": "https://golwg.360.cymru/newyddion/2206855-bangor-troi-1967-gyfer-ffilmiau-newydd-beatles?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8Dg83",
-      "pubDate": "Tue, 29 Sep 2026 10:09:44 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-09-29T12:45:33.433Z",
-      "category": null,
-      "welshGlosses": [
-        "Bangor:",
-        "in",
-        "turn into",
-        "1967",
-        "again",
-        "on",
-        "for",
-        "films",
-        "new",
-        "the",
-        "The Beatles"
-      ],
-      "englishGlosses": [
-        "Bangor:",
-        "yn dod yn",
-        "1967",
-        "Eto",
-        "am",
-        "newydd",
-        "The Beatles",
-        "ffilmiau"
       ]
     },
     {
@@ -426,27 +549,7 @@
       "feedPosition": 9,
       "fetchedAt": "2026-09-29T00:58:17.859Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206618",
-      "welsh": "Arolwg barn: ‘Plaid Cymru am ennill bron i hanner seddi Cymru yn San Steffan’",
-      "english": "Opinion poll: ‘Plaid Cymru wants to win almost half of Wales's seats in Westminster’",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206618-arolwg-barn-plaid-cymru-ennill-bron-hanner-seddi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsde2Ea",
-      "pubDate": "Thu, 24 Sep 2026 13:29:38 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-29T00:58:17.859Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206567",
-      "welsh": "Dim rôl i James Evans yng nghabinet cysgodol newydd Reform UK",
-      "english": "No role for James Evans in the new Reform UK shadow cabinet",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206567-james-evans-nghabinet-cysgodol-newydd-reform?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLgOd",
-      "pubDate": "Thu, 24 Sep 2026 10:21:02 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-09-29T00:58:17.859Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-29T12:45:33.433Z"
+  "generatedAt": "2026-09-29T19:57:43.858Z"
 }
