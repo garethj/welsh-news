@@ -2,6 +2,155 @@
   "date": "2026-09-29",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2206918",
+      "welsh": "‘Mae’r fam angen help ar frys’ wedi i gorff babi gael ei ddarganfod ym Mangor",
+      "english": "‘The mother urgently needs help’ after a baby's body was found in Bangor",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2206918-angen-help-frys-wedi-gorff-babi-gael-ddarganfod?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNj3gM",
+      "pubDate": "Tue, 29 Sep 2026 12:14:44 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-29T12:45:33.433Z",
+      "category": null,
+      "welshGlosses": [
+        "The",
+        "mother",
+        "must",
+        "Describe \"--options\".",
+        "on",
+        "urgent",
+        "after",
+        "to",
+        "Jul",
+        "Baby",
+        "get",
+        "his/her",
+        "to discover",
+        "re",
+        "Mangor"
+      ],
+      "englishGlosses": [
+        "Y",
+        "Mam",
+        "ar frys",
+        "anghenion",
+        "cymorth",
+        "Wedi",
+        "a.",
+        "babi",
+        "corff",
+        "oedd",
+        "Wedi ei Ganfod",
+        "yn",
+        "Bangor:"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206906",
+      "welsh": "Poblogaeth Enlli i ddyblu wrth i ddau gyfnewid y cyfryngau am ffermio",
+      "english": "Bardsey's population to double as two media exchanges for farming",
+      "url": "https://golwg.360.cymru/newyddion/cefn-gwlad/2206906-poblogaeth-enlli-ddyblu-wrth-ddau-gyfnewid?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1AYl",
+      "pubDate": "Tue, 29 Sep 2026 11:08:09 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-29T12:45:33.433Z",
+      "category": null,
+      "welshGlosses": [
+        "Populate",
+        "Bardsey Island",
+        "to",
+        "double",
+        "by",
+        "to",
+        "two",
+        "exchange",
+        "the",
+        "Media",
+        "for",
+        "Farming"
+      ],
+      "englishGlosses": [
+        "Enlli",
+        "Trigolion",
+        "i",
+        "Dwbl",
+        "Graddfeyddunit description in lists",
+        "dau",
+        "cyfrwng",
+        "cyfnewid",
+        "am",
+        "Amaeth"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206855",
+      "welsh": "Bangor yn troi’n 1967 eto ar gyfer ffilmiau newydd y Beatles",
+      "english": "Bangor becomes 1967 again for new Beatles films",
+      "url": "https://golwg.360.cymru/newyddion/2206855-bangor-troi-1967-gyfer-ffilmiau-newydd-beatles?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8Dg83",
+      "pubDate": "Tue, 29 Sep 2026 10:09:44 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-29T12:45:33.433Z",
+      "category": null,
+      "welshGlosses": [
+        "Bangor:",
+        "in",
+        "turn into",
+        "1967",
+        "again",
+        "on",
+        "for",
+        "films",
+        "new",
+        "the",
+        "The Beatles"
+      ],
+      "englishGlosses": [
+        "Bangor:",
+        "yn dod yn",
+        "1967",
+        "Eto",
+        "am",
+        "newydd",
+        "The Beatles",
+        "ffilmiau"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2206852",
+      "welsh": "Araith fawr Burnham: Ble mae Cymru yn ei gynllun i newid Prydain?",
+      "english": "Burnham's great speech: Where is Wales in its plan to change Britain?",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2206852-araith-fawr-burnham-cymru-gynllun-newid-prydain?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpRwj",
+      "pubDate": "Tue, 29 Sep 2026 07:41:12 +0000",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-29T12:45:33.433Z",
+      "category": null,
+      "welshGlosses": [
+        "Speech, address",
+        "",
+        "Burnham",
+        "Where",
+        "is",
+        "Wales",
+        "in",
+        "his/her",
+        "scheme",
+        "to",
+        "change",
+        "GB"
+      ],
+      "englishGlosses": [
+        "Burnham's",
+        "gwych",
+        "wych yma:",
+        "Ble",
+        "yw",
+        "Cymru",
+        "yn",
+        "ei",
+        "Cynllun",
+        "i",
+        "Newid",
+        "Prydain"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2206812",
       "welsh": "Stori luniau: Gorymdaith Annibyniaeth YesCymru",
       "english": "Photo story: YesCymru Independence Parade",
@@ -297,37 +446,7 @@
       "feedPosition": 11,
       "fetchedAt": "2026-09-29T00:58:17.859Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206570",
-      "welsh": "Ken Skates eisiau efelychu llwyddiant Andy Burnham ar-lein",
-      "english": "Ken Skates wants to emulate Andy Burnham's success online",
-      "url": "https://golwg.360.cymru/newyddion/2206570-skates-eisiau-efelychu-llwyddiant-andy-burnham?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA1y1",
-      "pubDate": "Thu, 24 Sep 2026 09:57:56 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-09-29T00:58:17.859Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206541",
-      "welsh": "Llywodraeth Cymru am ysgrifennu at San Steffan dros dreth wrtaith",
-      "english": "The Government of Wales wants to write to Westminster over fertiliser tax",
-      "url": "https://golwg.360.cymru/newyddion/2206541-llywodraeth-cymru-ysgrifennu-steffan-dros-dreth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLEOdN",
-      "pubDate": "Thu, 24 Sep 2026 08:34:06 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-09-29T00:58:17.859Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206519",
-      "welsh": "Dyfodol i’r Iaith: Angen strategaethau hybu’r Gymraeg mwy “gwyddonol eu naws”",
-      "english": "Future for the Welsh Language: Need strategies to promote the Welsh language more \"scientifically minded\"",
-      "url": "https://golwg.360.cymru/newyddion/iaith/2206519-dyfodol-iaith-angen-strategaethau-hybu-gymraeg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8Dwnp",
-      "pubDate": "Thu, 24 Sep 2026 07:50:48 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-09-29T00:58:17.859Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-29T00:58:17.859Z"
+  "generatedAt": "2026-09-29T12:45:33.433Z"
 }
