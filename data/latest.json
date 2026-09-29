@@ -1,21 +1,25 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2206812",
-      "welsh": "📸 Gorymdaith Annibyniaeth YesCymru",
-      "english": "📸 YesCymru Independence Parade",
+      "welsh": "Stori luniau: Gorymdaith Annibyniaeth YesCymru",
+      "english": "Photo story: YesCymru Independence Parade",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206812-oriel-luniau-gorymdaith-annibyniaeth-yes-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=BpsyY8On",
       "pubDate": "Mon, 28 Sep 2026 15:53:45 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-09-28T21:12:47.159Z",
+      "fetchedAt": "2026-09-29T00:58:17.859Z",
       "category": null,
       "welshGlosses": [
+        "Story",
+        "pictures",
         "Procession",
         "Independence",
         "YesCymru"
       ],
       "englishGlosses": [
+        "Llun",
+        "Stori",
         "YesCymru",
         "Annibyniaeth",
         "Parêd"
@@ -27,8 +31,8 @@
       "english": "600 people have signed a petition to save a local GP surgery",
       "url": "https://golwg.360.cymru/newyddion/iechyd/2206805-bobol-wedi-llofnodi-deiseb-achub-meddygfa-leol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1Alg",
       "pubDate": "Mon, 28 Sep 2026 13:21:47 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-09-28T13:46:25.478Z",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-29T00:58:17.859Z",
       "category": null,
       "welshGlosses": [
         "0.600",
@@ -63,8 +67,8 @@
       "english": "Thousands fill the streets of Newport to welcome the Urdd Eisteddfod",
       "url": "https://golwg.360.cymru/newyddion/2206767-miloedd-llenwi-strydoedd-casnewydd-groesawu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=dJsN7lYa",
       "pubDate": "Mon, 28 Sep 2026 10:15:23 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-09-28T13:46:25.478Z",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-29T00:58:17.859Z",
       "category": null,
       "welshGlosses": [
         "Thousands",
@@ -98,8 +102,8 @@
       "english": "Petition calling for the urgent devolution of broadcasting to Wales",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206769-lansio-deiseb-galw-ddatganoli-darlledu-gymru-frys?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLgoy",
       "pubDate": "Mon, 28 Sep 2026 09:48:16 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-09-28T13:46:25.478Z",
+      "feedPosition": 3,
+      "fetchedAt": "2026-09-29T00:58:17.859Z",
       "category": null,
       "welshGlosses": [
         "Petition",
@@ -132,8 +136,8 @@
       "english": "“Offensive”: Liz Saville Roberts responds to Labour's comments about “poison”",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206739-sarhaus-saville-roberts-ymateb-sylwadau-llafur?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA1dl",
       "pubDate": "Mon, 28 Sep 2026 09:21:49 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-28T13:46:25.478Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-09-29T00:58:17.859Z",
       "category": null,
       "welshGlosses": [
         "sarcastic",
@@ -167,8 +171,8 @@
       "english": "Me and my Dog",
       "url": "https://golwg.360.cymru/newyddion/cymru/2206620-nghi-36?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8Dwy1",
       "pubDate": "Sat, 26 Sep 2026 06:20:04 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-09-28T13:46:25.478Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-09-29T00:58:17.859Z",
       "category": null,
       "welshGlosses": [
         "Me",
@@ -189,8 +193,8 @@
       "english": "Solve a 200-year-old mystery on a Vale of Glamorgan beach",
       "url": "https://golwg.360.cymru/newyddion/cymru/2206688-datrys-dirgelwch-mlwydd-draethau-morgannwg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7NWg",
       "pubDate": "Fri, 25 Sep 2026 14:00:10 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-09-28T13:46:25.478Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-09-29T00:58:17.859Z",
       "category": null,
       "welshGlosses": [
         "Resolve",
@@ -224,8 +228,8 @@
       "english": "Support the proposal to tackle campers who cause “significant inconvenience”",
       "url": "https://golwg.360.cymru/newyddion/cymru/2206509-cefnogi-cynnig-fynd-afael-champers-achosi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=BpsyYjEW",
       "pubDate": "Fri, 25 Sep 2026 10:13:50 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-09-28T13:46:25.478Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-29T00:58:17.859Z",
       "category": null,
       "welshGlosses": [
         "Supporting the",
@@ -260,34 +264,9 @@
       "english": "Only three Welsh-medium secondary schools in Cardiff are “not sustainable”",
       "url": "https://golwg.360.cymru/newyddion/2206642-tair-ysgol-uwchradd-gymraeg-nghaerdydd-ddim?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLEOMY",
       "pubDate": "Fri, 25 Sep 2026 06:01:10 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-09-28T13:46:25.478Z",
-      "category": null,
-      "welshGlosses": [
-        "None",
-        "but",
-        "Three",
-        "school",
-        "secondary",
-        "Welsh",
-        "in",
-        "Cardiff",
-        "not",
-        "in",
-        "sustainable"
-      ],
-      "englishGlosses": [
-        "Dim ond",
-        "tri",
-        "Cyfrwng Cymraeg",
-        "Eilradd",
-        "Ysgol",
-        "yn",
-        "",
-        "dach",
-        "ddim",
-        "Cynaliadwy"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-09-29T00:58:17.859Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206632",
@@ -295,8 +274,8 @@
       "english": "Parliament votes for Wales's right to determine its own political future",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206632-senedd-pleidleisio-blaid-hawl-cymru-bennu-dyfodol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0NyRw",
       "pubDate": "Thu, 24 Sep 2026 14:54:44 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-09-28T13:46:25.478Z",
+      "feedPosition": 9,
+      "fetchedAt": "2026-09-29T00:58:17.859Z",
       "category": null
     },
     {
@@ -305,8 +284,8 @@
       "english": "Opinion poll: ‘Plaid Cymru wants to win almost half of Wales's seats in Westminster’",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206618-arolwg-barn-plaid-cymru-ennill-bron-hanner-seddi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsde2Ea",
       "pubDate": "Thu, 24 Sep 2026 13:29:38 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-28T13:46:25.478Z",
+      "feedPosition": 10,
+      "fetchedAt": "2026-09-29T00:58:17.859Z",
       "category": null
     },
     {
@@ -315,8 +294,8 @@
       "english": "No role for James Evans in the new Reform UK shadow cabinet",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206567-james-evans-nghabinet-cysgodol-newydd-reform?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLgOd",
       "pubDate": "Thu, 24 Sep 2026 10:21:02 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-28T13:46:25.478Z",
+      "feedPosition": 11,
+      "fetchedAt": "2026-09-29T00:58:17.859Z",
       "category": null
     },
     {
@@ -325,8 +304,8 @@
       "english": "Ken Skates wants to emulate Andy Burnham's success online",
       "url": "https://golwg.360.cymru/newyddion/2206570-skates-eisiau-efelychu-llwyddiant-andy-burnham?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA1y1",
       "pubDate": "Thu, 24 Sep 2026 09:57:56 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-09-28T13:46:25.478Z",
+      "feedPosition": 12,
+      "fetchedAt": "2026-09-29T00:58:17.859Z",
       "category": null
     },
     {
@@ -335,8 +314,8 @@
       "english": "The Government of Wales wants to write to Westminster over fertiliser tax",
       "url": "https://golwg.360.cymru/newyddion/2206541-llywodraeth-cymru-ysgrifennu-steffan-dros-dreth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLEOdN",
       "pubDate": "Thu, 24 Sep 2026 08:34:06 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-09-28T13:46:25.478Z",
+      "feedPosition": 13,
+      "fetchedAt": "2026-09-29T00:58:17.859Z",
       "category": null
     },
     {
@@ -345,10 +324,10 @@
       "english": "Future for the Welsh Language: Need strategies to promote the Welsh language more \"scientifically minded\"",
       "url": "https://golwg.360.cymru/newyddion/iaith/2206519-dyfodol-iaith-angen-strategaethau-hybu-gymraeg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8Dwnp",
       "pubDate": "Thu, 24 Sep 2026 07:50:48 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-09-28T13:46:25.478Z",
+      "feedPosition": 14,
+      "fetchedAt": "2026-09-29T00:58:17.859Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-09-28T21:12:47.159Z"
+  "generatedAt": "2026-09-29T00:58:17.859Z"
 }
