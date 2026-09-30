@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2206963",
@@ -8,7 +8,7 @@
       "url": "https://golwg.360.cymru/newyddion/2206963-rhun-iorwerth-taro-wedi-ymosodiadau-annibyniaeth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMaNeW",
       "pubDate": "Tue, 29 Sep 2026 16:56:53 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-09-29T19:57:43.858Z",
+      "fetchedAt": "2026-09-30T00:23:12.078Z",
       "category": null,
       "welshGlosses": [
         "Rhun",
@@ -50,7 +50,7 @@
       "url": "https://golwg.360.cymru/newyddion/iechyd/2206956-bwrdd-iechyd-mewn-sefyllfa-ddelfrydol-gweinidog?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8Dgwr",
       "pubDate": "Tue, 29 Sep 2026 15:53:37 +0000",
       "feedPosition": 1,
-      "fetchedAt": "2026-09-29T19:57:43.858Z",
+      "fetchedAt": "2026-09-30T00:23:12.078Z",
       "category": null,
       "welshGlosses": [
         "None",
@@ -84,7 +84,7 @@
       "url": "https://golwg.360.cymru/newyddion/cymru/2206948-andy-burnham-addo-newid-system-etholiadol-steffan?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0pG7",
       "pubDate": "Tue, 29 Sep 2026 15:33:38 +0000",
       "feedPosition": 2,
-      "fetchedAt": "2026-09-29T19:57:43.858Z",
+      "fetchedAt": "2026-09-30T00:23:12.078Z",
       "category": null,
       "welshGlosses": [
         "Andy",
@@ -133,7 +133,7 @@
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206787-helynt-drumcree-fygwth-trefniant-rhannu-pwer?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRpAL",
       "pubDate": "Tue, 29 Sep 2026 14:59:17 +0000",
       "feedPosition": 3,
-      "fetchedAt": "2026-09-29T19:57:43.858Z",
+      "fetchedAt": "2026-09-30T00:23:12.078Z",
       "category": null,
       "welshGlosses": [
         "and",
@@ -163,8 +163,8 @@
       "english": "‘The mother urgently needs help’ after a baby's body was found in Bangor",
       "url": "https://golwg.360.cymru/newyddion/cymru/2206918-angen-help-frys-wedi-gorff-babi-gael-ddarganfod?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNj3gM",
       "pubDate": "Tue, 29 Sep 2026 12:14:44 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-09-29T12:45:33.433Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-09-30T00:23:12.078Z",
       "category": null,
       "welshGlosses": [
         "The",
@@ -205,8 +205,8 @@
       "english": "Bardsey's population to double as two media exchanges for farming",
       "url": "https://golwg.360.cymru/newyddion/cefn-gwlad/2206906-poblogaeth-enlli-ddyblu-wrth-ddau-gyfnewid?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1AYl",
       "pubDate": "Tue, 29 Sep 2026 11:08:09 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-09-29T12:45:33.433Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-09-30T00:23:12.078Z",
       "category": null,
       "welshGlosses": [
         "Populate",
@@ -239,10 +239,10 @@
       "guid": "https://golwg.360.cymru/?p=2206852",
       "welsh": "Araith fawr Burnham: Ble mae Cymru yn ei gynllun i newid Prydain?",
       "english": "Burnham's great speech: Where is Wales in its plan to change Britain?",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2206852-araith-fawr-burnham-cymru-gynllun-newid-prydain?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpRwj",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206852-araith-fawr-burnham-cymru-gynllun-newid-prydain?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpRwj",
       "pubDate": "Tue, 29 Sep 2026 07:41:12 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-29T12:45:33.433Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-09-30T00:23:12.078Z",
       "category": null,
       "welshGlosses": [
         "Speech, address",
@@ -279,8 +279,8 @@
       "english": "Photo story: YesCymru Independence Parade",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206812-oriel-luniau-gorymdaith-annibyniaeth-yes-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=BpsyY8On",
       "pubDate": "Mon, 28 Sep 2026 15:53:45 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-09-29T00:58:17.859Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-09-30T00:23:12.078Z",
       "category": null,
       "welshGlosses": [
         "Story",
@@ -303,35 +303,9 @@
       "english": "600 people have signed a petition to save a local GP surgery",
       "url": "https://golwg.360.cymru/newyddion/iechyd/2206805-bobol-wedi-llofnodi-deiseb-achub-meddygfa-leol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1Alg",
       "pubDate": "Mon, 28 Sep 2026 13:21:47 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-09-29T00:58:17.859Z",
-      "category": null,
-      "welshGlosses": [
-        "0.600",
-        "of",
-        "people",
-        "after",
-        "& Sign",
-        "Petition",
-        "to",
-        "redeem",
-        "Surgery",
-        "local"
-      ],
-      "englishGlosses": [
-        "600",
-        "Pobl",
-        "cael",
-        "Arwyddo",
-        "a.",
-        "Deiseb",
-        "i",
-        "cadw",
-        "a.",
-        "lleol",
-        "Meddyg Teulu",
-        "Llawdriniaeth"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-09-30T00:23:12.078Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206767",
@@ -339,34 +313,9 @@
       "english": "Thousands fill the streets of Newport to welcome the Urdd Eisteddfod",
       "url": "https://golwg.360.cymru/newyddion/2206767-miloedd-llenwi-strydoedd-casnewydd-groesawu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=dJsN7lYa",
       "pubDate": "Mon, 28 Sep 2026 10:15:23 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-09-29T00:58:17.859Z",
-      "category": null,
-      "welshGlosses": [
-        "Thousands",
-        "in",
-        "Fill",
-        "streets",
-        "Newport",
-        "to",
-        "welcome",
-        "Eisteddfod",
-        "the",
-        "wait"
-      ],
-      "englishGlosses": [
-        "filoedd",
-        "llanw",
-        "'r",
-        "strydoedd",
-        "o",
-        "Casnewydd",
-        "i",
-        "croeso",
-        "'r",
-        "Urdd Gobaith Cymru",
-        "Eisteddfod"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-09-30T00:23:12.078Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206769",
@@ -374,33 +323,9 @@
       "english": "Petition calling for the urgent devolution of broadcasting to Wales",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206769-lansio-deiseb-galw-ddatganoli-darlledu-gymru-frys?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLgoy",
       "pubDate": "Mon, 28 Sep 2026 09:48:16 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-09-29T00:58:17.859Z",
-      "category": null,
-      "welshGlosses": [
-        "Petition",
-        "in",
-        "Call",
-        "for",
-        "devolution",
-        "Broadcast",
-        "to",
-        "Wales",
-        "on",
-        "urgent"
-      ],
-      "englishGlosses": [
-        "Deiseb",
-        "Yn Galw",
-        "am",
-        "'r",
-        "Brys",
-        "Datganoli",
-        "o",
-        "darlledu",
-        "i",
-        "Cymru"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-09-30T00:23:12.078Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206739",
@@ -408,34 +333,9 @@
       "english": "“Offensive”: Liz Saville Roberts responds to Labour's comments about “poison”",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206739-sarhaus-saville-roberts-ymateb-sylwadau-llafur?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA1dl",
       "pubDate": "Mon, 28 Sep 2026 09:21:49 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-09-29T00:58:17.859Z",
-      "category": null,
-      "welshGlosses": [
-        "sarcastic",
-        "Liz",
-        "Saville",
-        "Roberts",
-        "in",
-        "Response",
-        "to",
-        "Comments",
-        "Labour",
-        "for",
-        "poison"
-      ],
-      "englishGlosses": [
-        "Ymosodol",
-        "Liz",
-        "Saville",
-        "Ioan Roberts",
-        "ymateb",
-        "i",
-        "Llafur",
-        "Sylwadau",
-        "Ynglŷn â",
-        "#"
-      ]
+      "feedPosition": 11,
+      "fetchedAt": "2026-09-30T00:23:12.078Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206620",
@@ -443,21 +343,9 @@
       "english": "Me and my Dog",
       "url": "https://golwg.360.cymru/newyddion/cymru/2206620-nghi-36?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8Dwy1",
       "pubDate": "Sat, 26 Sep 2026 06:20:04 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-09-29T00:58:17.859Z",
-      "category": null,
-      "welshGlosses": [
-        "Me",
-        "and",
-        "my",
-        "Chi"
-      ],
-      "englishGlosses": [
-        ".",
-        "a",
-        "fy",
-        "Ci"
-      ]
+      "feedPosition": 12,
+      "fetchedAt": "2026-09-30T00:23:12.078Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206688",
@@ -465,34 +353,9 @@
       "english": "Solve a 200-year-old mystery on a Vale of Glamorgan beach",
       "url": "https://golwg.360.cymru/newyddion/cymru/2206688-datrys-dirgelwch-mlwydd-draethau-morgannwg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7NWg",
       "pubDate": "Fri, 25 Sep 2026 14:00:10 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-09-29T00:58:17.859Z",
-      "category": null,
-      "welshGlosses": [
-        "Resolve",
-        "secret",
-        "200%",
-        "at the age of 70 years",
-        "age",
-        "on",
-        "one",
-        "of",
-        "beaches",
-        "Realm:",
-        "Glamorgan"
-      ],
-      "englishGlosses": [
-        "datrys",
-        "a.",
-        "200 yr old",
-        "dirgelwch",
-        "ar",
-        "a.",
-        "Cwm <PROTECTED>",
-        "o",
-        "Morgannwg",
-        "Traeth"
-      ]
+      "feedPosition": 13,
+      "fetchedAt": "2026-09-30T00:23:12.078Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206509",
@@ -500,35 +363,9 @@
       "english": "Support the proposal to tackle campers who cause “significant inconvenience”",
       "url": "https://golwg.360.cymru/newyddion/cymru/2206509-cefnogi-cynnig-fynd-afael-champers-achosi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=BpsyYjEW",
       "pubDate": "Fri, 25 Sep 2026 10:13:50 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-09-29T00:58:17.859Z",
-      "category": null,
-      "welshGlosses": [
-        "Supporting the",
-        "Offer",
-        "to",
-        "go",
-        "I",
-        "grip",
-        "To:",
-        "campers",
-        "which",
-        "to cause",
-        "inconvenience",
-        "cleddau"
-      ],
-      "englishGlosses": [
-        "Cymorth",
-        "'r",
-        "bryd",
-        "i",
-        "taclo",
-        "gwersyllwyr",
-        "Pwy",
-        "Achos",
-        "arwyddocaol",
-        "anghyfleustra"
-      ]
+      "feedPosition": 14,
+      "fetchedAt": "2026-09-30T00:23:12.078Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206642",
@@ -536,8 +373,8 @@
       "english": "Only three Welsh-medium secondary schools in Cardiff are “not sustainable”",
       "url": "https://golwg.360.cymru/newyddion/2206642-tair-ysgol-uwchradd-gymraeg-nghaerdydd-ddim?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLEOMY",
       "pubDate": "Fri, 25 Sep 2026 06:01:10 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-09-29T00:58:17.859Z",
+      "feedPosition": 15,
+      "fetchedAt": "2026-09-30T00:23:12.078Z",
       "category": null
     },
     {
@@ -546,10 +383,10 @@
       "english": "Parliament votes for Wales's right to determine its own political future",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206632-senedd-pleidleisio-blaid-hawl-cymru-bennu-dyfodol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0NyRw",
       "pubDate": "Thu, 24 Sep 2026 14:54:44 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-29T00:58:17.859Z",
+      "feedPosition": 16,
+      "fetchedAt": "2026-09-30T00:23:12.078Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-09-29T19:57:43.858Z"
+  "generatedAt": "2026-09-30T00:23:12.078Z"
 }
