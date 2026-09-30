@@ -2,6 +2,116 @@
   "date": "2026-09-30",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2207014",
+      "welsh": "Cyngor Gwynedd yn sicrhau grant i fynd i’r afael â phroblem gwm cnoi",
+      "english": "Gwynedd Council secures grant to tackle the problem of chewing gum",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2207014-cyngor-gwynedd-sicrhau-grant-fynd-afael-phroblem?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=BpsyY877",
+      "pubDate": "Wed, 30 Sep 2026 16:19:35 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-09-30T19:58:49.332Z",
+      "category": null,
+      "welshGlosses": [
+        "Advice",
+        "A497 Abererch to Llanystumdwy",
+        "in",
+        "ensure",
+        "Grant",
+        "to",
+        "go",
+        "I",
+        "grip",
+        "To:",
+        "problem",
+        "gum",
+        "chew"
+      ],
+      "englishGlosses": [
+        "Gwynedd",
+        "Y Cyngor",
+        "sicrhau",
+        "tessa",
+        "i",
+        "taclo",
+        "'r",
+        "Problem {0}",
+        "o",
+        "cnoi",
+        "gwm"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2207012",
+      "welsh": "Y gwrthbleidiau’n galw am Strategaeth Ddiwydiannol Amddiffyn i Gymru",
+      "english": "Opposition parties call for a Defence Industrial Strategy for Wales",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2207012-gwrthbleidiau-galw-strategaeth-ddiwydiannol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE58O",
+      "pubDate": "Wed, 30 Sep 2026 16:08:11 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-09-30T19:58:49.332Z",
+      "category": null,
+      "welshGlosses": [
+        "the",
+        "opposition parties",
+        "Call",
+        "for",
+        "Strategies",
+        "Industry",
+        "Defence",
+        "to",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Lleoliad",
+        "Partïon",
+        "Galw",
+        "am",
+        "a.",
+        "Amddiffyn",
+        "Diwydiannol",
+        "Strategaeth",
+        "am",
+        "Cymru"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2207003",
+      "welsh": "Cefin Campbell: ‘Rhaglen Seren yn annog pobol ifanc i adael Cymru am Loegr’",
+      "english": "Cefin Campbell: ‘Star programme encouraging young people to leave Wales for England’",
+      "url": "https://golwg.360.cymru/newyddion/2207003-cefin-campbell-rhaglen-seren-annog-pobol-ifanc?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=dJsN711e",
+      "pubDate": "Wed, 30 Sep 2026 13:58:29 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-09-30T19:58:49.332Z",
+      "category": null,
+      "welshGlosses": [
+        "Habitat",
+        "Fort Campbell",
+        "Caption",
+        "Star",
+        "in",
+        "prompt",
+        "Human",
+        "young",
+        "to",
+        "to leave",
+        "Wales",
+        "for",
+        "england"
+      ],
+      "englishGlosses": [
+        "Cefin",
+        "Bob Campbell",
+        "Sêr",
+        "rhaglen",
+        "rhagfyr",
+        "Hir",
+        "Pobl",
+        "i",
+        "Gadael",
+        "Cymru",
+        "am",
+        "Lloegr"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2207000",
       "welsh": "Comisiynwyr iaith yn bryderus am effaith toriadau’r BBC ar ieithoedd lleiafrifol",
       "english": "Language commissioners are concerned about the effect of BBC cuts on minority languages",
@@ -576,37 +686,7 @@
       "feedPosition": 8,
       "fetchedAt": "2026-09-30T00:23:12.078Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206767",
-      "welsh": "Miloedd yn llenwi strydoedd Casnewydd i groesawu Eisteddfod yr Urdd",
-      "english": "Thousands fill the streets of Newport to welcome the Urdd Eisteddfod",
-      "url": "https://golwg.360.cymru/newyddion/2206767-miloedd-llenwi-strydoedd-casnewydd-groesawu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=dJsN7lYa",
-      "pubDate": "Mon, 28 Sep 2026 10:15:23 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-09-30T00:23:12.078Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206769",
-      "welsh": "Deiseb yn galw am ddatganoli darlledu i Gymru ar frys",
-      "english": "Petition calling for the urgent devolution of broadcasting to Wales",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206769-lansio-deiseb-galw-ddatganoli-darlledu-gymru-frys?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLgoy",
-      "pubDate": "Mon, 28 Sep 2026 09:48:16 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-09-30T00:23:12.078Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206739",
-      "welsh": "“Sarhaus”: Liz Saville Roberts yn ymateb i sylwadau Llafur am “wenwyn”",
-      "english": "“Offensive”: Liz Saville Roberts responds to Labour's comments about “poison”",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206739-sarhaus-saville-roberts-ymateb-sylwadau-llafur?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA1dl",
-      "pubDate": "Mon, 28 Sep 2026 09:21:49 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-09-30T00:23:12.078Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-09-30T12:28:26.618Z"
+  "generatedAt": "2026-09-30T19:58:49.332Z"
 }
