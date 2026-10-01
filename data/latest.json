@@ -2,6 +2,34 @@
   "date": "2026-10-01",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2207076",
+      "welsh": "Gwrthod cynnig i ddileu 20m.y.a.",
+      "english": "Reject a 20m.y.a. deletion proposal.",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207076-gwrthod-cynnig-ddileu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarAEy",
+      "pubDate": "Thu, 01 Oct 2026 13:19:12 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-01T20:20:15.685Z",
+      "category": null,
+      "welshGlosses": [
+        "Deny",
+        "Offer",
+        "to",
+        "delete",
+        "20m",
+        "the",
+        "and"
+      ],
+      "englishGlosses": [
+        "Gwrthod",
+        "a.",
+        "20m",
+        "i",
+        "a.",
+        "dileu",
+        "bryd"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2207058",
       "welsh": "Gangiau cam-drin plant: Cymru nesaf ar agenda ymchwiliad cenedlaethol",
       "english": "Child abuse gangs: Wales next on national inquiry agenda",
@@ -555,17 +583,7 @@
       "feedPosition": 12,
       "fetchedAt": "2026-10-01T00:31:18.416Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206948",
-      "welsh": "Andy Burnham yn addo newid system etholiadol San Steffan – ond Plaid yn galw am fwy o bwerau i Gymru",
-      "english": "Andy Burnham promises to change Westminster's electoral system – but Plaid calls for more powers for Wales",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2206948-andy-burnham-addo-newid-system-etholiadol-steffan?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0pG7",
-      "pubDate": "Tue, 29 Sep 2026 15:33:38 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-10-01T00:31:18.416Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-01T13:05:36.288Z"
+  "generatedAt": "2026-10-01T20:20:15.685Z"
 }
