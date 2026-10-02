@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2207076",
@@ -8,7 +8,7 @@
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207076-gwrthod-cynnig-ddileu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarAEy",
       "pubDate": "Thu, 01 Oct 2026 13:19:12 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-10-01T20:20:15.685Z",
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
       "category": null,
       "welshGlosses": [
         "Deny",
@@ -35,8 +35,8 @@
       "english": "Child abuse gangs: Wales next on national inquiry agenda",
       "url": "https://golwg.360.cymru/newyddion/2207058-gangiau-drin-plant-cymru-nesaf-agenda-ymchwiliad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7ew0",
       "pubDate": "Thu, 01 Oct 2026 10:55:21 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-10-01T13:05:36.288Z",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
       "category": null,
       "welshGlosses": [
         "gangs",
@@ -67,8 +67,8 @@
       "english": "Plaid Cymru want to “continue with messages of hope” at their conference",
       "url": "https://golwg.360.cymru/newyddion/2207044-plaid-cymru-i-barhau-gyda-negeseuon-o-obaith-cynhadledd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjODdB",
       "pubDate": "Thu, 01 Oct 2026 09:46:56 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-10-01T13:05:36.288Z",
+      "feedPosition": 2,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
       "category": null,
       "welshGlosses": [
         "Party",
@@ -104,8 +104,8 @@
       "english": "Significant increase in the number of fines for driving into the middle of yellow box junctions",
       "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2207039-cynnydd-sylweddol-nifer-dirwyon-yrru-ganol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdL5jG",
       "pubDate": "Thu, 01 Oct 2026 09:14:58 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-10-01T13:05:36.288Z",
+      "feedPosition": 3,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
       "category": null,
       "welshGlosses": [
         "Group",
@@ -147,8 +147,8 @@
       "english": "The people of Wales could claim more money to help them with living costs",
       "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2207017-gallai-pobol-cymru-hawlio-rhagor-arian-helpu-gyda?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGP0Jl",
       "pubDate": "Thu, 01 Oct 2026 07:01:44 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-10-01T13:05:36.288Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
       "category": null,
       "welshGlosses": [
         "I could",
@@ -187,8 +187,8 @@
       "english": "Unit price increases from £0.50 to £0.65",
       "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2207022-pris-uned-alcohol-cynyddu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsdePgW",
       "pubDate": "Thu, 01 Oct 2026 06:01:39 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-10-01T13:05:36.288Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
       "category": null,
       "welshGlosses": [
         "Price",
@@ -222,8 +222,8 @@
       "english": "Gwynedd Council secures grant to tackle the problem of chewing gum",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207014-cyngor-gwynedd-sicrhau-grant-fynd-afael-phroblem?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=BpsyY877",
       "pubDate": "Wed, 30 Sep 2026 16:19:35 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-10-01T00:31:18.416Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
       "category": null,
       "welshGlosses": [
         "Advice",
@@ -260,8 +260,8 @@
       "english": "Opposition parties call for a Defence Industrial Strategy for Wales",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207012-gwrthbleidiau-galw-strategaeth-ddiwydiannol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE58O",
       "pubDate": "Wed, 30 Sep 2026 16:08:11 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-10-01T00:31:18.416Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
       "category": null,
       "welshGlosses": [
         "the",
@@ -293,38 +293,9 @@
       "english": "Cefin Campbell: ‘Star programme encouraging young people to leave Wales for England’",
       "url": "https://golwg.360.cymru/newyddion/2207003-cefin-campbell-rhaglen-seren-annog-pobol-ifanc?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=dJsN711e",
       "pubDate": "Wed, 30 Sep 2026 13:58:29 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-10-01T00:31:18.416Z",
-      "category": null,
-      "welshGlosses": [
-        "Habitat",
-        "Fort Campbell",
-        "Caption",
-        "Star",
-        "in",
-        "prompt",
-        "Human",
-        "young",
-        "to",
-        "to leave",
-        "Wales",
-        "for",
-        "england"
-      ],
-      "englishGlosses": [
-        "Cefin",
-        "Bob Campbell",
-        "Sêr",
-        "rhaglen",
-        "rhagfyr",
-        "Hir",
-        "Pobl",
-        "i",
-        "Gadael",
-        "Cymru",
-        "am",
-        "Lloegr"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207000",
@@ -332,37 +303,9 @@
       "english": "Language commissioners are concerned about the effect of BBC cuts on minority languages",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207000-comisiynwyr-iaith-bryderus-effaith-toriadau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2ONN0",
       "pubDate": "Wed, 30 Sep 2026 12:14:21 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-10-01T00:31:18.416Z",
-      "category": null,
-      "welshGlosses": [
-        "Commissioners",
-        "language",
-        "in",
-        "anxious",
-        "for",
-        "Impact",
-        "cuts",
-        "Bbc",
-        "on",
-        "Language",
-        "minority"
-      ],
-      "englishGlosses": [
-        "",
-        "Comisiynwyr",
-        "dach",
-        "dan sylw",
-        "Ynglŷn â",
-        "'r",
-        "effaith",
-        "o",
-        "BBC",
-        "toriadau",
-        "ar",
-        "lleiafrif",
-        "ieithoedd"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206993",
@@ -370,46 +313,9 @@
       "english": "“Ending a Welsh-medium rural school and community forever in a secret meeting,” said Cymdeithas yr Iaith",
       "url": "https://golwg.360.cymru/newyddion/addysg/2206993-rhoi-diwedd-byth-ysgol-chymuned-wledig-gymraeg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGDPPW",
       "pubDate": "Wed, 30 Sep 2026 11:45:57 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-10-01T00:31:18.416Z",
-      "category": null,
-      "welshGlosses": [
-        "give",
-        "End",
-        "for",
-        "OVR",
-        "on",
-        "school",
-        "and",
-        "community",
-        "rural",
-        "Welsh",
-        "in",
-        "meeting",
-        "secret",
-        "magic",
-        "Society",
-        "the",
-        "Language"
-      ],
-      "englishGlosses": [
-        "Yn gorffen",
-        "a.",
-        "Cyfrwng Cymraeg",
-        "gwledig",
-        "Term",
-        "a",
-        "cymuned",
-        "Byth",
-        "yn",
-        "a.",
-        "cyfrinach",
-        "cyfarfod",
-        "dywedodd",
-        "Socities",
-        "Y",
-        "Language."
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206977",
@@ -417,37 +323,9 @@
       "english": "‘No Welsh law in the pipeline', but calls for wider constitutional reform",
       "url": "https://golwg.360.cymru/newyddion/2206977-deddf-cymru-gweill-galw-ddiwygio-cyfansoddiadol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroDDW",
       "pubDate": "Wed, 30 Sep 2026 10:29:42 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-10-01T00:31:18.416Z",
-      "category": null,
-      "welshGlosses": [
-        "None",
-        "Act",
-        "Wales",
-        "on",
-        "the",
-        "in progress",
-        "but",
-        "Call",
-        "for",
-        "to amend",
-        "constitutional",
-        "wider"
-      ],
-      "englishGlosses": [
-        "Na",
-        "Cymraeg",
-        "Cyfraith",
-        "yn",
-        "'r",
-        "pibell",
-        "",
-        "Galwadau",
-        "am",
-        "Lletach",
-        "Cyfansoddiad",
-        "diwygio"
-      ]
+      "feedPosition": 11,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206981",
@@ -455,40 +333,9 @@
       "english": "“Immediate practical steps to support Wales's ambition for sport,” the Sports Minister said",
       "url": "https://golwg.360.cymru/newyddion/cymru/2206981-camau-ymarferol-unwaith-gefnogi-uchelgais-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0ppE",
       "pubDate": "Wed, 30 Sep 2026 09:54:57 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-10-01T00:31:18.416Z",
-      "category": null,
-      "welshGlosses": [
-        "Steps",
-        "",
-        "on",
-        "Once",
-        "to",
-        "to support",
-        "ambition",
-        "Wales",
-        "on",
-        "for",
-        "Sport",
-        "said the",
-        "",
-        "Sport"
-      ],
-      "englishGlosses": [
-        "Agosaf",
-        "Ymarferol",
-        "Camau",
-        "i",
-        "cefnogaeth",
-        "Cymru",
-        "uchelgais",
-        "am",
-        "sbort",
-        "'r",
-        "Chwaraeon",
-        "baeth",
-        "dywedodd"
-      ]
+      "feedPosition": 12,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206975",
@@ -496,43 +343,9 @@
       "english": "‘Polluters responsible for land contamination must pay to make good': Niamh Salkeld AoS",
       "url": "https://golwg.360.cymru/newyddion/amgylchedd/2206975-rhaid-lygrwyr-gyfrifol-halogi-dalu-wneud-iawn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarAAa",
       "pubDate": "Wed, 30 Sep 2026 09:40:23 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-10-01T00:31:18.416Z",
-      "category": null,
-      "welshGlosses": [
-        "Must",
-        "to",
-        "polluters",
-        "which",
-        "responsible",
-        "for",
-        "to contaminate",
-        "spot area",
-        "to pay",
-        "to",
-        "",
-        "right",
-        "for",
-        "that",
-        "Niamh",
-        "Salkeld",
-        "AoS"
-      ],
-      "englishGlosses": [
-        "Llygredd",
-        "cyfrifol",
-        "am",
-        "Tir",
-        "halogiad",
-        "angen",
-        "tâl",
-        "i",
-        "Hyll",
-        "Da",
-        "Niamh",
-        "Salkeld",
-        "AoS"
-      ]
+      "feedPosition": 13,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2206936",
@@ -540,8 +353,8 @@
       "english": "Who are you, where do you come from – and what is your Welsh story?",
       "url": "https://golwg.360.cymru/newyddion/iaith/2206936-beth-stori-gymraeg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=dJsN71D4",
       "pubDate": "Wed, 30 Sep 2026 08:01:36 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-10-01T00:31:18.416Z",
+      "feedPosition": 14,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
       "category": null
     },
     {
@@ -550,8 +363,8 @@
       "english": "‘I said that I would walk out': Star of The Traitors returns to the lifesaving hospital",
       "url": "https://golwg.360.cymru/newyddion/iechyd/2206959-ddywedais-byddwn-cerdded-allan-seren-traitors?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGDPyW",
       "pubDate": "Wed, 30 Sep 2026 07:34:17 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-10-01T00:31:18.416Z",
+      "feedPosition": 15,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
       "category": null
     },
     {
@@ -560,8 +373,8 @@
       "english": "UNESCO turns to Wales for guidance on the future of languages in the digital world",
       "url": "https://golwg.360.cymru/newyddion/gwyddoniaeth-a-thechnoleg/2206911-unesco-troi-gymru-arweiniad-ddyfodol-ieithoedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE5A5",
       "pubDate": "Wed, 30 Sep 2026 06:19:09 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-10-01T00:31:18.416Z",
+      "feedPosition": 16,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
       "category": null
     },
     {
@@ -570,8 +383,8 @@
       "english": "Rhun ap Iorwerth strikes back after attacks on independence by Reform and the Conservatives",
       "url": "https://golwg.360.cymru/newyddion/2206963-rhun-iorwerth-taro-wedi-ymosodiadau-annibyniaeth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMaNeW",
       "pubDate": "Tue, 29 Sep 2026 16:56:53 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-10-01T00:31:18.416Z",
+      "feedPosition": 17,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
       "category": null
     },
     {
@@ -580,10 +393,10 @@
       "english": "‘Not one health board is in an ideal position’ – Health Minister",
       "url": "https://golwg.360.cymru/newyddion/iechyd/2206956-bwrdd-iechyd-mewn-sefyllfa-ddelfrydol-gweinidog?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8Dgwr",
       "pubDate": "Tue, 29 Sep 2026 15:53:37 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-10-01T00:31:18.416Z",
+      "feedPosition": 18,
+      "fetchedAt": "2026-10-02T00:44:08.962Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-10-01T20:20:15.685Z"
+  "generatedAt": "2026-10-02T00:44:08.962Z"
 }
