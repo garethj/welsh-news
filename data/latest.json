@@ -2,6 +2,46 @@
   "date": "2026-10-02",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2207078",
+      "welsh": "Galw am ‘Fargen newydd i Gymru’ ar drothwy cynhadledd Plaid Cymru",
+      "english": "Call for a ‘new deal for Wales’ on the eve of a Plaid Cymru conference",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207078-galw-fargen-newydd-gymru-drothwy-cynhadledd-plaid?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroDBG",
+      "pubDate": "Fri, 02 Oct 2026 06:01:02 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-02T12:26:34.715Z",
+      "category": null,
+      "welshGlosses": [
+        "Call",
+        "for",
+        "Bargain",
+        "new",
+        "to",
+        "Wales",
+        "on",
+        "threshold",
+        "conference",
+        "Party",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Galw",
+        "am",
+        "a.",
+        "newydd",
+        "bargen",
+        "am",
+        "Cymru",
+        "ar",
+        "'r",
+        "Efa",
+        "o",
+        "a.",
+        "Plaid Cymru",
+        "Cymru ",
+        "cynhadledd"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2207076",
       "welsh": "Gwrthod cynnig i ddileu 20m.y.a.",
       "english": "Reject a 20m.y.a. deletion proposal.",
@@ -386,17 +426,7 @@
       "feedPosition": 17,
       "fetchedAt": "2026-10-02T00:44:08.962Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206956",
-      "welsh": "‘Dim un bwrdd iechyd mewn sefyllfa ddelfrydol’ – Gweinidog Iechyd",
-      "english": "‘Not one health board is in an ideal position’ – Health Minister",
-      "url": "https://golwg.360.cymru/newyddion/iechyd/2206956-bwrdd-iechyd-mewn-sefyllfa-ddelfrydol-gweinidog?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8Dgwr",
-      "pubDate": "Tue, 29 Sep 2026 15:53:37 +0000",
-      "feedPosition": 18,
-      "fetchedAt": "2026-10-02T00:44:08.962Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-02T00:44:08.962Z"
+  "generatedAt": "2026-10-02T12:26:34.715Z"
 }
