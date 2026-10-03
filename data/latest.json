@@ -2,6 +2,28 @@
   "date": "2026-10-03",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2207093",
+      "welsh": "Fi a fy Nghi",
+      "english": "Me and my Dog",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2207093-nghi-37?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNAaM",
+      "pubDate": "Sat, 03 Oct 2026 06:14:34 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-03T11:34:47.877Z",
+      "category": null,
+      "welshGlosses": [
+        "Me",
+        "and",
+        "my",
+        "Chi"
+      ],
+      "englishGlosses": [
+        ".",
+        "a",
+        "fy",
+        "Ci"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2207150",
       "welsh": "Lindsay Whittle: ‘Dim ond y fi oedd yn gallu ennill dros y Blaid yng Nghaerffili’",
       "english": "Lindsay Whittle: ‘Only I could win for Plaid Cymru in Caerphilly’",
@@ -398,17 +420,7 @@
       "feedPosition": 17,
       "fetchedAt": "2026-10-03T00:26:50.844Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206975",
-      "welsh": "‘Rhaid i lygrwyr sy’n gyfrifol am halogi tir dalu i wneud iawn am hynny’: Niamh Salkeld AoS",
-      "english": "‘Polluters responsible for land contamination must pay to make good': Niamh Salkeld AoS",
-      "url": "https://golwg.360.cymru/newyddion/amgylchedd/2206975-rhaid-lygrwyr-gyfrifol-halogi-dalu-wneud-iawn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarAAa",
-      "pubDate": "Wed, 30 Sep 2026 09:40:23 +0000",
-      "feedPosition": 18,
-      "fetchedAt": "2026-10-03T00:26:50.844Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-03T00:26:50.844Z"
+  "generatedAt": "2026-10-03T11:34:47.877Z"
 }
