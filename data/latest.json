@@ -2,6 +2,152 @@
   "date": "2026-10-05",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2207232",
+      "welsh": "“Angen sicrhau nad yw mentrau cymunedol yn llesteirio cynlluniau twf Llywodraeth Cymru”",
+      "english": "“There is a need to ensure that community initiatives do not hinder the Welsh Government's growth plans”",
+      "url": "https://golwg.360.cymru/newyddion/2207232-angen-sicrhau-mentrau-cymunedol-llesteirio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=wPs0ajw8",
+      "pubDate": "Mon, 05 Oct 2026 12:01:32 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-05T14:28:36.828Z",
+      "category": null,
+      "welshGlosses": [
+        "must",
+        "ensure",
+        "no",
+        "is",
+        "Initiatives",
+        "Development.",
+        "in",
+        "to hinder",
+        "plans",
+        "TWF",
+        "Governing",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Yna",
+        "yw",
+        "a.",
+        "angen",
+        "i",
+        "sicrhau",
+        "hynny",
+        "cymuned",
+        "Mentrau",
+        "gwneud",
+        "ddim",
+        "rhwystr",
+        "'r",
+        "Cymraeg",
+        "Llywodraeth",
+        "twf",
+        "cynlluniau"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2207223",
+      "welsh": "“Datganoli ddim wedi helpu addysg disgyblion Cymru”",
+      "english": "“Devolution has not helped the education of Welsh pupils”",
+      "url": "https://golwg.360.cymru/newyddion/addysg/2207223-datganoli-ddim-wedi-helpu-addysg-disgyblion-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpRe2",
+      "pubDate": "Mon, 05 Oct 2026 09:56:57 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-05T14:28:36.828Z",
+      "category": null,
+      "welshGlosses": [
+        "Devolve",
+        "not",
+        "after",
+        "help me today",
+        "Action",
+        "Pupils",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Datganoli",
+        "Oes",
+        "ddim",
+        "helpodd",
+        "'r",
+        "addysg",
+        "o",
+        "Cymraeg",
+        "I Plannu"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2207207",
+      "welsh": "Banc Datblygu Cymru’n croesawu lansio rhaglen Sbardun Llywodraeth Cymru",
+      "english": "The Development Bank of Wales welcomes the launch of the Government of Wales's Stimulus programme",
+      "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2207207-banc-datblygu-cymru-croesawu-lansio-rhaglen?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdL5Yp",
+      "pubDate": "Mon, 05 Oct 2026 08:24:05 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-10-05T14:28:36.828Z",
+      "category": null,
+      "welshGlosses": [
+        "bank",
+        "Development",
+        "Cymru 'n",
+        "welcome",
+        "Launch",
+        "Caption",
+        "spardyn",
+        "Governing",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Y",
+        "Datblygu",
+        "Banc",
+        "o",
+        "Cymru",
+        "croesawu",
+        "'r",
+        "Lansio",
+        "o",
+        "'r",
+        "Cymru",
+        "o",
+        "Cymru",
+        "Sbardun",
+        "rhaglen"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2207147",
+      "welsh": "Plaid Cymru yn gosod targedau newydd uchelgeisiol ar gyfer economi Cymru",
+      "english": "Plaid Cymru sets ambitious new targets for the Welsh economy",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2207147-plaid-cymru-gosod-targedau-newydd-uchelgeisiol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE5yA",
+      "pubDate": "Mon, 05 Oct 2026 07:00:25 +0000",
+      "feedPosition": 3,
+      "fetchedAt": "2026-10-05T14:28:36.828Z",
+      "category": null,
+      "welshGlosses": [
+        "Party",
+        "Wales",
+        "in",
+        "Setup",
+        "targets",
+        "new",
+        "ambitious",
+        "on",
+        "for",
+        "Economy",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Plaid Cymru",
+        "Cymru ",
+        "setiau",
+        "uchelgeisiol",
+        "newydd",
+        "Targedau",
+        "am",
+        "'r",
+        "Cymraeg",
+        "Economi"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2207093",
       "welsh": "Fi a fy Nghi",
       "english": "Me and my Dog",
@@ -333,47 +479,7 @@
       "feedPosition": 12,
       "fetchedAt": "2026-10-04T23:56:10.030Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207012",
-      "welsh": "Y gwrthbleidiau’n galw am Strategaeth Ddiwydiannol Amddiffyn i Gymru",
-      "english": "Opposition parties call for a Defence Industrial Strategy for Wales",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2207012-gwrthbleidiau-galw-strategaeth-ddiwydiannol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE58O",
-      "pubDate": "Wed, 30 Sep 2026 16:08:11 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-10-04T23:56:10.030Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207003",
-      "welsh": "Cefin Campbell: ‘Rhaglen Seren yn annog pobol ifanc i adael Cymru am Loegr’",
-      "english": "Cefin Campbell: ‘Star programme encouraging young people to leave Wales for England’",
-      "url": "https://golwg.360.cymru/newyddion/2207003-cefin-campbell-rhaglen-seren-annog-pobol-ifanc?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=dJsN711e",
-      "pubDate": "Wed, 30 Sep 2026 13:58:29 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-10-04T23:56:10.030Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207000",
-      "welsh": "Comisiynwyr iaith yn bryderus am effaith toriadau’r BBC ar ieithoedd lleiafrifol",
-      "english": "Language commissioners are concerned about the effect of BBC cuts on minority languages",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2207000-comisiynwyr-iaith-bryderus-effaith-toriadau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2ONN0",
-      "pubDate": "Wed, 30 Sep 2026 12:14:21 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-10-04T23:56:10.030Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2206993",
-      "welsh": "“Rhoi diwedd am byth ar ysgol a chymuned wledig Gymraeg mewn cyfarfod dirgel,” meddai Cymdeithas yr Iaith",
-      "english": "“Ending a Welsh-medium rural school and community forever in a secret meeting,” said Cymdeithas yr Iaith",
-      "url": "https://golwg.360.cymru/newyddion/addysg/2206993-rhoi-diwedd-byth-ysgol-chymuned-wledig-gymraeg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGDPPW",
-      "pubDate": "Wed, 30 Sep 2026 11:45:57 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-10-04T23:56:10.030Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-04T23:56:10.030Z"
+  "generatedAt": "2026-10-05T14:28:36.828Z"
 }
