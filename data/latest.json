@@ -2,6 +2,86 @@
   "date": "2026-10-06",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2207359",
+      "welsh": "Rhun ap Iorwerth yn amddiffyn swyddfeydd tramor Llywodraeth Cymru",
+      "english": "Rhun ap Iorwerth defends the Welsh Government's overseas offices",
+      "url": "https://golwg.360.cymru/newyddion/2207359-rhun-iorwerth-amddiffyn-swyddfeydd-tramor?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRlYe",
+      "pubDate": "Tue, 06 Oct 2026 16:21:59 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-06T20:14:06.740Z",
+      "category": null,
+      "welshGlosses": [
+        "Rhun",
+        "App",
+        "Iorwerth",
+        "in",
+        "Defence",
+        "offices",
+        "abroad",
+        "Governing",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "rhun",
+        "<PROTECTED> ap <PROTECTED>/Meleri Williams",
+        "Iorwerth",
+        "amddiffyn",
+        "'r",
+        "Cymraeg",
+        "Llywodraeth",
+        "tramor",
+        "swyddfeydd"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2207325",
+      "welsh": "Cyhoeddi pont newydd dros y Fenai yn ogystal â “datrysiad yn seiliedig ar ffyrdd” i’r M4 ger Casnewydd",
+      "english": "Announce a new Menai crossing as well as a “road-based solution” for the M4 near Newport",
+      "url": "https://golwg.360.cymru/newyddion/2207325-cyhoeddi-pont-newydd-dros-fenai-ogystal-datrysiad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsdePDy",
+      "pubDate": "Tue, 06 Oct 2026 16:16:52 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-06T20:14:06.740Z",
+      "category": null,
+      "welshGlosses": [
+        "Publish",
+        "Bridge",
+        "new",
+        "over",
+        "the",
+        "Menai",
+        "in",
+        "as well",
+        "To:",
+        "solution",
+        "in",
+        "based",
+        "on",
+        "Road",
+        "I",
+        "M4",
+        "near",
+        "Newport"
+      ],
+      "englishGlosses": [
+        "cyhoeddi",
+        "a.",
+        "newydd",
+        "Menai",
+        "croesi",
+        "Graddfeyddunit description in lists",
+        "Wel,",
+        "Graddfeyddunit description in lists",
+        "a.",
+        "seiliedig ar y ffordd",
+        "datrysiad",
+        "am",
+        "'r",
+        "M4",
+        "agos",
+        "Casnewydd"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2207312",
       "welsh": "Plac Porffor Cymru newydd yn cydnabod dewrder gwraig ginio o Aberfan yn y drychineb",
       "english": "A new Welsh Purple Plaque recognises the courage of a dinner lady from Aberfan in the disaster",
@@ -387,27 +467,7 @@
       "feedPosition": 15,
       "fetchedAt": "2026-10-06T13:14:28.894Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207058",
-      "welsh": "Gangiau cam-drin plant: Cymru nesaf ar agenda ymchwiliad cenedlaethol",
-      "english": "Child abuse gangs: Wales next on national inquiry agenda",
-      "url": "https://golwg.360.cymru/newyddion/2207058-gangiau-drin-plant-cymru-nesaf-agenda-ymchwiliad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7ew0",
-      "pubDate": "Thu, 01 Oct 2026 10:55:21 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207044",
-      "welsh": "Plaid Cymru am “barhau gyda negeseuon o obaith” yn eu cynhadledd",
-      "english": "Plaid Cymru want to “continue with messages of hope” at their conference",
-      "url": "https://golwg.360.cymru/newyddion/2207044-plaid-cymru-i-barhau-gyda-negeseuon-o-obaith-cynhadledd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjODdB",
-      "pubDate": "Thu, 01 Oct 2026 09:46:56 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-06T13:14:28.894Z"
+  "generatedAt": "2026-10-06T20:14:06.740Z"
 }
