@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2207359",
@@ -8,7 +8,7 @@
       "url": "https://golwg.360.cymru/newyddion/2207359-rhun-iorwerth-amddiffyn-swyddfeydd-tramor?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRlYe",
       "pubDate": "Tue, 06 Oct 2026 16:21:59 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-10-06T20:14:06.740Z",
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
       "category": null,
       "welshGlosses": [
         "Rhun",
@@ -40,7 +40,7 @@
       "url": "https://golwg.360.cymru/newyddion/2207325-cyhoeddi-pont-newydd-dros-fenai-ogystal-datrysiad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsdePDy",
       "pubDate": "Tue, 06 Oct 2026 16:16:52 +0000",
       "feedPosition": 1,
-      "fetchedAt": "2026-10-06T20:14:06.740Z",
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
       "category": null,
       "welshGlosses": [
         "Publish",
@@ -87,8 +87,8 @@
       "english": "A new Welsh Purple Plaque recognises the courage of a dinner lady from Aberfan in the disaster",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207312-plac-porffor-27ain-cymru-nodi-dewrder-gwraig-ginio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarAPD",
       "pubDate": "Tue, 06 Oct 2026 12:45:38 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
+      "feedPosition": 2,
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
       "category": null,
       "welshGlosses": [
         "Plaque",
@@ -130,10 +130,10 @@
       "guid": "https://golwg.360.cymru/?p=2207307",
       "welsh": "“Mae’n rhaid cael gwared ar Gyfoeth Naturiol Cymru,” meddai gweinidog cysgodol y Ceidwadwyr Cymreig",
       "english": "“Natural Resources Wales must be scrapped,” said the Welsh Conservatives' shadow minister",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2207307-rhaid-cael-gwared-gyfoeth-naturiol-cymru-meddai?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=rns7GjAM",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207307-rhaid-cael-gwared-gyfoeth-naturiol-cymru-meddai?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=rns7GjAM",
       "pubDate": "Tue, 06 Oct 2026 12:15:41 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
+      "feedPosition": 3,
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
       "category": null,
       "welshGlosses": [
         "It is a",
@@ -170,10 +170,10 @@
       "guid": "https://golwg.360.cymru/?p=2207300",
       "welsh": "Y Gweinidog Cyllid yn arwain dadl dros gyllid tecach a chyflwyno buddsoddiad mewn rheilffyrdd",
       "english": "The Finance Minister leads a debate on fairer finance and the introduction of rail investment",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2207300-gweinidog-cyllid-arwain-dadl-dros-gyllid-tecach?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMaN5j",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207300-gweinidog-cyllid-arwain-dadl-dros-gyllid-tecach?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMaN5j",
       "pubDate": "Tue, 06 Oct 2026 11:37:52 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
       "category": null,
       "welshGlosses": [
         "the",
@@ -213,10 +213,10 @@
       "guid": "https://golwg.360.cymru/?p=2207286",
       "welsh": "Y Senedd yn cefnogi’r angen am strategaeth ddiwydiannol amddiffyn i Gymru",
       "english": "Parliament supports the need for a defence industrial strategy for Wales",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2207286-senedd-cefnogi-angen-strategaeth-ddiwydiannol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGP01J",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207286-senedd-cefnogi-angen-strategaeth-ddiwydiannol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGP01J",
       "pubDate": "Tue, 06 Oct 2026 10:25:27 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
       "category": null,
       "welshGlosses": [
         "the",
@@ -251,8 +251,8 @@
       "english": "Expecting the closure of two rural schools after Christmas",
       "url": "https://golwg.360.cymru/newyddion/addysg/2207254-disgwyl-ysgol-wledig-nadolig?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNj31E",
       "pubDate": "Mon, 05 Oct 2026 15:03:59 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
       "category": null,
       "welshGlosses": [
         "Due",
@@ -283,8 +283,8 @@
       "english": "“There is a need to ensure that community initiatives do not hinder the Welsh Government's growth plans”",
       "url": "https://golwg.360.cymru/newyddion/2207232-angen-sicrhau-mentrau-cymunedol-llesteirio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=wPs0ajw8",
       "pubDate": "Mon, 05 Oct 2026 12:01:32 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
       "category": null,
       "welshGlosses": [
         "must",
@@ -326,29 +326,9 @@
       "english": "“Devolution has not helped the education of Welsh pupils”",
       "url": "https://golwg.360.cymru/newyddion/addysg/2207223-datganoli-ddim-wedi-helpu-addysg-disgyblion-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpRe2",
       "pubDate": "Mon, 05 Oct 2026 09:56:57 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
-      "category": null,
-      "welshGlosses": [
-        "Devolve",
-        "not",
-        "after",
-        "help me today",
-        "Action",
-        "Pupils",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "Datganoli",
-        "Oes",
-        "ddim",
-        "helpodd",
-        "'r",
-        "addysg",
-        "o",
-        "Cymraeg",
-        "I Plannu"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207207",
@@ -356,37 +336,9 @@
       "english": "The Development Bank of Wales welcomes the launch of the Government of Wales's Stimulus programme",
       "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2207207-banc-datblygu-cymru-croesawu-lansio-rhaglen?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdL5Yp",
       "pubDate": "Mon, 05 Oct 2026 08:24:05 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
-      "category": null,
-      "welshGlosses": [
-        "bank",
-        "Development",
-        "Cymru 'n",
-        "welcome",
-        "Launch",
-        "Caption",
-        "spardyn",
-        "Governing",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "Y",
-        "Datblygu",
-        "Banc",
-        "o",
-        "Cymru",
-        "croesawu",
-        "'r",
-        "Lansio",
-        "o",
-        "'r",
-        "Cymru",
-        "o",
-        "Cymru",
-        "Sbardun",
-        "rhaglen"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207147",
@@ -394,8 +346,8 @@
       "english": "Plaid Cymru sets ambitious new targets for the Welsh economy",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207147-plaid-cymru-gosod-targedau-newydd-uchelgeisiol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE5yA",
       "pubDate": "Mon, 05 Oct 2026 07:00:25 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
+      "feedPosition": 10,
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
       "category": null
     },
     {
@@ -404,8 +356,8 @@
       "english": "Me and my Dog",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207093-nghi-37?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNAaM",
       "pubDate": "Sat, 03 Oct 2026 06:14:34 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
+      "feedPosition": 11,
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
       "category": null
     },
     {
@@ -414,8 +366,8 @@
       "english": "Lindsay Whittle: ‘Only I could win for Plaid Cymru in Caerphilly’",
       "url": "https://golwg.360.cymru/newyddion/2207150-lindsay-whittle-oedd-gallu-ennill-dros-blaid?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0paJ",
       "pubDate": "Fri, 02 Oct 2026 16:30:22 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
+      "feedPosition": 12,
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
       "category": null
     },
     {
@@ -424,8 +376,8 @@
       "english": "Marco Gil-Cervantes wins an outstanding contribution award at the Welsh Charity Awards",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207110-marco-cervantes-ennill-gwobr-cyfraniad-eithriadol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarA5y",
       "pubDate": "Fri, 02 Oct 2026 14:59:19 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
+      "feedPosition": 13,
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
       "category": null
     },
     {
@@ -434,8 +386,8 @@
       "english": "All Welsh housing associations agree to operate under the Welsh Ombudsman's Complaints Standards",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207128-cymdeithas-cymru-cytuno-weithredu-safonau-cwynion?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGDPeo",
       "pubDate": "Fri, 02 Oct 2026 14:51:26 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
+      "feedPosition": 14,
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
       "category": null
     },
     {
@@ -444,8 +396,8 @@
       "english": "A health visitor in protest says that he will never vote for Plaid Cymru again",
       "url": "https://golwg.360.cymru/newyddion/2207111-ymwelydd-iechyd-mewn-protest-dweud-fydd-byth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjODrj",
       "pubDate": "Fri, 02 Oct 2026 12:51:07 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
+      "feedPosition": 15,
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
       "category": null
     },
     {
@@ -454,8 +406,8 @@
       "english": "Call for a ‘new deal for Wales’ on the eve of a Plaid Cymru conference",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207078-galw-fargen-newydd-gymru-drothwy-cynhadledd-plaid?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroDBG",
       "pubDate": "Fri, 02 Oct 2026 06:01:02 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
+      "feedPosition": 16,
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
       "category": null
     },
     {
@@ -464,10 +416,10 @@
       "english": "Reject a 20m.y.a. deletion proposal.",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207076-gwrthod-cynnig-ddileu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarAEy",
       "pubDate": "Thu, 01 Oct 2026 13:19:12 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-10-06T13:14:28.894Z",
+      "feedPosition": 17,
+      "fetchedAt": "2026-10-07T00:38:46.810Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-10-06T20:14:06.740Z"
+  "generatedAt": "2026-10-07T00:38:46.810Z"
 }
