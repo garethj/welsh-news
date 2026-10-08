@@ -2,6 +2,82 @@
   "date": "2026-10-08",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2207566",
+      "welsh": "‘Mae’r amser wedi dod i gael gwared ar Swyddfa Cymru’ – Mark Drakeford",
+      "english": "‘The time has come to scrap the Wales Office’ – Mark Drakeford",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2207566-amser-wedi-gael-gwared-swyddfa-cymru-mark?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=MgsELBLG",
+      "pubDate": "Thu, 08 Oct 2026 20:28:59 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-08T20:40:45.313Z",
+      "category": null,
+      "welshGlosses": [
+        "The",
+        "time",
+        "after",
+        "sand",
+        "to",
+        "get",
+        "remove",
+        "on",
+        "Office",
+        "Wales",
+        "Mark:",
+        "Drakeford"
+      ],
+      "englishGlosses": [
+        "Y",
+        "amser",
+        "Oes",
+        "tyd",
+        "i",
+        "sgrap",
+        "'r",
+        "Cymru",
+        "Post",
+        "Mark:",
+        "Drakeford"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2207561",
+      "welsh": "Miloedd yn gwrthwynebu cynllun canolfan ddata enfawr ar lan y Fenai",
+      "english": "Thousands oppose a massive data centre scheme on the banks of the Menai Strait",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2207561-miloedd-gwrthwynebu-cynllun-canolfan-ddata-enfawr?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRlRo",
+      "pubDate": "Thu, 08 Oct 2026 19:34:50 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-08T20:40:45.313Z",
+      "category": null,
+      "welshGlosses": [
+        "Thousands",
+        "in",
+        "Object",
+        "Plan",
+        "Centre",
+        "data",
+        "huge",
+        "on",
+        "UP",
+        "the",
+        "Menai"
+      ],
+      "englishGlosses": [
+        "filoedd",
+        "gwrthwynebu",
+        "a.",
+        "enfawr",
+        "Data",
+        "CANOL",
+        "Gwaredu Cynllun",
+        "ar",
+        "'r",
+        "banciau",
+        "o",
+        "'r",
+        "Menai",
+        "Culfor"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2207524",
       "welsh": "Plaid Cymru’n galw am ymestyn y Rhyddhad Tollau Tanwydd Gwledig i Gymru",
       "english": "Plaid Cymru calls for the extension of Rural Fuel Duty Relief to Wales",
@@ -594,27 +670,7 @@
       "feedPosition": 10,
       "fetchedAt": "2026-10-08T00:57:27.121Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207312",
-      "welsh": "Plac Porffor Cymru newydd yn cydnabod dewrder gwraig ginio o Aberfan yn y drychineb",
-      "english": "A new Welsh Purple Plaque recognises the courage of a dinner lady from Aberfan in the disaster",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2207312-plac-porffor-27ain-cymru-nodi-dewrder-gwraig-ginio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarAPD",
-      "pubDate": "Tue, 06 Oct 2026 12:45:38 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-10-08T00:57:27.121Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207307",
-      "welsh": "“Mae’n rhaid cael gwared ar Gyfoeth Naturiol Cymru,” meddai gweinidog cysgodol y Ceidwadwyr Cymreig",
-      "english": "“Natural Resources Wales must be scrapped,” said the Welsh Conservatives' shadow minister",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207307-rhaid-cael-gwared-gyfoeth-naturiol-cymru-meddai?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=rns7GjAM",
-      "pubDate": "Tue, 06 Oct 2026 12:15:41 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-10-08T00:57:27.121Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-08T13:21:21.946Z"
+  "generatedAt": "2026-10-08T20:40:45.313Z"
 }
