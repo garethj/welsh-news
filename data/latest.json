@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2207589",
@@ -8,7 +8,7 @@
       "url": "https://golwg.360.cymru/newyddion/2207589-treftadaeth-cymru-cyfrannu-miliwn-economi-blwyddyn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGP04d",
       "pubDate": "Fri, 09 Oct 2026 11:41:32 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-10-09T13:10:01.939Z",
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
       "category": null,
       "welshGlosses": [
         "Heritage",
@@ -40,10 +40,10 @@
       "guid": "https://golwg.360.cymru/?p=2207608",
       "welsh": "6,157 o droseddau casineb wedi’u cofnodi yng Nghymru mewn blwyddyn",
       "english": "6,157 hate crimes recorded in Wales in a year",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2207608-6157-droseddau-casineb-wedi-cofnodi-nghymru-mewn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0Ne3N",
+      "url": "https://golwg.360.cymru/newyddion/gwasanaethau-brys/2207608-6157-droseddau-casineb-wedi-cofnodi-nghymru-mewn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0Ne3N",
       "pubDate": "Fri, 09 Oct 2026 11:23:10 +0000",
       "feedPosition": 1,
-      "fetchedAt": "2026-10-09T13:10:01.939Z",
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
       "category": null,
       "welshGlosses": [
         "6.",
@@ -78,7 +78,7 @@
       "url": "https://golwg.360.cymru/newyddion/iaith/2207599-ystyried-pedair-ysgol-wledig-arall-gaerfyrddin?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGDPnd",
       "pubDate": "Fri, 09 Oct 2026 10:57:29 +0000",
       "feedPosition": 2,
-      "fetchedAt": "2026-10-09T13:10:01.939Z",
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
       "category": null,
       "welshGlosses": [
         "Probed",
@@ -119,7 +119,7 @@
       "url": "https://golwg.360.cymru/newyddion/addysg/2207596-cynghorydd-mhowys-gael-pleidlais-ysgolion?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8Dg4E",
       "pubDate": "Fri, 09 Oct 2026 10:33:18 +0000",
       "feedPosition": 3,
-      "fetchedAt": "2026-10-09T13:10:01.939Z",
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
       "category": null,
       "welshGlosses": [
         "Is",
@@ -151,10 +151,10 @@
       "guid": "https://golwg.360.cymru/?p=2207583",
       "welsh": "£5 miliwn i adfywio Wrecsam wrth i Lywodraeth Cymru gyhoeddi £10 miliwn o gyllid",
       "english": "£5 million to regenerate Wrexham as £10 million of funding is announced by the Government of Wales",
-      "url": "https://golwg.360.cymru/newyddion/2207583-miliwn-adfywio-wrecsam-wrth-lywodraeth-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroDo4",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207583-miliwn-adfywio-wrecsam-wrth-lywodraeth-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroDo4",
       "pubDate": "Fri, 09 Oct 2026 10:20:28 +0000",
       "feedPosition": 4,
-      "fetchedAt": "2026-10-09T13:10:01.939Z",
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
       "category": null,
       "welshGlosses": [
         "5.",
@@ -199,7 +199,7 @@
       "url": "https://golwg.360.cymru/newyddion/2207548-cymdeithasol-gwrthod-cynnig-annoeth-atgas?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarAR2",
       "pubDate": "Fri, 09 Oct 2026 08:01:51 +0000",
       "feedPosition": 5,
-      "fetchedAt": "2026-10-09T13:10:01.939Z",
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
       "category": null,
       "welshGlosses": [
         "Thai",
@@ -233,8 +233,34 @@
       "url": "https://golwg.360.cymru/newyddion/2207540-siop-senedd-galw-gynyddu-potensial-masnachol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lMOl",
       "pubDate": "Fri, 09 Oct 2026 07:01:09 +0000",
       "feedPosition": 6,
-      "fetchedAt": "2026-10-09T13:10:01.939Z",
-      "category": null
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
+      "category": null,
+      "welshGlosses": [
+        "Store",
+        "the",
+        "Parliament",
+        "Call",
+        "for",
+        "increase",
+        "potential",
+        "Commercial",
+        "the",
+        "Organisation"
+      ],
+      "englishGlosses": [
+        "Y",
+        "Y Senedd",
+        "Siop",
+        "Galwadau",
+        "am",
+        "\"an\",",
+        "Cynyddu",
+        "yn",
+        "'r",
+        "trefniadaeth",
+        "Masnachol.",
+        "potensial"
+      ]
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207531",
@@ -243,8 +269,37 @@
       "url": "https://golwg.360.cymru/newyddion/iaith/2207531-cynhadledd-prifysgol-aberystwyth-taflu-goleuni?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNAy0",
       "pubDate": "Fri, 09 Oct 2026 06:01:18 +0000",
       "feedPosition": 7,
-      "fetchedAt": "2026-10-09T13:10:01.939Z",
-      "category": null
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
+      "category": null,
+      "welshGlosses": [
+        "Conference",
+        "Univ",
+        "Mouth of the river Ystwyth",
+        "in",
+        "Roll",
+        "Light",
+        "on",
+        "Language",
+        "GB",
+        "in",
+        "the",
+        "Yes",
+        "Roman"
+      ],
+      "englishGlosses": [
+        "Aberystwyth:",
+        "",
+        "Rydyn ni eisiau",
+        "Siediau",
+        "golau",
+        "ar",
+        "'r",
+        "ieithoedd",
+        "o",
+        "Romania",
+        "amseroedd",
+        "Prydain"
+      ]
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207566",
@@ -252,36 +307,9 @@
       "english": "‘The time has come to scrap the Wales Office’ – Mark Drakeford",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207566-amser-wedi-gael-gwared-swyddfa-cymru-mark?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=MgsELBLG",
       "pubDate": "Thu, 08 Oct 2026 20:28:59 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-10-09T01:11:23.059Z",
-      "category": null,
-      "welshGlosses": [
-        "The",
-        "time",
-        "after",
-        "sand",
-        "to",
-        "get",
-        "remove",
-        "on",
-        "Office",
-        "Wales",
-        "Mark:",
-        "Drakeford"
-      ],
-      "englishGlosses": [
-        "Y",
-        "amser",
-        "Oes",
-        "tyd",
-        "i",
-        "sgrap",
-        "'r",
-        "Cymru",
-        "Post",
-        "Mark:",
-        "Drakeford"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207561",
@@ -289,38 +317,9 @@
       "english": "Thousands oppose a massive data centre scheme on the banks of the Menai Strait",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207561-miloedd-gwrthwynebu-cynllun-canolfan-ddata-enfawr?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRlRo",
       "pubDate": "Thu, 08 Oct 2026 19:34:50 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-10-09T01:11:23.059Z",
-      "category": null,
-      "welshGlosses": [
-        "Thousands",
-        "in",
-        "Object",
-        "Plan",
-        "Centre",
-        "data",
-        "huge",
-        "on",
-        "UP",
-        "the",
-        "Menai"
-      ],
-      "englishGlosses": [
-        "filoedd",
-        "gwrthwynebu",
-        "a.",
-        "enfawr",
-        "Data",
-        "CANOL",
-        "Gwaredu Cynllun",
-        "ar",
-        "'r",
-        "banciau",
-        "o",
-        "'r",
-        "Menai",
-        "Culfor"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207524",
@@ -328,38 +327,9 @@
       "english": "Plaid Cymru calls for the extension of Rural Fuel Duty Relief to Wales",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207524-plaid-cymru-galw-ymestyn-rhyddhad-tollau-tanwydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNj3Be",
       "pubDate": "Thu, 08 Oct 2026 12:55:53 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-10-09T01:11:23.059Z",
-      "category": null,
-      "welshGlosses": [
-        "Party",
-        "Cymru 'n",
-        "Call",
-        "for",
-        "Stretching",
-        "the",
-        "Relief",
-        "Customs",
-        "Fuel",
-        "Rural",
-        "to",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "Plaid Cymru",
-        "Cymru ",
-        "Galwadau",
-        "am",
-        "'r",
-        "estyniad",
-        "o",
-        "Gwledig",
-        "Tanwydd",
-        "Dyletswydd",
-        "Rhyddhad",
-        "i",
-        "Cymru"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207518",
@@ -367,39 +337,9 @@
       "english": "‘No more devolution and forgetting': Conservatives threaten to restrict powers in Scotland",
       "url": "https://golwg.360.cymru/newyddion/2207518-ddatganoli-anghofio-ceidwadwyr-bygwth-cyfyngu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0WoeR",
       "pubDate": "Thu, 08 Oct 2026 12:29:59 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-10-09T01:11:23.059Z",
-      "category": null,
-      "welshGlosses": [
-        "None",
-        "more",
-        "of",
-        "devolution",
-        "and",
-        "forget",
-        "Conservatives",
-        "in",
-        "threat",
-        "Limit",
-        "forces",
-        "in",
-        "the",
-        "Scotland"
-      ],
-      "englishGlosses": [
-        "Na",
-        "mwy",
-        "Datganoli",
-        "a",
-        "anghofio",
-        "Ceidwadwyr",
-        "bygwth",
-        "i",
-        "gyfyngu",
-        "pwerau",
-        "yn",
-        "Yr Alban"
-      ]
+      "feedPosition": 11,
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207494",
@@ -407,36 +347,9 @@
       "english": "More second homes in Rhosneigr than Trearddur for the first time",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207494-gartrefi-rhosneigr-threarddur-cyntaf?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRl3G",
       "pubDate": "Thu, 08 Oct 2026 09:55:06 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-10-09T01:11:23.059Z",
-      "category": null,
-      "welshGlosses": [
-        "More",
-        "of",
-        "second",
-        "homes",
-        "in",
-        "enwau lleoedd",
-        "nor",
-        "Trearddur",
-        "for",
-        "the",
-        "Won:",
-        "first"
-      ],
-      "englishGlosses": [
-        "Mwy",
-        "ail",
-        "Cartrefi",
-        "yn",
-        "Rhosneigr",
-        "na",
-        "Trearddur",
-        "am",
-        "'r",
-        "cyntaf",
-        "amser"
-      ]
+      "feedPosition": 12,
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207483",
@@ -444,34 +357,9 @@
       "english": "Recommend a council tax freeze for second homes in Pembrokeshire",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207483-argymell-rhewi-dreth-gyngor-gyfer-gartrefi-benfro?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE5eR",
       "pubDate": "Thu, 08 Oct 2026 09:17:32 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-10-09T01:11:23.059Z",
-      "category": null,
-      "welshGlosses": [
-        "recommend",
-        "to freeze",
-        "tax",
-        "council",
-        "on",
-        "for",
-        "second",
-        "homes",
-        "in",
-        "County",
-        "Pembroke"
-      ],
-      "englishGlosses": [
-        "argymell",
-        "a.",
-        "Y Cyngor",
-        "Treth",
-        "Rhewi",
-        "am",
-        "ail",
-        "Cartrefi",
-        "yn",
-        "Sir Benfro"
-      ]
+      "feedPosition": 13,
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207456",
@@ -479,33 +367,9 @@
       "english": "Place-names campaign urging the Government of Wales to take action",
       "url": "https://golwg.360.cymru/newyddion/2207456-ymgyrch-enwau-lleoedd-pwyso-lywodraeth-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNj3We",
       "pubDate": "Thu, 08 Oct 2026 08:01:52 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-10-09T01:11:23.059Z",
-      "category": null,
-      "welshGlosses": [
-        "Campaign",
-        "& Game",
-        "places",
-        "in",
-        "press",
-        "on",
-        "Government",
-        "Wales",
-        "to",
-        "action"
-      ],
-      "englishGlosses": [
-        "Enwau lleoedd",
-        "ymgyrch",
-        "annog",
-        "'r",
-        "Cymru",
-        "o",
-        "Cymru",
-        "i",
-        "Cymryd",
-        "gweithred"
-      ]
+      "feedPosition": 14,
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207440",
@@ -513,36 +377,9 @@
       "english": "A new strategy to address the skills gaps of the Welsh workforce",
       "url": "https://golwg.360.cymru/newyddion/2207440-strategaeth-newydd-fynd-afael-bylchau-sgiliau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0NeP7",
       "pubDate": "Thu, 08 Oct 2026 07:01:05 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-10-09T01:11:23.059Z",
-      "category": null,
-      "welshGlosses": [
-        "Strategies",
-        "new",
-        "to",
-        "go",
-        "I",
-        "grip",
-        "To:",
-        "Gaps",
-        "skills",
-        "workforce",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "A.",
-        "newydd",
-        "Strategaeth",
-        "i",
-        "yr ysbyty",
-        "'r",
-        "sgiliau",
-        "Bylchau",
-        "o",
-        "'r",
-        "Cymraeg",
-        "gweithlu"
-      ]
+      "feedPosition": 15,
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207451",
@@ -550,8 +387,8 @@
       "english": "National Health Service waiting lists to rise again before starting to fall, says the Health Minister",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207451-rhestrau-aros-gwasanaeth-iechyd-gwladol-godi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0WoL0",
       "pubDate": "Thu, 08 Oct 2026 06:01:30 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-10-09T01:11:23.059Z",
+      "feedPosition": 16,
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
       "category": null
     },
     {
@@ -560,8 +397,8 @@
       "english": "“They don't care about Wales”",
       "url": "https://golwg.360.cymru/newyddion/2207445-dydyn-ddim-becso-gymru-ddirprwy-arweinydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1ANB",
       "pubDate": "Wed, 07 Oct 2026 15:36:43 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-10-09T01:11:23.059Z",
+      "feedPosition": 17,
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
       "category": null
     },
     {
@@ -570,10 +407,10 @@
       "english": "Ysgol Meidrim's decision “to open thefloodgates”",
       "url": "https://golwg.360.cymru/newyddion/2207432-penderfyniad-ysgol-meidrim-agor-llif-ddorau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=MgsELB4W",
       "pubDate": "Wed, 07 Oct 2026 13:53:47 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-10-09T01:11:23.059Z",
+      "feedPosition": 18,
+      "fetchedAt": "2026-10-10T00:45:42.704Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-10-09T20:05:21.564Z"
+  "generatedAt": "2026-10-10T00:45:42.704Z"
 }
