@@ -2,6 +2,39 @@
   "date": "2026-10-11",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2207647",
+      "welsh": "Gwersi mislif i bob disgybl Blwyddyn 6 ar Ynys Môn",
+      "english": "Period lessons for all Year 6 pupils on Anglesey",
+      "url": "https://golwg.360.cymru/newyddion/iechyd/2207647-gwersi-mislif-disgybl-blwyddyn-ynys?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1AW5",
+      "pubDate": "Sun, 11 Oct 2026 05:01:51 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-11T12:42:35.162Z",
+      "category": null,
+      "welshGlosses": [
+        "Lessons",
+        "Menses",
+        "to",
+        "every",
+        "tutee",
+        "Year",
+        "6.",
+        "on",
+        "Island",
+        "Anglesey"
+      ],
+      "englishGlosses": [
+        "Cyfnod",
+        "gwersi",
+        "am",
+        "bob un",
+        "Blwyddyn",
+        "6.",
+        "I Plannu",
+        "ar",
+        "Mon"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2207589",
       "welsh": "Treftadaeth Cymru yn cyfrannu £738 miliwn at yr economi bob blwyddyn",
       "english": "Heritage Wales contributes £738 million to the economy each year",
@@ -390,17 +423,7 @@
       "feedPosition": 16,
       "fetchedAt": "2026-10-11T00:13:19.361Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207445",
-      "welsh": "“Dydyn nhw ddim yn becso am Gymru”",
-      "english": "“They don't care about Wales”",
-      "url": "https://golwg.360.cymru/newyddion/2207445-dydyn-ddim-becso-gymru-ddirprwy-arweinydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1ANB",
-      "pubDate": "Wed, 07 Oct 2026 15:36:43 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-10-11T00:13:19.361Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-11T00:13:19.361Z"
+  "generatedAt": "2026-10-11T12:42:35.162Z"
 }
