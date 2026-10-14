@@ -2,6 +2,156 @@
   "date": "2026-10-14",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2207899",
+      "welsh": "‘Anoddach darparu gwasanaethau’ wrth i nifer staff Cyngor Gwynedd ostwng",
+      "english": "‘Harder to provide services’ as Gwynedd Council staff numbers fall",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2207899-anoddach-darparu-gwasanaethau-wrth-nifer-staff?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8DgoP",
+      "pubDate": "Wed, 14 Oct 2026 10:47:08 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-14T11:45:02.947Z",
+      "category": null,
+      "welshGlosses": [
+        "Harder",
+        "rig",
+        "FOOD",
+        "by",
+        "to",
+        "Chunk",
+        "staff",
+        "Advice",
+        "A497 Abererch to Llanystumdwy",
+        "drop"
+      ],
+      "englishGlosses": [
+        "Caledach",
+        "i",
+        "gofal iechyd",
+        "Gwasanaeth",
+        "Graddfeyddunit description in lists",
+        "Gwynedd",
+        "Y Cyngor",
+        "staff",
+        "Rhif",
+        "Syrthio"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2207865",
+      "welsh": "Eryri 75: Iolo Williams yn canmol gwelliant “sylweddol” yng ngwaith cadwraeth y parc",
+      "english": "Snowdonia 75: Iolo Williams praises a “significant” improvement in the park's conservation work",
+      "url": "https://golwg.360.cymru/newyddion/amgylchedd/2207865-eryri-iolo-williams-canmol-gwelliant-sylweddol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8DgeP",
+      "pubDate": "Wed, 14 Oct 2026 08:05:53 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-14T11:45:02.947Z",
+      "category": null,
+      "welshGlosses": [
+        "Snowdonia",
+        "75%",
+        "Iolo",
+        "Williams Lake",
+        "in",
+        "begin",
+        "Amendment",
+        "cleddau",
+        "in",
+        "work",
+        "conservation",
+        "the",
+        "park"
+      ],
+      "englishGlosses": [
+        "Eryri",
+        "75+",
+        "Iolo",
+        "Wyn Williams",
+        "clodfori",
+        "a.",
+        "arwyddocaol",
+        "gwelliant",
+        "yn",
+        "'r",
+        "parc",
+        "Cadwraeth",
+        "Gwaith"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2207823",
+      "welsh": "90% o ffermwyr y cynllun newydd wedi derbyn eu rhagdaliadau",
+      "english": "90% of farmers in the new scheme have received their prepayments",
+      "url": "https://golwg.360.cymru/newyddion/cefn-gwlad/2207823-ffermwyr-cynllun-newydd-wedi-derbyn-rhagdaliadau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0p1w",
+      "pubDate": "Wed, 14 Oct 2026 07:02:02 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-10-14T11:45:02.947Z",
+      "category": null,
+      "welshGlosses": [
+        "90%",
+        "of",
+        "Farmer",
+        "the",
+        "Plan",
+        "new",
+        "after",
+        "accept",
+        "their",
+        "Prepayments"
+      ],
+      "englishGlosses": [
+        "90%",
+        "o",
+        "Ffermwr",
+        "yn",
+        "'r",
+        "newydd",
+        "Gwaredu Cynllun",
+        "cael",
+        "eu derbyn.",
+        "eu",
+        "Rhagdaliadau"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2207818",
+      "welsh": "Cynllun ‘dim drws anghywir’ i gael gwared ar rwystrau rhag cael cymorth iechyd meddwl",
+      "english": "A ‘no wrong door’ scheme to remove barriers to accessing mental health support",
+      "url": "https://golwg.360.cymru/newyddion/iechyd/2207818-cynllun-drws-anghywir-gael-gwared-rwystrau-rhag?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjODM4",
+      "pubDate": "Wed, 14 Oct 2026 06:02:27 +0000",
+      "feedPosition": 3,
+      "fetchedAt": "2026-10-14T11:45:02.947Z",
+      "category": null,
+      "welshGlosses": [
+        "Plan",
+        "none",
+        "Door",
+        "Wrong",
+        "to",
+        "get",
+        "remove",
+        "on",
+        "barriers",
+        "Dec",
+        "have",
+        "help",
+        "Healt",
+        "Thinking"
+      ],
+      "englishGlosses": [
+        "A.",
+        "nac ydw",
+        "cam",
+        "Drws",
+        "Gwaredu Cynllun",
+        "i",
+        "Hidl:",
+        "rhwystrau",
+        "i",
+        "cyrchu",
+        "meddyliol",
+        "iechyd",
+        "cefnogaeth"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2207881",
       "welsh": "‘Paid â mynd yn rhy gyfforddus yn dy sedd’ – Rhun yn cael hwyl am ben arweinydd Reform",
       "english": "‘Don't get too comfortable in your seat’ – Rhun pokes fun at Reform leader",
@@ -371,37 +521,7 @@
       "feedPosition": 13,
       "fetchedAt": "2026-10-14T00:16:08.134Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207429",
-      "welsh": "Rhybudd llifogydd i Gymru wedi haf o sychder a thanau gwyllt",
-      "english": "Flood warning for Wales after summer of drought and wildfires",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2207429-rhybudd-llifogydd-gymru-wedi-sychder-thanau-gwyllt?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7e2D",
-      "pubDate": "Mon, 12 Oct 2026 07:01:25 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-10-14T00:16:08.134Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207618",
-      "welsh": "Adam Price yn Boston yn chwilio am gysylltiadau masnach newydd i Gymru",
-      "english": "Adam Price in Boston looking for new trade links for Wales",
-      "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2207618-adam-price-boston-chwilio-gysylltiadau-masnach?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE5Ba",
-      "pubDate": "Mon, 12 Oct 2026 06:01:50 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-10-14T00:16:08.134Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207647",
-      "welsh": "Gwersi mislif i bob disgybl Blwyddyn 6 ar Ynys Môn",
-      "english": "Period lessons for all Year 6 pupils on Anglesey",
-      "url": "https://golwg.360.cymru/newyddion/iechyd/2207647-gwersi-mislif-disgybl-blwyddyn-ynys?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1AW5",
-      "pubDate": "Sun, 11 Oct 2026 05:01:51 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-10-14T00:16:08.134Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-14T00:16:08.134Z"
+  "generatedAt": "2026-10-14T11:45:02.947Z"
 }
