@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2207881",
       "welsh": "‘Paid â mynd yn rhy gyfforddus yn dy sedd’ – Rhun yn cael hwyl am ben arweinydd Reform",
       "english": "‘Don't get too comfortable in your seat’ – Rhun pokes fun at Reform leader",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2207881-paid-mynd-gyfforddus-sedd-rhun-cael-hwyl-arweinydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=pgseG0LE",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207881-paid-mynd-gyfforddus-sedd-rhun-cael-hwyl-arweinydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=pgseG0LE",
       "pubDate": "Tue, 13 Oct 2026 18:22:34 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-10-13T20:38:43.608Z",
+      "fetchedAt": "2026-10-14T00:16:08.134Z",
       "category": null,
       "welshGlosses": [
         "Don't",
@@ -52,7 +52,7 @@
       "url": "https://golwg.360.cymru/newyddion/2207876-cyhuddo-plaid-cymru-ddiffyg-arweinyddiaeth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lM82",
       "pubDate": "Tue, 13 Oct 2026 16:22:28 +0000",
       "feedPosition": 1,
-      "fetchedAt": "2026-10-13T20:38:43.608Z",
+      "fetchedAt": "2026-10-14T00:16:08.134Z",
       "category": null,
       "welshGlosses": [
         "accuse",
@@ -89,10 +89,10 @@
       "guid": "https://golwg.360.cymru/?p=2207864",
       "welsh": "‘Po waethaf y perfformiad, gorau’r cyflog’ – beirniadu penaethiaid cyrff cyhoeddus",
       "english": "‘The worse the performance, the better the pay’ – criticising heads of public bodies",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2207864-waethaf-perfformiad-gorau-cyflog-beirniadu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRlEr",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207864-waethaf-perfformiad-gorau-cyflog-beirniadu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRlEr",
       "pubDate": "Tue, 13 Oct 2026 15:36:15 +0000",
       "feedPosition": 2,
-      "fetchedAt": "2026-10-13T20:38:43.608Z",
+      "fetchedAt": "2026-10-14T00:16:08.134Z",
       "category": null,
       "welshGlosses": [
         "Po",
@@ -123,49 +123,13 @@
       ]
     },
     {
-      "guid": "https://golwg.360.cymru/?p=2207850",
-      "welsh": "‘Anymarferol’ ymgynghori ar ddyfodol Ar y Marc a Dros Ginio",
-      "english": "‘Unworkable’ consultation on the future of On the Mark and Over Lunch",
-      "url": "https://golwg.360.cymru/newyddion/2207850-anymarferol-ymgynghori-ddyfodol-marc-dros-ginio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOAEn4",
-      "pubDate": "Tue, 13 Oct 2026 14:46:56 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-10-13T20:38:43.608Z",
-      "category": null,
-      "welshGlosses": [
-        "Unworkable",
-        "to consult",
-        "on",
-        "future",
-        "on",
-        "the",
-        "Rating",
-        "and",
-        "over",
-        "Lunch"
-      ],
-      "englishGlosses": [
-        "Anweithredol",
-        "Ymgynghoriad",
-        "ar",
-        "'r",
-        "Dyfodol",
-        "o",
-        "Oran",
-        "'r",
-        "Mark:",
-        "a",
-        "Dros",
-        "Cinio"
-      ]
-    },
-    {
       "guid": "https://golwg.360.cymru/?p=2207820",
       "welsh": "‘Varteg’ yn aros yn ‘Varteg’ – 13 mlynedd wedi ffrae dros enw Cymraeg",
       "english": "‘Varteg’ remains in ‘Varteg‘ – 13 years after a row over a Welsh name",
       "url": "https://golwg.360.cymru/newyddion/iaith/2207820-varteg-aros-varteg-mlynedd-wedi-ffrae-dros-cymraeg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE5Ml",
       "pubDate": "Tue, 13 Oct 2026 11:58:00 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-10-13T14:05:14.556Z",
+      "feedPosition": 3,
+      "fetchedAt": "2026-10-14T00:16:08.134Z",
       "category": null,
       "welshGlosses": [
         "Varteg",
@@ -203,8 +167,8 @@
       "english": "98% of Brecon Beacons staff are white",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207806-staff-bannau-brycheiniog?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=gnspdLlD",
       "pubDate": "Tue, 13 Oct 2026 11:15:22 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-10-13T14:05:14.556Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-10-14T00:16:08.134Z",
       "category": null,
       "welshGlosses": [
         "0.98",
@@ -231,8 +195,8 @@
       "english": "Labour agrees to support Plaid Cymru's Budget after securing £60m for AlN",
       "url": "https://golwg.360.cymru/newyddion/senedd/2207775-llafur-cytuno-gefnogi-cyllideb-plaid-cymru-sicrhau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lMWw",
       "pubDate": "Tue, 13 Oct 2026 09:02:32 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-10-13T14:05:14.556Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-10-14T00:16:08.134Z",
       "category": null,
       "welshGlosses": [
         "Labour",
@@ -271,8 +235,8 @@
       "english": "Council urged to abandon controversial plan to change the status of Welsh-medium schools",
       "url": "https://golwg.360.cymru/newyddion/addysg/2207776-cyngor-cael-annog-gefnu-gynllun-dadleuol-newid?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0NeRo",
       "pubDate": "Tue, 13 Oct 2026 08:28:04 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-10-13T14:05:14.556Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-10-14T00:16:08.134Z",
       "category": null,
       "welshGlosses": [
         "Advice",
@@ -313,8 +277,8 @@
       "english": "‘I may not cut the ribbon’ – the third Menai bridge could take a decade",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207770-efallai-fyddaf-torri-rhuban-gallai-trydedd-bont?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=wPs0ajO2",
       "pubDate": "Tue, 13 Oct 2026 06:56:26 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-10-13T14:05:14.556Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-10-14T00:16:08.134Z",
       "category": null,
       "welshGlosses": [
         "Maybe",
@@ -354,41 +318,9 @@
       "english": "‘Seeing my baby not breathing was terrifying’ – a mother's warning about the dangers of RSV",
       "url": "https://golwg.360.cymru/newyddion/2207762-roedd-gweld-mabi-methu-anadlu-ddychrynllyd-rhybudd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsdePEg",
       "pubDate": "Tue, 13 Oct 2026 05:05:02 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-10-13T14:05:14.556Z",
-      "category": null,
-      "welshGlosses": [
-        "The Auditor",
-        "& Total Column",
-        "my",
-        "my son",
-        "fail",
-        "Breath",
-        "in",
-        "terrifying",
-        "alert",
-        "mum",
-        "for",
-        "hazards",
-        "RSV"
-      ],
-      "englishGlosses": [
-        "Gweld",
-        "fy",
-        "Babi",
-        "ddim",
-        "Anadlu",
-        "oedd",
-        "brawychus",
-        "a.",
-        "mam",
-        "Rhybudd",
-        "Ynglŷn â",
-        "'r",
-        "peryglon",
-        "o",
-        "RSV"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-10-14T00:16:08.134Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207732",
@@ -396,40 +328,9 @@
       "english": "Announce an extension to a project that has “boosted” red squirrels in north Wales",
       "url": "https://golwg.360.cymru/newyddion/amgylchedd/2207732-cyhoeddi-estyniad-brosiect-sydd-wedi-rhoi-wiwerod?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7e13",
       "pubDate": "Mon, 12 Oct 2026 14:22:07 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-10-13T14:05:14.556Z",
-      "category": null,
-      "welshGlosses": [
-        "Publish",
-        "< extension >",
-        "to",
-        "project",
-        "which is",
-        "after",
-        "give",
-        "boost",
-        "to",
-        "squirrels",
-        "red",
-        "north",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "cyhoeddi",
-        "\"an\",",
-        "estyniad",
-        "i",
-        "a.",
-        ".",
-        "hynny",
-        "Oes",
-        "wedi ei hybu",
-        "coch",
-        "Gwiwerod",
-        "yn",
-        "gogledd",
-        "Cymru"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-10-14T00:16:08.134Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207708",
@@ -437,45 +338,9 @@
       "english": "It was only two months before the residents of New Quay gave their views on the future of their medical services",
       "url": "https://golwg.360.cymru/newyddion/iechyd/2207708-deufis-drigolion-ceinewydd-leisio-barn-ddyfodol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lMoe",
       "pubDate": "Mon, 12 Oct 2026 14:09:15 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-10-13T14:05:14.556Z",
-      "category": null,
-      "welshGlosses": [
-        "Bi-monthly",
-        "to",
-        "residents",
-        "New Quay",
-        "leisio",
-        "view point",
-        "for",
-        "future",
-        "their",
-        "FOOD",
-        "medical"
-      ],
-      "englishGlosses": [
-        "hynnu",
-        "oedd",
-        "Dim ond",
-        "dau",
-        "mis",
-        "cyn",
-        "'r",
-        "preswylwyr",
-        "o",
-        "Newydd",
-        "Cei",
-        "rhodd",
-        "eu",
-        "goly gos",
-        "ar",
-        "'r",
-        "Dyfodol",
-        "o",
-        "eu",
-        "meddygol",
-        "Gwasanaeth"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-10-14T00:16:08.134Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207693",
@@ -483,8 +348,8 @@
       "english": "United Kingdom and Europe: Free Dems in Wales call on Andy Burnham to mend the relationship",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207693-deyrnas-unedig-ewrop-dems-rhydd-cymru-galw-andy?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=oDs4WgLg",
       "pubDate": "Mon, 12 Oct 2026 09:43:10 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-10-13T14:05:14.556Z",
+      "feedPosition": 11,
+      "fetchedAt": "2026-10-14T00:16:08.134Z",
       "category": null
     },
     {
@@ -493,8 +358,8 @@
       "english": "Consultation on the extension of the line between Aberdare and Hirwaun",
       "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2207684-ymgynghori-ymestyn-rheilffordd-rhwng-aberdar?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroD1O",
       "pubDate": "Mon, 12 Oct 2026 09:28:37 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-10-13T14:05:14.556Z",
+      "feedPosition": 12,
+      "fetchedAt": "2026-10-14T00:16:08.134Z",
       "category": null
     },
     {
@@ -503,8 +368,8 @@
       "english": "More children want to speak Welsh to Santa Claus this year",
       "url": "https://golwg.360.cymru/newyddion/2207678-blant-eisiau-siarad-cymraeg-sion-corn-eleni?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdL5Wl",
       "pubDate": "Mon, 12 Oct 2026 09:02:42 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-10-13T14:05:14.556Z",
+      "feedPosition": 13,
+      "fetchedAt": "2026-10-14T00:16:08.134Z",
       "category": null
     },
     {
@@ -513,8 +378,8 @@
       "english": "Flood warning for Wales after summer of drought and wildfires",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207429-rhybudd-llifogydd-gymru-wedi-sychder-thanau-gwyllt?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7e2D",
       "pubDate": "Mon, 12 Oct 2026 07:01:25 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-10-13T14:05:14.556Z",
+      "feedPosition": 14,
+      "fetchedAt": "2026-10-14T00:16:08.134Z",
       "category": null
     },
     {
@@ -523,8 +388,8 @@
       "english": "Adam Price in Boston looking for new trade links for Wales",
       "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2207618-adam-price-boston-chwilio-gysylltiadau-masnach?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE5Ba",
       "pubDate": "Mon, 12 Oct 2026 06:01:50 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-10-13T14:05:14.556Z",
+      "feedPosition": 15,
+      "fetchedAt": "2026-10-14T00:16:08.134Z",
       "category": null
     },
     {
@@ -533,10 +398,10 @@
       "english": "Period lessons for all Year 6 pupils on Anglesey",
       "url": "https://golwg.360.cymru/newyddion/iechyd/2207647-gwersi-mislif-disgybl-blwyddyn-ynys?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1AW5",
       "pubDate": "Sun, 11 Oct 2026 05:01:51 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-10-13T14:05:14.556Z",
+      "feedPosition": 16,
+      "fetchedAt": "2026-10-14T00:16:08.134Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-10-13T20:38:43.608Z"
+  "generatedAt": "2026-10-14T00:16:08.134Z"
 }
