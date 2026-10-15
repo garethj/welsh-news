@@ -1,14 +1,49 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "headlines": [
+    {
+      "guid": "https://golwg.360.cymru/?p=2207937",
+      "welsh": "Eryri yn 75: ‘Mae ein perthynas â chymunedau lleol wedi gwella’",
+      "english": "Snowdonia at 75: ‘Our relationship with local communities has improved’",
+      "url": "https://golwg.360.cymru/newyddion/2207937-eryri-perthynas-chymunedau-lleol-wedi-gwella?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=MgsELBeD",
+      "pubDate": "Thu, 15 Oct 2026 08:01:48 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
+      "category": null,
+      "welshGlosses": [
+        "Snowdonia",
+        "in",
+        "75%",
+        "is",
+        "our",
+        "Elderly",
+        "To:",
+        "communities",
+        "local",
+        "after",
+        "Improved"
+      ],
+      "englishGlosses": [
+        "Eryri",
+        "am",
+        "75+",
+        "Cabin",
+        "Perthynas",
+        "gyda",
+        "lleol",
+        "Cymuned",
+        "Oes",
+        "gwell"
+      ]
+    },
     {
       "guid": "https://golwg.360.cymru/?p=2207938",
       "welsh": "Gwariant ar anghenion dysgu ychwanegol wedi cynyddu 164% er bod nifer y disgyblion wedi gostwng",
       "english": "Expenditure on additional learning needs increased by 164% despite falling pupil numbers",
       "url": "https://golwg.360.cymru/newyddion/2207938-gwariant-anghenion-dysgu-ychwanegol-wedi-cynyddu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Pes27NyJ",
       "pubDate": "Wed, 14 Oct 2026 15:32:49 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-10-14T17:05:55.729Z",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
       "category": null,
       "welshGlosses": [
         "Expense:",
@@ -48,8 +83,8 @@
       "english": "‘Drops in the sea': Judging an extra £2 million for the NHS over the winter",
       "url": "https://golwg.360.cymru/newyddion/iechyd/2207925-diferyn-beirniadu-filiwn-ychwanegol-dros-gaeaf?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=nAs2yMRG",
       "pubDate": "Wed, 14 Oct 2026 14:05:22 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-10-14T17:05:55.729Z",
+      "feedPosition": 2,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
       "category": null,
       "welshGlosses": [
         "Aqua",
@@ -90,8 +125,8 @@
       "english": "Accusing MP of being “totally ignorant” about military radar scheme",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207833-cyhuddo-hollol-anwybodus-gynllun-radar-milwrol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7eWJ",
       "pubDate": "Wed, 14 Oct 2026 13:03:34 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-10-14T17:05:55.729Z",
+      "feedPosition": 3,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
       "category": null,
       "welshGlosses": [
         "accuse",
@@ -121,12 +156,12 @@
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207906",
-      "welsh": "‘Anghenion heddiw, nid ddoe’: Cyngor yn pleidleisio i gau dwy ysgol wledig.",
-      "english": "‘Needs today, not yesterday': Council votes to close two rural schools.",
+      "welsh": "‘Anghenion heddiw, nid ddoe’: Cyngor yn pleidleisio i gau dwy ysgol wledig",
+      "english": "‘Today's needs, not yesterday': Council votes to close two rural schools",
       "url": "https://golwg.360.cymru/newyddion/2207906-anghenion-heddiw-ddoe-cyngor-pleidleisio-ysgol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMaNL5",
       "pubDate": "Wed, 14 Oct 2026 12:03:03 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-10-14T17:05:55.729Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
       "category": null,
       "welshGlosses": [
         "Needs",
@@ -143,8 +178,8 @@
         "rural"
       ],
       "englishGlosses": [
-        "Anghenion",
-        "heddiw",
+        "Heddiw",
+        "anghenion",
         "ddim",
         "ddoe",
         "Y Cyngor",
@@ -162,8 +197,8 @@
       "english": "‘Harder to provide services’ as Gwynedd Council staff numbers fall",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207899-anoddach-darparu-gwasanaethau-wrth-nifer-staff?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8DgoP",
       "pubDate": "Wed, 14 Oct 2026 10:47:08 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-10-14T11:45:02.947Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
       "category": null,
       "welshGlosses": [
         "Harder",
@@ -196,8 +231,8 @@
       "english": "Snowdonia 75: Iolo Williams praises a “significant” improvement in the park's conservation work",
       "url": "https://golwg.360.cymru/newyddion/amgylchedd/2207865-eryri-iolo-williams-canmol-gwelliant-sylweddol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8DgeP",
       "pubDate": "Wed, 14 Oct 2026 08:05:53 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-10-14T11:45:02.947Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
       "category": null,
       "welshGlosses": [
         "Snowdonia",
@@ -236,8 +271,8 @@
       "english": "90% of farmers in the new scheme have received their prepayments",
       "url": "https://golwg.360.cymru/newyddion/cefn-gwlad/2207823-ffermwyr-cynllun-newydd-wedi-derbyn-rhagdaliadau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0p1w",
       "pubDate": "Wed, 14 Oct 2026 07:02:02 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-10-14T11:45:02.947Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
       "category": null,
       "welshGlosses": [
         "90%",
@@ -271,40 +306,9 @@
       "english": "A ‘no wrong door’ scheme to remove barriers to accessing mental health support",
       "url": "https://golwg.360.cymru/newyddion/iechyd/2207818-cynllun-drws-anghywir-gael-gwared-rwystrau-rhag?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjODM4",
       "pubDate": "Wed, 14 Oct 2026 06:02:27 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-10-14T11:45:02.947Z",
-      "category": null,
-      "welshGlosses": [
-        "Plan",
-        "none",
-        "Door",
-        "Wrong",
-        "to",
-        "get",
-        "remove",
-        "on",
-        "barriers",
-        "Dec",
-        "have",
-        "help",
-        "Healt",
-        "Thinking"
-      ],
-      "englishGlosses": [
-        "A.",
-        "nac ydw",
-        "cam",
-        "Drws",
-        "Gwaredu Cynllun",
-        "i",
-        "Hidl:",
-        "rhwystrau",
-        "i",
-        "cyrchu",
-        "meddyliol",
-        "iechyd",
-        "cefnogaeth"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207881",
@@ -312,43 +316,9 @@
       "english": "‘Don't get too comfortable in your seat’ – Rhun pokes fun at Reform leader",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207881-paid-mynd-gyfforddus-sedd-rhun-cael-hwyl-arweinydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=pgseG0LE",
       "pubDate": "Tue, 13 Oct 2026 18:22:34 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-10-14T00:16:08.134Z",
-      "category": null,
-      "welshGlosses": [
-        "Don't",
-        "To:",
-        "",
-        "in",
-        "Too",
-        "comfortable",
-        "in",
-        "your",
-        "seat",
-        "Rhun",
-        "in",
-        "have",
-        "banter",
-        "for",
-        "head",
-        "Lead:",
-        "Reform"
-      ],
-      "englishGlosses": [
-        "Peidio ag",
-        "gael",
-        "Rhy",
-        "cysurus",
-        "yn",
-        "eich",
-        "sedd",
-        "rhun",
-        "pocedi",
-        "hwyl",
-        "am",
-        "Diwygio",
-        "Arweinydd"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207876",
@@ -356,39 +326,9 @@
       "english": "Accusing Plaid Cymru of ‘lack of environmental leadership’ in stopping a national park scheme",
       "url": "https://golwg.360.cymru/newyddion/2207876-cyhuddo-plaid-cymru-ddiffyg-arweinyddiaeth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lM82",
       "pubDate": "Tue, 13 Oct 2026 16:22:28 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-10-14T00:16:08.134Z",
-      "category": null,
-      "welshGlosses": [
-        "accuse",
-        "Party",
-        "Wales",
-        "of",
-        "deficiency",
-        "leadership",
-        "Environmental",
-        "by",
-        "stop",
-        "Plan",
-        "park",
-        "national"
-      ],
-      "englishGlosses": [
-        "Cyhuddo",
-        "Plaid Cymru",
-        "Cymru ",
-        "o",
-        "diffyg",
-        "o",
-        "Amgylcheddol",
-        "Arweinyddiaeth",
-        "yn",
-        "Aros.",
-        "a.",
-        "cenedlaethol",
-        "",
-        "Gwaredu Cynllun"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207864",
@@ -396,36 +336,9 @@
       "english": "‘The worse the performance, the better the pay’ – criticising heads of public bodies",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2207864-waethaf-perfformiad-gorau-cyflog-beirniadu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRlEr",
       "pubDate": "Tue, 13 Oct 2026 15:36:15 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-10-14T00:16:08.134Z",
-      "category": null,
-      "welshGlosses": [
-        "Po",
-        "worst",
-        "the",
-        "Performance",
-        "best of",
-        "Wage",
-        "to criticise",
-        "bosses",
-        "bodies",
-        "public"
-      ],
-      "englishGlosses": [
-        "Y",
-        "Wedi",
-        "'r",
-        "Er",
-        "'r",
-        "gwell",
-        "'r",
-        "tâl",
-        "beirniadu",
-        "Pen",
-        "o",
-        "cyhoedd",
-        "cyrff"
-      ]
+      "feedPosition": 11,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207820",
@@ -433,38 +346,9 @@
       "english": "‘Varteg’ remains in ‘Varteg‘ – 13 years after a row over a Welsh name",
       "url": "https://golwg.360.cymru/newyddion/iaith/2207820-varteg-aros-varteg-mlynedd-wedi-ffrae-dros-cymraeg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE5Ml",
       "pubDate": "Tue, 13 Oct 2026 11:58:00 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-10-14T00:16:08.134Z",
-      "category": null,
-      "welshGlosses": [
-        "Varteg",
-        "in",
-        "Wait",
-        "in",
-        "Varteg",
-        "13.",
-        "years",
-        "after",
-        "quarrel",
-        "over",
-        "noun",
-        ""
-      ],
-      "englishGlosses": [
-        "Y Farteg",
-        "olion",
-        "yn",
-        "Y Farteg",
-        "13.",
-        "blynedd",
-        "Wedi",
-        "a.",
-        "rhes",
-        "dros",
-        "a.",
-        "Cymraeg",
-        "enw"
-      ]
+      "feedPosition": 12,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207806",
@@ -472,27 +356,9 @@
       "english": "98% of Brecon Beacons staff are white",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207806-staff-bannau-brycheiniog?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=gnspdLlD",
       "pubDate": "Tue, 13 Oct 2026 11:15:22 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-10-14T00:16:08.134Z",
-      "category": null,
-      "welshGlosses": [
-        "0.98",
-        "of",
-        "staff",
-        "Spots",
-        "Brycheiniog",
-        "in",
-        "lambs"
-      ],
-      "englishGlosses": [
-        "98",
-        "o",
-        "Aberhonddu",
-        "Bannau",
-        "staff",
-        "dach",
-        "Gwyn"
-      ]
+      "feedPosition": 13,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207775",
@@ -500,39 +366,9 @@
       "english": "Labour agrees to support Plaid Cymru's Budget after securing £60m for AlN",
       "url": "https://golwg.360.cymru/newyddion/senedd/2207775-llafur-cytuno-gefnogi-cyllideb-plaid-cymru-sicrhau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lMWw",
       "pubDate": "Tue, 13 Oct 2026 09:02:32 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-10-14T00:16:08.134Z",
-      "category": null,
-      "welshGlosses": [
-        "Labour",
-        "in",
-        "agree",
-        "to",
-        "to support",
-        "Budget",
-        "Party",
-        "Wales",
-        "on",
-        "Trace",
-        "ensure",
-        "60m",
-        "to",
-        "AlN"
-      ],
-      "englishGlosses": [
-        "Esgor",
-        "cytuno",
-        "i",
-        "cefnogaeth",
-        "Plaid Cymru",
-        "Cymru",
-        "Cyllideb",
-        "Wedi",
-        "sicrhau",
-        "60m",
-        "am",
-        "ADY"
-      ]
+      "feedPosition": 14,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207776",
@@ -540,41 +376,9 @@
       "english": "Council urged to abandon controversial plan to change the status of Welsh-medium schools",
       "url": "https://golwg.360.cymru/newyddion/addysg/2207776-cyngor-cael-annog-gefnu-gynllun-dadleuol-newid?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0NeRo",
       "pubDate": "Tue, 13 Oct 2026 08:28:04 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-10-14T00:16:08.134Z",
-      "category": null,
-      "welshGlosses": [
-        "Advice",
-        "in",
-        "have",
-        "his/her",
-        "prompt",
-        "to",
-        "to abandon",
-        "on",
-        "scheme",
-        "controversial",
-        "to",
-        "change",
-        "State",
-        "school",
-        "Welsh"
-      ],
-      "englishGlosses": [
-        "Y Cyngor",
-        "anogwyd",
-        "i",
-        "cefnu",
-        "dadleuol",
-        "Cynllun",
-        "i",
-        "Newid",
-        "'r",
-        "Statws",
-        "o",
-        "Cyfrwng Cymraeg",
-        "Ysgol"
-      ]
+      "feedPosition": 15,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207770",
@@ -582,40 +386,9 @@
       "english": "‘I may not cut the ribbon’ – the third Menai bridge could take a decade",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207770-efallai-fyddaf-torri-rhuban-gallai-trydedd-bont?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=wPs0ajO2",
       "pubDate": "Tue, 13 Oct 2026 06:56:26 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-10-14T00:16:08.134Z",
-      "category": null,
-      "welshGlosses": [
-        "Maybe",
-        "nor",
-        "i will",
-        "in",
-        "to cut the",
-        "ribbon",
-        "could",
-        "third",
-        "Bridge",
-        "the",
-        "Menai",
-        "to take",
-        "Decade"
-      ],
-      "englishGlosses": [
-        "Rwy'n",
-        "mai",
-        "ddim",
-        "Torri",
-        "'r",
-        "Rhuban",
-        "'r",
-        "trydydd",
-        "Menai",
-        "Pont",
-        "gallai",
-        "Cymryd",
-        "a.",
-        "Degawd"
-      ]
+      "feedPosition": 16,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207762",
@@ -623,20 +396,10 @@
       "english": "‘Seeing my baby not breathing was terrifying’ – a mother's warning about the dangers of RSV",
       "url": "https://golwg.360.cymru/newyddion/2207762-roedd-gweld-mabi-methu-anadlu-ddychrynllyd-rhybudd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsdePEg",
       "pubDate": "Tue, 13 Oct 2026 05:05:02 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-10-14T00:16:08.134Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207732",
-      "welsh": "Cyhoeddi estyniad i brosiect sydd wedi rhoi “hwb” i wiwerod coch gogledd Cymru",
-      "english": "Announce an extension to a project that has “boosted” red squirrels in north Wales",
-      "url": "https://golwg.360.cymru/newyddion/amgylchedd/2207732-cyhoeddi-estyniad-brosiect-sydd-wedi-rhoi-wiwerod?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7e13",
-      "pubDate": "Mon, 12 Oct 2026 14:22:07 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-10-14T00:16:08.134Z",
+      "feedPosition": 17,
+      "fetchedAt": "2026-10-15T11:21:18.685Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-10-14T21:37:13.538Z"
+  "generatedAt": "2026-10-15T11:21:18.685Z"
 }
