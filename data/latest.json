@@ -2,6 +2,47 @@
   "date": "2026-10-15",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2208040",
+      "welsh": "‘Dim dadl o sylwedd’ dros wrthod datganoli plismona i Gymru, medd cyn-brif farnwr",
+      "english": "‘No substantive argument’ for refusing to devolve policing to Wales, says a formerchief judge",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2208040-dadl-sylwedd-dros-wrthod-datganoli-plismona-gymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=wPs0argw",
+      "pubDate": "Thu, 15 Oct 2026 19:56:37 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-15T21:18:45.320Z",
+      "category": null,
+      "welshGlosses": [
+        "None",
+        "debate",
+        "of",
+        "substance",
+        "over",
+        "to refuse",
+        "Devolve",
+        "policing",
+        "to",
+        "Wales",
+        "Mead",
+        "ex-main",
+        "judge"
+      ],
+      "englishGlosses": [
+        "Na",
+        "Enw",
+        "Dadl",
+        "am",
+        "gwrthod",
+        "i",
+        "Datganoli",
+        "Heddlu",
+        "i",
+        "Cymru",
+        "dywed",
+        "a.",
+        "cyn - leidr",
+        "Barnwr"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208019",
       "welsh": "‘Gwaed newydd’ a mwy o aelodau: cynllun cadeirydd newydd Plaid Cymru",
       "english": "‘New blood’ and more members: Plaid Cymru's new chair's scheme",
@@ -557,17 +598,7 @@
       "feedPosition": 13,
       "fetchedAt": "2026-10-15T11:21:18.685Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207775",
-      "welsh": "Llafur yn cytuno i gefnogi Cyllideb Plaid Cymru ar ôl sicrhau £60m i ADY",
-      "english": "Labour agrees to support Plaid Cymru's Budget after securing £60m for AlN",
-      "url": "https://golwg.360.cymru/newyddion/senedd/2207775-llafur-cytuno-gefnogi-cyllideb-plaid-cymru-sicrhau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lMWw",
-      "pubDate": "Tue, 13 Oct 2026 09:02:32 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-10-15T11:21:18.685Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-15T16:54:59.806Z"
+  "generatedAt": "2026-10-15T21:18:45.320Z"
 }
