@@ -2,6 +2,103 @@
   "date": "2026-10-16",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2208095",
+      "welsh": "Tlodi plant: Yr Alban yn ysbrydoli Cymru",
+      "english": "Child poverty: Scotland inspires Wales",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2208095-tlodi-plant-alban-ysbrydoli-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=OysPldOp",
+      "pubDate": "Fri, 16 Oct 2026 13:38:08 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-16T16:33:53.409Z",
+      "category": null,
+      "welshGlosses": [
+        "Impoverished",
+        "Children",
+        "the",
+        "Scotland",
+        "in",
+        "inspire",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Plentyn",
+        "Tlodi",
+        "Yr Alban",
+        "ysbrydoli",
+        "Cymru"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208084",
+      "welsh": "Eryri 75: “Mae gweithio fel warden yn heriol, ond yn fraint”",
+      "english": "Snowdonia 75: “Working as a warden is challenging, but a privilege”",
+      "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208084-eryri-gweithio-warden-heriol-fraint?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1GY1",
+      "pubDate": "Fri, 16 Oct 2026 12:02:37 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-16T16:33:53.409Z",
+      "category": null,
+      "welshGlosses": [
+        "Snowdonia",
+        "75%",
+        "is",
+        "work",
+        "Like",
+        "Warden",
+        "in",
+        "challenging",
+        "but",
+        "in",
+        "Passionate"
+      ],
+      "englishGlosses": [
+        "Eryri",
+        "75+",
+        "Gwaith",
+        "Graddfeyddunit description in lists",
+        "a.",
+        "gwarden",
+        "yw",
+        "heriol",
+        "",
+        "a.",
+        "braint"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208066",
+      "welsh": "30,000 o bobol yn defnyddio ap newydd rygbi llawr gwlad Cymru",
+      "english": "30,000 people using Wales's new grassroots rugby app",
+      "url": "https://golwg.360.cymru/newyddion/gwyddoniaeth-a-thechnoleg/2208066-30000-bobol-defnyddio-newydd-rygbi-llawr-gwlad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRrjp",
+      "pubDate": "Fri, 16 Oct 2026 11:39:42 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-10-16T16:33:53.409Z",
+      "category": null,
+      "welshGlosses": [
+        "30%",
+        "0.000",
+        "of",
+        "people",
+        "in",
+        "use",
+        "App",
+        "new",
+        "Rugby",
+        "floor",
+        "Country",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "30%",
+        "£’000",
+        "Pobl",
+        "defnyddio",
+        "Cymru",
+        "newydd",
+        "llawr gwlad",
+        "Rygbi",
+        "Ap"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208045",
       "welsh": "Sut fydd Cymru’n dioddef wrth i’r Super El Niño gyrraedd “lefelau digynsail”?",
       "english": "How will Wales suffer as the Super El Niño reaches “unprecedented levels”?",
@@ -403,37 +500,7 @@
       "feedPosition": 16,
       "fetchedAt": "2026-10-16T11:15:54.507Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207865",
-      "welsh": "Eryri 75: Iolo Williams yn canmol gwelliant “sylweddol” yng ngwaith cadwraeth y parc",
-      "english": "Snowdonia 75: Iolo Williams praises a “significant” improvement in the park's conservation work",
-      "url": "https://golwg.360.cymru/newyddion/amgylchedd/2207865-eryri-iolo-williams-canmol-gwelliant-sylweddol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8DgeP",
-      "pubDate": "Wed, 14 Oct 2026 08:05:53 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-10-16T11:15:54.507Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207823",
-      "welsh": "90% o ffermwyr y cynllun newydd wedi derbyn eu rhagdaliadau",
-      "english": "90% of farmers in the new scheme have received their prepayments",
-      "url": "https://golwg.360.cymru/newyddion/cefn-gwlad/2207823-ffermwyr-cynllun-newydd-wedi-derbyn-rhagdaliadau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0p1w",
-      "pubDate": "Wed, 14 Oct 2026 07:02:02 +0000",
-      "feedPosition": 18,
-      "fetchedAt": "2026-10-16T11:15:54.507Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207818",
-      "welsh": "Cynllun ‘dim drws anghywir’ i gael gwared ar rwystrau rhag cael cymorth iechyd meddwl",
-      "english": "A ‘no wrong door’ scheme to remove barriers to accessing mental health support",
-      "url": "https://golwg.360.cymru/newyddion/iechyd/2207818-cynllun-drws-anghywir-gael-gwared-rwystrau-rhag?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjODM4",
-      "pubDate": "Wed, 14 Oct 2026 06:02:27 +0000",
-      "feedPosition": 19,
-      "fetchedAt": "2026-10-16T11:15:54.507Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-16T11:15:54.507Z"
+  "generatedAt": "2026-10-16T16:33:53.409Z"
 }
