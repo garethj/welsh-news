@@ -2,6 +2,28 @@
   "date": "2026-10-17",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2207911",
+      "welsh": "Fi a fy Nghi",
+      "english": "Me and my Dog",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2207911-nghi-38?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0NewE",
+      "pubDate": "Sat, 17 Oct 2026 06:23:49 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-17T10:35:43.722Z",
+      "category": null,
+      "welshGlosses": [
+        "Me",
+        "and",
+        "my",
+        "Chi"
+      ],
+      "englishGlosses": [
+        ".",
+        "a",
+        "fy",
+        "Ci"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208095",
       "welsh": "Tlodi plant: Yr Alban yn ysbrydoli Cymru",
       "english": "Child poverty: Scotland inspires Wales",
@@ -386,27 +408,7 @@
       "feedPosition": 17,
       "fetchedAt": "2026-10-16T23:32:34.347Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207906",
-      "welsh": "‘Anghenion heddiw, nid ddoe’: Cyngor yn pleidleisio i gau dwy ysgol wledig",
-      "english": "‘Today's needs, not yesterday': Council votes to close two rural schools",
-      "url": "https://golwg.360.cymru/newyddion/2207906-anghenion-heddiw-ddoe-cyngor-pleidleisio-ysgol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMaNL5",
-      "pubDate": "Wed, 14 Oct 2026 12:03:03 +0000",
-      "feedPosition": 18,
-      "fetchedAt": "2026-10-16T23:32:34.347Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2207899",
-      "welsh": "‘Anoddach darparu gwasanaethau’ wrth i nifer staff Cyngor Gwynedd ostwng",
-      "english": "‘Harder to provide services’ as Gwynedd Council staff numbers fall",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2207899-anoddach-darparu-gwasanaethau-wrth-nifer-staff?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8DgoP",
-      "pubDate": "Wed, 14 Oct 2026 10:47:08 +0000",
-      "feedPosition": 19,
-      "fetchedAt": "2026-10-16T23:32:34.347Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-16T23:32:34.347Z"
+  "generatedAt": "2026-10-17T10:35:43.722Z"
 }
