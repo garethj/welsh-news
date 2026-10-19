@@ -2,6 +2,28 @@
   "date": "2026-10-19",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2208223",
+      "welsh": "Cyfieithu, ddoe a heddiw",
+      "english": "Translation, past and present",
+      "url": "https://golwg.360.cymru/newyddion/iaith/2208223-cyfieithu-ddoe-heddiw?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroLp1",
+      "pubDate": "Mon, 19 Oct 2026 14:08:35 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-19T20:33:38.522Z",
+      "category": null,
+      "welshGlosses": [
+        "Translate",
+        "doe",
+        "and",
+        "Today"
+      ],
+      "englishGlosses": [
+        "Cyfieithu",
+        "gorffennol",
+        "a",
+        "Y Presennol"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208187",
       "welsh": "Cyfarfodydd cyhoeddus i drafod “lefelau annerbyniol o garthion”",
       "english": "Public meetings to discuss “unacceptable levels of dredges”",
@@ -216,6 +238,40 @@
       "category": null
     },
     {
+      "guid": "https://golwg.360.cymru/?p=2208128",
+      "welsh": "“Mae’r plant i gyd yr un oedran â ‘mhlant i”",
+      "english": "“The children are all the same age as‘ i's children”",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2208128-plant-oedran-mhlant?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGPJ2p",
+      "pubDate": "Sun, 18 Oct 2026 09:01:17 +0000",
+      "feedPosition": 8,
+      "fetchedAt": "2026-10-19T20:33:38.522Z",
+      "category": null,
+      "welshGlosses": [
+        "The",
+        "Children",
+        "to",
+        "together",
+        "the",
+        "one",
+        "age",
+        "To:",
+        "bharat al -",
+        "to"
+      ],
+      "englishGlosses": [
+        "Y",
+        "Plant",
+        "dach",
+        "bob un",
+        "'r",
+        "&lt;p&gt;Yr un peth&lt;/p&gt;",
+        "oedran",
+        "Graddfeyddunit description in lists",
+        "i's",
+        "Plant"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2207911",
       "welsh": "Fi a fy Nghi",
       "english": "Me and my Dog",
@@ -235,6 +291,39 @@
         "a",
         "fy",
         "Ci"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208124",
+      "welsh": "Rhaglenni’r BBC yn nodi 60 mlynedd ers trychineb Aberfan",
+      "english": "BBC programmes marking the 60th anniversary of the Aberfan disaster",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2208124-rhaglenni-nodi-mlynedd-trychineb-aberfan?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0W1yJ",
+      "pubDate": "Fri, 16 Oct 2026 15:12:59 +0000",
+      "feedPosition": 10,
+      "fetchedAt": "2026-10-19T20:33:38.522Z",
+      "category": null,
+      "welshGlosses": [
+        "The 'Application'",
+        "Bbc",
+        "in",
+        "to note",
+        "60%",
+        "years",
+        "Since",
+        "disaster",
+        "Aberfan"
+      ],
+      "englishGlosses": [
+        "BBC",
+        "rhaglenni",
+        "marcio",
+        "'r",
+        "60ain",
+        "Cylchwyl",
+        "o",
+        "'r",
+        "Aberfan",
+        "trychineb"
       ]
     },
     {
@@ -489,37 +578,7 @@
         "Comment",
         "Term"
       ]
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208043",
-      "welsh": "Ymestyn pwerau i fynd i’r afael ag ymddygiad gwrthgymdeithasol yn Abertawe",
-      "english": "Extend powers to tackle anti-social behaviour in Swansea",
-      "url": "https://golwg.360.cymru/newyddion/gwasanaethau-brys/2208043-ymestyn-pwerau-fynd-afael-ymddygiad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=eOsA5GLo",
-      "pubDate": "Fri, 16 Oct 2026 08:26:48 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-10-18T23:06:25.086Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208040",
-      "welsh": "‘Dim dadl o sylwedd’ dros wrthod datganoli plismona i Gymru, medd cyn-brif farnwr",
-      "english": "‘No substantive argument’ for refusing to devolve policing to Wales, says a formerchief judge",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2208040-dadl-sylwedd-dros-wrthod-datganoli-plismona-gymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=wPs0argw",
-      "pubDate": "Thu, 15 Oct 2026 19:56:37 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-10-18T23:06:25.086Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208019",
-      "welsh": "‘Gwaed newydd’ a mwy o aelodau: cynllun cadeirydd newydd Plaid Cymru",
-      "english": "‘New blood’ and more members: Plaid Cymru's new chair's scheme",
-      "url": "https://golwg.360.cymru/newyddion/2208019-gwaed-newydd-aelodau-cynllun-cadeirydd-newydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarlaJ",
-      "pubDate": "Thu, 15 Oct 2026 16:36:18 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-10-18T23:06:25.086Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-19T13:02:13.190Z"
+  "generatedAt": "2026-10-19T20:33:38.522Z"
 }
