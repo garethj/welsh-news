@@ -2,6 +2,108 @@
   "date": "2026-10-20",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2208266",
+      "welsh": "Cofio Aberfan: “Ble mae eich Duw chi nawr?”",
+      "english": "Remembering Aberfan: “Where is your God now?”",
+      "url": "https://golwg.360.cymru/newyddion/2208266-cofio-aberfan-eich-nawr?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpdP7",
+      "pubDate": "Tue, 20 Oct 2026 09:25:09 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-20T11:29:03.031Z",
+      "category": null,
+      "welshGlosses": [
+        "Remember",
+        "Aberfan",
+        "Where",
+        "is",
+        "best ever",
+        "God",
+        "you",
+        "now"
+      ],
+      "englishGlosses": [
+        "Cofio",
+        "Aberfan",
+        "Ble",
+        "yw",
+        "eich",
+        "Duw",
+        "nawr"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208226",
+      "welsh": "Rhaglen ynni’r Llywodraeth yn buddsoddi’n ôl yn y gymuned",
+      "english": "The Government's energy programme investing back into the community",
+      "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208226-rhaglen-ynni-llywodraeth-buddsoddi-gymuned?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=BpsyY7l3",
+      "pubDate": "Tue, 20 Oct 2026 08:53:12 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-20T11:29:03.031Z",
+      "category": null,
+      "welshGlosses": [
+        "Caption",
+        "energy",
+        "Governing",
+        "in",
+        "invest in",
+        "Trace",
+        "in",
+        "the",
+        "community"
+      ],
+      "englishGlosses": [
+        "Y",
+        "Llywodraeth",
+        "YNNI",
+        "rhaglen",
+        "buddsoddi",
+        "Nôl",
+        "i mewn",
+        "'r",
+        "cymuned"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208229",
+      "welsh": "Cynllun radar milwrol Sir Benfro “yn ymateb i gynnydd go iawn mewn peryglon gofodol”",
+      "english": "Pembrokeshire's military radar plan “in response to a real increase in spatial hazards”",
+      "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2208229-cynllun-radar-milwrol-benfro-ymateb-gynnydd-iawn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGPJLw",
+      "pubDate": "Tue, 20 Oct 2026 06:01:03 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-10-20T11:29:03.031Z",
+      "category": null,
+      "welshGlosses": [
+        "Plan",
+        "Radar Map",
+        "Military",
+        "County",
+        "Pembroke",
+        "in",
+        "Response",
+        "to",
+        "progress",
+        "Goe",
+        "right",
+        "in",
+        "hazards",
+        "spatial"
+      ],
+      "englishGlosses": [
+        "Sir Benfro",
+        "Milwrol",
+        "Radar",
+        "Cynllun",
+        "yn",
+        "Ateb",
+        "i",
+        "a.",
+        "rêl",
+        "Cynyddu",
+        "yn",
+        "gofodol",
+        "perygl"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208223",
       "welsh": "Cyfieithu, ddoe a heddiw",
       "english": "Translation, past and present",
@@ -314,57 +416,7 @@
       "feedPosition": 12,
       "fetchedAt": "2026-10-20T00:17:39.065Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208066",
-      "welsh": "30,000 o bobol yn defnyddio ap newydd rygbi llawr gwlad Cymru",
-      "english": "30,000 people using Wales's new grassroots rugby app",
-      "url": "https://golwg.360.cymru/newyddion/gwyddoniaeth-a-thechnoleg/2208066-30000-bobol-defnyddio-newydd-rygbi-llawr-gwlad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRrjp",
-      "pubDate": "Fri, 16 Oct 2026 11:39:42 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-10-20T00:17:39.065Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208045",
-      "welsh": "Sut fydd Cymru’n dioddef wrth i’r Super El Niño gyrraedd “lefelau digynsail”?",
-      "english": "How will Wales suffer as the Super El Niño reaches “unprecedented levels”?",
-      "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208045-fydd-cymru-dioddef-wrth-super-nino-gyrraedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0l5pB",
-      "pubDate": "Fri, 16 Oct 2026 10:40:50 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-10-20T00:17:39.065Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208054",
-      "welsh": "Gwrthod galwadau i ostwng y dreth gyngor i berchnogion ail gartrefi Sir Benfro",
-      "english": "Reject calls to reduce council tax for second home owners in Pembrokeshire",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2208054-gwrthod-galwadau-ostwng-dreth-gyngor-berchnogion?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOgB2",
-      "pubDate": "Fri, 16 Oct 2026 10:16:29 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-10-20T00:17:39.065Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208052",
-      "welsh": "Nodi 50 mlynedd ers dringo mast Crystal Palace dros sianel Gymraeg",
-      "english": "Marking 50 years since the climbing of the Crystal Palace mast over a Welsh channel",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2208052-nodi-mlynedd-dringo-mast-crystal-palace-dros?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOAYDw",
-      "pubDate": "Fri, 16 Oct 2026 09:47:29 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-10-20T00:17:39.065Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208047",
-      "welsh": "Tro pedol ar gynllun i ddileu statws crefyddol ysgol gynradd Gymraeg",
-      "english": "U-turn on a scheme to remove the religious status of a Welsh-medium primary school",
-      "url": "https://golwg.360.cymru/newyddion/addysg/2208047-pedol-gynllun-ddileu-statws-crefyddol-ysgol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=dJsN7Po5",
-      "pubDate": "Fri, 16 Oct 2026 08:46:25 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-10-20T00:17:39.065Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-20T00:17:39.065Z"
+  "generatedAt": "2026-10-20T11:29:03.031Z"
 }
