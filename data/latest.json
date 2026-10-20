@@ -2,6 +2,45 @@
   "date": "2026-10-20",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2208346",
+      "welsh": "Jane Dodds yn rhoi’r gorau i arwain Democratiaid Rhyddfrydol Cymru ar ôl naw mlynedd",
+      "english": "Jane Dodds quits leading the Welsh Liberal Democrats after nine years",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2208346-jane-dodds-rhoi-gorau-arwain-democratiaid?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=eOsA5GPy",
+      "pubDate": "Tue, 20 Oct 2026 17:00:31 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-20T21:33:44.250Z",
+      "category": null,
+      "welshGlosses": [
+        "Jane",
+        "Dodds",
+        "in",
+        "give",
+        "Top",
+        "to",
+        "led",
+        "Democrats",
+        "Liberalism",
+        "Wales",
+        "on",
+        "Trace",
+        "nine",
+        "years"
+      ],
+      "englishGlosses": [
+        "Jane",
+        "Dodds",
+        "rhoi'r gorau iddi",
+        "arweiniol",
+        "'r",
+        "Cymraeg",
+        "rhydd",
+        "Democratiaid",
+        "Wedi",
+        "naw",
+        "blynedd"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208316",
       "welsh": "Ysgol yn Sir Benfro yn dileu neges Facebook am ymweliad addysgiadol â mosg wedi sylwadau “ffiaidd”",
       "english": "Pembrokeshire school deletes Facebook message about educational visit to mosque after “disgusting” comments",
@@ -580,5 +619,5 @@
       "category": null
     }
   ],
-  "generatedAt": "2026-10-20T16:57:00.124Z"
+  "generatedAt": "2026-10-20T21:33:44.250Z"
 }
