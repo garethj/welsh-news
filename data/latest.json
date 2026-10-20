@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2208223",
@@ -8,7 +8,7 @@
       "url": "https://golwg.360.cymru/newyddion/iaith/2208223-cyfieithu-ddoe-heddiw?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroLp1",
       "pubDate": "Mon, 19 Oct 2026 14:08:35 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-10-19T20:33:38.522Z",
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
       "category": null,
       "welshGlosses": [
         "Translate",
@@ -29,8 +29,8 @@
       "english": "Public meetings to discuss “unacceptable levels of dredges”",
       "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208187-cyfarfodydd-cyhoeddus-i-drafod-lefelau-annerbyniol-o-garthion?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarllO",
       "pubDate": "Mon, 19 Oct 2026 11:08:38 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-10-19T13:02:13.190Z",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
       "category": null,
       "welshGlosses": [
         "Meetings",
@@ -59,8 +59,8 @@
       "english": "Consider employing policemen on zero-hour contracts to investigate murders",
       "url": "https://golwg.360.cymru/newyddion/gwasanaethau-brys/2208190-ystyried-cyflogi-plismyn-gytundebau-oriau-sero?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE88d",
       "pubDate": "Mon, 19 Oct 2026 10:59:20 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-10-19T13:02:13.190Z",
+      "feedPosition": 2,
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
       "category": null,
       "welshGlosses": [
         "REFLECT",
@@ -93,8 +93,8 @@
       "english": "Pay social care workers to learn Welsh",
       "url": "https://golwg.360.cymru/newyddion/2208164-talu-gweithwyr-gofal-cymdeithasol-ddysgu-cymraeg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=oDs4WyyD",
       "pubDate": "Mon, 19 Oct 2026 09:59:43 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-10-19T13:02:13.190Z",
+      "feedPosition": 3,
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
       "category": null,
       "welshGlosses": [
         "Payment",
@@ -117,12 +117,12 @@
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208174",
-      "welsh": "Pryderon wrth i 60% o swyddi Gaeleg yn y BBC gael eu dileu",
-      "english": "Concerns as 60% of Gaelic jobs at the BBC are cut",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2208174-pryderon-wrth-swyddi-gaeleg-gael-dileu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=wPs0arr4",
+      "welsh": "Pryderon wrth i 60% o swyddi Gwyddeleg yn y BBC gael eu dileu",
+      "english": "Concerns as 60% of Irish jobs at the BBC are cut",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2208174-pryderon-wrth-swyddi-gwyddeleg-gael-dileu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=wPs0arr4",
       "pubDate": "Mon, 19 Oct 2026 09:46:53 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-10-19T13:02:13.190Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
       "category": null,
       "welshGlosses": [
         "Worries",
@@ -131,7 +131,7 @@
         "60%",
         "of",
         "jobs",
-        "Gaelic",
+        "Irish Gaelic",
         "in",
         "the",
         "Bbc",
@@ -144,7 +144,7 @@
         "Graddfeyddunit description in lists",
         "60%",
         "o",
-        "Gaelaidd",
+        "",
         "tasgau",
         "am",
         "'r",
@@ -159,8 +159,8 @@
       "english": "Abolish the warrant for the arrest of Catalan independence leaders",
       "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2208168-dileu-warant-arestio-arweinwyr-annibyniaeth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8DLLw",
       "pubDate": "Mon, 19 Oct 2026 09:21:43 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-10-19T13:02:13.190Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
       "category": null,
       "welshGlosses": [
         "Delete",
@@ -190,8 +190,8 @@
       "english": "\"Turning the tide\" to ensure that all young people in Wales are fluent in Welsh",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2208150-troi-llanw-mwyn-sicrhau-holl-bobol-ifanc-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLj57",
       "pubDate": "Mon, 19 Oct 2026 08:30:05 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-10-19T13:02:13.190Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
       "category": null,
       "welshGlosses": [
         "Rotate the",
@@ -233,9 +233,37 @@
       "english": "10% of families live near an unsafe coal tip, new research says",
       "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208149-deuluoedd-tomen-anniogel-medd-ymchwil-newydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=rns7G2jB",
       "pubDate": "Mon, 19 Oct 2026 08:20:14 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-10-19T13:02:13.190Z",
-      "category": null
+      "feedPosition": 7,
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
+      "category": null,
+      "welshGlosses": [
+        "10.",
+        "of",
+        "families",
+        "in",
+        "live",
+        "near",
+        "tip",
+        "lo",
+        "unsafe",
+        "Mead",
+        "Forums",
+        "new"
+      ],
+      "englishGlosses": [
+        "10.",
+        "o",
+        "Teulu",
+        "byw",
+        "agos",
+        "\"an\",",
+        "anniogel",
+        "Glo",
+        "cmth",
+        "newydd",
+        "Ymchwil",
+        "dywed"
+      ]
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208128",
@@ -244,32 +272,8 @@
       "url": "https://golwg.360.cymru/newyddion/cymru/2208128-plant-oedran-mhlant?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGPJ2p",
       "pubDate": "Sun, 18 Oct 2026 09:01:17 +0000",
       "feedPosition": 8,
-      "fetchedAt": "2026-10-19T20:33:38.522Z",
-      "category": null,
-      "welshGlosses": [
-        "The",
-        "Children",
-        "to",
-        "together",
-        "the",
-        "one",
-        "age",
-        "To:",
-        "bharat al -",
-        "to"
-      ],
-      "englishGlosses": [
-        "Y",
-        "Plant",
-        "dach",
-        "bob un",
-        "'r",
-        "&lt;p&gt;Yr un peth&lt;/p&gt;",
-        "oedran",
-        "Graddfeyddunit description in lists",
-        "i's",
-        "Plant"
-      ]
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2207911",
@@ -277,21 +281,9 @@
       "english": "Me and my Dog",
       "url": "https://golwg.360.cymru/newyddion/cymru/2207911-nghi-38?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0NewE",
       "pubDate": "Sat, 17 Oct 2026 06:23:49 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-10-18T23:06:25.086Z",
-      "category": null,
-      "welshGlosses": [
-        "Me",
-        "and",
-        "my",
-        "Chi"
-      ],
-      "englishGlosses": [
-        ".",
-        "a",
-        "fy",
-        "Ci"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208124",
@@ -300,31 +292,8 @@
       "url": "https://golwg.360.cymru/newyddion/cymru/2208124-rhaglenni-nodi-mlynedd-trychineb-aberfan?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0W1yJ",
       "pubDate": "Fri, 16 Oct 2026 15:12:59 +0000",
       "feedPosition": 10,
-      "fetchedAt": "2026-10-19T20:33:38.522Z",
-      "category": null,
-      "welshGlosses": [
-        "The 'Application'",
-        "Bbc",
-        "in",
-        "to note",
-        "60%",
-        "years",
-        "Since",
-        "disaster",
-        "Aberfan"
-      ],
-      "englishGlosses": [
-        "BBC",
-        "rhaglenni",
-        "marcio",
-        "'r",
-        "60ain",
-        "Cylchwyl",
-        "o",
-        "'r",
-        "Aberfan",
-        "trychineb"
-      ]
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208095",
@@ -332,25 +301,9 @@
       "english": "Child poverty: Scotland inspires Wales",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2208095-tlodi-plant-alban-ysbrydoli-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=OysPldOp",
       "pubDate": "Fri, 16 Oct 2026 13:38:08 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-10-18T23:06:25.086Z",
-      "category": null,
-      "welshGlosses": [
-        "Impoverished",
-        "Children",
-        "the",
-        "Scotland",
-        "in",
-        "inspire",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "Plentyn",
-        "Tlodi",
-        "Yr Alban",
-        "ysbrydoli",
-        "Cymru"
-      ]
+      "feedPosition": 11,
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208084",
@@ -358,35 +311,9 @@
       "english": "Snowdonia 75: “Working as a warden is challenging, but a privilege”",
       "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208084-eryri-gweithio-warden-heriol-fraint?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1GY1",
       "pubDate": "Fri, 16 Oct 2026 12:02:37 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-10-18T23:06:25.086Z",
-      "category": null,
-      "welshGlosses": [
-        "Snowdonia",
-        "75%",
-        "is",
-        "work",
-        "Like",
-        "Warden",
-        "in",
-        "challenging",
-        "but",
-        "in",
-        "Passionate"
-      ],
-      "englishGlosses": [
-        "Eryri",
-        "75+",
-        "Gwaith",
-        "Graddfeyddunit description in lists",
-        "a.",
-        "gwarden",
-        "yw",
-        "heriol",
-        "",
-        "a.",
-        "braint"
-      ]
+      "feedPosition": 12,
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208066",
@@ -394,34 +321,9 @@
       "english": "30,000 people using Wales's new grassroots rugby app",
       "url": "https://golwg.360.cymru/newyddion/gwyddoniaeth-a-thechnoleg/2208066-30000-bobol-defnyddio-newydd-rygbi-llawr-gwlad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRrjp",
       "pubDate": "Fri, 16 Oct 2026 11:39:42 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-10-18T23:06:25.086Z",
-      "category": null,
-      "welshGlosses": [
-        "30%",
-        "0.000",
-        "of",
-        "people",
-        "in",
-        "use",
-        "App",
-        "new",
-        "Rugby",
-        "floor",
-        "Country",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "30%",
-        "£’000",
-        "Pobl",
-        "defnyddio",
-        "Cymru",
-        "newydd",
-        "llawr gwlad",
-        "Rygbi",
-        "Ap"
-      ]
+      "feedPosition": 13,
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208045",
@@ -429,37 +331,9 @@
       "english": "How will Wales suffer as the Super El Niño reaches “unprecedented levels”?",
       "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208045-fydd-cymru-dioddef-wrth-super-nino-gyrraedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0l5pB",
       "pubDate": "Fri, 16 Oct 2026 10:40:50 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-10-18T23:06:25.086Z",
-      "category": null,
-      "welshGlosses": [
-        "How?",
-        "will be",
-        "Cymru 'n",
-        "to suffer",
-        "by",
-        "I",
-        "Alt_R",
-        "EL:",
-        "Niño",
-        "it was",
-        "levels",
-        "unprecedented"
-      ],
-      "englishGlosses": [
-        "Sut?",
-        "Will.",
-        "Cymru",
-        "dioddef",
-        "Graddfeyddunit description in lists",
-        "'r",
-        "vertical-align",
-        "EL:",
-        "Niño",
-        "cyrraedd",
-        "digynsail",
-        "Lefel"
-      ]
+      "feedPosition": 14,
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208054",
@@ -467,38 +341,9 @@
       "english": "Reject calls to reduce council tax for second home owners in Pembrokeshire",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2208054-gwrthod-galwadau-ostwng-dreth-gyngor-berchnogion?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOgB2",
       "pubDate": "Fri, 16 Oct 2026 10:16:29 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-10-18T23:06:25.086Z",
-      "category": null,
-      "welshGlosses": [
-        "Deny",
-        "Calls",
-        "to",
-        "drop",
-        "the",
-        "tax",
-        "council",
-        "to",
-        "owners",
-        "second",
-        "homes",
-        "County",
-        "Pembroke"
-      ],
-      "englishGlosses": [
-        "Gwrthod",
-        "Galwadau",
-        "i",
-        "Lleihau",
-        "Y Cyngor",
-        "Treth",
-        "am",
-        "ail",
-        "RHEOLWR",
-        "perchnogion",
-        "yn",
-        "Sir Benfro"
-      ]
+      "feedPosition": 15,
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208052",
@@ -506,39 +351,9 @@
       "english": "Marking 50 years since the climbing of the Crystal Palace mast over a Welsh channel",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2208052-nodi-mlynedd-dringo-mast-crystal-palace-dros?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOAYDw",
       "pubDate": "Fri, 16 Oct 2026 09:47:29 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-10-18T23:06:25.086Z",
-      "category": null,
-      "welshGlosses": [
-        "Mark",
-        "50%",
-        "years",
-        "Since",
-        "CLIMB",
-        "mast",
-        "Crystal",
-        "Palace",
-        "over",
-        "Channel",
-        "Welsh"
-      ],
-      "englishGlosses": [
-        "Marcio",
-        "50%",
-        "blynedd",
-        "Ers",
-        "'r",
-        "Dringo",
-        "o",
-        "'r",
-        "Description",
-        "Palas",
-        "mast",
-        "dros",
-        "a.",
-        "Cymraeg",
-        "cwter"
-      ]
+      "feedPosition": 16,
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208047",
@@ -546,39 +361,10 @@
       "english": "U-turn on a scheme to remove the religious status of a Welsh-medium primary school",
       "url": "https://golwg.360.cymru/newyddion/addysg/2208047-pedol-gynllun-ddileu-statws-crefyddol-ysgol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=dJsN7Po5",
       "pubDate": "Fri, 16 Oct 2026 08:46:25 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-10-18T23:06:25.086Z",
-      "category": null,
-      "welshGlosses": [
-        "Won:",
-        "horseshoe",
-        "on",
-        "scheme",
-        "to",
-        "delete",
-        "State",
-        "Religion",
-        "school",
-        "Primary",
-        "Welsh"
-      ],
-      "englishGlosses": [
-        "Tro pedol",
-        "ar",
-        "a.",
-        "Gwaredu Cynllun",
-        "i",
-        "Hidl:",
-        "'r",
-        "Crefydd",
-        "Statws",
-        "o",
-        "a.",
-        "Cyfrwng Cymraeg",
-        "Comment",
-        "Term"
-      ]
+      "feedPosition": 17,
+      "fetchedAt": "2026-10-20T00:17:39.065Z",
+      "category": null
     }
   ],
-  "generatedAt": "2026-10-19T20:33:38.522Z"
+  "generatedAt": "2026-10-20T00:17:39.065Z"
 }
