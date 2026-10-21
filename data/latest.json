@@ -2,6 +2,49 @@
   "date": "2026-10-21",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2208431",
+      "welsh": "‘Dim modd gwagio Ynys Môn yn ddiogel’ pe bai ymosodiad ar Wylfa, medd ymgyrchwyr",
+      "english": "‘Anglesey cannot be evacuated safely’ in the event of an attack on Wylfa, campaigners say",
+      "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208431-modd-gwagio-ynys-ddiogel-ymosodiad-wylfa-medd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGPJYD",
+      "pubDate": "Wed, 21 Oct 2026 17:40:52 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-21T21:36:28.112Z",
+      "category": null,
+      "welshGlosses": [
+        "None",
+        "way",
+        "to empty",
+        "Island",
+        "Anglesey",
+        "in",
+        "‘safe’.",
+        "PE .",
+        "Blame",
+        "Ambush",
+        "on",
+        "Wylfa Nuclear Power Station",
+        "Mead",
+        "campaigners"
+      ],
+      "englishGlosses": [
+        "Mon",
+        "methu",
+        "bod",
+        "gwagiwyd",
+        "diogel",
+        "yn",
+        "'r",
+        "Achlysur",
+        "o",
+        "\"an\",",
+        "rhuthro",
+        "ar",
+        "Yr Wylfa",
+        "ymgyrchwyr",
+        "dwedwch"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208425",
       "welsh": "Diffoddwyr tân heb yr offer na’r hyfforddiant digonol i wynebu tanau gwyllt",
       "english": "Firefighters without the adequate equipment and training to face wildfires",
@@ -486,17 +529,7 @@
       "feedPosition": 13,
       "fetchedAt": "2026-10-21T11:41:32.240Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208229",
-      "welsh": "Cynllun radar milwrol Sir Benfro “yn ymateb i gynnydd go iawn mewn peryglon gofodol”",
-      "english": "Pembrokeshire's military radar plan “in response to a real increase in spatial hazards”",
-      "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2208229-cynllun-radar-milwrol-benfro-ymateb-gynnydd-iawn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGPJLw",
-      "pubDate": "Tue, 20 Oct 2026 06:01:03 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-10-21T11:41:32.240Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-21T17:06:50.612Z"
+  "generatedAt": "2026-10-21T21:36:28.112Z"
 }
