@@ -2,6 +2,121 @@
   "date": "2026-10-22",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2208503",
+      "welsh": "Cais Dinas Ddiwylliant Wrecsam am “chwifio’r faner” i Gymru",
+      "english": "Wrexham City of Culture's bid for “flying the flag” for Wales",
+      "url": "https://golwg.360.cymru/newyddion/2208503-cais-dinas-ddiwylliant-wrecsam-chwifio-faner-gymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsdegD7",
+      "pubDate": "Thu, 22 Oct 2026 16:39:06 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-22T17:06:16.289Z",
+      "category": null,
+      "welshGlosses": [
+        "Try",
+        "City",
+        "Culture",
+        "Wrexham",
+        "for",
+        "fly the",
+        "flag",
+        "to",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Wrecsam",
+        "Dinas",
+        "o",
+        "Diwylliant",
+        "cynnig",
+        "am",
+        "hedfan",
+        "'r",
+        "baner",
+        "am",
+        "Cymru"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208498",
+      "welsh": "“Marwolaeth empathi” yn sgil dadl am wahardd gorchuddion wyneb yn y Senedd",
+      "english": "“The death of empathy” following a debate on the banning of face coverings in Parliament",
+      "url": "https://golwg.360.cymru/newyddion/2208498-marwolaeth-empathi-sgil-dadl-wahardd-gorchuddion?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGPJrj",
+      "pubDate": "Thu, 22 Oct 2026 14:36:27 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-22T17:06:16.289Z",
+      "category": null,
+      "welshGlosses": [
+        "Death",
+        "empathy",
+        "in",
+        "skill",
+        "debate",
+        "for",
+        "forbidden",
+        "covers",
+        "face",
+        "in",
+        "the",
+        "Parliament"
+      ],
+      "englishGlosses": [
+        "Y",
+        "marwolaeth",
+        "o",
+        "empathi",
+        "dilynol",
+        "a.",
+        "dadl",
+        "ar",
+        "'r",
+        "gwahardd",
+        "o",
+        "visog",
+        "gorchuddion",
+        "yn",
+        "Senedd"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208492",
+      "welsh": "Penodi cyn Aelod Plaid Cymru o’r Senedd yn Bennaeth newydd Oxfam Cymru",
+      "english": "Appointment of former Plaid Cymru Member of Parliament as new Head of Oxfam Cymru",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2208492-penodi-aelod-plaid-cymru-senedd-bennaeth-newydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroLjo",
+      "pubDate": "Thu, 22 Oct 2026 12:20:38 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-10-22T17:06:16.289Z",
+      "category": null,
+      "welshGlosses": [
+        "Specified:",
+        "before",
+        "Member",
+        "Party",
+        "Wales",
+        "O",
+        "Parliament",
+        "in",
+        "Headteacher",
+        "new",
+        "Oxfam",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Penodiad",
+        "o",
+        "blaenorol",
+        "Plaid Cymru",
+        "Cymru ",
+        "Aelod",
+        "o",
+        "Senedd",
+        "Graddfeyddunit description in lists",
+        "newydd",
+        "Pen",
+        "o",
+        "Oxfam",
+        "Cymru "
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208485",
       "welsh": "‘Pont rhwng y Parc a chymunedau lleol’: penodi’r artist cyntaf i gefnogi gwaith Parc Cenedlaethol Eryri",
       "english": "‘A bridge between the Park and local communities': the appointment of the first artist to support the work of Snowdonia National Park",
@@ -407,37 +522,7 @@
       "feedPosition": 16,
       "fetchedAt": "2026-10-22T11:44:06.917Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208304",
-      "welsh": "Galw am benodi Comisiynydd newydd i “arfer grym y gyfraith er lles y Gymraeg”",
-      "english": "Call for a new Commissioner to be appointed to “exercise the power of the law in the interests of the Welsh language”",
-      "url": "https://golwg.360.cymru/newyddion/iaith/2208304-galw-benodi-comisiynydd-newydd-arfer-grym-gyfraith?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7M3N",
-      "pubDate": "Tue, 20 Oct 2026 13:46:31 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208285",
-      "welsh": "Comisiynydd y Gymraeg wedi ymddiswyddo, dirprwy newydd, a’r cyn-ddirprwy dal yn “gyflogedig”",
-      "english": "The Welsh Language Commissioner has resigned, a new deputy, and the formerdeputy remains “employed”",
-      "url": "https://golwg.360.cymru/newyddion/iaith/2208285-comisiynydd-gymraeg-wedi-ymddiswyddo?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=pgseGB5o",
-      "pubDate": "Tue, 20 Oct 2026 12:32:33 +0000",
-      "feedPosition": 18,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208281",
-      "welsh": "📹 Fideos dwyieithog yn annog pobol ifanc i godi llais am droseddau â chyllell",
-      "english": "Bilingual 📹 videos encouraging young people to speak out about knife crime",
-      "url": "https://golwg.360.cymru/newyddion/gwasanaethau-brys/2208281-fideos-dwyieithog-annog-pobol-ifanc-siarad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0NrgW",
-      "pubDate": "Tue, 20 Oct 2026 12:02:28 +0000",
-      "feedPosition": 19,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-22T11:44:06.917Z"
+  "generatedAt": "2026-10-22T17:06:16.289Z"
 }
