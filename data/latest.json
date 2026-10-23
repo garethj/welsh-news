@@ -2,6 +2,34 @@
   "date": "2026-10-23",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2208538",
+      "welsh": "Cestyll Cymru’n ymuno ag ymgyrch arbed dŵr",
+      "english": "Castles of Wales joins water saving campaign",
+      "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208538-cestyll-cymru-ymuno-ymgyrch-arbed?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRrLW",
+      "pubDate": "Fri, 23 Oct 2026 12:59:24 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-23T17:01:07.017Z",
+      "category": null,
+      "welshGlosses": [
+        "Castles",
+        "Cymru 'n",
+        "join",
+        "by",
+        "campaign",
+        "save",
+        "Water"
+      ],
+      "englishGlosses": [
+        "Cestyll criccieth",
+        "o",
+        "Cymru",
+        "ymuno",
+        "dwr",
+        "Arbed",
+        "ymgyrch"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208530",
       "welsh": "Ymgynghoriad y Llywodraeth ar bolisi gosod ceblau o dan y ddaear yn gyntaf",
       "english": "The Government's consultation on underground cabling policy first",
@@ -408,17 +436,7 @@
       "feedPosition": 17,
       "fetchedAt": "2026-10-23T11:31:55.371Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208332",
-      "welsh": "Ambiwlans Sant Ioan “erioed wedi anghofio” trychineb Aberfan",
-      "english": "St John's Ambulance “never forgotten” the Aberfan disaster",
-      "url": "https://golwg.360.cymru/newyddion/2208332-ambiwlans-sant-ioan-erioed-wedi-anghofio-trychineb?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNje5J",
-      "pubDate": "Wed, 21 Oct 2026 06:01:54 +0000",
-      "feedPosition": 18,
-      "fetchedAt": "2026-10-23T11:31:55.371Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-23T11:31:55.371Z"
+  "generatedAt": "2026-10-23T17:01:07.017Z"
 }
