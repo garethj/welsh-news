@@ -1,14 +1,80 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "headlines": [
+    {
+      "guid": "https://golwg.360.cymru/?p=2208530",
+      "welsh": "Ymgynghoriad y Llywodraeth ar bolisi gosod ceblau o dan y ddaear yn gyntaf",
+      "english": "The Government's consultation on underground cabling policy first",
+      "url": "https://golwg.360.cymru/newyddion/2208530-ymgynghori-bolisi-gosod-ceblau-ddaear-gyntaf?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0JyL",
+      "pubDate": "Fri, 23 Oct 2026 10:57:41 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
+      "category": null,
+      "welshGlosses": [
+        "Consultation",
+        "the",
+        "Governing",
+        "on",
+        "policy",
+        "Setup",
+        "cables",
+        "of",
+        "under",
+        "the",
+        "Earth",
+        "in",
+        "first"
+      ],
+      "englishGlosses": [
+        "Y",
+        "Llywodraeth",
+        "Ymgynghoriad",
+        "ar",
+        "Tanddaearol",
+        "Ceblau",
+        "Polisi",
+        "cyntaf"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208519",
+      "welsh": "Y Senedd yn gadarn dros daclo canser y prostad",
+      "english": "Parliament is firmly committed to tackling prostate cancer",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2208519-senedd-gadarn-dros-daclo-canser-prostad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=rns7G2nw",
+      "pubDate": "Fri, 23 Oct 2026 10:02:05 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
+      "category": null,
+      "welshGlosses": [
+        "the",
+        "Parliament",
+        "in",
+        "robust",
+        "over",
+        "tackling",
+        "Cancer",
+        "the",
+        "Prostate"
+      ],
+      "englishGlosses": [
+        "Senedd",
+        "yw",
+        "cadarn",
+        "ymrwymedig",
+        "i",
+        "taclo",
+        "Prostad",
+        "Cancr"
+      ]
+    },
     {
       "guid": "https://golwg.360.cymru/?p=2208503",
       "welsh": "Cais Dinas Ddiwylliant Wrecsam am “chwifio’r faner” i Gymru",
       "english": "Wrexham City of Culture's bid for “flying the flag” for Wales",
       "url": "https://golwg.360.cymru/newyddion/2208503-cais-dinas-ddiwylliant-wrecsam-chwifio-faner-gymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsdegD7",
       "pubDate": "Thu, 22 Oct 2026 16:39:06 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-10-22T17:06:16.289Z",
+      "feedPosition": 2,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
       "category": null,
       "welshGlosses": [
         "Try",
@@ -41,8 +107,8 @@
       "english": "“The death of empathy” following a debate on the banning of face coverings in Parliament",
       "url": "https://golwg.360.cymru/newyddion/2208498-marwolaeth-empathi-sgil-dadl-wahardd-gorchuddion?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGPJrj",
       "pubDate": "Thu, 22 Oct 2026 14:36:27 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-10-22T17:06:16.289Z",
+      "feedPosition": 3,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
       "category": null,
       "welshGlosses": [
         "Death",
@@ -82,8 +148,8 @@
       "english": "Appointment of former Plaid Cymru Member of Parliament as new Head of Oxfam Cymru",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208492-penodi-aelod-plaid-cymru-senedd-bennaeth-newydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroLjo",
       "pubDate": "Thu, 22 Oct 2026 12:20:38 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-10-22T17:06:16.289Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
       "category": null,
       "welshGlosses": [
         "Specified:",
@@ -122,8 +188,8 @@
       "english": "‘A bridge between the Park and local communities': the appointment of the first artist to support the work of Snowdonia National Park",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208485-pont-rhwng-parc-chymunedau-lleol-penodi-artist?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=rns7G2ww",
       "pubDate": "Thu, 22 Oct 2026 11:43:36 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
       "category": null,
       "welshGlosses": [
         "Bridge",
@@ -174,8 +240,8 @@
       "english": "National Library of Wales marks Green Libraries Week 2026",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208480-llyfrgell-genedlaethol-cymru-nodi-wythnos?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=eOsA5Go8",
       "pubDate": "Thu, 22 Oct 2026 11:11:45 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
       "category": null,
       "welshGlosses": [
         "Library",
@@ -206,8 +272,8 @@
       "english": "Leaders must do more to prepare for climate impacts, warns the Future Generations Commissioner",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208457-rhaid-arweinwyr-wneud-baratoi-gyfer-effeithiau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarlPR",
       "pubDate": "Thu, 22 Oct 2026 09:58:21 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
       "category": null,
       "welshGlosses": [
         "Must",
@@ -249,35 +315,9 @@
       "english": "The presence of Welsh schools is‘ disgraceful', says the leader of the Conservatives",
       "url": "https://golwg.360.cymru/newyddion/addysg/2208429-presenoldeb-ysgolion-cymru-warthus-medd-arweinydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0J8M",
       "pubDate": "Thu, 22 Oct 2026 07:26:14 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
-      "category": null,
-      "welshGlosses": [
-        "Present",
-        "Schools",
-        "Wales",
-        "in",
-        "disgraceful",
-        "Mead",
-        "Lead:",
-        "the",
-        "Conservatives"
-      ],
-      "englishGlosses": [
-        "Y",
-        "Preswyfla",
-        "o",
-        "Cymraeg",
-        "Ysgol",
-        "yw",
-        "gwarthus",
-        "dywed",
-        "'r",
-        "Arweinydd",
-        "o",
-        "'r",
-        "Ceidwadwyr"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208431",
@@ -285,42 +325,9 @@
       "english": "‘Anglesey cannot be evacuated safely’ in the event of an attack on Wylfa, campaigners say",
       "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208431-modd-gwagio-ynys-ddiogel-ymosodiad-wylfa-medd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGPJYD",
       "pubDate": "Wed, 21 Oct 2026 17:40:52 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
-      "category": null,
-      "welshGlosses": [
-        "None",
-        "way",
-        "to empty",
-        "Island",
-        "Anglesey",
-        "in",
-        "‘safe’.",
-        "PE .",
-        "Blame",
-        "Ambush",
-        "on",
-        "Wylfa Nuclear Power Station",
-        "Mead",
-        "campaigners"
-      ],
-      "englishGlosses": [
-        "Mon",
-        "methu",
-        "bod",
-        "gwagiwyd",
-        "diogel",
-        "yn",
-        "'r",
-        "Achlysur",
-        "o",
-        "\"an\",",
-        "rhuthro",
-        "ar",
-        "Yr Wylfa",
-        "ymgyrchwyr",
-        "dwedwch"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208425",
@@ -328,35 +335,9 @@
       "english": "Firefighters without the adequate equipment and training to face wildfires",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2208425-diffoddwyr-offer-hyfforddiant-digonol-wynebu-tanau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroL0e",
       "pubDate": "Wed, 21 Oct 2026 16:22:12 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
-      "category": null,
-      "welshGlosses": [
-        "Fighters",
-        "Fire",
-        "without",
-        "the",
-        "TOOLS",
-        "nor",
-        "Training",
-        "adequate",
-        "to",
-        "to face",
-        "fires",
-        "wild"
-      ],
-      "englishGlosses": [
-        "Ymladdwyr Tân",
-        "heb",
-        "'r",
-        "digonol",
-        "Cyfarpar",
-        "a",
-        "Hyfforddiant",
-        "i",
-        "visog",
-        "tanau gwyllt"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208408",
@@ -364,33 +345,9 @@
       "english": "Plaid Cymru dissatisfaction over postponement of council tax changes",
       "url": "https://golwg.360.cymru/newyddion/2208408-anfodlonrwydd-fewn-plaid-cymru-dros-ohirio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=MgsEL0Y0",
       "pubDate": "Wed, 21 Oct 2026 14:54:40 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
-      "category": null,
-      "welshGlosses": [
-        "Dissatisfaction",
-        "of",
-        "within",
-        "Party",
-        "Wales",
-        "over",
-        "deferral",
-        "Changes",
-        "I",
-        "tax",
-        "council"
-      ],
-      "englishGlosses": [
-        "Plaid Cymru",
-        "Cymru ",
-        "anfodlonrwydd",
-        "dros",
-        "gohirio",
-        "o",
-        "Y Cyngor",
-        "Treth",
-        "emosiynol"
-      ]
+      "feedPosition": 11,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208399",
@@ -398,40 +355,9 @@
       "english": "The Chair of Powys Council has been running holiday accommodation without planning permission for years",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208399-cadeirydd-cyngor-powys-rhedeg-llety-gwyliau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNjeML",
       "pubDate": "Wed, 21 Oct 2026 13:09:37 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
-      "category": null,
-      "welshGlosses": [
-        "Chair",
-        "Advice",
-        "Powis",
-        "in",
-        "run",
-        "Housing",
-        "Holiday",
-        "without",
-        "permission",
-        "Plan",
-        "Since",
-        "Year"
-      ],
-      "englishGlosses": [
-        "Y",
-        "Cadair",
-        "o",
-        "Mhowys",
-        "Y Cyngor",
-        "Oes",
-        "y bu erioed.",
-        "Cynhelir ar",
-        "GŴYL",
-        "Llety",
-        "heb",
-        "cynllunio",
-        "Caniatâd",
-        "am",
-        "blynedd"
-      ]
+      "feedPosition": 12,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208387",
@@ -439,8 +365,8 @@
       "english": "Call for the teaching of Aberfan history in schools and action on the safety of coal tips",
       "url": "https://golwg.360.cymru/newyddion/addysg/2208387-galw-ddysgu-hanes-aberfan-mewn-ysgolion-gweithredu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1GeL",
       "pubDate": "Wed, 21 Oct 2026 11:17:29 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
+      "feedPosition": 13,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
       "category": null
     },
     {
@@ -449,8 +375,8 @@
       "english": "Rhun ap Iorwerth: There are no plans to restructure Welsh health boards at present",
       "url": "https://golwg.360.cymru/newyddion/2208382-rhun-iorwerth-bwriad-ailstrwythuro-byrddau-iechyd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0NrG1",
       "pubDate": "Wed, 21 Oct 2026 10:44:10 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
+      "feedPosition": 14,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
       "category": null
     },
     {
@@ -459,8 +385,8 @@
       "english": "Aberfan, 60 years on: ‘It is the powerful organisations that look after their own interests’",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208372-aberfan-mlynedd-wedyn-sefydliadau-pwerus-edrych?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNngJ",
       "pubDate": "Wed, 21 Oct 2026 09:44:50 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
+      "feedPosition": 15,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
       "category": null
     },
     {
@@ -469,8 +395,8 @@
       "english": "‘Children like Jac should not have to wait': Call for a nurse to a special school",
       "url": "https://golwg.360.cymru/newyddion/addysg/2208360-ddylai-plant-orfod-aros-galw-nyrs-ysgol-arbennig?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0W1O5",
       "pubDate": "Wed, 21 Oct 2026 08:00:51 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
+      "feedPosition": 16,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
       "category": null
     },
     {
@@ -479,8 +405,8 @@
       "english": "Wales and Scotland unanimously call on Westminster",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2208326-cymru-alban-galw-gytun-steffan?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0W1g5",
       "pubDate": "Wed, 21 Oct 2026 07:01:30 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
+      "feedPosition": 17,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
       "category": null
     },
     {
@@ -489,40 +415,10 @@
       "english": "St John's Ambulance “never forgotten” the Aberfan disaster",
       "url": "https://golwg.360.cymru/newyddion/2208332-ambiwlans-sant-ioan-erioed-wedi-anghofio-trychineb?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNje5J",
       "pubDate": "Wed, 21 Oct 2026 06:01:54 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208346",
-      "welsh": "Jane Dodds yn rhoi’r gorau i arwain Democratiaid Rhyddfrydol Cymru ar ôl naw mlynedd",
-      "english": "Jane Dodds quits leading the Welsh Liberal Democrats after nine years",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2208346-jane-dodds-rhoi-gorau-arwain-democratiaid?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=eOsA5GPy",
-      "pubDate": "Tue, 20 Oct 2026 17:00:31 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208316",
-      "welsh": "Ysgol yn Sir Benfro yn dileu neges Facebook am ymweliad addysgiadol â mosg wedi sylwadau “ffiaidd”",
-      "english": "Pembrokeshire school deletes Facebook message about educational visit to mosque after “disgusting” comments",
-      "url": "https://golwg.360.cymru/newyddion/addysg/2208316-ysgol-benfro-tynnu-neges-facebook-ymweliad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=dJsN7PAn",
-      "pubDate": "Tue, 20 Oct 2026 15:10:14 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208318",
-      "welsh": "Ymgynghori ar drydedd ysgol gynradd i Ferthyr Tudful",
-      "english": "Consultation on a third primary school for Merthyr Tydfil",
-      "url": "https://golwg.360.cymru/newyddion/addysg/2208318-ymgynghori-drydedd-ysgol-gynradd-ferthyr-tudful?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLjaM",
-      "pubDate": "Tue, 20 Oct 2026 15:02:23 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-10-22T11:44:06.917Z",
+      "feedPosition": 18,
+      "fetchedAt": "2026-10-23T11:31:55.371Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-10-22T21:30:25.555Z"
+  "generatedAt": "2026-10-23T11:31:55.371Z"
 }
