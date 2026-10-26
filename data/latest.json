@@ -2,6 +2,39 @@
   "date": "2026-10-26",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2208657",
+      "welsh": "Gêm bêl-droed sy’n mynd â ni’n ôl i’r 1980au",
+      "english": "A football game that takes us back to the 1980s",
+      "url": "https://golwg.360.cymru/newyddion/2208657-droed-mynd-1980au?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1Go0",
+      "pubDate": "Mon, 26 Oct 2026 16:12:36 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-26T20:26:59.496Z",
+      "category": null,
+      "welshGlosses": [
+        "Game",
+        "football",
+        "which",
+        "",
+        "To:",
+        "we",
+        "Trace",
+        "I",
+        "1980s"
+      ],
+      "englishGlosses": [
+        "A.",
+        "",
+        ".",
+        "hynny",
+        "cymryd",
+        "Ein Cymru ni",
+        "Nôl",
+        "i",
+        "'r",
+        "1980au"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208621",
       "welsh": "Ben Lake AS i arwain y ddadl gyntaf yn Nhŷ’r Cyffredin ar reoleiddio AI datblygiedig",
       "english": "Ben Lake MP to lead the first House of Commons debate on the regulation of advanced AI",
@@ -341,17 +374,7 @@
       "feedPosition": 17,
       "fetchedAt": "2026-10-26T12:51:41.297Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208387",
-      "welsh": "Galw am ddysgu hanes Aberfan mewn ysgolion a gweithredu ar ddiogelwch tomenni glo",
-      "english": "Call for the teaching of Aberfan history in schools and action on the safety of coal tips",
-      "url": "https://golwg.360.cymru/newyddion/addysg/2208387-galw-ddysgu-hanes-aberfan-mewn-ysgolion-gweithredu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1GeL",
-      "pubDate": "Wed, 21 Oct 2026 11:17:29 +0000",
-      "feedPosition": 18,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-26T12:51:41.297Z"
+  "generatedAt": "2026-10-26T20:26:59.496Z"
 }
