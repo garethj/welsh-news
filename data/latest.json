@@ -2,6 +2,118 @@
   "date": "2026-10-27",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2208695",
+      "welsh": "‘Allwn ni ddim aros tan 2028’ i ddiogelu Cymru rhag newid hinsawdd",
+      "english": "‘We cannot wait until 2028’ to protect Wales from climate change",
+      "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208695-allwn-ni-ddim-aros?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE833",
+      "pubDate": "Tue, 27 Oct 2026 10:01:00 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-27T12:03:44.581Z",
+      "category": null,
+      "welshGlosses": [
+        "Outlet",
+        "we/us",
+        "not",
+        "Wait",
+        "until",
+        "2028",
+        "to",
+        "safeguarding",
+        "Wales",
+        "Dec",
+        "change",
+        "Climate"
+      ],
+      "englishGlosses": [
+        "i ni.",
+        "methu",
+        "Aros",
+        "tan",
+        "2028",
+        "i",
+        "warchod",
+        "Cymru",
+        "o",
+        "Hinsawdd",
+        "Newid"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208703",
+      "welsh": "Cwestiynau am gywirdeb ffigurau mewn cynllun i gau ysgol yn Sir Gâr",
+      "english": "Questions about the accuracy of figures in a school closure scheme in Carmarthenshire",
+      "url": "https://golwg.360.cymru/newyddion/addysg/2208703-cwestiynau-gywirdeb-ffigurau-mewn-cynllun-ysgol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=oDs4WyjM",
+      "pubDate": "Tue, 27 Oct 2026 09:50:12 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-27T12:03:44.581Z",
+      "category": null,
+      "welshGlosses": [
+        "Questions",
+        "for",
+        "accuracy",
+        "figures",
+        "in",
+        "Plan",
+        "to",
+        "lie",
+        "school",
+        "in",
+        "County",
+        "Gar"
+      ],
+      "englishGlosses": [
+        "Cwestiynau",
+        "Ynglŷn â",
+        "'r",
+        "Cywirdeb",
+        "o",
+        "Ffigyrau",
+        "yn",
+        "a.",
+        "Term",
+        "cau",
+        "Gwaredu Cynllun",
+        "yn",
+        "Sir Gaerfyrddin"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208683",
+      "welsh": "Galw i atal rhoi arian cyhoeddus i gwmnïau arfau yng Nghymru",
+      "english": "Call to stop giving public money to arms companies in Wales",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2208683-galw-atal-rhoi-arian-cyhoeddus-gwmniau-arfau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2OloD",
+      "pubDate": "Tue, 27 Oct 2026 08:00:07 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-10-27T12:03:44.581Z",
+      "category": null,
+      "welshGlosses": [
+        "Call",
+        "to",
+        "stop",
+        "give",
+        "monies",
+        "public",
+        "to",
+        "companies",
+        "weapons",
+        "in",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Galw",
+        "i",
+        "atal",
+        "rhoi",
+        "cyhoedd",
+        "arian",
+        "i",
+        "Breichiau",
+        "Cwmnïau",
+        "yn",
+        "Cymru"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208657",
       "welsh": "Gêm bêl-droed sy’n mynd â ni’n ôl i’r 1980au",
       "english": "A football game that takes us back to the 1980s",
@@ -320,37 +432,7 @@
       "feedPosition": 15,
       "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208425",
-      "welsh": "Diffoddwyr tân heb yr offer na’r hyfforddiant digonol i wynebu tanau gwyllt",
-      "english": "Firefighters without the adequate equipment and training to face wildfires",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2208425-diffoddwyr-offer-hyfforddiant-digonol-wynebu-tanau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroL0e",
-      "pubDate": "Wed, 21 Oct 2026 16:22:12 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-10-27T00:23:39.356Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208408",
-      "welsh": "Anfodlonrwydd o fewn Plaid Cymru dros ohirio newidiadau i’r dreth gyngor",
-      "english": "Plaid Cymru dissatisfaction over postponement of council tax changes",
-      "url": "https://golwg.360.cymru/newyddion/2208408-anfodlonrwydd-fewn-plaid-cymru-dros-ohirio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=MgsEL0Y0",
-      "pubDate": "Wed, 21 Oct 2026 14:54:40 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-10-27T00:23:39.356Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208399",
-      "welsh": "Cadeirydd Cyngor Powys yn rhedeg llety gwyliau heb ganiatâd cynllunio ers blynyddoedd",
-      "english": "The Chair of Powys Council has been running holiday accommodation without planning permission for years",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2208399-cadeirydd-cyngor-powys-rhedeg-llety-gwyliau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNjeML",
-      "pubDate": "Wed, 21 Oct 2026 13:09:37 +0000",
-      "feedPosition": 18,
-      "fetchedAt": "2026-10-27T00:23:39.356Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-27T00:23:39.356Z"
+  "generatedAt": "2026-10-27T12:03:44.581Z"
 }
