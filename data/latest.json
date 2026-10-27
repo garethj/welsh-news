@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2208657",
@@ -8,7 +8,7 @@
       "url": "https://golwg.360.cymru/newyddion/2208657-droed-mynd-1980au?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1Go0",
       "pubDate": "Mon, 26 Oct 2026 16:12:36 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-10-26T20:26:59.496Z",
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null,
       "welshGlosses": [
         "Game",
@@ -40,8 +40,8 @@
       "english": "Ben Lake MP to lead the first House of Commons debate on the regulation of advanced AI",
       "url": "https://golwg.360.cymru/newyddion/prydain/2208621-lake-arwain-ddadl-gyntaf-cyffredin-reoleiddio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLjNn",
       "pubDate": "Mon, 26 Oct 2026 12:27:40 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null,
       "welshGlosses": [
         "Top",
@@ -86,8 +86,8 @@
       "english": "Europa",
       "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2208612-ewropa-22?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=wPs0ar1r",
       "pubDate": "Mon, 26 Oct 2026 11:27:51 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
+      "feedPosition": 2,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null,
       "welshGlosses": [
         "Europa"
@@ -102,8 +102,8 @@
       "english": "Welsh councils take a stand against hate crime",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208579-cynghorau-cymru-sefyll-erbyn-troseddau-casineb?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMa04R",
       "pubDate": "Mon, 26 Oct 2026 10:40:33 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
+      "feedPosition": 3,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null,
       "welshGlosses": [
         "Councils",
@@ -131,8 +131,8 @@
       "english": "Me and my Dog",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208467-nghi-39?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=oDs4WyP1",
       "pubDate": "Sat, 24 Oct 2026 06:26:08 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null,
       "welshGlosses": [
         "Me",
@@ -153,8 +153,8 @@
       "english": "Castles of Wales joins water saving campaign",
       "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208538-cestyll-cymru-ymuno-ymgyrch-arbed?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRrLW",
       "pubDate": "Fri, 23 Oct 2026 12:59:24 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null,
       "welshGlosses": [
         "Castles",
@@ -181,8 +181,8 @@
       "english": "The Government's consultation on underground cabling policy first",
       "url": "https://golwg.360.cymru/newyddion/2208530-ymgynghori-bolisi-gosod-ceblau-ddaear-gyntaf?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0JyL",
       "pubDate": "Fri, 23 Oct 2026 10:57:41 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null,
       "welshGlosses": [
         "Consultation",
@@ -216,8 +216,8 @@
       "english": "Parliament is firmly committed to tackling prostate cancer",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2208519-senedd-gadarn-dros-daclo-canser-prostad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=rns7G2nw",
       "pubDate": "Fri, 23 Oct 2026 10:02:05 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null,
       "welshGlosses": [
         "the",
@@ -247,33 +247,9 @@
       "english": "Wrexham City of Culture's bid for “flying the flag” for Wales",
       "url": "https://golwg.360.cymru/newyddion/2208503-cais-dinas-ddiwylliant-wrecsam-chwifio-faner-gymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsdegD7",
       "pubDate": "Thu, 22 Oct 2026 16:39:06 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
-      "category": null,
-      "welshGlosses": [
-        "Try",
-        "City",
-        "Culture",
-        "Wrexham",
-        "for",
-        "fly the",
-        "flag",
-        "to",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "Wrecsam",
-        "Dinas",
-        "o",
-        "Diwylliant",
-        "cynnig",
-        "am",
-        "hedfan",
-        "'r",
-        "baner",
-        "am",
-        "Cymru"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208498",
@@ -281,8 +257,8 @@
       "english": "“The death of empathy” following a debate on the banning of face coverings in Parliament",
       "url": "https://golwg.360.cymru/newyddion/2208498-marwolaeth-empathi-sgil-dadl-wahardd-gorchuddion?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGPJrj",
       "pubDate": "Thu, 22 Oct 2026 14:36:27 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
+      "feedPosition": 9,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null
     },
     {
@@ -291,8 +267,8 @@
       "english": "Appointment of former Plaid Cymru Member of Parliament as new Head of Oxfam Cymru",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208492-penodi-aelod-plaid-cymru-senedd-bennaeth-newydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroLjo",
       "pubDate": "Thu, 22 Oct 2026 12:20:38 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
+      "feedPosition": 10,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null
     },
     {
@@ -301,8 +277,8 @@
       "english": "‘A bridge between the Park and local communities': the appointment of the first artist to support the work of Snowdonia National Park",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208485-pont-rhwng-parc-chymunedau-lleol-penodi-artist?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=rns7G2ww",
       "pubDate": "Thu, 22 Oct 2026 11:43:36 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
+      "feedPosition": 11,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null
     },
     {
@@ -311,8 +287,8 @@
       "english": "National Library of Wales marks Green Libraries Week 2026",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208480-llyfrgell-genedlaethol-cymru-nodi-wythnos?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=eOsA5Go8",
       "pubDate": "Thu, 22 Oct 2026 11:11:45 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
+      "feedPosition": 12,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null
     },
     {
@@ -321,8 +297,8 @@
       "english": "Leaders must do more to prepare for climate impacts, warns the Future Generations Commissioner",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208457-rhaid-arweinwyr-wneud-baratoi-gyfer-effeithiau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarlPR",
       "pubDate": "Thu, 22 Oct 2026 09:58:21 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
+      "feedPosition": 13,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null
     },
     {
@@ -331,8 +307,8 @@
       "english": "The presence of Welsh schools is‘ disgraceful', says the leader of the Conservatives",
       "url": "https://golwg.360.cymru/newyddion/addysg/2208429-presenoldeb-ysgolion-cymru-warthus-medd-arweinydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0J8M",
       "pubDate": "Thu, 22 Oct 2026 07:26:14 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
+      "feedPosition": 14,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null
     },
     {
@@ -341,8 +317,8 @@
       "english": "‘Anglesey cannot be evacuated safely’ in the event of an attack on Wylfa, campaigners say",
       "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208431-modd-gwagio-ynys-ddiogel-ymosodiad-wylfa-medd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGPJYD",
       "pubDate": "Wed, 21 Oct 2026 17:40:52 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
+      "feedPosition": 15,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null
     },
     {
@@ -351,8 +327,8 @@
       "english": "Firefighters without the adequate equipment and training to face wildfires",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2208425-diffoddwyr-offer-hyfforddiant-digonol-wynebu-tanau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroL0e",
       "pubDate": "Wed, 21 Oct 2026 16:22:12 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
+      "feedPosition": 16,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null
     },
     {
@@ -361,8 +337,8 @@
       "english": "Plaid Cymru dissatisfaction over postponement of council tax changes",
       "url": "https://golwg.360.cymru/newyddion/2208408-anfodlonrwydd-fewn-plaid-cymru-dros-ohirio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=MgsEL0Y0",
       "pubDate": "Wed, 21 Oct 2026 14:54:40 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
+      "feedPosition": 17,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null
     },
     {
@@ -371,10 +347,10 @@
       "english": "The Chair of Powys Council has been running holiday accommodation without planning permission for years",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208399-cadeirydd-cyngor-powys-rhedeg-llety-gwyliau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNjeML",
       "pubDate": "Wed, 21 Oct 2026 13:09:37 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-10-26T12:51:41.297Z",
+      "feedPosition": 18,
+      "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-10-26T20:26:59.496Z"
+  "generatedAt": "2026-10-27T00:23:39.356Z"
 }
