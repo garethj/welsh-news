@@ -2,6 +2,128 @@
   "date": "2026-10-27",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2208782",
+      "welsh": "David Chadwick yn anelu at arwain Democratiaid Rhyddfrydol Cymru heb gystadleuaeth",
+      "english": "David Chadwick aims to lead the Welsh Liberal Democrats without competition",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2208782-david-chadwick-anelu-arwain-democratiaid?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=gnspdM4M",
+      "pubDate": "Tue, 27 Oct 2026 17:38:21 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-27T17:56:59.532Z",
+      "category": null,
+      "welshGlosses": [
+        "David",
+        "Chadwick",
+        "in",
+        "aim",
+        "towards",
+        "led",
+        "Democrats",
+        "Liberalism",
+        "Wales",
+        "without",
+        "competition"
+      ],
+      "englishGlosses": [
+        "Dafydd",
+        "Ann Chadwick",
+        "Nodau",
+        "i",
+        "Plwm",
+        "'r",
+        "Cymraeg",
+        "rhydd",
+        "Democratiaid",
+        "heb",
+        "cystadleuaeth"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208608",
+      "welsh": "Gŵyl Sain i ddathlu gwaddol cwmni sydd wedi ‘arwain y ffordd’ yng Nghymru",
+      "english": "Festival of Sound to celebrate the legacy of a company that has‘ led the way ’in Wales",
+      "url": "https://golwg.360.cymru/newyddion/2208608-gwyl-sain-ddathlu-gwaddol-cwmni-sydd-wedi-arwain?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNndw",
+      "pubDate": "Tue, 27 Oct 2026 15:46:08 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-27T17:56:59.532Z",
+      "category": null,
+      "welshGlosses": [
+        "Festival",
+        "Audio",
+        "to",
+        "GO!!",
+        "funds",
+        "Company",
+        "which is",
+        "after",
+        "led",
+        "the",
+        "Road",
+        "in",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Gŵyl",
+        "o",
+        "Sŵn",
+        "i",
+        "dathlu",
+        "'r",
+        "Hen URLau",
+        "o",
+        "a.",
+        "cwmni",
+        "hynny",
+        "Oes",
+        "arwain",
+        "'r",
+        "modd",
+        "yn",
+        "Cymru"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208749",
+      "welsh": "‘Cwestiwn o bryd, nid os’: Amgueddfa Genedlaethol Caerdydd yn mynd i orfod cau",
+      "english": "‘Question at the moment, not if': National Museum Cardiff is going to have to close",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2208749-cwestiwn-bryd-amgueddfa-genedlaethol-caerdydd-mynd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=gnspdM8G",
+      "pubDate": "Tue, 27 Oct 2026 13:47:08 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-10-27T17:56:59.532Z",
+      "category": null,
+      "welshGlosses": [
+        "Question:",
+        "of",
+        "when",
+        "This link is not live-previewable.",
+        "if",
+        "Museum",
+        "The National <PROTECTED>",
+        "Cardiff",
+        "in",
+        "",
+        "to",
+        "to force",
+        "close"
+      ],
+      "englishGlosses": [
+        "Cwestiwn",
+        "am",
+        "'r",
+        "eiliad",
+        "ddim",
+        "os",
+        "cenedlaethol",
+        "Amgueddfa",
+        "",
+        "yw",
+        "mynd",
+        "i",
+        "cael",
+        "i",
+        "cau"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208695",
       "welsh": "‘Allwn ni ddim aros tan 2028’ i ddiogelu Cymru rhag newid hinsawdd",
       "english": "‘We cannot wait until 2028’ to protect Wales from climate change",
@@ -402,37 +524,7 @@
       "feedPosition": 12,
       "fetchedAt": "2026-10-27T00:23:39.356Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208457",
-      "welsh": "Rhaid i arweinwyr wneud mwy i baratoi ar gyfer effeithiau’r hinsawdd, rhybuddia Comisiynydd Cenedlaethau’r Dyfodol",
-      "english": "Leaders must do more to prepare for climate impacts, warns the Future Generations Commissioner",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2208457-rhaid-arweinwyr-wneud-baratoi-gyfer-effeithiau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarlPR",
-      "pubDate": "Thu, 22 Oct 2026 09:58:21 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-10-27T00:23:39.356Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208429",
-      "welsh": "Presenoldeb ysgolion Cymru yn ‘warthus’, medd arweinydd y Ceidwadwyr",
-      "english": "The presence of Welsh schools is‘ disgraceful', says the leader of the Conservatives",
-      "url": "https://golwg.360.cymru/newyddion/addysg/2208429-presenoldeb-ysgolion-cymru-warthus-medd-arweinydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0J8M",
-      "pubDate": "Thu, 22 Oct 2026 07:26:14 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-10-27T00:23:39.356Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208431",
-      "welsh": "‘Dim modd gwagio Ynys Môn yn ddiogel’ pe bai ymosodiad ar Wylfa, medd ymgyrchwyr",
-      "english": "‘Anglesey cannot be evacuated safely’ in the event of an attack on Wylfa, campaigners say",
-      "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208431-modd-gwagio-ynys-ddiogel-ymosodiad-wylfa-medd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGPJYD",
-      "pubDate": "Wed, 21 Oct 2026 17:40:52 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-10-27T00:23:39.356Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-27T12:03:44.581Z"
+  "generatedAt": "2026-10-27T17:56:59.532Z"
 }
