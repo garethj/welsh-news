@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2208830",
@@ -8,7 +8,7 @@
       "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2208830-cyllideb-gyntaf-john-healey-gymru-anghenion?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE8go",
       "pubDate": "Wed, 28 Oct 2026 17:25:09 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-10-28T20:14:32.533Z",
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
       "category": null,
       "welshGlosses": [
         "Budget",
@@ -41,7 +41,7 @@
       "url": "https://golwg.360.cymru/newyddion/2208825-cefin-campbell-yn-rhwystredig-dros-bwerau-san-steffan?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1GwM",
       "pubDate": "Wed, 28 Oct 2026 16:42:57 +0000",
       "feedPosition": 1,
-      "fetchedAt": "2026-10-28T20:14:32.533Z",
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
       "category": null,
       "welshGlosses": [
         "Habitat",
@@ -83,7 +83,7 @@
       "url": "https://golwg.360.cymru/newyddion/2208821-diogelwch-seiber-frig-rhestr-risgiau-llyfrgell?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=dJsN7P8j",
       "pubDate": "Wed, 28 Oct 2026 15:58:44 +0000",
       "feedPosition": 2,
-      "fetchedAt": "2026-10-28T20:14:32.533Z",
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
       "category": null,
       "welshGlosses": [
         "Security",
@@ -116,7 +116,7 @@
       "url": "https://golwg.360.cymru/newyddion/2208807-cyllideb-miliwn-rhagor-gymru-aros-ddydd-gwener?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRr1E",
       "pubDate": "Wed, 28 Oct 2026 15:07:52 +0000",
       "feedPosition": 3,
-      "fetchedAt": "2026-10-28T20:14:32.533Z",
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
       "category": null,
       "welshGlosses": [
         "Budget",
@@ -159,7 +159,7 @@
       "url": "https://golwg.360.cymru/newyddion/cymru/2208803-cynllun-godi-bron-gartrefi-mewn-gardd-ddinas?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNjeYp",
       "pubDate": "Wed, 28 Oct 2026 13:03:23 +0000",
       "feedPosition": 4,
-      "fetchedAt": "2026-10-28T20:14:32.533Z",
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
       "category": null,
       "welshGlosses": [
         "Plan",
@@ -198,8 +198,8 @@
       "english": "Call on Wales to “lead by example” and make the richest polluters pay",
       "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208798-galw-gymru-arwain-drwy-esiampl?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=BpsyY7LY",
       "pubDate": "Wed, 28 Oct 2026 11:14:23 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-10-28T12:43:51.130Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
       "category": null,
       "welshGlosses": [
         "Call",
@@ -238,8 +238,8 @@
       "english": "How does the language of the home influence children's Welsh?",
       "url": "https://golwg.360.cymru/newyddion/iaith/2208794-iaith-cartref-dylanwadu-gymraeg-plant?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOgG3",
       "pubDate": "Wed, 28 Oct 2026 10:34:59 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-10-28T12:43:51.130Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
       "category": null,
       "welshGlosses": [
         "How?",
@@ -272,8 +272,8 @@
       "english": "‘The Welsh language should not have to rely on the cards of companies like Apple’",
       "url": "https://golwg.360.cymru/newyddion/gwyddoniaeth-a-thechnoleg/2208761-ddylai-gymraeg-ddim-gorfod-dibynnu-gardod-cwmniau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOgNW",
       "pubDate": "Wed, 28 Oct 2026 08:01:03 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-10-28T12:43:51.130Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
       "category": null,
       "welshGlosses": [
         "The",
@@ -311,36 +311,9 @@
       "english": "Call for £1 billion for Welsh railways ahead of the UK Budget",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208786-galw-biliwn-reilffyrdd-cymru-cyllideb?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0Nr72",
       "pubDate": "Wed, 28 Oct 2026 06:23:24 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-10-28T12:43:51.130Z",
-      "category": null,
-      "welshGlosses": [
-        "Call",
-        "for",
-        "1.",
-        "billion",
-        "to",
-        "railways",
-        "Wales",
-        "before",
-        "Budget",
-        "the",
-        "Black"
-      ],
-      "englishGlosses": [
-        "Galw",
-        "am",
-        "1.",
-        "biliwn",
-        "am",
-        "Cymraeg",
-        "Rheilffordd",
-        "ymlaen",
-        "o",
-        "'r",
-        "Y DU",
-        "Cyllideb"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208782",
@@ -348,35 +321,9 @@
       "english": "David Chadwick aims to lead the Welsh Liberal Democrats without competition",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208782-david-chadwick-anelu-arwain-democratiaid?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=gnspdM4M",
       "pubDate": "Tue, 27 Oct 2026 17:38:21 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-10-28T12:43:51.130Z",
-      "category": null,
-      "welshGlosses": [
-        "David",
-        "Chadwick",
-        "in",
-        "aim",
-        "towards",
-        "led",
-        "Democrats",
-        "Liberalism",
-        "Wales",
-        "without",
-        "competition"
-      ],
-      "englishGlosses": [
-        "Dafydd",
-        "Ann Chadwick",
-        "Nodau",
-        "i",
-        "Plwm",
-        "'r",
-        "Cymraeg",
-        "rhydd",
-        "Democratiaid",
-        "heb",
-        "cystadleuaeth"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208608",
@@ -384,43 +331,9 @@
       "english": "Festival of Sound to celebrate the legacy of a company that has‘ led the way ’in Wales",
       "url": "https://golwg.360.cymru/newyddion/2208608-gwyl-sain-ddathlu-gwaddol-cwmni-sydd-wedi-arwain?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNndw",
       "pubDate": "Tue, 27 Oct 2026 15:46:08 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-10-28T12:43:51.130Z",
-      "category": null,
-      "welshGlosses": [
-        "Festival",
-        "Audio",
-        "to",
-        "GO!!",
-        "funds",
-        "Company",
-        "which is",
-        "after",
-        "led",
-        "the",
-        "Road",
-        "in",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "Gŵyl",
-        "o",
-        "Sŵn",
-        "i",
-        "dathlu",
-        "'r",
-        "Hen URLau",
-        "o",
-        "a.",
-        "cwmni",
-        "hynny",
-        "Oes",
-        "arwain",
-        "'r",
-        "modd",
-        "yn",
-        "Cymru"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208749",
@@ -428,41 +341,9 @@
       "english": "‘Question at the moment, not if': National Museum Cardiff is going to have to close",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208749-cwestiwn-bryd-amgueddfa-genedlaethol-caerdydd-mynd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=gnspdM8G",
       "pubDate": "Tue, 27 Oct 2026 13:47:08 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-10-28T12:43:51.130Z",
-      "category": null,
-      "welshGlosses": [
-        "Question:",
-        "of",
-        "when",
-        "This link is not live-previewable.",
-        "if",
-        "Museum",
-        "The National <PROTECTED>",
-        "Cardiff",
-        "in",
-        "",
-        "to",
-        "to force",
-        "close"
-      ],
-      "englishGlosses": [
-        "Cwestiwn",
-        "am",
-        "'r",
-        "eiliad",
-        "ddim",
-        "os",
-        "cenedlaethol",
-        "Amgueddfa",
-        "",
-        "yw",
-        "mynd",
-        "i",
-        "cael",
-        "i",
-        "cau"
-      ]
+      "feedPosition": 11,
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208695",
@@ -470,36 +351,9 @@
       "english": "‘We cannot wait until 2028’ to protect Wales from climate change",
       "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208695-allwn-ni-ddim-aros?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE833",
       "pubDate": "Tue, 27 Oct 2026 10:01:00 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-10-28T12:43:51.130Z",
-      "category": null,
-      "welshGlosses": [
-        "Outlet",
-        "we/us",
-        "not",
-        "Wait",
-        "until",
-        "2028",
-        "to",
-        "safeguarding",
-        "Wales",
-        "Dec",
-        "change",
-        "Climate"
-      ],
-      "englishGlosses": [
-        "i ni.",
-        "methu",
-        "Aros",
-        "tan",
-        "2028",
-        "i",
-        "warchod",
-        "Cymru",
-        "o",
-        "Hinsawdd",
-        "Newid"
-      ]
+      "feedPosition": 12,
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208703",
@@ -507,8 +361,8 @@
       "english": "Questions about the accuracy of figures in a school closure scheme in Carmarthenshire",
       "url": "https://golwg.360.cymru/newyddion/addysg/2208703-cwestiynau-gywirdeb-ffigurau-mewn-cynllun-ysgol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=oDs4WyjM",
       "pubDate": "Tue, 27 Oct 2026 09:50:12 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-10-28T12:43:51.130Z",
+      "feedPosition": 13,
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
       "category": null
     },
     {
@@ -517,8 +371,8 @@
       "english": "Call to stop giving public money to arms companies in Wales",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208683-galw-atal-rhoi-arian-cyhoeddus-gwmniau-arfau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2OloD",
       "pubDate": "Tue, 27 Oct 2026 08:00:07 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-10-28T12:43:51.130Z",
+      "feedPosition": 14,
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
       "category": null
     },
     {
@@ -527,8 +381,8 @@
       "english": "A football game that takes us back to the 1980s",
       "url": "https://golwg.360.cymru/newyddion/2208657-droed-mynd-1980au?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1Go0",
       "pubDate": "Mon, 26 Oct 2026 16:12:36 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-10-28T12:43:51.130Z",
+      "feedPosition": 15,
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
       "category": null
     },
     {
@@ -537,8 +391,8 @@
       "english": "Ben Lake MP to lead the first House of Commons debate on the regulation of advanced AI",
       "url": "https://golwg.360.cymru/newyddion/prydain/2208621-lake-arwain-ddadl-gyntaf-cyffredin-reoleiddio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLjNn",
       "pubDate": "Mon, 26 Oct 2026 12:27:40 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-10-28T12:43:51.130Z",
+      "feedPosition": 16,
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
       "category": null
     },
     {
@@ -547,8 +401,8 @@
       "english": "Europa",
       "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2208612-ewropa-22?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=wPs0ar1r",
       "pubDate": "Mon, 26 Oct 2026 11:27:51 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-10-28T12:43:51.130Z",
+      "feedPosition": 17,
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
       "category": null
     },
     {
@@ -557,8 +411,8 @@
       "english": "Welsh councils take a stand against hate crime",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208579-cynghorau-cymru-sefyll-erbyn-troseddau-casineb?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMa04R",
       "pubDate": "Mon, 26 Oct 2026 10:40:33 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-10-28T12:43:51.130Z",
+      "feedPosition": 18,
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
       "category": null
     },
     {
@@ -567,10 +421,10 @@
       "english": "Me and my Dog",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208467-nghi-39?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=oDs4WyP1",
       "pubDate": "Sat, 24 Oct 2026 06:26:08 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-10-28T12:43:51.130Z",
+      "feedPosition": 19,
+      "fetchedAt": "2026-10-29T00:52:04.121Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-10-28T20:14:32.533Z"
+  "generatedAt": "2026-10-29T00:52:04.121Z"
 }
