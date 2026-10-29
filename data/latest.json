@@ -2,6 +2,81 @@
   "date": "2026-10-29",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2208909",
+      "welsh": "‘Y pethau beunyddiol sydd fwyaf dychrynllyd’: Pam mae straeon gwerin yn dal i’n cyfareddu?",
+      "english": "‘It's the everyday things that are most frightening': Why do folktales still fascinate us?",
+      "url": "https://golwg.360.cymru/newyddion/2208909-pethau-beunyddiol-sydd-fwyaf-dychrynllyd-straeon?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8DLJe",
+      "pubDate": "Thu, 29 Oct 2026 15:09:24 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-29T20:15:23.931Z",
+      "category": null,
+      "welshGlosses": [
+        "the",
+        "things",
+        "daily",
+        "which is",
+        "most",
+        "dreadful",
+        "",
+        "is",
+        "stories",
+        "Folk",
+        "in",
+        "(Hold)",
+        "i",
+        "enchant"
+      ],
+      "englishGlosses": [
+        "Mae'n",
+        "'r",
+        "bob dydd",
+        "pethau",
+        "hynny",
+        "dach",
+        "Mwyaf",
+        "brawychus",
+        "Pam",
+        "gwneud",
+        "straeon gwerin",
+        "o hyd",
+        "cyfareddol",
+        "Ein Cymru ni"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208899",
+      "welsh": "YesCymru yn ffurfio partneriaeth newydd â mudiad hunanlywodraeth Llydaw",
+      "english": "YesCymru forms a new partnership with the Brittany self-government movement",
+      "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2208899-ffurfio-partneriaeth-newydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=BpsyY7ra",
+      "pubDate": "Thu, 29 Oct 2026 12:58:45 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-29T20:15:23.931Z",
+      "category": null,
+      "welshGlosses": [
+        "YesCymru",
+        "in",
+        "to form",
+        "workers",
+        "new",
+        "To:",
+        "German",
+        "Devolution",
+        "Brittany"
+      ],
+      "englishGlosses": [
+        "YesCymru",
+        "ffurfiau",
+        "a.",
+        "newydd",
+        "Partneriaeth",
+        "gyda",
+        "'r",
+        "Llydaw",
+        "hunanlywodraeth",
+        "Symudiad"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208858",
       "welsh": "Gwrthdrawiadau ffyrdd wedi gostwng 37% ers cyflwyno’r terfyn 20mya",
       "english": "Road collisions have fallen by 37% since the introduction of the 20mph limit",
@@ -410,27 +485,7 @@
       "feedPosition": 14,
       "fetchedAt": "2026-10-29T00:52:04.121Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208657",
-      "welsh": "Gêm bêl-droed sy’n mynd â ni’n ôl i’r 1980au",
-      "english": "A football game that takes us back to the 1980s",
-      "url": "https://golwg.360.cymru/newyddion/2208657-droed-mynd-1980au?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1Go0",
-      "pubDate": "Mon, 26 Oct 2026 16:12:36 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-10-29T00:52:04.121Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208621",
-      "welsh": "Ben Lake AS i arwain y ddadl gyntaf yn Nhŷ’r Cyffredin ar reoleiddio AI datblygiedig",
-      "english": "Ben Lake MP to lead the first House of Commons debate on the regulation of advanced AI",
-      "url": "https://golwg.360.cymru/newyddion/prydain/2208621-lake-arwain-ddadl-gyntaf-cyffredin-reoleiddio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLjNn",
-      "pubDate": "Mon, 26 Oct 2026 12:27:40 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-10-29T00:52:04.121Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-29T12:53:35.606Z"
+  "generatedAt": "2026-10-29T20:15:23.931Z"
 }
