@@ -2,6 +2,42 @@
   "date": "2026-10-29",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2208858",
+      "welsh": "Gwrthdrawiadau ffyrdd wedi gostwng 37% ers cyflwyno’r terfyn 20mya",
+      "english": "Road collisions have fallen by 37% since the introduction of the 20mph limit",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2208858-gwrthdrawiadau-ffyrdd-wedi-gostwng-cyflwyno-terfyn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=pgseGBr4",
+      "pubDate": "Thu, 29 Oct 2026 09:53:51 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-29T12:53:35.606Z",
+      "category": null,
+      "welshGlosses": [
+        "& Conflicts",
+        "Road",
+        "after",
+        "Lower",
+        "37%",
+        "Since",
+        "to introduce the",
+        "Cap",
+        "20mph"
+      ],
+      "englishGlosses": [
+        "bowys",
+        "Chwalfeydd",
+        "cael",
+        "gostwng",
+        "gan",
+        "37%",
+        "Ers",
+        "'r",
+        "Cyflwyniad",
+        "o",
+        "'r",
+        "20mya",
+        "Terfyn"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208830",
       "welsh": "Cyllideb gyntaf John Healey: ‘Mae gan Gymru anghenion economaidd gwahanol’",
       "english": "John Healey's first budget: ‘Wales has different economic needs’",
@@ -394,37 +430,7 @@
       "feedPosition": 16,
       "fetchedAt": "2026-10-29T00:52:04.121Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208612",
-      "welsh": "Ewropa",
-      "english": "Europa",
-      "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2208612-ewropa-22?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=wPs0ar1r",
-      "pubDate": "Mon, 26 Oct 2026 11:27:51 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-10-29T00:52:04.121Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208579",
-      "welsh": "Cynghorau Cymru’n sefyll yn erbyn troseddau casineb",
-      "english": "Welsh councils take a stand against hate crime",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2208579-cynghorau-cymru-sefyll-erbyn-troseddau-casineb?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMa04R",
-      "pubDate": "Mon, 26 Oct 2026 10:40:33 +0000",
-      "feedPosition": 18,
-      "fetchedAt": "2026-10-29T00:52:04.121Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208467",
-      "welsh": "Fi a fy Nghi",
-      "english": "Me and my Dog",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2208467-nghi-39?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=oDs4WyP1",
-      "pubDate": "Sat, 24 Oct 2026 06:26:08 +0000",
-      "feedPosition": 19,
-      "fetchedAt": "2026-10-29T00:52:04.121Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-29T00:52:04.121Z"
+  "generatedAt": "2026-10-29T12:53:35.606Z"
 }
