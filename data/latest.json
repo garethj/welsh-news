@@ -2,6 +2,103 @@
   "date": "2026-10-30",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2208940",
+      "welsh": "Ble mae prifddinas tai arswyd Cymru?",
+      "english": "Where is the capital of Welsh horror housing?",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2208940-prifddinas-arswyd-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpd33",
+      "pubDate": "Fri, 30 Oct 2026 12:10:41 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-30T12:46:26.733Z",
+      "category": null,
+      "welshGlosses": [
+        "Where",
+        "is",
+        "Capital city",
+        "Thai",
+        "horror",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Ble",
+        "yw",
+        "'r",
+        "Cyfalaf",
+        "o",
+        "Cymraeg",
+        "erchylldra",
+        "tai"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208946",
+      "welsh": "Cyllideb Cymru: Rhybudd y gallai gwasanaethau y tu hwnt i’r GIG wynebu toriadau",
+      "english": "The Welsh Budget: A warning that services beyond the NHS could face cuts",
+      "url": "https://golwg.360.cymru/newyddion/2208946-cyllideb-cymru-rhybudd-gallai-gwasanaethau-hwnt?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGD81j",
+      "pubDate": "Fri, 30 Oct 2026 11:44:33 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-30T12:46:26.733Z",
+      "category": null,
+      "welshGlosses": [
+        "Budget",
+        "Wales",
+        "Alert",
+        "the",
+        "could",
+        "FOOD",
+        "the",
+        "side",
+        "beyond",
+        "I",
+        "NHS",
+        "to face",
+        "cuts"
+      ],
+      "englishGlosses": [
+        "Y",
+        "Cymraeg",
+        "Cyllideb",
+        "A.",
+        "Rhybudd",
+        "hynny",
+        "Gwasanaeth",
+        "tu hwnt",
+        "'r",
+        "GIG",
+        "gallai",
+        "visog",
+        "toriadau"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208739",
+      "welsh": "Taff Rapids a’r Grammys: Gornest y ffidlwyr",
+      "english": "Taff Rapids and the Grammys: The fiddlers' contest",
+      "url": "https://golwg.360.cymru/newyddion/2208739-taff-rapids-grammys-gornest-ffidlwyr?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsdegej",
+      "pubDate": "Fri, 30 Oct 2026 10:19:03 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-10-30T12:46:26.733Z",
+      "category": null,
+      "welshGlosses": [
+        "Taff",
+        "Big Rapids",
+        "and indemnities and the",
+        "Grammys",
+        "Match",
+        "the",
+        "violinists"
+      ],
+      "englishGlosses": [
+        "pelydr",
+        "Dyfroedd gwyllt",
+        "a",
+        "'r",
+        "Grammys",
+        "Y",
+        "ffidlwyr",
+        "cystadleuaeth"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208932",
       "welsh": "‘Peidiwch â thrin Cymru fel rhanbarth o Loegr’ – Rhun ap Iorwerth yn herio Andy Burnham",
       "english": "‘Do not treat Wales as a region of England’ – Rhun ap Iorwerth challenges Andy Burnham",
@@ -376,37 +473,7 @@
       "feedPosition": 14,
       "fetchedAt": "2026-10-30T00:54:21.012Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208749",
-      "welsh": "‘Cwestiwn o bryd, nid os’: Amgueddfa Genedlaethol Caerdydd yn mynd i orfod cau",
-      "english": "‘Question at the moment, not if': National Museum Cardiff is going to have to close",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2208749-cwestiwn-bryd-amgueddfa-genedlaethol-caerdydd-mynd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=gnspdM8G",
-      "pubDate": "Tue, 27 Oct 2026 13:47:08 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208695",
-      "welsh": "‘Allwn ni ddim aros tan 2028’ i ddiogelu Cymru rhag newid hinsawdd",
-      "english": "‘We cannot wait until 2028’ to protect Wales from climate change",
-      "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208695-allwn-ni-ddim-aros?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE833",
-      "pubDate": "Tue, 27 Oct 2026 10:01:00 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208703",
-      "welsh": "Cwestiynau am gywirdeb ffigurau mewn cynllun i gau ysgol yn Sir Gâr",
-      "english": "Questions about the accuracy of figures in a school closure scheme in Carmarthenshire",
-      "url": "https://golwg.360.cymru/newyddion/addysg/2208703-cwestiynau-gywirdeb-ffigurau-mewn-cynllun-ysgol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=oDs4WyjM",
-      "pubDate": "Tue, 27 Oct 2026 09:50:12 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-30T00:54:21.012Z"
+  "generatedAt": "2026-10-30T12:46:26.733Z"
 }
