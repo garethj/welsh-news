@@ -2,6 +2,170 @@
   "date": "2026-10-30",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2208995",
+      "welsh": "Teyrnged y Cofis i Jack Davies",
+      "english": "A Memory Tribute to Jack Davies",
+      "url": "https://golwg.360.cymru/newyddion/2208995-teyrnged-cofis-jack-davies?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarl2w",
+      "pubDate": "Fri, 30 Oct 2026 17:02:46 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-30T19:54:51.172Z",
+      "category": null,
+      "welshGlosses": [
+        "Tribute",
+        "the",
+        "Cofis",
+        "to",
+        "IJack",
+        "Davies"
+      ],
+      "englishGlosses": [
+        "A.",
+        "Cof",
+        "Teyrnged",
+        "i",
+        "jac",
+        "K Davies"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208996",
+      "welsh": "Rhun ap Iorwerth: consensws gyda San Steffan dros fwy o bwerau cyllidol",
+      "english": "Rhun ap Iorwerth: consensus with Westminster over increased fiscal powers",
+      "url": "https://golwg.360.cymru/newyddion/2208996-rhun-iorwerth-consensws-gyda-steffan-dros-bwerau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOgAJ",
+      "pubDate": "Fri, 30 Oct 2026 16:20:03 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-30T19:54:51.172Z",
+      "category": null,
+      "welshGlosses": [
+        "Rhun",
+        "App",
+        "Iorwerth",
+        "consensus",
+        "Job|with",
+        "Bushmen",
+        "Bob",
+        "over",
+        "bigger",
+        "of",
+        "powers",
+        "fiscal"
+      ],
+      "englishGlosses": [
+        "rhun",
+        "<PROTECTED> ap <PROTECTED>/Meleri Williams",
+        "Iorwerth",
+        "consensws",
+        "gyda",
+        "West Point",
+        "dros",
+        "wedi cynyddu",
+        "cyllidol",
+        "pwerau"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208977",
+      "welsh": "Galw ar deuluoedd i gadw bwystfilod Annwn yng Ngerddi Bodnant",
+      "english": "Call on families to keep Annwn monsters at Bodnant Gardens",
+      "url": "https://golwg.360.cymru/newyddion/hyn-ar-llall/2208977-galw-deuluoedd-gadw-bwystfilod-annwn-ngerddi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7M8A",
+      "pubDate": "Fri, 30 Oct 2026 15:53:23 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-10-30T19:54:51.172Z",
+      "category": null,
+      "welshGlosses": [
+        "Call",
+        "on",
+        "families",
+        "to",
+        "to keep",
+        "monsters",
+        "Annwyn",
+        "in",
+        "Gardens",
+        "Bodnant"
+      ],
+      "englishGlosses": [
+        "Galw",
+        "ar",
+        "Teulu",
+        "i",
+        "No",
+        "Annwfn",
+        "angenfilod",
+        "am",
+        "Bodnant",
+        "Gardd"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208969",
+      "welsh": "Rheilffyrdd newydd i Gymru mewn 467 mlynedd?",
+      "english": "New railways for Wales in 467 years?",
+      "url": "https://golwg.360.cymru/newyddion/2208969-rheilffyrdd-newydd-gymru-mewn-mlynedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=nAs2yYd5",
+      "pubDate": "Fri, 30 Oct 2026 14:37:00 +0000",
+      "feedPosition": 3,
+      "fetchedAt": "2026-10-30T19:54:51.172Z",
+      "category": null,
+      "welshGlosses": [
+        "Rail transport",
+        "new",
+        "to",
+        "Wales",
+        "in",
+        "467",
+        "years"
+      ],
+      "englishGlosses": [
+        "Newydd",
+        "Rheilffordd",
+        "am",
+        "Cymru",
+        "yn",
+        "467",
+        "blynedd"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208970",
+      "welsh": "“Hwb sylweddol” i ffermwyr Cymru mewn ymgynghoriad ar ddyfodol llaeth mewn ysgolion",
+      "english": "“A significant boost” for Welsh farmers in consultation on the future of school milk",
+      "url": "https://golwg.360.cymru/newyddion/addysg/2208970-sylweddol-ffermwyr-cymru-mewn-ymgynghoriad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGPJDB",
+      "pubDate": "Fri, 30 Oct 2026 14:06:19 +0000",
+      "feedPosition": 4,
+      "fetchedAt": "2026-10-30T19:54:51.172Z",
+      "category": null,
+      "welshGlosses": [
+        "Boost",
+        "cleddau",
+        "to",
+        "Farmer",
+        "Wales",
+        "in",
+        "Consultation",
+        "on",
+        "future",
+        "Milk",
+        "in",
+        "Schools"
+      ],
+      "englishGlosses": [
+        "A.",
+        "arwyddocaol",
+        "hwb",
+        "am",
+        "Cymraeg",
+        "Ffermwr",
+        "yn",
+        "Ymgynghoriad",
+        "ar",
+        "'r",
+        "Dyfodol",
+        "o",
+        "Term",
+        "Llaeth"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208940",
       "welsh": "Ble mae prifddinas tai arswyd Cymru?",
       "english": "Where is the capital of Welsh horror housing?",
@@ -423,57 +587,7 @@
       "feedPosition": 9,
       "fetchedAt": "2026-10-30T00:54:21.012Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208794",
-      "welsh": "Sut mae iaith y cartref yn dylanwadu ar Gymraeg plant?",
-      "english": "How does the language of the home influence children's Welsh?",
-      "url": "https://golwg.360.cymru/newyddion/iaith/2208794-iaith-cartref-dylanwadu-gymraeg-plant?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOgG3",
-      "pubDate": "Wed, 28 Oct 2026 10:34:59 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208761",
-      "welsh": "‘Ddylai’r Gymraeg ddim gorfod dibynnu ar gardod cwmnïau fel Apple’",
-      "english": "‘The Welsh language should not have to rely on the cards of companies like Apple’",
-      "url": "https://golwg.360.cymru/newyddion/gwyddoniaeth-a-thechnoleg/2208761-ddylai-gymraeg-ddim-gorfod-dibynnu-gardod-cwmniau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOgNW",
-      "pubDate": "Wed, 28 Oct 2026 08:01:03 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208786",
-      "welsh": "Galw am £1 biliwn i reilffyrdd Cymru cyn Cyllideb y DU",
-      "english": "Call for £1 billion for Welsh railways ahead of the UK Budget",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2208786-galw-biliwn-reilffyrdd-cymru-cyllideb?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0Nr72",
-      "pubDate": "Wed, 28 Oct 2026 06:23:24 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208782",
-      "welsh": "David Chadwick yn anelu at arwain Democratiaid Rhyddfrydol Cymru heb gystadleuaeth",
-      "english": "David Chadwick aims to lead the Welsh Liberal Democrats without competition",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2208782-david-chadwick-anelu-arwain-democratiaid?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=gnspdM4M",
-      "pubDate": "Tue, 27 Oct 2026 17:38:21 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208608",
-      "welsh": "Gŵyl Sain i ddathlu gwaddol cwmni sydd wedi ‘arwain y ffordd’ yng Nghymru",
-      "english": "Festival of Sound to celebrate the legacy of a company that has‘ led the way ’in Wales",
-      "url": "https://golwg.360.cymru/newyddion/2208608-gwyl-sain-ddathlu-gwaddol-cwmni-sydd-wedi-arwain?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNndw",
-      "pubDate": "Tue, 27 Oct 2026 15:46:08 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-30T12:46:26.733Z"
+  "generatedAt": "2026-10-30T19:54:51.172Z"
 }
