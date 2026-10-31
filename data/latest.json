@@ -2,6 +2,55 @@
   "date": "2026-10-31",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2208880",
+      "welsh": "Fi a fy Nghi",
+      "english": "Me and my Dog",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2208880-nghi-40?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Pes27DRp",
+      "pubDate": "Sat, 31 Oct 2026 07:23:04 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-10-31T12:17:29.873Z",
+      "category": null,
+      "welshGlosses": [
+        "Me",
+        "and",
+        "my",
+        "Chi"
+      ],
+      "englishGlosses": [
+        ".",
+        "a",
+        "fy",
+        "Ci"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2208662",
+      "welsh": "Cegin Medi: Diod Calan Gaeaf sbŵci, pefriog",
+      "english": "September Kitchen: Spooky, sparkling Halloween drink",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2208662-cegin-medi-diod-calan-gaeaf-sbwci-pefriog-medi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE8oE",
+      "pubDate": "Sat, 31 Oct 2026 07:15:38 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-10-31T12:17:29.873Z",
+      "category": null,
+      "welshGlosses": [
+        "Kitchen",
+        "Sept",
+        "Drink",
+        "calends",
+        "Winter",
+        "spooky",
+        "sparkling"
+      ],
+      "englishGlosses": [
+        "Medi",
+        "Name",
+        "Sbardun",
+        "pefriog",
+        "Gŵyl Calan Gaeaf",
+        "Diod"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208995",
       "welsh": "Teyrnged y Cofis i Jack Davies",
       "english": "A Memory Tribute to Jack Davies",
@@ -341,27 +390,7 @@
       "feedPosition": 15,
       "fetchedAt": "2026-10-31T00:43:07.665Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208803",
-      "welsh": "Cynllun i godi bron i 800 o gartrefi mewn “gardd-ddinas” newydd ger Cas-gwent",
-      "english": "Plan to build nearly 800 homes in a new “garden city” near Chepstow",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2208803-cynllun-godi-bron-gartrefi-mewn-gardd-ddinas?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNjeYp",
-      "pubDate": "Wed, 28 Oct 2026 13:03:23 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-10-31T00:43:07.665Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208798",
-      "welsh": "Galw ar Gymru i “arwain drwy esiampl” a gwneud i’r llygrwyr cyfoethocaf dalu",
-      "english": "Call on Wales to “lead by example” and make the richest polluters pay",
-      "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208798-galw-gymru-arwain-drwy-esiampl?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=BpsyY7LY",
-      "pubDate": "Wed, 28 Oct 2026 11:14:23 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-10-31T00:43:07.665Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-10-31T00:43:07.665Z"
+  "generatedAt": "2026-10-31T12:17:29.873Z"
 }
