@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2208995",
@@ -8,7 +8,7 @@
       "url": "https://golwg.360.cymru/newyddion/2208995-teyrnged-cofis-jack-davies?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarl2w",
       "pubDate": "Fri, 30 Oct 2026 17:02:46 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-10-30T19:54:51.172Z",
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
       "category": null,
       "welshGlosses": [
         "Tribute",
@@ -34,7 +34,7 @@
       "url": "https://golwg.360.cymru/newyddion/2208996-rhun-iorwerth-consensws-gyda-steffan-dros-bwerau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOgAJ",
       "pubDate": "Fri, 30 Oct 2026 16:20:03 +0000",
       "feedPosition": 1,
-      "fetchedAt": "2026-10-30T19:54:51.172Z",
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
       "category": null,
       "welshGlosses": [
         "Rhun",
@@ -70,7 +70,7 @@
       "url": "https://golwg.360.cymru/newyddion/hyn-ar-llall/2208977-galw-deuluoedd-gadw-bwystfilod-annwn-ngerddi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7M8A",
       "pubDate": "Fri, 30 Oct 2026 15:53:23 +0000",
       "feedPosition": 2,
-      "fetchedAt": "2026-10-30T19:54:51.172Z",
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
       "category": null,
       "welshGlosses": [
         "Call",
@@ -104,7 +104,7 @@
       "url": "https://golwg.360.cymru/newyddion/2208969-rheilffyrdd-newydd-gymru-mewn-mlynedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=nAs2yYd5",
       "pubDate": "Fri, 30 Oct 2026 14:37:00 +0000",
       "feedPosition": 3,
-      "fetchedAt": "2026-10-30T19:54:51.172Z",
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
       "category": null,
       "welshGlosses": [
         "Rail transport",
@@ -132,7 +132,7 @@
       "url": "https://golwg.360.cymru/newyddion/addysg/2208970-sylweddol-ffermwyr-cymru-mewn-ymgynghoriad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGPJDB",
       "pubDate": "Fri, 30 Oct 2026 14:06:19 +0000",
       "feedPosition": 4,
-      "fetchedAt": "2026-10-30T19:54:51.172Z",
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
       "category": null,
       "welshGlosses": [
         "Boost",
@@ -171,8 +171,8 @@
       "english": "Where is the capital of Welsh horror housing?",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208940-prifddinas-arswyd-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpd33",
       "pubDate": "Fri, 30 Oct 2026 12:10:41 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-10-30T12:46:26.733Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
       "category": null,
       "welshGlosses": [
         "Where",
@@ -199,8 +199,8 @@
       "english": "The Welsh Budget: A warning that services beyond the NHS could face cuts",
       "url": "https://golwg.360.cymru/newyddion/2208946-cyllideb-cymru-rhybudd-gallai-gwasanaethau-hwnt?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGD81j",
       "pubDate": "Fri, 30 Oct 2026 11:44:33 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-10-30T12:46:26.733Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
       "category": null,
       "welshGlosses": [
         "Budget",
@@ -239,8 +239,8 @@
       "english": "Taff Rapids and the Grammys: The fiddlers' contest",
       "url": "https://golwg.360.cymru/newyddion/2208739-taff-rapids-grammys-gornest-ffidlwyr?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsdegej",
       "pubDate": "Fri, 30 Oct 2026 10:19:03 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-10-30T12:46:26.733Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
       "category": null,
       "welshGlosses": [
         "Taff",
@@ -268,43 +268,9 @@
       "english": "‘Do not treat Wales as a region of England’ – Rhun ap Iorwerth challenges Andy Burnham",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208932-peidiwch-thrin-cymru-rhanbarth-loegr-rhun-iorwerth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0W1JD",
       "pubDate": "Fri, 30 Oct 2026 00:01:20 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
-      "category": null,
-      "welshGlosses": [
-        "Do not...",
-        "To:",
-        "to treat",
-        "Wales",
-        "Like",
-        "Region",
-        "of",
-        "england",
-        "Rhun",
-        "App",
-        "Iorwerth",
-        "in",
-        "herio tlws",
-        "Andy",
-        "Burnham"
-      ],
-      "englishGlosses": [
-        "Yes.",
-        "ddim",
-        "trin",
-        "Cymru",
-        "Graddfeyddunit description in lists",
-        "a.",
-        "Rhanbarth",
-        "o",
-        "Lloegr",
-        "rhun",
-        "<PROTECTED> ap <PROTECTED>/Meleri Williams",
-        "Iorwerth",
-        "heriau",
-        "Andy",
-        "Burnham"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208909",
@@ -312,41 +278,9 @@
       "english": "‘It's the everyday things that are most frightening': Why do folktales still fascinate us?",
       "url": "https://golwg.360.cymru/newyddion/2208909-pethau-beunyddiol-sydd-fwyaf-dychrynllyd-straeon?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8DLJe",
       "pubDate": "Thu, 29 Oct 2026 15:09:24 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
-      "category": null,
-      "welshGlosses": [
-        "the",
-        "things",
-        "daily",
-        "which is",
-        "most",
-        "dreadful",
-        "",
-        "is",
-        "stories",
-        "Folk",
-        "in",
-        "(Hold)",
-        "i",
-        "enchant"
-      ],
-      "englishGlosses": [
-        "Mae'n",
-        "'r",
-        "bob dydd",
-        "pethau",
-        "hynny",
-        "dach",
-        "Mwyaf",
-        "brawychus",
-        "Pam",
-        "gwneud",
-        "straeon gwerin",
-        "o hyd",
-        "cyfareddol",
-        "Ein Cymru ni"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208899",
@@ -354,32 +288,9 @@
       "english": "YesCymru forms a new partnership with the Brittany self-government movement",
       "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2208899-ffurfio-partneriaeth-newydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=BpsyY7ra",
       "pubDate": "Thu, 29 Oct 2026 12:58:45 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
-      "category": null,
-      "welshGlosses": [
-        "YesCymru",
-        "in",
-        "to form",
-        "workers",
-        "new",
-        "To:",
-        "German",
-        "Devolution",
-        "Brittany"
-      ],
-      "englishGlosses": [
-        "YesCymru",
-        "ffurfiau",
-        "a.",
-        "newydd",
-        "Partneriaeth",
-        "gyda",
-        "'r",
-        "Llydaw",
-        "hunanlywodraeth",
-        "Symudiad"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208858",
@@ -387,35 +298,9 @@
       "english": "Road collisions have fallen by 37% since the introduction of the 20mph limit",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208858-gwrthdrawiadau-ffyrdd-wedi-gostwng-cyflwyno-terfyn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=pgseGBr4",
       "pubDate": "Thu, 29 Oct 2026 09:53:51 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
-      "category": null,
-      "welshGlosses": [
-        "& Conflicts",
-        "Road",
-        "after",
-        "Lower",
-        "37%",
-        "Since",
-        "to introduce the",
-        "Cap",
-        "20mph"
-      ],
-      "englishGlosses": [
-        "bowys",
-        "Chwalfeydd",
-        "cael",
-        "gostwng",
-        "gan",
-        "37%",
-        "Ers",
-        "'r",
-        "Cyflwyniad",
-        "o",
-        "'r",
-        "20mya",
-        "Terfyn"
-      ]
+      "feedPosition": 11,
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208830",
@@ -423,32 +308,9 @@
       "english": "John Healey's first budget: ‘Wales has different economic needs’",
       "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2208830-cyllideb-gyntaf-john-healey-gymru-anghenion?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE8go",
       "pubDate": "Wed, 28 Oct 2026 17:25:09 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
-      "category": null,
-      "welshGlosses": [
-        "Budget",
-        "first",
-        "Sion",
-        "Healey",
-        "is",
-        "by",
-        "Wales",
-        "needs",
-        "Economy",
-        "different"
-      ],
-      "englishGlosses": [
-        "Dafydd",
-        "Healey",
-        "cyntaf",
-        "Cyllideb",
-        "Cymru",
-        "Oes",
-        "gwahanol",
-        "Economi",
-        "anghenion"
-      ]
+      "feedPosition": 12,
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208825",
@@ -456,41 +318,9 @@
       "english": "Cefin Campbell is‘ frustrated ’over Westminster powers and wants a visa system for Wales",
       "url": "https://golwg.360.cymru/newyddion/2208825-cefin-campbell-yn-rhwystredig-dros-bwerau-san-steffan?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1GwM",
       "pubDate": "Wed, 28 Oct 2026 16:42:57 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
-      "category": null,
-      "welshGlosses": [
-        "Habitat",
-        "Fort Campbell",
-        "in",
-        "frustrated",
-        "over",
-        "powers",
-        "Bushmen",
-        "Bob",
-        "and",
-        "need",
-        "File System",
-        "visas",
-        "to",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "Cefin",
-        "Bob Campbell",
-        "yw",
-        "rhwystredig",
-        "dros",
-        "West Point",
-        "pwerau",
-        "a",
-        "dymuniadau",
-        "a.",
-        "FISA",
-        "sustem",
-        "am",
-        "Cymru"
-      ]
+      "feedPosition": 13,
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208821",
@@ -498,32 +328,9 @@
       "english": "Cyber security tops the National Library of Wales risk list",
       "url": "https://golwg.360.cymru/newyddion/2208821-diogelwch-seiber-frig-rhestr-risgiau-llyfrgell?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=dJsN7P8j",
       "pubDate": "Wed, 28 Oct 2026 15:58:44 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
-      "category": null,
-      "welshGlosses": [
-        "Security",
-        "cyber",
-        "on",
-        "top",
-        "list",
-        "Risks",
-        "Library",
-        "The National <PROTECTED>",
-        "Wales"
-      ],
-      "englishGlosses": [
-        "Seiber",
-        "ariannol",
-        "topiau",
-        "'r",
-        "cenedlaethol",
-        "Llyfrgell",
-        "o",
-        "Cymru",
-        "risg",
-        "rhestr"
-      ]
+      "feedPosition": 14,
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208807",
@@ -531,42 +338,9 @@
       "english": "Budget: £450 million more for Wales, but waiting until Friday for more powers",
       "url": "https://golwg.360.cymru/newyddion/2208807-cyllideb-miliwn-rhagor-gymru-aros-ddydd-gwener?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRr1E",
       "pubDate": "Wed, 28 Oct 2026 15:07:52 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
-      "category": null,
-      "welshGlosses": [
-        "Budget",
-        "0.450",
-        "million",
-        "in",
-        "more",
-        "to",
-        "Wales",
-        "but",
-        "Wait",
-        "until",
-        "day",
-        "Friday",
-        "for",
-        "bigger",
-        "of",
-        "powers"
-      ],
-      "englishGlosses": [
-        "Cyllideb",
-        "450",
-        "miliwn",
-        "mwy",
-        "am",
-        "Cymru",
-        "",
-        "Aros",
-        "tan",
-        "Gwener",
-        "am",
-        "mwy",
-        "pwerau"
-      ]
+      "feedPosition": 15,
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208803",
@@ -574,8 +348,8 @@
       "english": "Plan to build nearly 800 homes in a new “garden city” near Chepstow",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208803-cynllun-godi-bron-gartrefi-mewn-gardd-ddinas?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNjeYp",
       "pubDate": "Wed, 28 Oct 2026 13:03:23 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
+      "feedPosition": 16,
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
       "category": null
     },
     {
@@ -584,10 +358,10 @@
       "english": "Call on Wales to “lead by example” and make the richest polluters pay",
       "url": "https://golwg.360.cymru/newyddion/amgylchedd/2208798-galw-gymru-arwain-drwy-esiampl?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=BpsyY7LY",
       "pubDate": "Wed, 28 Oct 2026 11:14:23 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-10-30T00:54:21.012Z",
+      "feedPosition": 17,
+      "fetchedAt": "2026-10-31T00:43:07.665Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-10-30T19:54:51.172Z"
+  "generatedAt": "2026-10-31T00:43:07.665Z"
 }
