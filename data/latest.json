@@ -2,6 +2,116 @@
   "date": "2026-11-02",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2209069",
+      "welsh": "Cam-drin dyfarnwyr pêl-droed yn “waeth nag erioed”",
+      "english": "Football referee abuse “worse than ever”",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2209069-drin-dyfarnwyr-droed-waeth-erioed?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0JYB",
+      "pubDate": "Mon, 02 Nov 2026 13:14:22 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-11-02T15:40:12.109Z",
+      "category": null,
+      "welshGlosses": [
+        "Abuse",
+        "referees",
+        "Soccer",
+        "in",
+        "worse",
+        "than",
+        "ever"
+      ],
+      "englishGlosses": [
+        "",
+        "dyfarnwr",
+        "Cam-drin",
+        "Wedi",
+        "na",
+        "safle"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2209055",
+      "welsh": "Cynnal protest y tu allan i Neuadd y Sir Caerfyrddin i wrthwynebu cau pedair ysgol arall",
+      "english": "Hold a protest outside Carmarthenshire County Hall to oppose the closure of four other schools",
+      "url": "https://golwg.360.cymru/newyddion/2209055-cynnal-protest-allan-neuadd-caerfyrddin-wrthwynebu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0l51g",
+      "pubDate": "Mon, 02 Nov 2026 11:16:05 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-11-02T15:40:12.109Z",
+      "category": null,
+      "welshGlosses": [
+        "Undertaking",
+        "protest",
+        "the",
+        "side",
+        "out",
+        "to",
+        "Hall",
+        "the",
+        "County",
+        "camarthen",
+        "to",
+        "to oppose",
+        "close",
+        "Four",
+        "school",
+        "ATM"
+      ],
+      "englishGlosses": [
+        "(Dal)",
+        "a.",
+        "protestio",
+        "amlen.",
+        "Sir Gaerfyrddin",
+        "Sir",
+        "Neuadd",
+        "i",
+        "gwrthwynebu",
+        "'r",
+        "cau",
+        "o",
+        "pedwar",
+        "arall",
+        "Ysgol"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2209044",
+      "welsh": "Cefnogi pobl ifanc ar ddechrau eu gyrfaoedd yn y sector gwyrdd",
+      "english": "Supporting young people at the start of their careers in the green sector",
+      "url": "https://golwg.360.cymru/newyddion/amgylchedd/2209044-cefnogi-pobl-ifanc-ddechrau-gyrfaoedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8DLeB",
+      "pubDate": "Mon, 02 Nov 2026 11:10:32 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-11-02T15:40:12.109Z",
+      "category": null,
+      "welshGlosses": [
+        "issue",
+        "Human",
+        "young",
+        "on",
+        "start",
+        "their",
+        "Careers",
+        "in",
+        "the",
+        "Sector:",
+        "green"
+      ],
+      "englishGlosses": [
+        "Cefnogi",
+        "Hir",
+        "Pobl",
+        "am",
+        "'r",
+        "Sgwrs",
+        "o",
+        "eu",
+        "Gyrfa",
+        "yn",
+        "'r",
+        "gwyrdd",
+        "Sector:"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2208880",
       "welsh": "Fi a fy Nghi",
       "english": "Me and my Dog",
@@ -301,37 +411,7 @@
       "feedPosition": 13,
       "fetchedAt": "2026-11-02T00:38:18.787Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208830",
-      "welsh": "Cyllideb gyntaf John Healey: ‘Mae gan Gymru anghenion economaidd gwahanol’",
-      "english": "John Healey's first budget: ‘Wales has different economic needs’",
-      "url": "https://golwg.360.cymru/newyddion/arian-a-busnes/2208830-cyllideb-gyntaf-john-healey-gymru-anghenion?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE8go",
-      "pubDate": "Wed, 28 Oct 2026 17:25:09 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-11-02T00:38:18.787Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208825",
-      "welsh": "Cefin Campbell yn ‘rhwystredig’ dros bwerau San Steffan ac eisiau system fisas i Gymru",
-      "english": "Cefin Campbell is‘ frustrated ’over Westminster powers and wants a visa system for Wales",
-      "url": "https://golwg.360.cymru/newyddion/2208825-cefin-campbell-yn-rhwystredig-dros-bwerau-san-steffan?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1GwM",
-      "pubDate": "Wed, 28 Oct 2026 16:42:57 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-11-02T00:38:18.787Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208821",
-      "welsh": "Diogelwch seiber ar frig rhestr risgiau Llyfrgell Genedlaethol Cymru",
-      "english": "Cyber security tops the National Library of Wales risk list",
-      "url": "https://golwg.360.cymru/newyddion/2208821-diogelwch-seiber-frig-rhestr-risgiau-llyfrgell?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=dJsN7P8j",
-      "pubDate": "Wed, 28 Oct 2026 15:58:44 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-11-02T00:38:18.787Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-11-02T00:38:18.787Z"
+  "generatedAt": "2026-11-02T15:40:12.109Z"
 }
