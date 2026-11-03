@@ -2,6 +2,159 @@
   "date": "2026-11-03",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2209207",
+      "welsh": "Troseddau treftadaeth: ‘Mae angen i bobol ddeall bod safleoedd Cadw i bawb’",
+      "english": "Heritage crime: ‘People need to understand that Cadw sites are for everyone’",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2209207-troseddau-treftadaeth-angen-bobol-ddeall-safleoedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNjRP7",
+      "pubDate": "Tue, 03 Nov 2026 13:42:08 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-11-03T14:03:58.083Z",
+      "category": null,
+      "welshGlosses": [
+        "Crime",
+        "Heritage",
+        "is",
+        "must",
+        "to",
+        "people",
+        "Read",
+        "to be",
+        "Site",
+        "",
+        "to",
+        "everyone"
+      ],
+      "englishGlosses": [
+        "Treftadaeth",
+        "Trosedd",
+        "Pobl",
+        "angen",
+        "i",
+        "dallt",
+        "hynny",
+        "Cadw;",
+        "safleoedd",
+        "dach",
+        "am",
+        "pawb"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2209093",
+      "welsh": "Sector cyhoeddus Cymru’n hynod annhebygol o wireddu’r uchelgais sero net erbyn 2030",
+      "english": "The Welsh public sector is extremely unlikely to realise the net zero ambition by 2030",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2209093-sector-cyhoeddus-cymru-hynod-annhebygol-wireddu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=pgseGBRY",
+      "pubDate": "Tue, 03 Nov 2026 09:00:33 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-11-03T14:03:58.083Z",
+      "category": null,
+      "welshGlosses": [
+        "Sector:",
+        "public",
+        "Cymru 'n",
+        "Hyndod",
+        "Unlikely",
+        "of",
+        "realising the",
+        "ambition",
+        "Zero",
+        "net*",
+        "b",
+        "2030,"
+      ],
+      "englishGlosses": [
+        "Y",
+        "Cymraeg",
+        "cyhoedd",
+        "Sector:",
+        "yw",
+        "hynod",
+        "Annhebygol",
+        "i",
+        "sylweddoli",
+        "'r",
+        "net*",
+        "Sero",
+        "uchelgais",
+        "gan",
+        "2030,"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2209110",
+      "welsh": "Y DUP yn cefnogi cynllun £100,000 ar gyfer arwyddion stryd Gwyddeleg ym Melffast",
+      "english": "DUP backs £100,000 Irish street signage scheme in Belfast",
+      "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2209110-cefnogi-cynllun-100000-gyfer-arwyddion-stryd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRrAn",
+      "pubDate": "Tue, 03 Nov 2026 08:25:40 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-11-03T14:03:58.083Z",
+      "category": null,
+      "welshGlosses": [
+        "the",
+        "DUP",
+        "in",
+        "issue",
+        "Plan",
+        "100%",
+        "0.000",
+        "on",
+        "for",
+        "signs",
+        "street",
+        "Irish Gaelic",
+        "re",
+        "Belfast"
+      ],
+      "englishGlosses": [
+        "DUP",
+        "cefnau",
+        "100%",
+        "£’000",
+        "",
+        "Lôn",
+        "arwyddion",
+        "Gwaredu Cynllun",
+        "yn",
+        "Belffast"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2209012",
+      "welsh": "606 o golomennod heddwch i gofio merched Meirionnydd ganrif yn ddiweddarach",
+      "english": "606 peace pigeons to commemorate the Meirionnydd women a century later",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2209012-golomennod-heddwch-gofio-merched-meirionnydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNnOB",
+      "pubDate": "Tue, 03 Nov 2026 07:40:16 +0000",
+      "feedPosition": 3,
+      "fetchedAt": "2026-11-03T14:03:58.083Z",
+      "category": null,
+      "welshGlosses": [
+        "606",
+        "of",
+        "doves",
+        "Peace",
+        "to",
+        "to remember",
+        "boys",
+        "Meirionnydd",
+        "century",
+        "in",
+        "later"
+      ],
+      "englishGlosses": [
+        "606",
+        "Heddwch",
+        "Colomen",
+        "i",
+        "coffáu",
+        "'r",
+        "Meirionnydd",
+        "Dynes",
+        "a.",
+        "ganrif",
+        ""
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2209102",
       "welsh": "‘Dechrau pennod newydd’: Goroesi canser y fron yn ysbrydoli menter newydd i hybu’r Gymraeg yn sir Fynwy",
       "english": "‘Start a new chapter': Surviving breast cancer inspires a new initiative to promote the Welsh language in Monmouthshire",
@@ -340,37 +493,7 @@
       "feedPosition": 14,
       "fetchedAt": "2026-11-03T00:54:35.627Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208932",
-      "welsh": "‘Peidiwch â thrin Cymru fel rhanbarth o Loegr’ – Rhun ap Iorwerth yn herio Andy Burnham",
-      "english": "‘Do not treat Wales as a region of England’ – Rhun ap Iorwerth challenges Andy Burnham",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2208932-peidiwch-thrin-cymru-rhanbarth-loegr-rhun-iorwerth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0W1JD",
-      "pubDate": "Fri, 30 Oct 2026 00:01:20 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208909",
-      "welsh": "‘Y pethau beunyddiol sydd fwyaf dychrynllyd’: Pam mae straeon gwerin yn dal i’n cyfareddu?",
-      "english": "‘It's the everyday things that are most frightening': Why do folktales still fascinate us?",
-      "url": "https://golwg.360.cymru/newyddion/2208909-pethau-beunyddiol-sydd-fwyaf-dychrynllyd-straeon?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8DLJe",
-      "pubDate": "Thu, 29 Oct 2026 15:09:24 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208899",
-      "welsh": "YesCymru yn ffurfio partneriaeth newydd â mudiad hunanlywodraeth Llydaw",
-      "english": "YesCymru forms a new partnership with the Brittany self-government movement",
-      "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2208899-ffurfio-partneriaeth-newydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=BpsyY7ra",
-      "pubDate": "Thu, 29 Oct 2026 12:58:45 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-11-03T00:54:35.627Z"
+  "generatedAt": "2026-11-03T14:03:58.083Z"
 }
