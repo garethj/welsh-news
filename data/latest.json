@@ -2,6 +2,111 @@
   "date": "2026-11-03",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2209240",
+      "welsh": "Cyllideb Plaid Cymru yn pasio wedi cytundeb £60 miliwn â Llafur",
+      "english": "Plaid Cymru's budget passes after a £60 million deal with Labour",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2209240-cyllideb-plaid-cymru-pasio-wedi-cytundeb-miliwn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=OysPljOl",
+      "pubDate": "Tue, 03 Nov 2026 20:44:46 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-11-03T20:57:31.521Z",
+      "category": null,
+      "welshGlosses": [
+        "Budget",
+        "Party",
+        "Wales",
+        "in",
+        "to pass",
+        "after",
+        "Treaty",
+        "60%",
+        "million",
+        "To:",
+        "Labour"
+      ],
+      "englishGlosses": [
+        "Plaid Cymru",
+        "Cymru",
+        "Cyllideb",
+        "tocynnau",
+        "Wedi",
+        "a.",
+        "60%",
+        "miliwn",
+        "bargen",
+        "gyda",
+        "Esgor"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2209223",
+      "welsh": "Adolygiad Covid heb bwerau i orfodi tystion yn ennyn beirniadaeth",
+      "english": "Covid review without powers to compel witnesses provokes criticism",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2209223-adolygiad-covid-bwerau-orfodi-tystion-ennyn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lgyM",
+      "pubDate": "Tue, 03 Nov 2026 16:32:11 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-11-03T20:57:31.521Z",
+      "category": null,
+      "welshGlosses": [
+        "Review",
+        "Covid",
+        "without",
+        "powers",
+        "to",
+        "to enforce",
+        "WITNESSES",
+        "in",
+        "gene",
+        "criticism"
+      ],
+      "englishGlosses": [
+        "Covid hir",
+        "adolygu",
+        "heb",
+        "pwerau",
+        "i",
+        "gorfodi",
+        "TYSTION",
+        "pryfocio",
+        "beirniadaeth"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2209198",
+      "welsh": "Adolygiad Covid annibynnol i Gymru – ond dim adroddiad terfynol tan 2029",
+      "english": "Independent Covid review for Wales – but no final report until 2029",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2209198-adolygiad-covid-annibynnol-gymru-adroddiad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOdBY",
+      "pubDate": "Tue, 03 Nov 2026 15:11:17 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-11-03T20:57:31.521Z",
+      "category": null,
+      "welshGlosses": [
+        "Review",
+        "Covid",
+        "Independent",
+        "to",
+        "Wales",
+        "but",
+        "none",
+        "report",
+        "Final",
+        "until",
+        "2029"
+      ],
+      "englishGlosses": [
+        "Annibynnol",
+        "Covid hir",
+        "adolygu",
+        "am",
+        "Cymru",
+        "",
+        "nac ydw",
+        "Teitl",
+        "adroddiad",
+        "tan",
+        "2029"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2209207",
       "welsh": "Troseddau treftadaeth: ‘Mae angen i bobol ddeall bod safleoedd Cadw i bawb’",
       "english": "Heritage crime: ‘People need to understand that Cadw sites are for everyone’",
@@ -463,37 +568,7 @@
       "feedPosition": 11,
       "fetchedAt": "2026-11-03T00:54:35.627Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208940",
-      "welsh": "Ble mae prifddinas tai arswyd Cymru?",
-      "english": "Where is the capital of Welsh horror housing?",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2208940-prifddinas-arswyd-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpd33",
-      "pubDate": "Fri, 30 Oct 2026 12:10:41 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208946",
-      "welsh": "Cyllideb Cymru: Rhybudd y gallai gwasanaethau y tu hwnt i’r GIG wynebu toriadau",
-      "english": "The Welsh Budget: A warning that services beyond the NHS could face cuts",
-      "url": "https://golwg.360.cymru/newyddion/2208946-cyllideb-cymru-rhybudd-gallai-gwasanaethau-hwnt?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGD81j",
-      "pubDate": "Fri, 30 Oct 2026 11:44:33 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2208739",
-      "welsh": "Taff Rapids a’r Grammys: Gornest y ffidlwyr",
-      "english": "Taff Rapids and the Grammys: The fiddlers' contest",
-      "url": "https://golwg.360.cymru/newyddion/2208739-taff-rapids-grammys-gornest-ffidlwyr?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsdegej",
-      "pubDate": "Fri, 30 Oct 2026 10:19:03 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-11-03T14:03:58.083Z"
+  "generatedAt": "2026-11-03T20:57:31.521Z"
 }
