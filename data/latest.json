@@ -2,6 +2,76 @@
   "date": "2026-11-04",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2209297",
+      "welsh": "Prifysgol Caerdydd yn gwrthod galwad undeb i ddefnyddio arian wrth gefn",
+      "english": "Cardiff University rejects union call to use reserves",
+      "url": "https://golwg.360.cymru/newyddion/addysg/2209297-prifysgol-caerdydd-gwrthod-galwad-undeb-ddefnyddio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA5E3",
+      "pubDate": "Wed, 04 Nov 2026 16:50:08 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-11-04T21:16:07.606Z",
+      "category": null,
+      "welshGlosses": [
+        "Univ",
+        "Cardiff",
+        "in",
+        "reject",
+        "Call",
+        "union",
+        "to",
+        "to use",
+        "monies",
+        "by",
+        "back"
+      ],
+      "englishGlosses": [
+        "",
+        "",
+        "gwrthod",
+        "undeb",
+        "Galw",
+        "i",
+        "Defnydd",
+        "cronfeydd wrth gefn"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2209289",
+      "welsh": "David Chadwick: ‘Mae Cymru yn bartner eilradd o fewn y Deyrnas Unedig’",
+      "english": "David Chadwick: ‘Wales is a second-class partner within the United Kingdom’",
+      "url": "https://golwg.360.cymru/newyddion/2209289-david-chadwick-cymru-bartner-eilradd-fewn-deyrnas?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2O7Ny",
+      "pubDate": "Wed, 04 Nov 2026 15:32:06 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-11-04T21:16:07.606Z",
+      "category": null,
+      "welshGlosses": [
+        "David",
+        "Chadwick",
+        "is",
+        "Wales",
+        "in",
+        "partner",
+        "Secondary",
+        "of",
+        "within",
+        "the",
+        "Kingdom",
+        "Evil"
+      ],
+      "englishGlosses": [
+        "Dafydd",
+        "Ann Chadwick",
+        "Cymru",
+        "yw",
+        "a.",
+        "ail ddosbarth",
+        "partner",
+        "o fewn",
+        "'r",
+        "sempyr",
+        "Unedig"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2209276",
       "welsh": "Rhaglen deledu Michael Sheen yn ysgogi galwadau am ymchwiliad cyhoeddus i safleoedd gwastraff gwenwynig",
       "english": "Michael Sheen's television programme stimulates calls for a public inquiry into toxic waste sites",
@@ -559,17 +629,7 @@
       "feedPosition": 10,
       "fetchedAt": "2026-11-04T01:18:07.266Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2209044",
-      "welsh": "Cefnogi pobl ifanc ar ddechrau eu gyrfaoedd yn y sector gwyrdd",
-      "english": "Supporting young people at the start of their careers in the green sector",
-      "url": "https://golwg.360.cymru/newyddion/amgylchedd/2209044-cefnogi-pobl-ifanc-ddechrau-gyrfaoedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8DLeB",
-      "pubDate": "Mon, 02 Nov 2026 11:10:32 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-11-04T01:18:07.266Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-11-04T14:24:30.317Z"
+  "generatedAt": "2026-11-04T21:16:07.606Z"
 }
