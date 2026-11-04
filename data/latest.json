@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2209240",
@@ -8,7 +8,7 @@
       "url": "https://golwg.360.cymru/newyddion/cymru/2209240-cyllideb-plaid-cymru-pasio-wedi-cytundeb-miliwn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=OysPljOl",
       "pubDate": "Tue, 03 Nov 2026 20:44:46 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-11-03T20:57:31.521Z",
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
       "category": null,
       "welshGlosses": [
         "Budget",
@@ -44,7 +44,7 @@
       "url": "https://golwg.360.cymru/newyddion/cymru/2209223-adolygiad-covid-bwerau-orfodi-tystion-ennyn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lgyM",
       "pubDate": "Tue, 03 Nov 2026 16:32:11 +0000",
       "feedPosition": 1,
-      "fetchedAt": "2026-11-03T20:57:31.521Z",
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
       "category": null,
       "welshGlosses": [
         "Review",
@@ -77,7 +77,7 @@
       "url": "https://golwg.360.cymru/newyddion/cymru/2209198-adolygiad-covid-annibynnol-gymru-adroddiad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOdBY",
       "pubDate": "Tue, 03 Nov 2026 15:11:17 +0000",
       "feedPosition": 2,
-      "fetchedAt": "2026-11-03T20:57:31.521Z",
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
       "category": null,
       "welshGlosses": [
         "Review",
@@ -112,8 +112,8 @@
       "english": "Heritage crime: ‘People need to understand that Cadw sites are for everyone’",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209207-troseddau-treftadaeth-angen-bobol-ddeall-safleoedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNjRP7",
       "pubDate": "Tue, 03 Nov 2026 13:42:08 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-11-03T14:03:58.083Z",
+      "feedPosition": 3,
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
       "category": null,
       "welshGlosses": [
         "Crime",
@@ -150,8 +150,8 @@
       "english": "The Welsh public sector is extremely unlikely to realise the net zero ambition by 2030",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209093-sector-cyhoeddus-cymru-hynod-annhebygol-wireddu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=pgseGBRY",
       "pubDate": "Tue, 03 Nov 2026 09:00:33 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-11-03T14:03:58.083Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
       "category": null,
       "welshGlosses": [
         "Sector:",
@@ -191,8 +191,8 @@
       "english": "DUP backs £100,000 Irish street signage scheme in Belfast",
       "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2209110-cefnogi-cynllun-100000-gyfer-arwyddion-stryd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDRrAn",
       "pubDate": "Tue, 03 Nov 2026 08:25:40 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-11-03T14:03:58.083Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
       "category": null,
       "welshGlosses": [
         "the",
@@ -229,8 +229,8 @@
       "english": "606 peace pigeons to commemorate the Meirionnydd women a century later",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209012-golomennod-heddwch-gofio-merched-meirionnydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNnOB",
       "pubDate": "Tue, 03 Nov 2026 07:40:16 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-11-03T14:03:58.083Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
       "category": null,
       "welshGlosses": [
         "606",
@@ -265,8 +265,8 @@
       "english": "‘Start a new chapter': Surviving breast cancer inspires a new initiative to promote the Welsh language in Monmouthshire",
       "url": "https://golwg.360.cymru/celfyddydau/cerddoriaeth/2209102-dechrau-pennod-newydd-goroesi-canser-fron?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0Jwr",
       "pubDate": "Mon, 02 Nov 2026 18:05:08 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
       "category": null,
       "welshGlosses": [
         "Start",
@@ -314,35 +314,9 @@
       "english": "A tribute to “giant” in Welsh books: John Lewis, Gomer Press",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209087-teyrnged-gawr-llyfrau-cymru-john-lewis-gwasg-gomer?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2OlPN",
       "pubDate": "Mon, 02 Nov 2026 17:23:38 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
-      "category": null,
-      "welshGlosses": [
-        "Tribute",
-        "to",
-        "giant",
-        "re",
-        "world",
-        "books",
-        "Wales",
-        "Sion",
-        "Fort Lewis",
-        "Press",
-        "Gomer"
-      ],
-      "englishGlosses": [
-        "A.",
-        "teyrnged",
-        "i",
-        "Cawr",
-        "yn",
-        "Cymraeg",
-        "llyfrau",
-        "Dafydd",
-        "Leòdhas",
-        "Gomer",
-        "GWASGU"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2209069",
@@ -350,26 +324,9 @@
       "english": "Football referee abuse “worse than ever”",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209069-drin-dyfarnwyr-droed-waeth-erioed?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0JYB",
       "pubDate": "Mon, 02 Nov 2026 13:14:22 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
-      "category": null,
-      "welshGlosses": [
-        "Abuse",
-        "referees",
-        "Soccer",
-        "in",
-        "worse",
-        "than",
-        "ever"
-      ],
-      "englishGlosses": [
-        "",
-        "dyfarnwr",
-        "Cam-drin",
-        "Wedi",
-        "na",
-        "safle"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2209055",
@@ -377,44 +334,9 @@
       "english": "Hold a protest outside Carmarthenshire County Hall to oppose the closure of four other schools",
       "url": "https://golwg.360.cymru/newyddion/2209055-cynnal-protest-allan-neuadd-caerfyrddin-wrthwynebu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0l51g",
       "pubDate": "Mon, 02 Nov 2026 11:16:05 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
-      "category": null,
-      "welshGlosses": [
-        "Undertaking",
-        "protest",
-        "the",
-        "side",
-        "out",
-        "to",
-        "Hall",
-        "the",
-        "County",
-        "camarthen",
-        "to",
-        "to oppose",
-        "close",
-        "Four",
-        "school",
-        "ATM"
-      ],
-      "englishGlosses": [
-        "(Dal)",
-        "a.",
-        "protestio",
-        "amlen.",
-        "Sir Gaerfyrddin",
-        "Sir",
-        "Neuadd",
-        "i",
-        "gwrthwynebu",
-        "'r",
-        "cau",
-        "o",
-        "pedwar",
-        "arall",
-        "Ysgol"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2209044",
@@ -422,37 +344,9 @@
       "english": "Supporting young people at the start of their careers in the green sector",
       "url": "https://golwg.360.cymru/newyddion/amgylchedd/2209044-cefnogi-pobl-ifanc-ddechrau-gyrfaoedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8DLeB",
       "pubDate": "Mon, 02 Nov 2026 11:10:32 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
-      "category": null,
-      "welshGlosses": [
-        "issue",
-        "Human",
-        "young",
-        "on",
-        "start",
-        "their",
-        "Careers",
-        "in",
-        "the",
-        "Sector:",
-        "green"
-      ],
-      "englishGlosses": [
-        "Cefnogi",
-        "Hir",
-        "Pobl",
-        "am",
-        "'r",
-        "Sgwrs",
-        "o",
-        "eu",
-        "Gyrfa",
-        "yn",
-        "'r",
-        "gwyrdd",
-        "Sector:"
-      ]
+      "feedPosition": 11,
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208880",
@@ -460,21 +354,9 @@
       "english": "Me and my Dog",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208880-nghi-40?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Pes27DRp",
       "pubDate": "Sat, 31 Oct 2026 07:23:04 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
-      "category": null,
-      "welshGlosses": [
-        "Me",
-        "and",
-        "my",
-        "Chi"
-      ],
-      "englishGlosses": [
-        ".",
-        "a",
-        "fy",
-        "Ci"
-      ]
+      "feedPosition": 12,
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208662",
@@ -482,26 +364,9 @@
       "english": "September Kitchen: Spooky, sparkling Halloween drink",
       "url": "https://golwg.360.cymru/newyddion/cymru/2208662-cegin-medi-diod-calan-gaeaf-sbwci-pefriog-medi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLE8oE",
       "pubDate": "Sat, 31 Oct 2026 07:15:38 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
-      "category": null,
-      "welshGlosses": [
-        "Kitchen",
-        "Sept",
-        "Drink",
-        "calends",
-        "Winter",
-        "spooky",
-        "sparkling"
-      ],
-      "englishGlosses": [
-        "Medi",
-        "Name",
-        "Sbardun",
-        "pefriog",
-        "Gŵyl Calan Gaeaf",
-        "Diod"
-      ]
+      "feedPosition": 13,
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208995",
@@ -509,25 +374,9 @@
       "english": "A Memory Tribute to Jack Davies",
       "url": "https://golwg.360.cymru/newyddion/2208995-teyrnged-cofis-jack-davies?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarl2w",
       "pubDate": "Fri, 30 Oct 2026 17:02:46 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
-      "category": null,
-      "welshGlosses": [
-        "Tribute",
-        "the",
-        "Cofis",
-        "to",
-        "IJack",
-        "Davies"
-      ],
-      "englishGlosses": [
-        "A.",
-        "Cof",
-        "Teyrnged",
-        "i",
-        "jac",
-        "K Davies"
-      ]
+      "feedPosition": 14,
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2208996",
@@ -535,8 +384,8 @@
       "english": "Rhun ap Iorwerth: consensus with Westminster over increased fiscal powers",
       "url": "https://golwg.360.cymru/newyddion/2208996-rhun-iorwerth-consensws-gyda-steffan-dros-bwerau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOgAJ",
       "pubDate": "Fri, 30 Oct 2026 16:20:03 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
+      "feedPosition": 15,
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
       "category": null
     },
     {
@@ -545,8 +394,8 @@
       "english": "Call on families to keep Annwn monsters at Bodnant Gardens",
       "url": "https://golwg.360.cymru/newyddion/hyn-ar-llall/2208977-galw-deuluoedd-gadw-bwystfilod-annwn-ngerddi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7M8A",
       "pubDate": "Fri, 30 Oct 2026 15:53:23 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
+      "feedPosition": 16,
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
       "category": null
     },
     {
@@ -555,8 +404,8 @@
       "english": "New railways for Wales in 467 years?",
       "url": "https://golwg.360.cymru/newyddion/2208969-rheilffyrdd-newydd-gymru-mewn-mlynedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=nAs2yYd5",
       "pubDate": "Fri, 30 Oct 2026 14:37:00 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
+      "feedPosition": 17,
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
       "category": null
     },
     {
@@ -565,10 +414,10 @@
       "english": "“A significant boost” for Welsh farmers in consultation on the future of school milk",
       "url": "https://golwg.360.cymru/newyddion/addysg/2208970-sylweddol-ffermwyr-cymru-mewn-ymgynghoriad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGPJDB",
       "pubDate": "Fri, 30 Oct 2026 14:06:19 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-11-03T00:54:35.627Z",
+      "feedPosition": 18,
+      "fetchedAt": "2026-11-04T01:18:07.266Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-11-03T20:57:31.521Z"
+  "generatedAt": "2026-11-04T01:18:07.266Z"
 }
