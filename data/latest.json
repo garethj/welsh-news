@@ -2,6 +2,110 @@
   "date": "2026-11-06",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2209460",
+      "welsh": "Llywodraeth Cymru am roi’r gorau i brosiect plannu coed yn Uganda",
+      "english": "The Government of Wales wants to stop a tree planting project in Uganda",
+      "url": "https://golwg.360.cymru/newyddion/2209460-llywodraeth-cymru-gorau-brosiect-plannu-coed?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0Na2y",
+      "pubDate": "Fri, 06 Nov 2026 17:05:57 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-11-06T20:51:26.733Z",
+      "category": null,
+      "welshGlosses": [
+        "Governing",
+        "Wales",
+        "for",
+        "give",
+        "Top",
+        "to",
+        "project",
+        "to plant",
+        "wood",
+        "in",
+        "Uganda"
+      ],
+      "englishGlosses": [
+        "Y",
+        "Cymru",
+        "o",
+        "Cymru",
+        "dymuniadau",
+        "i",
+        "atal",
+        "a.",
+        "t'ire",
+        "planu",
+        ".",
+        "yn",
+        "Wganda"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2209416",
+      "welsh": "Hen lofa ar y brig yng Nghymru!",
+      "english": "An old coalfield at the top in Wales!",
+      "url": "https://golwg.360.cymru/newyddion/hyn-ar-llall/2209416-lofa-brig-nghymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNYa3",
+      "pubDate": "Fri, 06 Nov 2026 16:00:28 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-11-06T20:51:26.733Z",
+      "category": null,
+      "welshGlosses": [
+        "Old",
+        "colliery",
+        "on",
+        "the",
+        "",
+        "in",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "\"an\",",
+        "Hen",
+        "Maes glo",
+        "am",
+        "'r",
+        "brig",
+        "yn",
+        "Cymru"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2209421",
+      "welsh": "Y Cynghorydd Ceidwadol sy’n erfyn ar ei blaid i droi cefn ar ddatganoli",
+      "english": "The Conservative Councillor is urging his party to abandon devolution",
+      "url": "https://golwg.360.cymru/newyddion/2209421-cynghorydd-ceidwadol-erfyn-blaid-droi-cefn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMaR3r",
+      "pubDate": "Fri, 06 Nov 2026 14:16:39 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-11-06T20:51:26.733Z",
+      "category": null,
+      "welshGlosses": [
+        "the",
+        "Councillor",
+        "Conservatism",
+        "which",
+        "tool",
+        "on",
+        "his/her",
+        "party",
+        "to",
+        "to turn",
+        "back",
+        "on",
+        "devolution"
+      ],
+      "englishGlosses": [
+        "Y",
+        "Ceidwadaeth",
+        "Cynghorydd",
+        "yw",
+        "annog",
+        "ei",
+        "Parti",
+        "i",
+        "cefnu",
+        "Datganoli"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2209221",
       "welsh": "Pryder dros oedi’r Llywodraeth i ddynodi ardaloedd o arwyddocâd ieithyddol",
       "english": "Concern over the Government's delay in designating areas of linguistic significance",
@@ -399,37 +503,7 @@
       "feedPosition": 15,
       "fetchedAt": "2026-11-06T14:10:48.289Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2209265",
-      "welsh": "‘Mae Trumpiaeth yn ddyfnach na Trump ei hun’ – academydd o Gymru yn ymateb i etholiadau America",
-      "english": "‘Trumpism is deeper than Trump himself’ – a Welsh academic responding to the American elections",
-      "url": "https://golwg.360.cymru/newyddion/2209265-trumpiaeth-ddyfnach-trump-academydd-gymru-ymateb?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysaro4d",
-      "pubDate": "Wed, 04 Nov 2026 12:04:04 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-11-06T14:10:48.289Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2209270",
-      "welsh": "Shelter Cymru: ‘Ddim yn briodol’ codi rhent cymdeithasol uwchlaw chwyddiant",
-      "english": "Shelter Cymru: ‘Not appropriate’ to raise social rent above inflation",
-      "url": "https://golwg.360.cymru/newyddion/2209270-shelter-cymru-ddim-briodol-codi-rhent-cymdeithasol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=BpsyYlj1",
-      "pubDate": "Wed, 04 Nov 2026 11:42:24 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-11-06T14:10:48.289Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2209250",
-      "welsh": "‘Brad’ – teuluoedd Covid yn gwrthod adolygiad Llywodraeth Cymru",
-      "english": "‘Brad’ – Covid families reject Welsh Government review",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2209250-brad-teuluoedd-covid-gwrthod-adolygiad-llywodraeth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=MgsELdl7",
-      "pubDate": "Wed, 04 Nov 2026 09:16:49 +0000",
-      "feedPosition": 18,
-      "fetchedAt": "2026-11-06T14:10:48.289Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-11-06T14:10:48.289Z"
+  "generatedAt": "2026-11-06T20:51:26.733Z"
 }
