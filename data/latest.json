@@ -2,6 +2,42 @@
   "date": "2026-11-07",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2209469",
+      "welsh": "Cegin Medi: Madarch Hydrefol Teim a Garlleg ar fara wedi ei hadu",
+      "english": "Kitchen September: Autumnal Mushrooms Thyme and Garlic on seeded bread",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2209469-cegin-medi-madarch-hydrefol-teim-garlleg-fara-wedi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1srop30",
+      "pubDate": "Sat, 07 Nov 2026 07:13:51 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-11-07T12:53:26.095Z",
+      "category": null,
+      "welshGlosses": [
+        "Kitchen",
+        "Sept",
+        "Mushroom",
+        "Autumnal",
+        "Thyme",
+        "and",
+        "Garlic",
+        "on",
+        "bread",
+        "after",
+        "his/her",
+        "seed"
+      ],
+      "englishGlosses": [
+        "Name",
+        "Medi",
+        "Hydrefol",
+        "Madarch",
+        "Teim",
+        "a",
+        "Garlleg",
+        "ar",
+        "hadu",
+        "bara"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2209460",
       "welsh": "Llywodraeth Cymru am roi’r gorau i brosiect plannu coed yn Uganda",
       "english": "The Government of Wales wants to stop a tree planting project in Uganda",
@@ -409,27 +445,7 @@
       "feedPosition": 16,
       "fetchedAt": "2026-11-07T00:52:33.608Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2209289",
-      "welsh": "David Chadwick: ‘Mae Cymru yn bartner eilradd o fewn y Deyrnas Unedig’",
-      "english": "David Chadwick: ‘Wales is a second-class partner within the United Kingdom’",
-      "url": "https://golwg.360.cymru/newyddion/2209289-david-chadwick-cymru-bartner-eilradd-fewn-deyrnas?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2O7Ny",
-      "pubDate": "Wed, 04 Nov 2026 15:32:06 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2209276",
-      "welsh": "Rhaglen deledu Michael Sheen yn ysgogi galwadau am ymchwiliad cyhoeddus i safleoedd gwastraff gwenwynig",
-      "english": "Michael Sheen's television programme stimulates calls for a public inquiry into toxic waste sites",
-      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2209276-rhaglen-deledu-michael-sheen-ysgogi-galwadau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swp0Br",
-      "pubDate": "Wed, 04 Nov 2026 13:06:49 +0000",
-      "feedPosition": 18,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-11-07T00:52:33.608Z"
+  "generatedAt": "2026-11-07T12:53:26.095Z"
 }
