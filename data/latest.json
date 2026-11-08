@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2209469",
@@ -8,7 +8,7 @@
       "url": "https://golwg.360.cymru/newyddion/cymru/2209469-cegin-medi-madarch-hydrefol-teim-garlleg-fara-wedi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1srop30",
       "pubDate": "Sat, 07 Nov 2026 07:13:51 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-11-07T12:53:26.095Z",
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
       "category": null,
       "welshGlosses": [
         "Kitchen",
@@ -43,8 +43,8 @@
       "english": "The Government of Wales wants to stop a tree planting project in Uganda",
       "url": "https://golwg.360.cymru/newyddion/2209460-llywodraeth-cymru-gorau-brosiect-plannu-coed?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0Na2y",
       "pubDate": "Fri, 06 Nov 2026 17:05:57 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
+      "feedPosition": 1,
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
       "category": null,
       "welshGlosses": [
         "Governing",
@@ -81,8 +81,8 @@
       "english": "An old coalfield at the top in Wales!",
       "url": "https://golwg.360.cymru/newyddion/hyn-ar-llall/2209416-lofa-brig-nghymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNYa3",
       "pubDate": "Fri, 06 Nov 2026 16:00:28 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
+      "feedPosition": 2,
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
       "category": null,
       "welshGlosses": [
         "Old",
@@ -110,8 +110,8 @@
       "english": "The Conservative Councillor is urging his party to abandon devolution",
       "url": "https://golwg.360.cymru/newyddion/2209421-cynghorydd-ceidwadol-erfyn-blaid-droi-cefn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMaR3r",
       "pubDate": "Fri, 06 Nov 2026 14:16:39 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
+      "feedPosition": 3,
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
       "category": null,
       "welshGlosses": [
         "the",
@@ -147,8 +147,8 @@
       "english": "Concern over the Government's delay in designating areas of linguistic significance",
       "url": "https://golwg.360.cymru/newyddion/2209221-pryder-dros-oedi-llywodraeth-ddynodi-ardaloedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=eOsA5Eee",
       "pubDate": "Fri, 06 Nov 2026 13:57:18 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
       "category": null,
       "welshGlosses": [
         "Concern",
@@ -182,8 +182,8 @@
       "english": "Director of the BBC Nations – a promise that the BBC's presence will continue throughout Wales",
       "url": "https://golwg.360.cymru/newyddion/2209405-cyfarwyddwr-cenhedloedd-addewid-bydd-presenoldeb?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0E7n",
       "pubDate": "Fri, 06 Nov 2026 11:30:28 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
       "category": null,
       "welshGlosses": [
         "Director",
@@ -225,8 +225,8 @@
       "english": "Deliver free school meals to all pupils in years 7 and 8 in receipt of Universal Credit",
       "url": "https://golwg.360.cymru/newyddion/addysg/2209382-cyflwyno-prydau-ysgol-ddim-disgybl-mlynyddoedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNYY3",
       "pubDate": "Fri, 06 Nov 2026 09:00:19 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
       "category": null,
       "welshGlosses": [
         "Submit",
@@ -273,8 +273,8 @@
       "english": "Parliament rejects a motion to introduce a statutory ban on mobile phones in classrooms",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2209389-senedd-gwrthod-cynnig-gyflwyno-gwaharddiad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=eOsA5E7A",
       "pubDate": "Thu, 05 Nov 2026 17:43:51 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
       "category": null,
       "welshGlosses": [
         "the",
@@ -316,45 +316,9 @@
       "english": "A survey shows that half of Wales's mental health workforce is exhausted and suffering from distress",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209386-arolwg-dangos-hanner-gweithlu-iechyd-meddwl-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=wPs0aWWP",
       "pubDate": "Thu, 05 Nov 2026 17:39:07 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
-      "category": null,
-      "welshGlosses": [
-        "Survey",
-        "in",
-        "Show",
-        "to be",
-        "Half",
-        "workforce",
-        "Healt",
-        "Thinking",
-        "Wales",
-        "after",
-        "exhausted",
-        "and",
-        "in",
-        "to suffer",
-        "of",
-        "distress"
-      ],
-      "englishGlosses": [
-        "A.",
-        "Arolwg",
-        "sioeau",
-        "hynny",
-        "Hanner",
-        "o",
-        "Cymru",
-        "meddyliol",
-        "iechyd",
-        "gweithlu",
-        "yw",
-        "wedi blino'n lan",
-        "a",
-        "dioddefaint",
-        "o",
-        "trallod"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2209378",
@@ -362,8 +326,8 @@
       "english": "The mystery of Stonehenge's iconic Stonehenge origins deepens",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209378-dirgelwch-tarddiad-allorfaen-eiconig-cewri-dyfnhau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=ynsdeRRw",
       "pubDate": "Thu, 05 Nov 2026 16:53:34 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
+      "feedPosition": 9,
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
       "category": null
     },
     {
@@ -372,8 +336,8 @@
       "english": "New social club set up for the blind in Caernarfon",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209367-clwb-cymdeithasol-newydd-wedi-sefydlu-deillion?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOddR",
       "pubDate": "Thu, 05 Nov 2026 14:44:41 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
+      "feedPosition": 10,
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
       "category": null
     },
     {
@@ -382,8 +346,8 @@
       "english": "Wrexham Council and teachers union warn of \"missing money\" Additional Learning Needs",
       "url": "https://golwg.360.cymru/newyddion/2209351-cyngor-wrecsam-undeb-athrawon-rhybuddio-arian-coll?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=MgsELd08",
       "pubDate": "Thu, 05 Nov 2026 14:17:57 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
+      "feedPosition": 11,
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
       "category": null
     },
     {
@@ -392,8 +356,8 @@
       "english": "Accusing Swansea Council of “misleading the public” over a ferry to thesouth-westof England",
       "url": "https://golwg.360.cymru/newyddion/2209354-cyhuddo-cyngor-abertawe-gamarwain-cyhoedd-dros?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMaRR2",
       "pubDate": "Thu, 05 Nov 2026 14:06:23 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
+      "feedPosition": 12,
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
       "category": null
     },
     {
@@ -402,8 +366,8 @@
       "english": "Over 4,000 additional social homes possible by the end of 2027",
       "url": "https://golwg.360.cymru/newyddion/2209355-dros-4000-cymdeithasol-ychwanegol-bosib-erbyn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=gnspdGGp",
       "pubDate": "Thu, 05 Nov 2026 13:57:44 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
+      "feedPosition": 13,
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
       "category": null
     },
     {
@@ -412,8 +376,8 @@
       "english": "Wales has the lowest level of awareness of community energy schemes throughout Britain",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209348-cymru-sydd-lefel-isaf-ymwybyddiaeth-gynlluniau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7wM4",
       "pubDate": "Thu, 05 Nov 2026 12:36:50 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
+      "feedPosition": 14,
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
       "category": null
     },
     {
@@ -422,8 +386,8 @@
       "english": "‘Leadership cannot stand still’ – Children's Commissioner for Wales",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209309-arweinyddiaeth-ddim-sefyll-hunfan-comisiynydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=oDs4W7gY",
       "pubDate": "Thu, 05 Nov 2026 09:01:02 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
+      "feedPosition": 15,
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
       "category": null
     },
     {
@@ -432,8 +396,8 @@
       "english": "Free childcare for two-year-olds in 19 areas of Wales by the end of the month",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209283-gofal-plant-ddim-blant-mewn-ardaloedd-cymru-erbyn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=MgsELdw8",
       "pubDate": "Thu, 05 Nov 2026 07:00:59 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
+      "feedPosition": 16,
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
       "category": null
     },
     {
@@ -442,10 +406,10 @@
       "english": "Cardiff University rejects union call to use reserves",
       "url": "https://golwg.360.cymru/newyddion/addysg/2209297-prifysgol-caerdydd-gwrthod-galwad-undeb-ddefnyddio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA5E3",
       "pubDate": "Wed, 04 Nov 2026 16:50:08 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-11-07T00:52:33.608Z",
+      "feedPosition": 17,
+      "fetchedAt": "2026-11-08T00:30:51.307Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-11-07T19:23:27.508Z"
+  "generatedAt": "2026-11-08T00:30:51.307Z"
 }
