@@ -2,6 +2,88 @@
   "date": "2026-11-10",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2209634",
+      "welsh": "Ehangu datganoli, system ffederal neu annibyniaeth fydd “sylfaen” gwaith comisiwn cyfansoddiadol newydd",
+      "english": "Expanding devolution, a federal system or independence will be the “foundation” of the work of a new constitutional commission",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2209634-ehangu-datganoli-system-ffederal-annibyniaeth-fydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA52g",
+      "pubDate": "Tue, 10 Nov 2026 18:17:28 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-11-10T21:16:27.908Z",
+      "category": null,
+      "welshGlosses": [
+        "Expand",
+        "Devolve",
+        "File System",
+        "federal",
+        "or",
+        "independence",
+        "will be",
+        "Foundation",
+        "work",
+        "Commission",
+        "constitutional",
+        "new"
+      ],
+      "englishGlosses": [
+        "Maint LlorweddolSize Policy, in short",
+        "Datganoli",
+        "a.",
+        "ffederal",
+        "sustem",
+        "neu",
+        "anibyniaeth",
+        "Will.",
+        "bod",
+        "'r",
+        "Sylfaen",
+        "o",
+        "'r",
+        "Gwaith",
+        "o",
+        "a.",
+        "newydd",
+        "Cyfansoddiad",
+        "Comisiwn"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2209628",
+      "welsh": "Ymwelwyr iechyd Cwm Taf Morgannwg yn dychwelyd i’r gwaith gyda chodiad cyflog",
+      "english": "Cwm Taf Morgannwg health visitors returning to work with pay rise",
+      "url": "https://golwg.360.cymru/newyddion/iechyd/2209628-ymwelwyr-iechyd-morgannwg-dychwelyd-gwaith-gyda?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0NaWA",
+      "pubDate": "Tue, 10 Nov 2026 17:26:02 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-11-10T21:16:27.908Z",
+      "category": null,
+      "welshGlosses": [
+        "Visitors",
+        "Healt",
+        "Cirque",
+        "Taff",
+        "Glamorgan",
+        "in",
+        "Remove",
+        "I",
+        "work",
+        "Job|with",
+        "erection",
+        "Wage"
+      ],
+      "englishGlosses": [
+        "Cwm",
+        "Taf",
+        "Morgannwg",
+        "iechyd",
+        "Ymwelwyr",
+        "yn dychwelyd",
+        "i",
+        "Gwaith",
+        "gyda",
+        "tâl",
+        "textattr"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2209611",
       "welsh": "Camau Andy Burnham ar gaethwasiaeth yn “gadarnhaol” – ond “angen trawsnewidiad diwylliannol go iawn”",
       "english": "Andy Burnham's actions on slavery are “positive” – but “a real cultural transformation is needed”",
@@ -556,27 +638,7 @@
       "feedPosition": 8,
       "fetchedAt": "2026-11-10T01:28:46.528Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2209221",
-      "welsh": "Pryder dros oedi’r Llywodraeth i ddynodi ardaloedd o arwyddocâd ieithyddol",
-      "english": "Concern over the Government's delay in designating areas of linguistic significance",
-      "url": "https://golwg.360.cymru/newyddion/2209221-pryder-dros-oedi-llywodraeth-ddynodi-ardaloedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=eOsA5Eee",
-      "pubDate": "Fri, 06 Nov 2026 13:57:18 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-11-10T01:28:46.528Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2209405",
-      "welsh": "Cyfarwyddwr Cenhedloedd y BBC – addewid y bydd presenoldeb y BBC yn parhau ledled Cymru",
-      "english": "Director of the BBC Nations – a promise that the BBC's presence will continue throughout Wales",
-      "url": "https://golwg.360.cymru/newyddion/2209405-cyfarwyddwr-cenhedloedd-addewid-bydd-presenoldeb?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR0E7n",
-      "pubDate": "Fri, 06 Nov 2026 11:30:28 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-11-10T01:28:46.528Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-11-10T14:47:24.000Z"
+  "generatedAt": "2026-11-10T21:16:27.908Z"
 }
