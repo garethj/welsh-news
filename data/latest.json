@@ -2,6 +2,39 @@
   "date": "2026-11-12",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2209786",
+      "welsh": "‘Ysgytwad’ i staff prifysgol Aberystwyth yn sgil toriadau mawr i swyddi",
+      "english": "Aberystwyth University staff \"shocked\" by major job cuts",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2209786-ysgytwad-staff-prifysgol-aberystwyth-sgil-toriadau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNYdl",
+      "pubDate": "Thu, 12 Nov 2026 16:06:38 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-11-12T21:49:29.430Z",
+      "category": null,
+      "welshGlosses": [
+        "Ejection",
+        "to",
+        "staff",
+        "Univ",
+        "Mouth of the river Ystwyth",
+        "in",
+        "skill",
+        "cuts",
+        "ty mawr",
+        "to",
+        "jobs"
+      ],
+      "englishGlosses": [
+        "Aberystwyth:",
+        "",
+        "staff",
+        "synnu",
+        "gan",
+        "prif",
+        "swydd",
+        "torion"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2209781",
       "welsh": "Galeri Caernarfon: Diffyg ariannol ddim yn “her i gynaliadwyedd” y ganolfan",
       "english": "Galeri Caernarfon: Financial shortfall not a “challenge to the sustainability” of the centre",
@@ -428,27 +461,7 @@
       "feedPosition": 17,
       "fetchedAt": "2026-11-12T15:04:06.565Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2209608",
-      "welsh": "David Walliams yn methu atal cyhoeddi honiadau o gamymddwyn rhywiol",
-      "english": "David Walliams unable to prevent publication of allegations of sexual misconduct",
-      "url": "https://golwg.360.cymru/newyddion/prydain/2209608-david-walliams-methu-atal-cyhoeddi-honiadau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=nAs2yN70",
-      "pubDate": "Tue, 10 Nov 2026 13:08:10 +0000",
-      "feedPosition": 18,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2209605",
-      "welsh": "‘Derbyn argymhellion yn ddiwerth heb weithredu’ – rhybudd i Lywodraeth Cymru",
-      "english": "‘Receiving recommendations is worthless without action’ – a warning to the Welsh Government",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2209605-derbyn-argymhellion-ddiwerth-weithredu-rhybudd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=Y0s0WBPM",
-      "pubDate": "Tue, 10 Nov 2026 12:07:35 +0000",
-      "feedPosition": 19,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-11-12T15:04:06.565Z"
+  "generatedAt": "2026-11-12T21:49:29.430Z"
 }
