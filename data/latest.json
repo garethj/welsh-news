@@ -1,14 +1,103 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "headlines": [
+    {
+      "guid": "https://golwg.360.cymru/?p=2209825",
+      "welsh": "Ewropa",
+      "english": "Europa",
+      "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2209825-ewropa-23?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMaRjo",
+      "pubDate": "Fri, 13 Nov 2026 13:59:35 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
+      "category": null,
+      "welshGlosses": [
+        "Europa"
+      ],
+      "englishGlosses": [
+        "Ewropa"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2209811",
+      "welsh": "Des Clifford: Danteithion Plaid Cymru i ddenu Llafur at y bwrdd",
+      "english": "Des Clifford: Plaid Cymru's enticements to attract Labour to the table",
+      "url": "https://golwg.360.cymru/newyddion/2209811-clifford-danteithion-plaid-cymru-ddenu-llafur?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGPLWr",
+      "pubDate": "Fri, 13 Nov 2026 12:28:41 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
+      "category": null,
+      "welshGlosses": [
+        "Des",
+        "Clifford",
+        "Snacks",
+        "Party",
+        "Wales",
+        "to",
+        "attract",
+        "Labour",
+        "towards",
+        "the",
+        "table"
+      ],
+      "englishGlosses": [
+        "Rhag",
+        "Clifford",
+        "Plaid Cymru",
+        "Cymru",
+        "deniadau",
+        "i",
+        "denu",
+        "Esgor",
+        "i",
+        "'r",
+        "tabl"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2209795",
+      "welsh": "Cofio Robat Gruffudd: “Tipyn o rebel” ac arloeswr heb ei ail",
+      "english": "Remembering Robat Gruffudd: “A bit of a rebel” and an unparalleled pioneer",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2209795-cofio-robat-gruffudd-tipyn-rebel-arloeswr?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lgwP",
+      "pubDate": "Fri, 13 Nov 2026 09:00:45 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
+      "category": null,
+      "welshGlosses": [
+        "Remember",
+        "Robat...?",
+        "Gruffydd",
+        "A little",
+        "of",
+        "rebel",
+        "and",
+        "pioneer",
+        "without",
+        "his/her",
+        "second"
+      ],
+      "englishGlosses": [
+        "Cofio",
+        "Robat...?",
+        "Gruffudd",
+        "A.",
+        "tamaid",
+        "o",
+        "a.",
+        "gwrthryfelwr",
+        "a",
+        "un",
+        "heb ei debyg",
+        "arloeswr"
+      ]
+    },
     {
       "guid": "https://golwg.360.cymru/?p=2209786",
       "welsh": "‘Ysgytwad’ i staff prifysgol Aberystwyth yn sgil toriadau mawr i swyddi",
-      "english": "Aberystwyth University staff \"shocked\" by major job cuts",
+      "english": "Aberystwyth University staff ‘shocked’ by major job cuts",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209786-ysgytwad-staff-prifysgol-aberystwyth-sgil-toriadau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNYdl",
       "pubDate": "Thu, 12 Nov 2026 16:06:38 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-11-12T21:49:29.430Z",
+      "feedPosition": 3,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
       "category": null,
       "welshGlosses": [
         "Ejection",
@@ -37,11 +126,11 @@
     {
       "guid": "https://golwg.360.cymru/?p=2209781",
       "welsh": "Galeri Caernarfon: Diffyg ariannol ddim yn “her i gynaliadwyedd” y ganolfan",
-      "english": "Galeri Caernarfon: Financial shortfall not a “challenge to the sustainability” of the centre",
+      "english": "Galeri Caernarfon: Financial shortfall is not a \"challenge to the sustainability\" of the centre",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209781-galeri-caernarfon-diffyg-ariannol-ddim?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swp0JJ",
       "pubDate": "Thu, 12 Nov 2026 14:34:23 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
       "category": null,
       "welshGlosses": [
         "Gallery",
@@ -61,6 +150,7 @@
         "Camerŵnfrance. kgm",
         "Gwiriad",
         "Diffyg",
+        "yw",
         "ddim",
         "a.",
         "her",
@@ -75,11 +165,11 @@
     {
       "guid": "https://golwg.360.cymru/?p=2209769",
       "welsh": "‘Agor y drws am gyfaddawd’: pleidlais yr Alban yn rhoi hwb i’r alwad am ddatganoli darlledu",
-      "english": "‘Opening the door to compromise’: Scotland's vote boosts the call for devolution of broadcasting",
+      "english": "‘Open the door to compromise’: Scotland's vote boosts the call for devolution of broadcasting",
       "url": "https://golwg.360.cymru/newyddion/2209769-agor-drws-gyfaddawd-pleidlais-alban-rhoi-alwad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA575",
       "pubDate": "Thu, 12 Nov 2026 13:55:47 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
       "category": null,
       "welshGlosses": [
         "Open",
@@ -89,7 +179,7 @@
         "compromise",
         "vote",
         "the",
-        "Scotland",
+        "Albania",
         "in",
         "give",
         "boost",
@@ -100,7 +190,7 @@
         "Broadcast"
       ],
       "englishGlosses": [
-        "Yn agor",
+        "Ar Agor",
         "'r",
         "Drws",
         "i",
@@ -122,8 +212,8 @@
       "english": "Councils warn of £207m pressure on social care in 2027-28",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209767-cynghorau-rhybuddio-bwysau-207m-ofal-cymdeithasol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=pgseGyo0",
       "pubDate": "Thu, 12 Nov 2026 12:54:43 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
       "category": null,
       "welshGlosses": [
         "Councils",
@@ -154,11 +244,11 @@
     {
       "guid": "https://golwg.360.cymru/?p=2209762",
       "welsh": "Llywodraeth Cymru yn camu i’r adwy wrth drafod cynlluniau dadleuol canolfan ddata yng Nghaerdydd",
-      "english": "The Welsh Government steps in as it discusses controversial data centre plans in Cardiff",
+      "english": "The Welsh Government steps in to discuss controversial data centre plans in Cardiff",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209762-llywodraeth-cymru-camu-adwy-wrth-drafod-cynlluniau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lgwE",
       "pubDate": "Thu, 12 Nov 2026 12:37:52 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
       "category": null,
       "welshGlosses": [
         "Governing",
@@ -182,9 +272,8 @@
         "Cymru",
         "Camau",
         "yn",
-        "Graddfeyddunit description in lists",
-        "i’r gweddill",
-        "yn trafod",
+        "i",
+        "Drafod",
         "dadleuol",
         "Data",
         "CANOL",
@@ -196,44 +285,12 @@
     {
       "guid": "https://golwg.360.cymru/?p=2209691",
       "welsh": "Cymdeithas yr Iaith yn mynnu atebion am addewid Plaid Cymru i ddiogelu cymunedau Cymraeg",
-      "english": "The Welsh Language Society demands answers about Plaid Cymru's promise to protect Welsh communities",
+      "english": "The Welsh Language Society demands answers about Plaid Cymru's promise to protect Welsh-speaking communities",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209691-cymdeithas-iaith-mynnu-atebion-addewid-plaid-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=gnspdGDg",
       "pubDate": "Thu, 12 Nov 2026 08:10:24 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
-      "category": null,
-      "welshGlosses": [
-        "Society",
-        "the",
-        "Language",
-        "in",
-        "Demanding",
-        "replies",
-        "for",
-        "promise",
-        "Party",
-        "Wales",
-        "to",
-        "protect",
-        "Communities",
-        ""
-      ],
-      "englishGlosses": [
-        "Y",
-        "Cymraeg",
-        "",
-        "Cymdeithas",
-        "gofynion",
-        "Atebion",
-        "Ynglŷn â",
-        "Plaid Cymru",
-        "Cymru",
-        "addewid",
-        "i",
-        "warchod",
-        "Cymraeg",
-        "Cymuned"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2209720",
@@ -241,45 +298,9 @@
       "english": "Permission granted for 11 more homes on the site of an old school – but none of them are affordable",
       "url": "https://golwg.360.cymru/newyddion/2209720-caniatau-cartref-arall-safle-ysgol-fforddiadwy?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGDBML",
       "pubDate": "Wed, 11 Nov 2026 18:47:07 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
-      "category": null,
-      "welshGlosses": [
-        "Allow",
-        "16",
-        "",
-        "ATM",
-        "on",
-        "ever",
-        "old",
-        "school",
-        "but",
-        "none",
-        "one",
-        "in",
-        "Affordable"
-      ],
-      "englishGlosses": [
-        "Caniatâd",
-        "wedi'i ganiatáu",
-        "am",
-        "11.",
-        "mwy",
-        "Cartrefi",
-        "ar",
-        "'r",
-        "Safle",
-        "o",
-        "un",
-        "Hen",
-        "Term",
-        "",
-        "dim",
-        "o",
-        "nhw",
-        "dach",
-        "Fforddiadwy"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2209712",
@@ -287,47 +308,9 @@
       "english": "‘A plan to help 15,000 children is already in place, but Westminster is an obstacle’ – Sioned Williams",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209712-cynllun-helpu-15000-blant-barod-steffan-rhwystr?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNjRr2",
       "pubDate": "Wed, 11 Nov 2026 16:30:21 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
-      "category": null,
-      "welshGlosses": [
-        "Plan",
-        "to",
-        "help me today",
-        "15.",
-        "0.000",
-        "of",
-        "children",
-        "in",
-        "ready",
-        "but",
-        "Bushmen",
-        "Bob",
-        "in",
-        "obstacle",
-        "Sioned",
-        "Williams Lake"
-      ],
-      "englishGlosses": [
-        "A.",
-        "Cynllun",
-        "i",
-        "cymorth",
-        "15.",
-        "£’000",
-        "Plant",
-        "yw",
-        "eisoes",
-        "yn",
-        "Lle",
-        "",
-        "West Point",
-        "yw",
-        "un",
-        "rhwystr",
-        "Sioned",
-        "Wyn Williams"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2209700",
@@ -335,32 +318,9 @@
       "english": "Reform boycotts Parliament in protest over Joe Martin's suspension",
       "url": "https://golwg.360.cymru/newyddion/2209700-reform-yn-boicotio?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1r0G",
       "pubDate": "Wed, 11 Nov 2026 14:13:09 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
-      "category": null,
-      "welshGlosses": [
-        "Reform",
-        "in",
-        "boycott the",
-        "Parliament",
-        "in",
-        "protest",
-        "over",
-        "restraining order",
-        "Joe",
-        "Martin of Tours"
-      ],
-      "englishGlosses": [
-        "Diwygio",
-        "boicotiau",
-        "Senedd",
-        "yn",
-        "protestio",
-        "dros",
-        "Joe",
-        "Martin",
-        "& Gwedd"
-      ]
+      "feedPosition": 11,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2209694",
@@ -368,18 +328,18 @@
       "english": "Retain a premium of 150% on second homes in Gwynedd – Cabinet recommendation",
       "url": "https://golwg.360.cymru/newyddion/2209694-cadw-premiwm-ail-gartrefi-gwynedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lgBE",
       "pubDate": "Wed, 11 Nov 2026 13:31:11 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
+      "feedPosition": 12,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
       "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2209669",
       "welsh": "Ai yng nghanol Ewrop y mae gwreiddiau’r Gymraeg?",
-      "english": "Are the roots of the Welsh language in Central Europe?",
+      "english": "Are the roots of the Welsh language in central Europe?",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209669-ewrog-gwreiddiau-gymraeg?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysaro85",
       "pubDate": "Wed, 11 Nov 2026 12:21:13 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
+      "feedPosition": 13,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
       "category": null
     },
     {
@@ -388,8 +348,8 @@
       "english": "Mark Drakeford: ‘There was no evidence’ that Westminster Labour was in favour of devolution",
       "url": "https://golwg.360.cymru/newyddion/2209676-mark-drakeford-doedd-tystiolaeth-llafur-steffan?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=nAs2yN00",
       "pubDate": "Wed, 11 Nov 2026 11:47:42 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
+      "feedPosition": 14,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
       "category": null
     },
     {
@@ -398,8 +358,8 @@
       "english": "‘No more devolution in any area’ – Reform",
       "url": "https://golwg.360.cymru/newyddion/2209668-rhagor-ddatganoli-mewn-unrhyw-faes-reform?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA5Ng",
       "pubDate": "Wed, 11 Nov 2026 10:54:52 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
+      "feedPosition": 15,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
       "category": null
     },
     {
@@ -408,8 +368,8 @@
       "english": "Castell Coch reveals its true colour after 135 years",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209665-castell-coch-datgelu-flynyddoedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLBP5",
       "pubDate": "Wed, 11 Nov 2026 10:26:02 +0000",
-      "feedPosition": 12,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
+      "feedPosition": 16,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
       "category": null
     },
     {
@@ -418,8 +378,8 @@
       "english": "‘She put Flintshire on our literary map’: remembering Dr Eiddwen Jones",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209633-cofior-dr-eiddwen-jones?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1rMr",
       "pubDate": "Wed, 11 Nov 2026 09:17:27 +0000",
-      "feedPosition": 13,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
+      "feedPosition": 17,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
       "category": null
     },
     {
@@ -428,40 +388,10 @@
       "english": "‘No right to speak in Parliament until he apologises’ – warning to Reform MP",
       "url": "https://golwg.360.cymru/newyddion/cymru/2209642-hawl-siarad-senedd-iddo-ymddiheuro-rhybudd-reform?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=nAs2yNP0",
       "pubDate": "Tue, 10 Nov 2026 23:19:05 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2209634",
-      "welsh": "Ehangu datganoli, system ffederal neu annibyniaeth fydd “sylfaen” gwaith comisiwn cyfansoddiadol newydd",
-      "english": "The \"foundation\" of the work of a new constitutional commission will be the expansion of devolution, a federal system or independence",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2209634-ehangu-datganoli-system-ffederal-annibyniaeth-fydd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=DpsOA52g",
-      "pubDate": "Tue, 10 Nov 2026 18:17:28 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2209628",
-      "welsh": "Ymwelwyr iechyd Cwm Taf Morgannwg yn dychwelyd i’r gwaith gyda chodiad cyflog",
-      "english": "Cwm Taf Morgannwg health visitors return to work with a pay rise",
-      "url": "https://golwg.360.cymru/newyddion/iechyd/2209628-ymwelwyr-iechyd-morgannwg-dychwelyd-gwaith-gyda?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0NaWA",
-      "pubDate": "Tue, 10 Nov 2026 17:26:02 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2209611",
-      "welsh": "Camau Andy Burnham ar gaethwasiaeth yn “gadarnhaol” – ond “angen trawsnewidiad diwylliannol go iawn”",
-      "english": "Andy Burnham's steps on slavery are “positive” – but “a real cultural transformation is needed”",
-      "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2209611-camau-andy-burnham-gaethwasiaeth-gadarnhaol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNjR8W",
-      "pubDate": "Tue, 10 Nov 2026 13:47:21 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-11-12T15:04:06.565Z",
+      "feedPosition": 18,
+      "fetchedAt": "2026-11-13T14:29:18.551Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-11-12T21:49:29.430Z"
+  "generatedAt": "2026-11-13T14:29:18.551Z"
 }
