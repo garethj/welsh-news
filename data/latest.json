@@ -2,6 +2,113 @@
   "date": "2026-11-19",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2210225",
+      "welsh": "Arweinydd Reform UK yn y Senedd yn ymddiheuro i Brif Weinidog Cymru",
+      "english": "Reform UK's leader in Parliament apologises to the First Minister of Wales",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2210225-arweinydd-reform-senedd-ymddiheuro-brif-weinidog?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGDBg7",
+      "pubDate": "Thu, 19 Nov 2026 15:10:32 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-11-19T15:39:36.319Z",
+      "category": null,
+      "welshGlosses": [
+        "Lead:",
+        "Reform",
+        "<PROTECTED> UK",
+        "in",
+        "the",
+        "Parliament",
+        "in",
+        "apologise",
+        "to",
+        "Main",
+        "",
+        "Wales"
+      ],
+      "englishGlosses": [
+        "Diwygio",
+        "Y DU",
+        "Arweinydd",
+        "yn",
+        "Senedd",
+        "yn ymddiheuro",
+        "i",
+        "'r",
+        "Cyntaf",
+        "baeth",
+        "o",
+        "Cymru"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2210217",
+      "welsh": "Wynebu’r storm: Cyllideb Ddrafft Llywodraeth Cymru 2027-28",
+      "english": "Facing the storm: Welsh Government Draft Budget 2027-28",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2210217-wynebu-storm-cyllideb-ddrafft-llywodraeth-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNjRJ1",
+      "pubDate": "Thu, 19 Nov 2026 12:49:07 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-11-19T15:39:36.319Z",
+      "category": null,
+      "welshGlosses": [
+        "Facing the",
+        "CubeStorm",
+        "Budget",
+        "Draft",
+        "Governing",
+        "Wales",
+        "2027–28"
+      ],
+      "englishGlosses": [
+        "Yn wynebu",
+        "'r",
+        "storom",
+        "Cymraeg",
+        "Cymru",
+        "Drafft",
+        "Cyllideb",
+        "2027-28"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2210169",
+      "welsh": "Aelod Seneddol Plaid Cymru’n arwain dadl gyntaf Tŷ’r Cyffredin ar reoleiddio AI datblygedig",
+      "english": "Plaid Cymru MP leads first House of Commons debate on regulating advanced AI",
+      "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2210169-aelod-seneddol-plaid-cymru-arwain?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=rns7GgPe",
+      "pubDate": "Thu, 19 Nov 2026 07:14:37 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-11-19T15:39:36.319Z",
+      "category": null,
+      "welshGlosses": [
+        "Member",
+        "Parliamentary",
+        "Party",
+        "Wales",
+        "led",
+        "debate",
+        "first",
+        "House of",
+        "Common",
+        "on",
+        "regulation",
+        "is it...?",
+        "developed"
+      ],
+      "englishGlosses": [
+        "Plaid Cymru",
+        "Cymru ",
+        "(MP)",
+        "darpar gwsmeriaid",
+        "cyntaf",
+        "Tŷ",
+        "o",
+        "Tir comin",
+        "dadl",
+        "ar",
+        "rheoleiddio",
+        "Uwch",
+        "Aye."
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2210165",
       "welsh": "Comisiynydd y Gymraeg yn wynebu’r toriad mwyaf yng nghyllideb ddrafft Cymru",
       "english": "The Welsh Language Commissioner faces the biggest cut in Wales' draft budget",
@@ -363,47 +470,7 @@
       "feedPosition": 13,
       "fetchedAt": "2026-11-19T00:17:51.539Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2210019",
-      "welsh": "‘O fes bach y tyf derw mawr’: Carreg filltir i sefydliad sydd wedi cefnogi pobol ag anableddau dysgu",
-      "english": "‘From little acorns mighty oaks grow’: A milestone for an organisation that has supported people with learning disabilities",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2210019-bach-derw-mawr-carreg-filltir-sefydliad-sydd-wedi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDR4gy",
-      "pubDate": "Tue, 17 Nov 2026 12:24:04 +0000",
-      "feedPosition": 14,
-      "fetchedAt": "2026-11-19T00:17:51.539Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2209980",
-      "welsh": "Cynllun £23m i gyflymu gofal argyfwng a chael cleifion adref yn gynt",
-      "english": "£23m plan to speed up emergency care and get patients home sooner",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2209980-cynllun-gyflymu-gofal-argyfwng-chael-cleifion?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=J0sGPL51",
-      "pubDate": "Tue, 17 Nov 2026 08:01:35 +0000",
-      "feedPosition": 15,
-      "fetchedAt": "2026-11-19T00:17:51.539Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2209990",
-      "welsh": "Llywodraeth Cymru yn wynebu gostyngiad o bron i 10% yn ei chyllideb gyfalaf",
-      "english": "The Welsh Government is facing a nearly 10% cut in its capital budget",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2209990-llywodraeth-cymru-wynebu-gostyngiad-bron-chyllideb?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=MgsELdr1",
-      "pubDate": "Tue, 17 Nov 2026 07:01:25 +0000",
-      "feedPosition": 16,
-      "fetchedAt": "2026-11-19T00:17:51.539Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2209954",
-      "welsh": "‘Y peth olaf fyddai Jeremy eisiau fyddai i ni stopio’: Arad Goch yn talu teyrnged i’w sylfaenydd",
-      "english": "‘The last thing Jeremy would have wanted was for us to stop’: Arad Goch pays tribute to its founder",
-      "url": "https://golwg.360.cymru/newyddion/2209954-teyrnged-arad-goch-i-jeremy-turner?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7wj7",
-      "pubDate": "Mon, 16 Nov 2026 18:02:20 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-11-19T00:17:51.539Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-11-19T00:17:51.539Z"
+  "generatedAt": "2026-11-19T15:39:36.319Z"
 }
