@@ -2,6 +2,43 @@
   "date": "2026-11-20",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2210356",
+      "welsh": "‘Nid plentyn yw Cymru’ – dicter wrth i Burnham wrthod datganoli pwerau",
+      "english": "‘Wales is not a child’ – anger as Burnham refuses to devolve powers",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2210356-plentyn-cymru-dicter-wrth-burnham-wrthod-datganoli?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDR2OY",
+      "pubDate": "Fri, 20 Nov 2026 21:57:13 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-11-20T23:57:38.037Z",
+      "category": null,
+      "welshGlosses": [
+        "This link is not live-previewable.",
+        "Child",
+        "is",
+        "Wales",
+        "anger",
+        "by",
+        "to",
+        "Burnham",
+        "reject",
+        "Devolve",
+        "powers"
+      ],
+      "englishGlosses": [
+        "Cymru",
+        "yw",
+        "ddim",
+        "a.",
+        "Plentyn",
+        "dicter",
+        "Graddfeyddunit description in lists",
+        "Burnham",
+        "yn gwrthod",
+        "i",
+        "Datganoli",
+        "pwerau"
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2210301",
       "welsh": "Y blaid wleidyddol sydd wedi’i hysbrydoli gan Gymru mewn ymdrechion i adfywio’r Gernyweg",
       "english": "The political party inspired by Wales in its efforts to revive the Cornish language",
@@ -570,17 +607,7 @@
       "feedPosition": 10,
       "fetchedAt": "2026-11-20T00:34:38.761Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2210116",
-      "welsh": "‘Ni ddylai plant orfod gofyn am fersiwn arbennig o’r byd’: Neges Siôn Corn i Gymru",
-      "english": "‘Children shouldn't have to ask for a special version of the world’: Santa's message to Wales",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2210116-ddylai-plant-orfod-gofyn-fersiwn-arbennig-neges?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNjRy8",
-      "pubDate": "Wed, 18 Nov 2026 09:31:20 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-11-20T00:34:38.761Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-11-20T15:20:56.383Z"
+  "generatedAt": "2026-11-20T23:57:38.037Z"
 }
