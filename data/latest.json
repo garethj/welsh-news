@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2210364",
@@ -8,7 +8,7 @@
       "url": "https://golwg.360.cymru/newyddion/cymru/2210364-burnham-cynnig-lais-gymru-dros-blismona-pwerau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMa3Pd",
       "pubDate": "Sat, 21 Nov 2026 10:01:34 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-11-21T14:34:03.911Z",
+      "fetchedAt": "2026-11-22T01:13:01.972Z",
       "category": null,
       "welshGlosses": [
         "Burnham",
@@ -48,7 +48,7 @@
       "url": "https://golwg.360.cymru/newyddion/cymru/2210356-plentyn-cymru-dicter-wrth-burnham-wrthod-datganoli?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDR2OY",
       "pubDate": "Fri, 20 Nov 2026 21:57:13 +0000",
       "feedPosition": 1,
-      "fetchedAt": "2026-11-21T14:34:03.911Z",
+      "fetchedAt": "2026-11-22T01:13:01.972Z",
       "category": null,
       "welshGlosses": [
         "This link is not live-previewable.",
@@ -81,11 +81,11 @@
     {
       "guid": "https://golwg.360.cymru/?p=2210301",
       "welsh": "Y blaid wleidyddol sydd wedi’i hysbrydoli gan Gymru mewn ymdrechion i adfywio’r Gernyweg",
-      "english": "The political party inspired by Wales in its efforts to revitalize the Cornish language",
+      "english": "The political party inspired by Wales in its efforts to revitalize Cornish",
       "url": "https://golwg.360.cymru/newyddion/2210301-blaid-wleidyddol-sydd-wedi-hysbrydoli-gymru-mewn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0N58J",
       "pubDate": "Fri, 20 Nov 2026 13:28:15 +0000",
       "feedPosition": 2,
-      "fetchedAt": "2026-11-21T14:34:03.911Z",
+      "fetchedAt": "2026-11-22T01:13:01.972Z",
       "category": null,
       "welshGlosses": [
         "the",
@@ -114,19 +114,17 @@
         "ymdrechion",
         "i",
         "adfywio",
-        "'r",
-        "Cernyweg",
-        ""
+        "Cernyweg"
       ]
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210297",
       "welsh": "Cyhoeddi enillwyr prosiectau rhagoriaeth 2026 Menter Iaith",
-      "english": "Announcement of the winners of the 2026 Menter Iaith projects of excellence",
+      "english": "Announcement of the winners of the 2026 Menter Iaith excellence projects",
       "url": "https://golwg.360.cymru/newyddion/iaith/2210297-cyhoeddi-enillwyr-prosiectau-rhagoriaeth-2026?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=gnspd51B",
       "pubDate": "Fri, 20 Nov 2026 12:37:15 +0000",
       "feedPosition": 3,
-      "fetchedAt": "2026-11-21T14:34:03.911Z",
+      "fetchedAt": "2026-11-22T01:13:01.972Z",
       "category": null,
       "welshGlosses": [
         "Publish",
@@ -147,19 +145,18 @@
         "2026",
         "Menter Môn",
         "Language.",
-        "project",
-        "o",
-        "rhagoriaeth"
+        "rhagoriaeth",
+        "project"
       ]
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210285",
       "welsh": "2 ym mhob 3 yng Nghymru yn poeni am effaith AI ar adnoddau naturiol",
-      "english": "2 out of every 3 people in Wales are concerned about the impact of AI on natural resources",
+      "english": "2 out of 3 in Wales are concerned about the impact of AI on natural resources",
       "url": "https://golwg.360.cymru/newyddion/2210285-mhob-nghymru-poeni-effaith-adnoddau-naturiol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=oDs4WnD5",
       "pubDate": "Fri, 20 Nov 2026 11:21:54 +0000",
       "feedPosition": 4,
-      "fetchedAt": "2026-11-21T14:34:03.911Z",
+      "fetchedAt": "2026-11-22T01:13:01.972Z",
       "category": null,
       "welshGlosses": [
         "2.",
@@ -181,13 +178,11 @@
         "2.",
         "mas",
         "o",
-        "pob",
         "3.",
-        "Pobl",
         "yn",
         "Cymru",
         "dach",
-        "yn pryderus",
+        "pryderus",
         "Ynglŷn â",
         "'r",
         "Effaith",
@@ -205,7 +200,7 @@
       "url": "https://golwg.360.cymru/newyddion/iechyd/2210267-myfyrwraig-benderfynol-wella-gofal-iechyd-menywod?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lgP3",
       "pubDate": "Fri, 20 Nov 2026 10:45:32 +0000",
       "feedPosition": 5,
-      "fetchedAt": "2026-11-21T14:34:03.911Z",
+      "fetchedAt": "2026-11-22T01:13:01.972Z",
       "category": null,
       "welshGlosses": [
         "Student",
@@ -238,7 +233,7 @@
       "url": "https://golwg.360.cymru/newyddion/2210271-diwrnod-ailosod-brexit-mrwsel?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLByy",
       "pubDate": "Fri, 20 Nov 2026 10:22:01 +0000",
       "feedPosition": 6,
-      "fetchedAt": "2026-11-21T14:34:03.911Z",
+      "fetchedAt": "2026-11-22T01:13:01.972Z",
       "category": null,
       "welshGlosses": [
         "Day",
@@ -262,7 +257,7 @@
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2210208-rhowch-farchnad-sengl-undeb-tollau-bwrdd-meddai?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOdPp",
       "pubDate": "Fri, 20 Nov 2026 09:00:34 +0000",
       "feedPosition": 7,
-      "fetchedAt": "2026-11-21T14:34:03.911Z",
+      "fetchedAt": "2026-11-22T01:13:01.972Z",
       "category": null,
       "welshGlosses": [
         "give",
@@ -324,7 +319,7 @@
       "url": "https://golwg.360.cymru/newyddion/cymru/2210251-terfynau-ffioedd-dysgu-fyfyrwyr-addysg-uwch?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNjRd1",
       "pubDate": "Thu, 19 Nov 2026 17:21:45 +0000",
       "feedPosition": 8,
-      "fetchedAt": "2026-11-21T14:34:03.911Z",
+      "fetchedAt": "2026-11-22T01:13:01.972Z",
       "category": null
     },
     {
@@ -334,27 +329,27 @@
       "url": "https://golwg.360.cymru/newyddion/2210242-andy-burnham-addo-pwerau-awdurdodau-lleol-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOd7p",
       "pubDate": "Thu, 19 Nov 2026 16:50:03 +0000",
       "feedPosition": 9,
-      "fetchedAt": "2026-11-21T14:34:03.911Z",
+      "fetchedAt": "2026-11-22T01:13:01.972Z",
       "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210225",
       "welsh": "Arweinydd Reform UK yn y Senedd yn “ymddiheuro” i Brif Weinidog Cymru",
-      "english": "Reform UK leader in Parliament “apologises” to the First Minister of Wales",
+      "english": "Reform UK leader in the Senedd “apologises” to the First Minister of Wales",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2210225-arweinydd-reform-senedd-ymddiheuro-brif-weinidog?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGDBg7",
       "pubDate": "Thu, 19 Nov 2026 15:10:32 +0000",
       "feedPosition": 10,
-      "fetchedAt": "2026-11-21T14:34:03.911Z",
+      "fetchedAt": "2026-11-22T01:13:01.972Z",
       "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210217",
       "welsh": "Wynebu’r storm: Cyllideb Ddrafft Llywodraeth Cymru 2027-28",
-      "english": "Facing the Storm: Welsh Government Draft Budget 2027-28",
+      "english": "Facing the storm: Welsh Government Draft Budget 2027-28",
       "url": "https://golwg.360.cymru/newyddion/cymru/2210217-wynebu-storm-cyllideb-ddrafft-llywodraeth-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNjRJ1",
       "pubDate": "Thu, 19 Nov 2026 12:49:07 +0000",
       "feedPosition": 11,
-      "fetchedAt": "2026-11-21T14:34:03.911Z",
+      "fetchedAt": "2026-11-22T01:13:01.972Z",
       "category": null
     },
     {
@@ -364,7 +359,7 @@
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2210169-aelod-seneddol-plaid-cymru-arwain?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=rns7GgPe",
       "pubDate": "Thu, 19 Nov 2026 07:14:37 +0000",
       "feedPosition": 12,
-      "fetchedAt": "2026-11-21T14:34:03.911Z",
+      "fetchedAt": "2026-11-22T01:13:01.972Z",
       "category": null
     },
     {
@@ -374,7 +369,7 @@
       "url": "https://golwg.360.cymru/newyddion/2210165-comisiynydd-y-gymraeg-y-toriad-mwyaf?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=7ds2O7r8",
       "pubDate": "Wed, 18 Nov 2026 16:58:04 +0000",
       "feedPosition": 13,
-      "fetchedAt": "2026-11-21T14:34:03.911Z",
+      "fetchedAt": "2026-11-22T01:13:01.972Z",
       "category": null
     },
     {
@@ -384,7 +379,7 @@
       "url": "https://golwg.360.cymru/newyddion/cymru/2210156-ddylwn-guddio-menywod-guarani-gwrthod-rhoi-gorau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7wWg",
       "pubDate": "Wed, 18 Nov 2026 16:13:27 +0000",
       "feedPosition": 14,
-      "fetchedAt": "2026-11-21T14:34:03.911Z",
+      "fetchedAt": "2026-11-22T01:13:01.972Z",
       "category": null
     },
     {
@@ -394,7 +389,7 @@
       "url": "https://golwg.360.cymru/newyddion/2210149-reform-tynnu-dadl?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=OysPljBE",
       "pubDate": "Wed, 18 Nov 2026 14:25:19 +0000",
       "feedPosition": 15,
-      "fetchedAt": "2026-11-21T14:34:03.911Z",
+      "fetchedAt": "2026-11-22T01:13:01.972Z",
       "category": null
     },
     {
@@ -404,9 +399,9 @@
       "url": "https://golwg.360.cymru/newyddion/cymru/2210135-dyfodol-miliwn-blant-anghenion-dysgu-ychwanegol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=rns7Gg4e",
       "pubDate": "Wed, 18 Nov 2026 12:31:31 +0000",
       "feedPosition": 16,
-      "fetchedAt": "2026-11-21T14:34:03.911Z",
+      "fetchedAt": "2026-11-22T01:13:01.972Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-11-21T20:53:21.657Z"
+  "generatedAt": "2026-11-22T01:13:01.972Z"
 }
