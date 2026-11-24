@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "headlines": [
     {
       "guid": "https://golwg.360.cymru/?p=2210460",
@@ -8,7 +8,7 @@
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2210460-esgusodion-andy-burnham-dros-wrthod-datganoli?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=NWsrNaAo",
       "pubDate": "Mon, 23 Nov 2026 17:34:42 +0000",
       "feedPosition": 0,
-      "fetchedAt": "2026-11-23T17:57:27.902Z",
+      "fetchedAt": "2026-11-24T03:56:26.350Z",
       "category": null,
       "welshGlosses": [
         "Excuses",
@@ -43,7 +43,7 @@
       "url": "https://golwg.360.cymru/newyddion/iechyd/2210462-rhagor-ansicrwydd-fydwragedd-newydd-cymru-wrth?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=MgsEL3BN",
       "pubDate": "Mon, 23 Nov 2026 17:20:08 +0000",
       "feedPosition": 1,
-      "fetchedAt": "2026-11-23T17:57:27.902Z",
+      "fetchedAt": "2026-11-24T03:56:26.350Z",
       "category": null,
       "welshGlosses": [
         "More",
@@ -94,7 +94,7 @@
       "url": "https://golwg.360.cymru/newyddion/addysg/2210441-galw-amddiffyniad-thriniaeth-athrawon-cyflenwi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1PyE",
       "pubDate": "Mon, 23 Nov 2026 15:38:28 +0000",
       "feedPosition": 2,
-      "fetchedAt": "2026-11-23T17:57:27.902Z",
+      "fetchedAt": "2026-11-24T03:56:26.350Z",
       "category": null,
       "welshGlosses": [
         "Call",
@@ -126,7 +126,7 @@
       "url": "https://golwg.360.cymru/newyddion/cymru/2210430-siom-rhwystredigaeth-wrth-gyhoeddi-rhagor-oedi?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=wPs0aLya",
       "pubDate": "Mon, 23 Nov 2026 14:42:18 +0000",
       "feedPosition": 3,
-      "fetchedAt": "2026-11-23T17:57:27.902Z",
+      "fetchedAt": "2026-11-24T03:56:26.350Z",
       "category": null,
       "welshGlosses": [
         "disappointment",
@@ -168,7 +168,7 @@
       "url": "https://golwg.360.cymru/newyddion/cymru/2210438-datblygu-cymwysterau-newydd-gyfer-gymraeg-pwnc?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=rns7GDJP",
       "pubDate": "Mon, 23 Nov 2026 14:03:03 +0000",
       "feedPosition": 4,
-      "fetchedAt": "2026-11-23T17:57:27.902Z",
+      "fetchedAt": "2026-11-24T03:56:26.350Z",
       "category": null,
       "welshGlosses": [
         "Development",
@@ -197,11 +197,11 @@
     {
       "guid": "https://golwg.360.cymru/?p=2210435",
       "welsh": "Lansio grŵp gofal newydd i frwydro’n erbyn bwlch o £17k rhwng y Gogledd a’r De",
-      "english": "Launching a new care group to tackle a £17k gap between the North and the South",
+      "english": "Launch of a new care group to tackle a £17k gap between the North and the South",
       "url": "https://golwg.360.cymru/newyddion/cymru/2210435-lansio-grwp-gofal-newydd-frwydro-erbyn-bwlch-rhwng?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lJD4",
       "pubDate": "Mon, 23 Nov 2026 13:41:24 +0000",
       "feedPosition": 5,
-      "fetchedAt": "2026-11-23T17:57:27.902Z",
+      "fetchedAt": "2026-11-24T03:56:26.350Z",
       "category": null,
       "welshGlosses": [
         "Launch",
@@ -222,6 +222,7 @@
       ],
       "englishGlosses": [
         "Lansio",
+        "o",
         "a.",
         "newydd",
         "gofal",
@@ -246,8 +247,44 @@
       "url": "https://golwg.360.cymru/newyddion/2210387-weld-blaid-werdd-nghymru-annibynnol-pedair-blynedd?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpOln",
       "pubDate": "Mon, 23 Nov 2026 12:00:48 +0000",
       "feedPosition": 6,
-      "fetchedAt": "2026-11-23T17:57:27.902Z",
-      "category": null
+      "fetchedAt": "2026-11-24T03:56:26.350Z",
+      "category": null,
+      "welshGlosses": [
+        "I",
+        "to",
+        "for",
+        "see",
+        "the",
+        "Party",
+        "Green",
+        "in",
+        "Wales",
+        "in",
+        "Independent",
+        "in",
+        "the",
+        "Four",
+        "years",
+        "next"
+      ],
+      "englishGlosses": [
+        "Rwy'n",
+        "moin",
+        "i",
+        "Gyrru",
+        "'r",
+        "Gwyrdd",
+        "Parti",
+        "yn",
+        "Cymru",
+        "dod yn",
+        "Annibynnol",
+        "yn",
+        "'r",
+        "nesaf",
+        "pedwar",
+        "blynedd"
+      ]
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210364",
@@ -255,8 +292,8 @@
       "english": "Burnham offers Wales a stronger voice on policing – but not the powers",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2210364-burnham-cynnig-lais-gymru-dros-blismona-pwerau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=aAsMa3Pd",
       "pubDate": "Sat, 21 Nov 2026 10:01:34 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-11-23T01:37:35.151Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-11-24T03:56:26.350Z",
       "category": null,
       "welshGlosses": [
         "Burnham",
@@ -295,36 +332,9 @@
       "english": "‘Wales is not a child’ – anger as Burnham refuses to devolve powers",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2210356-plentyn-cymru-dicter-wrth-burnham-wrthod-datganoli?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDR2OY",
       "pubDate": "Fri, 20 Nov 2026 21:57:13 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-11-23T01:37:35.151Z",
-      "category": null,
-      "welshGlosses": [
-        "This link is not live-previewable.",
-        "Child",
-        "is",
-        "Wales",
-        "anger",
-        "by",
-        "to",
-        "Burnham",
-        "reject",
-        "Devolve",
-        "powers"
-      ],
-      "englishGlosses": [
-        "Cymru",
-        "yw",
-        "ddim",
-        "a.",
-        "Plentyn",
-        "dicter",
-        "Graddfeyddunit description in lists",
-        "Burnham",
-        "yn gwrthod",
-        "i",
-        "Datganoli",
-        "pwerau"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-11-24T03:56:26.350Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210301",
@@ -332,40 +342,9 @@
       "english": "The political party inspired by Wales in its efforts to revitalize the Cornish language",
       "url": "https://golwg.360.cymru/newyddion/2210301-blaid-wleidyddol-sydd-wedi-hysbrydoli-gymru-mewn?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=3Ms0N58J",
       "pubDate": "Fri, 20 Nov 2026 13:28:15 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-11-23T01:37:35.151Z",
-      "category": null,
-      "welshGlosses": [
-        "the",
-        "party",
-        "political",
-        "which is",
-        "has been",
-        "inspire",
-        "by",
-        "Wales",
-        "in",
-        "efforts",
-        "to",
-        "revitalize the",
-        "Cornish"
-      ],
-      "englishGlosses": [
-        "Y",
-        "gwleidyddol",
-        "Parti",
-        "wedi'i ysbrydoli",
-        "gan",
-        "Cymru",
-        "yn",
-        "ei",
-        "ymdrechion",
-        "i",
-        "adfywio",
-        "'r",
-        "Cernyweg",
-        ""
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-11-24T03:56:26.350Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210297",
@@ -373,31 +352,9 @@
       "english": "Announcement of the winners of the 2026 Menter Iaith excellence projects",
       "url": "https://golwg.360.cymru/newyddion/iaith/2210297-cyhoeddi-enillwyr-prosiectau-rhagoriaeth-2026?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=gnspd51B",
       "pubDate": "Fri, 20 Nov 2026 12:37:15 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-11-23T01:37:35.151Z",
-      "category": null,
-      "welshGlosses": [
-        "Publish",
-        "winners",
-        "Projects",
-        "excellence",
-        "2026",
-        "Enterprise",
-        "Language"
-      ],
-      "englishGlosses": [
-        "cyhoeddiad",
-        "o",
-        "'r",
-        "enillwyr",
-        "o",
-        "'r",
-        "2026",
-        "Menter Môn",
-        "Language.",
-        "rhagoriaeth",
-        "project"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-11-24T03:56:26.350Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210285",
@@ -405,43 +362,9 @@
       "english": "2 out of 3 in Wales are concerned about the impact of AI on natural resources",
       "url": "https://golwg.360.cymru/newyddion/2210285-mhob-nghymru-poeni-effaith-adnoddau-naturiol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=oDs4WnD5",
       "pubDate": "Fri, 20 Nov 2026 11:21:54 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-11-23T01:37:35.151Z",
-      "category": null,
-      "welshGlosses": [
-        "2.",
-        "re",
-        "every",
-        "3.",
-        "in",
-        "Wales",
-        "in",
-        "worry",
-        "for",
-        "Impact",
-        "is it...?",
-        "on",
-        "Resources",
-        "natural"
-      ],
-      "englishGlosses": [
-        "2.",
-        "mas",
-        "o",
-        "3.",
-        "yn",
-        "Cymru",
-        "dach",
-        "yn pryderus",
-        "Ynglŷn â",
-        "'r",
-        "Effaith",
-        "o",
-        "Aye.",
-        "ar",
-        "Natur",
-        "Adnoddau"
-      ]
+      "feedPosition": 11,
+      "fetchedAt": "2026-11-24T03:56:26.350Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210267",
@@ -449,32 +372,9 @@
       "english": "Student determined to improve women's healthcare in Welsh",
       "url": "https://golwg.360.cymru/newyddion/iechyd/2210267-myfyrwraig-benderfynol-wella-gofal-iechyd-menywod?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=50s0lgP3",
       "pubDate": "Fri, 20 Nov 2026 10:45:32 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-11-23T01:37:35.151Z",
-      "category": null,
-      "welshGlosses": [
-        "Student",
-        "in",
-        "determined",
-        "of",
-        "better",
-        "care",
-        "Healt",
-        "Woman",
-        "in",
-        "the",
-        "Welsh"
-      ],
-      "englishGlosses": [
-        "Myfyriwr",
-        "penderfynol",
-        "i",
-        "Gwella",
-        "merched",
-        "Gofal Iechyd",
-        "yn",
-        "Cymraeg"
-      ]
+      "feedPosition": 12,
+      "fetchedAt": "2026-11-24T03:56:26.350Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210271",
@@ -482,86 +382,19 @@
       "english": "Brexit reset day in Brussels",
       "url": "https://golwg.360.cymru/newyddion/2210271-diwrnod-ailosod-brexit-mrwsel?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLByy",
       "pubDate": "Fri, 20 Nov 2026 10:22:01 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-11-23T01:37:35.151Z",
-      "category": null,
-      "welshGlosses": [
-        "Day",
-        "reset",
-        "<bpt i=\"1\" type=\"7557\" x=\"1\"/>Brexit<ept i=\"1\"/><bpt i=\"2\" type=\"7560\" x=\"2\"/>:<ept i=\"2\"/>",
-        "re",
-        "Brussels"
-      ],
-      "englishGlosses": [
-        "<bpt i=\"1\" type=\"7557\" x=\"1\"/>Brexit<ept i=\"1\"/><bpt i=\"2\" type=\"7560\" x=\"2\"/>:<ept i=\"2\"/>",
-        "ailosod",
-        "dydd",
-        "yn",
-        "Russell"
-      ]
+      "feedPosition": 13,
+      "fetchedAt": "2026-11-24T03:56:26.350Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210208",
       "welsh": "“Rhowch y farchnad sengl a’r undeb tollau ar y bwrdd”, meddai Prif Weinidog Cymru wrth Andy Burnham cyn Uwchgynhadledd gyda’r Undeb Ewropeaidd",
-      "english": "“Put the single market and the customs union on the table,” the First Minister of Wales told Andy Burnham ahead of a summit with the European Union",
+      "english": "“Put the single market and the customs union on the table,” the First Minister of Wales told Andy Burnham before a summit with the European Union",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2210208-rhowch-farchnad-sengl-undeb-tollau-bwrdd-meddai?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOdPp",
       "pubDate": "Fri, 20 Nov 2026 09:00:34 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-11-23T01:37:35.151Z",
-      "category": null,
-      "welshGlosses": [
-        "give",
-        "the",
-        "market",
-        "Single",
-        "and indemnities and the",
-        "union",
-        "duties",
-        "on",
-        "the",
-        "table",
-        "magic",
-        "Main",
-        "",
-        "Wales",
-        "by",
-        "Andy",
-        "Burnham",
-        "before",
-        "Summit",
-        "with the",
-        "Union",
-        "Union"
-      ],
-      "englishGlosses": [
-        "dora",
-        "'r",
-        "Un",
-        ".",
-        "a",
-        "'r",
-        "tollau",
-        "undeb",
-        "ar",
-        "'r",
-        "tabl",
-        "'r",
-        "Cyntaf",
-        "baeth",
-        "o",
-        "Cymru",
-        "wedi dweud",
-        "Andy",
-        "Burnham",
-        "o'ch blaen",
-        "o",
-        "a.",
-        "copa",
-        "gyda",
-        "'r",
-        "Ewropead",
-        "Yr undeb"
-      ]
+      "feedPosition": 14,
+      "fetchedAt": "2026-11-24T03:56:26.350Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210251",
@@ -569,20 +402,10 @@
       "english": "Tuition fee limits for higher education students in Wales in 2027-28",
       "url": "https://golwg.360.cymru/newyddion/cymru/2210251-terfynau-ffioedd-dysgu-fyfyrwyr-addysg-uwch?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=47sNjRd1",
       "pubDate": "Thu, 19 Nov 2026 17:21:45 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-11-23T01:37:35.151Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2210242",
-      "welsh": "Andy Burnham yn addo pwerau i awdurdodau lleol Cymru fynd i’r afael â thipio anghyfreithlon",
-      "english": "Andy Burnham promises powers to local authorities in Wales to tackle illegal dumping",
-      "url": "https://golwg.360.cymru/newyddion/2210242-andy-burnham-addo-pwerau-awdurdodau-lleol-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=jDsjOd7p",
-      "pubDate": "Thu, 19 Nov 2026 16:50:03 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-11-23T01:37:35.151Z",
+      "feedPosition": 15,
+      "fetchedAt": "2026-11-24T03:56:26.350Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-11-23T17:57:27.902Z"
+  "generatedAt": "2026-11-24T03:56:26.350Z"
 }
