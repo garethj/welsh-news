@@ -2,6 +2,28 @@
   "date": "2026-11-28",
   "headlines": [
     {
+      "guid": "https://golwg.360.cymru/?p=2210681",
+      "welsh": "Fi a fy Nghi",
+      "english": "Me and my Grandma",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2210681-nghi-41?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroBnr",
+      "pubDate": "Sat, 28 Nov 2026 07:22:13 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-11-28T15:25:47.093Z",
+      "category": null,
+      "welshGlosses": [
+        "Me",
+        "and",
+        "my",
+        "Me"
+      ],
+      "englishGlosses": [
+        ".",
+        "a",
+        "fy",
+        ""
+      ]
+    },
+    {
       "guid": "https://golwg.360.cymru/?p=2210828",
       "welsh": "“Cymaint o botensial” gan Ynys Enlli o hyd, bron i 50 mlynedd ers sefydlu’r Ymddiriedolaeth",
       "english": "“So much potential” still on Bardsey Island, almost 50 years after the Trust was established",
@@ -346,27 +368,7 @@
       "feedPosition": 16,
       "fetchedAt": "2026-11-28T01:25:24.549Z",
       "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2210623",
-      "welsh": "Cynghorydd Restore Britain dan y lach am wneud hwyl am enw bwyty yng Nghaerdydd",
-      "english": "Restore Britain councilor in trouble for making fun of a restaurant name in Cardiff",
-      "url": "https://golwg.360.cymru/newyddion/2210623-cynghorydd-restore-britain-dan-y-lach?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpO12",
-      "pubDate": "Wed, 25 Nov 2026 11:52:31 +0000",
-      "feedPosition": 17,
-      "fetchedAt": "2026-11-28T01:25:24.549Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2210605",
-      "welsh": "Galw ar Lywodraeth Cymru i anfon gweithwyr iechyd i Gaza a sefydlu cronfa lanhau",
-      "english": "Call on the Welsh Government to send health workers to Gaza and establish a clean-up fund",
-      "url": "https://golwg.360.cymru/newyddion/cymru/2210605-galw-lywodraeth-cymru-anfon-gweithwyr-iechyd-gaza?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=dJsN7dG0",
-      "pubDate": "Wed, 25 Nov 2026 11:13:47 +0000",
-      "feedPosition": 18,
-      "fetchedAt": "2026-11-28T01:25:24.549Z",
-      "category": null
     }
   ],
-  "generatedAt": "2026-11-28T01:25:24.549Z"
+  "generatedAt": "2026-11-28T15:25:47.093Z"
 }
