@@ -1,14 +1,110 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "headlines": [
+    {
+      "guid": "https://golwg.360.cymru/?p=2210828",
+      "welsh": "“Cymaint o botensial” gan Ynys Enlli o hyd, bron i 50 mlynedd ers sefydlu’r Ymddiriedolaeth",
+      "english": "“So much potential” still on Bardsey Island, almost 50 years after the Trust was established",
+      "url": "https://golwg.360.cymru/newyddion/amgylchedd/2210828-cymaint-botensial-ynys-enlli-bron-mlynedd-sefydlu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8DArj",
+      "pubDate": "Fri, 27 Nov 2026 17:27:47 +0000",
+      "feedPosition": 0,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
+      "category": null,
+      "welshGlosses": [
+        "“So many?”",
+        "of",
+        "potential",
+        "by",
+        "Island",
+        "Bardsey Island",
+        "of",
+        "Length",
+        "Breast",
+        "to",
+        "50%",
+        "years",
+        "Since",
+        "establish the",
+        "Trust"
+      ],
+      "englishGlosses": [
+        "Felly",
+        "Llawer",
+        "posibl",
+        "o hyd",
+        "ar",
+        "Ynys Enlli",
+        "Ynys",
+        "Bron",
+        "50%",
+        "blynedd",
+        "Wedi",
+        "'r",
+        "Ymddiriedaeth",
+        "roedd",
+        "wedi'i sefydlu"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2210831",
+      "welsh": "Ffrog Gaza yn y Deml Heddwch",
+      "english": "Gaza dress in the Temple of Peace",
+      "url": "https://golwg.360.cymru/newyddion/cymru/2210831-ffrog-gaza-deml-heddwch?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=E5sGDRal",
+      "pubDate": "Fri, 27 Nov 2026 17:18:05 +0000",
+      "feedPosition": 1,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
+      "category": null,
+      "welshGlosses": [
+        "Dress",
+        "Gaza",
+        "in",
+        "the",
+        "Temple",
+        "Peace"
+      ],
+      "englishGlosses": [
+        "Gaza",
+        "Ffrog",
+        "yn",
+        "'r",
+        "Teml",
+        "o",
+        "Heddwch"
+      ]
+    },
+    {
+      "guid": "https://golwg.360.cymru/?p=2210815",
+      "welsh": "Cytundeb DU a’r UE: Bil ‘torri costau’",
+      "english": "UK-EU Agreement: ‘Cost-cutting’ Bill",
+      "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2210815-cytundeb-torri-costau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=l1sroBjg",
+      "pubDate": "Fri, 27 Nov 2026 16:59:46 +0000",
+      "feedPosition": 2,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
+      "category": null,
+      "welshGlosses": [
+        "Treaty",
+        "Black",
+        "and indemnities and the",
+        "EU",
+        "bill",
+        "cut",
+        "costs"
+      ],
+      "englishGlosses": [
+        "Y DU-Yr UE",
+        "gyt",
+        "Torri costau",
+        "bil"
+      ]
+    },
     {
       "guid": "https://golwg.360.cymru/?p=2210813",
       "welsh": "Trafnidiaeth Tyson Cymru!",
       "english": "Tyson Cymru Transport!",
       "url": "https://golwg.360.cymru/newyddion/cymru/2210813-trafnidiaeth-tyson-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=8ysarEwp",
       "pubDate": "Fri, 27 Nov 2026 16:28:24 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-11-27T16:33:06.467Z",
+      "feedPosition": 3,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
       "category": null,
       "welshGlosses": [
         "Transport",
@@ -24,11 +120,11 @@
     {
       "guid": "https://golwg.360.cymru/?p=2210803",
       "welsh": "Ymchwilio i ddiystyriaeth o’r Gymraeg yn sgil argymhellion i uno cynghorau cymuned a thref Ceredigion",
-      "english": "Investigation into disregard for the Welsh language following recommendations to merge Ceredigion community and town councils",
+      "english": "Investigation into the disregard of the Welsh language following recommendations to merge Ceredigion community and town councils",
       "url": "https://golwg.360.cymru/newyddion/iaith/2210803-ymchwilio-diystyriaeth-gymraeg-argymhellion?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=eOsA57op",
       "pubDate": "Fri, 27 Nov 2026 15:19:18 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-11-27T16:33:06.467Z",
+      "feedPosition": 4,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
       "category": null,
       "welshGlosses": [
         "Research",
@@ -50,8 +146,9 @@
       "englishGlosses": [
         "Ymchwiliad",
         "i mewn i",
+        "'r",
         "anwybyddu",
-        "am",
+        "o",
         "'r",
         "Cymraeg",
         "",
@@ -69,11 +166,11 @@
     {
       "guid": "https://golwg.360.cymru/?p=2210787",
       "welsh": "Cau adeilad preswyl Neuadd JMJ “yn achosi pryder sylweddol” i gymuned Gymraeg Prifysgol Bangor",
-      "english": "The closure of the JMJ Hall residential building is \"causing significant concern\" to Bangor University's Welsh community",
+      "english": "The closure of the JMJ Hall residential building is “causing considerable concern” to Bangor University's Welsh community",
       "url": "https://golwg.360.cymru/newyddion/addysg/2210787-adeilad-preswyl-neuadd-achosi-pryder-sylweddol?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=nAs2yePM",
       "pubDate": "Fri, 27 Nov 2026 12:06:36 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-11-27T16:33:06.467Z",
+      "feedPosition": 5,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
       "category": null,
       "welshGlosses": [
         "Close",
@@ -102,7 +199,7 @@
         "Adeilad",
         "yw",
         "yn achosi",
-        "arwyddocaol",
+        "sylweddol",
         "pryder",
         "i",
         "Bangor:",
@@ -114,11 +211,11 @@
     {
       "guid": "https://golwg.360.cymru/?p=2210778",
       "welsh": "Joe Martin yn cymryd camau cyfreithiol dros waharddiad y Senedd",
-      "english": "Joe Martin takes legal action over Parliament's suspension",
+      "english": "Joe Martin takes legal action over the Senedd ban",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2210778-martin-cymryd-camau-cyfreithiol-dros-waharddiad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=0psg1Pda",
       "pubDate": "Fri, 27 Nov 2026 11:27:23 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-11-27T16:33:06.467Z",
+      "feedPosition": 6,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
       "category": null,
       "welshGlosses": [
         "Joe",
@@ -139,8 +236,9 @@
         "Cyfraith",
         "gweithred",
         "dros",
+        "'r",
         "Y Senedd",
-        "& Gwedd"
+        "Atal"
       ]
     },
     {
@@ -149,8 +247,8 @@
       "english": "Europa",
       "url": "https://golwg.360.cymru/newyddion/rhyngwladol/2210758-ewropa-24?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpOj1",
       "pubDate": "Fri, 27 Nov 2026 10:20:35 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-11-27T16:33:06.467Z",
+      "feedPosition": 7,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
       "category": null,
       "welshGlosses": [
         "Europa"
@@ -162,49 +260,12 @@
     {
       "guid": "https://golwg.360.cymru/?p=2210761",
       "welsh": "Wrecsam yn croesawu’r beirniaid mewn carreg filltir hanesyddol i’w chais am Ddinas Diwylliant y DU",
-      "english": "Wrexham welcomes the judges at a historic milestone in its bid to become the UK City of Culture",
+      "english": "Wrexham welcomes the judges at a historic milestone in its bid to become UK City of Culture",
       "url": "https://golwg.360.cymru/newyddion/cymru/2210761-wrecsam-croesawu-beirniaid-mewn-carreg-filltir?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=LPs8DAMG",
       "pubDate": "Fri, 27 Nov 2026 09:00:45 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-11-27T16:33:06.467Z",
-      "category": null,
-      "welshGlosses": [
-        "Wrexham",
-        "in",
-        "welcome the",
-        "judges",
-        "in",
-        "Rock",
-        "mile",
-        "History",
-        "I",
-        "application",
-        "for",
-        "City",
-        "Culture",
-        "the",
-        "Black"
-      ],
-      "englishGlosses": [
-        "Wrecsam",
-        "yn croesawu",
-        "'r",
-        "beirniaid",
-        "am",
-        "a.",
-        "Hanes",
-        "cam sylfaen",
-        "yn",
-        "ei",
-        "cynnig",
-        "i",
-        "dod yn",
-        "'r",
-        "Y DU",
-        "Dinas",
-        "o",
-        "Diwylliant"
-      ]
+      "feedPosition": 8,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210736",
@@ -212,44 +273,9 @@
       "english": "“Andy Burnham's letter confirms that Whitehall does not believe that Wales is a real country”",
       "url": "https://golwg.360.cymru/newyddion/gwleidyddiaeth/2210736-llythyr-andy-burnham-cadarnhau-whitehall-credu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=eOsA5725",
       "pubDate": "Thu, 26 Nov 2026 16:22:16 +0000",
-      "feedPosition": 0,
-      "fetchedAt": "2026-11-27T01:41:25.251Z",
-      "category": null,
-      "welshGlosses": [
-        "is",
-        "_Letter",
-        "Andy",
-        "Burnham",
-        "in",
-        "affirm",
-        "not",
-        "is",
-        "Whitehall",
-        "in",
-        "creddu",
-        "to be",
-        "Wales",
-        "country",
-        "Goe",
-        "right"
-      ],
-      "englishGlosses": [
-        "Andy",
-        "Burnham",
-        "Llythyr",
-        "yn cadarnhau",
-        "hynny",
-        "Whitehall",
-        "yn",
-        "ddim",
-        "credu",
-        "hynny",
-        "Cymru",
-        "yw",
-        "a.",
-        "rêl",
-        "Gwlad"
-      ]
+      "feedPosition": 9,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210742",
@@ -257,40 +283,9 @@
       "english": "Leader of Gwynedd Council: ‘The financial shortfall of Welsh county councils is enormous and alarming’",
       "url": "https://golwg.360.cymru/newyddion/2210742-arweinydd-cyngor-gwynedd-diffyg-ariannol-cynghorau?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=27sdLw0A",
       "pubDate": "Thu, 26 Nov 2026 15:56:54 +0000",
-      "feedPosition": 1,
-      "fetchedAt": "2026-11-27T01:41:25.251Z",
-      "category": null,
-      "welshGlosses": [
-        "Lead:",
-        "Advice",
-        "A497 Abererch to Llanystumdwy",
-        "Shortfall",
-        "security",
-        "councils",
-        "county",
-        "Wales",
-        "Huge",
-        "and",
-        "in",
-        "frightening"
-      ],
-      "englishGlosses": [
-        "Arweinydd",
-        "o",
-        "Gwynedd",
-        "Y Cyngor",
-        "Y",
-        "Gwiriad",
-        "Diffyg",
-        "o",
-        "Cymraeg",
-        "sir",
-        "cynghorau",
-        "yw",
-        "anferth",
-        "a",
-        "pryderus"
-      ]
+      "feedPosition": 10,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210728",
@@ -298,32 +293,9 @@
       "english": "A new facility in Newport is transforming access to medicines",
       "url": "https://golwg.360.cymru/newyddion/iechyd/2210728-cyfleuster-newydd-nghasnewydd-trawsnewid-mynediad?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=18sr7RDY",
       "pubDate": "Thu, 26 Nov 2026 13:09:17 +0000",
-      "feedPosition": 2,
-      "fetchedAt": "2026-11-27T01:41:25.251Z",
-      "category": null,
-      "welshGlosses": [
-        "Utility",
-        "new",
-        "in",
-        "Newport",
-        "in",
-        "TRANSITION",
-        "Entry",
-        "towards",
-        "medications"
-      ],
-      "englishGlosses": [
-        "A.",
-        "newydd",
-        "cyfleuster",
-        "yn",
-        "Casnewydd",
-        "yw",
-        "trawsnewid",
-        "mynediad",
-        "i",
-        "meddyginiaeth"
-      ]
+      "feedPosition": 11,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210648",
@@ -331,38 +303,9 @@
       "english": "£1.2 million to investigate what is holding back the Welsh economy",
       "url": "https://golwg.360.cymru/newyddion/cymru/2210648-miliwn-ymchwilio-economi-cymru?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=GpsLEY4r",
       "pubDate": "Thu, 26 Nov 2026 07:01:31 +0000",
-      "feedPosition": 3,
-      "fetchedAt": "2026-11-27T01:41:25.251Z",
-      "category": null,
-      "welshGlosses": [
-        "1.",
-        "2.",
-        "million",
-        "to",
-        "Research",
-        "I",
-        "An error occurred when trying to update activity ID #%s.",
-        "which is",
-        "(Hold)",
-        "Economy",
-        "Wales",
-        "in",
-        "Trace"
-      ],
-      "englishGlosses": [
-        "1.",
-        "2.",
-        "miliwn",
-        "i",
-        "ymchwilio",
-        "beth",
-        "yw",
-        "daliad",
-        "Nôl",
-        "'r",
-        "Cymraeg",
-        "Economi"
-      ]
+      "feedPosition": 12,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210659",
@@ -370,33 +313,9 @@
       "english": "Call on Pembrokeshire councillors to oppose the DARC radar plan",
       "url": "https://golwg.360.cymru/newyddion/amgylchedd/2210659-galw-i-wrthwynebu?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=W0sDR2e7",
       "pubDate": "Wed, 25 Nov 2026 17:38:57 +0000",
-      "feedPosition": 4,
-      "fetchedAt": "2026-11-27T01:41:25.251Z",
-      "category": null,
-      "welshGlosses": [
-        "Call",
-        "on",
-        "advisors",
-        "County",
-        "Pembrokeshire",
-        "to",
-        "oppose",
-        "Plan",
-        "Radar Map",
-        "DARC"
-      ],
-      "englishGlosses": [
-        "Galw",
-        "ar",
-        "Sir Benfro",
-        "cynghorwyr",
-        "i",
-        "gwrthwynebu",
-        "'r",
-        "DARC",
-        "Radar",
-        "Cynllun"
-      ]
+      "feedPosition": 13,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210652",
@@ -404,36 +323,9 @@
       "english": "Concern about the impact of teachers' strikes on students preparing for exams",
       "url": "https://golwg.360.cymru/newyddion/addysg/2210652-pryder-effaith-streiciau-athrawon-ddisgyblion?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=nAs2yeWY",
       "pubDate": "Wed, 25 Nov 2026 16:33:33 +0000",
-      "feedPosition": 5,
-      "fetchedAt": "2026-11-27T01:41:25.251Z",
-      "category": null,
-      "welshGlosses": [
-        "Concern",
-        "for",
-        "Impact",
-        "strikes",
-        "Teachers",
-        "on",
-        "students",
-        "which is",
-        "Prepare",
-        "towards",
-        "Exams"
-      ],
-      "englishGlosses": [
-        "Pryder",
-        "Ynglŷn â",
-        "'r",
-        "Effaith",
-        "o",
-        "Athrawon",
-        "streiciau",
-        "ar",
-        "myfyrwyr",
-        "Yn paratoi",
-        "am",
-        "Arholiad"
-      ]
+      "feedPosition": 14,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210634",
@@ -441,35 +333,9 @@
       "english": "Burnham's decision is a boost to the campaign for independence, says YesCymru",
       "url": "https://golwg.360.cymru/newyddion/cymru/2210634-hwb-ir-ymgych?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=gnspd50d",
       "pubDate": "Wed, 25 Nov 2026 14:09:17 +0000",
-      "feedPosition": 6,
-      "fetchedAt": "2026-11-27T01:41:25.251Z",
-      "category": null,
-      "welshGlosses": [
-        "Decision",
-        "Burnham",
-        "in",
-        "boost",
-        "I",
-        "campaign",
-        "over",
-        "independence",
-        "Mead",
-        "YesCymru"
-      ],
-      "englishGlosses": [
-        "Burnham",
-        "penderfyniad",
-        "yw",
-        "a.",
-        "hwb",
-        "i",
-        "'r",
-        "ymgyrch",
-        "am",
-        "anibyniaeth",
-        "yn dweud",
-        "YesCymru"
-      ]
+      "feedPosition": 15,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210632",
@@ -477,35 +343,9 @@
       "english": "‘I am listening to Wales’ – Burnham responds to Ann Davies' challenge",
       "url": "https://golwg.360.cymru/newyddion/cymru/2210632-gwrando-gymru-burnham-ymateb-davies?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=wPs0aL48",
       "pubDate": "Wed, 25 Nov 2026 13:10:12 +0000",
-      "feedPosition": 7,
-      "fetchedAt": "2026-11-27T01:41:25.251Z",
-      "category": null,
-      "welshGlosses": [
-        "I",
-        "listen",
-        "on",
-        "Wales",
-        "Burnham",
-        "in",
-        "Response",
-        "to",
-        "challenge",
-        "Ann",
-        "Davies"
-      ],
-      "englishGlosses": [
-        "Rwy'n",
-        "yb",
-        "Clyw",
-        "i",
-        "Cymru",
-        "Burnham",
-        "yn ymateb",
-        "i",
-        "Ann",
-        "K Davies",
-        "her"
-      ]
+      "feedPosition": 16,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
+      "category": null
     },
     {
       "guid": "https://golwg.360.cymru/?p=2210623",
@@ -513,8 +353,8 @@
       "english": "Restore Britain councilor in trouble for making fun of a restaurant name in Cardiff",
       "url": "https://golwg.360.cymru/newyddion/2210623-cynghorydd-restore-britain-dan-y-lach?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=R7swpO12",
       "pubDate": "Wed, 25 Nov 2026 11:52:31 +0000",
-      "feedPosition": 8,
-      "fetchedAt": "2026-11-27T01:41:25.251Z",
+      "feedPosition": 17,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
       "category": null
     },
     {
@@ -523,30 +363,10 @@
       "english": "Call on the Welsh Government to send health workers to Gaza and establish a clean-up fund",
       "url": "https://golwg.360.cymru/newyddion/cymru/2210605-galw-lywodraeth-cymru-anfon-gweithwyr-iechyd-gaza?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=dJsN7dG0",
       "pubDate": "Wed, 25 Nov 2026 11:13:47 +0000",
-      "feedPosition": 9,
-      "fetchedAt": "2026-11-27T01:41:25.251Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2210617",
-      "welsh": "Adolygu Cwricwlwm i Gymru yn dilyn pryderon athrawon",
-      "english": "Review of the Curriculum for Wales following concerns from teachers",
-      "url": "https://golwg.360.cymru/newyddion/addysg/2210617-adolygu-cwricwlwm-gymru-dilyn-pryderon-athrawon?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=AOsR07ap",
-      "pubDate": "Wed, 25 Nov 2026 09:54:32 +0000",
-      "feedPosition": 10,
-      "fetchedAt": "2026-11-27T01:41:25.251Z",
-      "category": null
-    },
-    {
-      "guid": "https://golwg.360.cymru/?p=2210565",
-      "welsh": "‘Rho showt’ – gwasanaeth newydd i helpu pobol ifanc Gwynedd",
-      "english": "‘Rho showt’ – a new service to help young people in Gwynedd",
-      "url": "https://golwg.360.cymru/newyddion/2210565-rho-showt?mtm_campaign=rss&mtm_kwd=golwg&mtm_id=wPs0aLLp",
-      "pubDate": "Wed, 25 Nov 2026 08:18:14 +0000",
-      "feedPosition": 11,
-      "fetchedAt": "2026-11-27T01:41:25.251Z",
+      "feedPosition": 18,
+      "fetchedAt": "2026-11-28T01:25:24.549Z",
       "category": null
     }
   ],
-  "generatedAt": "2026-11-27T16:33:06.467Z"
+  "generatedAt": "2026-11-28T01:25:24.549Z"
 }
